@@ -7,28 +7,36 @@ import logging
 logger = logging.getLogger(__name__)
 
 
+def read_playlist_urls(filepath):
+    playlist_urls = {}
+    with open(filepath, 'r') as file:
+        for line in file:
+            line = line.strip()
+            if not line or ':' not in line:
+                continue
+            country, url = line.split(':', 1)
+            url = url.strip()
+            if not url.startswith(('http://', 'https://')):
+                logger.warning(f"Invalid URL for {country}: {url}")
+                continue
+            playlist_urls[country.strip()] = url
+    return playlist_urls
+
+
 async def download_playlist(url):
-    try:
-        async with aiohttp.ClientSession() as session:
+    async with aiohttp.ClientSession() as session:
+        try:
             async with session.get(url, timeout=10) as response:
-                return await response.text()
-    except aiohttp.ClientError as e:
-        logger.error(f"Client error while downloading playlist {url}: {e}")
-        raise
-    except aiohttp.client_exceptions.NonHttpUrlClientError as e:
-        logger.error(f"Non-HTTP URL error for {url}: {e}")
-        raise
-    except asyncio.TimeoutError:
-        logger.error(f"Timeout error while downloading playlist {url}")
-        raise
-    except Exception as e:
-        logger.error(f"Unexpected error while downloading playlist {url}: {e}")
-        raise
+                if response.status == 200:
+                    return await response.text()
+                else:
+                    logger.error(f"Failed to download playlist from {url}: HTTP {response.status}")
+        except aiohttp.ClientError as e:
+            logger.error(f"Client error while downloading playlist from {url}: {e}")
+        except asyncio.TimeoutError:
+            logger.error(f"Timeout while downloading playlist from {url}")
 
-
-def read_playlist_urls(file_path):
-    with open(file_path, 'r') as f:
-        return {line.split()[0]: line.split()[1] for line in f if line.strip()}
+    return ""
 
 def create_index_m3u():
     index_content = "#EXTM3U\n"
@@ -37,7 +45,7 @@ def create_index_m3u():
 
     for root, _, files in os.walk(output_dir):
         for file in files:
-            if file.endswith('.m3u'):
+            if file.endswith('.m3u') and file != 'index.m3u':
                 file_path = os.path.join(root, file)
                 with open(file_path, 'r') as f:
                     content = f.read()
@@ -49,4 +57,3 @@ def create_index_m3u():
         f.write(index_content)
 
     print(f"Index file created at {index_path}")
-

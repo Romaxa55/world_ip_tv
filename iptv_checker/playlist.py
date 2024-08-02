@@ -1,5 +1,4 @@
 import re
-import m3u8
 
 class Playlist:
     def __init__(self, content=None):
@@ -27,13 +26,16 @@ class Playlist:
         return self.channels
 
     def add_channels(self, channels):
-        self.channels = channels
+        unique_urls = set()
+        unique_channels = []
+        for channel in channels:
+            if channel["url"] not in unique_urls:
+                unique_channels.append(channel)
+                unique_urls.add(channel["url"])
+        self.channels = unique_channels
 
-    def to_m3u(self, group_title=None):
+    def to_m3u(self):
         m3u_content = "#EXTM3U\n"
         for channel in self.channels:
-            if group_title:
-                m3u_content += f'#EXTINF:-1 tvg-logo="{channel["logo"]}" group-title="{group_title}",{channel["name"]}\n{channel["url"]}\n'
-            else:
-                m3u_content += f'#EXTINF:-1 tvg-logo="{channel["logo"]}",{channel["name"]}\n{channel["url"]}\n'
+            m3u_content += f'#EXTINF:-1 tvg-logo="{channel["logo"]}",{channel["name"]}\n{channel["url"]}\n'
         return m3u_content
