@@ -1,15 +1,34 @@
-import m3u8
+import re
+
 
 class Playlist:
     def __init__(self, content=None):
-        self.playlist = m3u8.loads(content) if content else m3u8.M3U8()
+        self.segments = []
+        self.nested_playlists = []
+        if content:
+            self.parse(content)
 
-    def get_segment_urls(self):
-        return [segment.uri for segment in self.playlist.segments]
+    def parse(self, content):
+        lines = content.splitlines()
+        for i in range(len(lines)):
+            if lines[i].startswith('#EXTINF'):
+                url = lines[i + 1]
+                if url.endswith('.m3u') or url.endswith('.m3u8'):
+                    self.nested_playlists.append(url)
+                else:
+                    self.segments.append(url)
+
+    def get_urls(self):
+        return self.segments
+
+    def get_nested_playlists(self):
+        return self.nested_playlists
 
     def add_segments(self, urls):
-        for url in urls:
-            self.playlist.add_segment(m3u8.Segment(uri=url))
+        self.segments = urls
 
     def to_m3u(self):
-        return self.playlist.dumps()
+        m3u_content = "#EXTM3U\n"
+        for url in self.segments:
+            m3u_content += f"#EXTINF:-1,{url}\n{url}\n"
+        return m3u_content
