@@ -13,6 +13,9 @@ async def download_playlist(url):
     except aiohttp.ClientError as e:
         logger.error(f"Client error while downloading playlist {url}: {e}")
         raise
+    except aiohttp.client_exceptions.NonHttpUrlClientError as e:
+        logger.error(f"Non-HTTP URL error for {url}: {e}")
+        raise
     except asyncio.TimeoutError:
         logger.error(f"Timeout error while downloading playlist {url}")
         raise

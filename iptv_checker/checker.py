@@ -31,7 +31,7 @@ class IPTVChecker:
     async def check_channel(self, session, channel):
         url = channel["url"]
         try:
-            async with session.get(url, timeout=5) as response:
+            async with session.get(url, timeout=10) as response:
                 if response.status == 200:
                     # Проверка плейлиста
                     playlist_content = await response.text()
@@ -67,7 +67,7 @@ class IPTVChecker:
 
     async def check_segment(self, session, segment_url):
         try:
-            async with session.get(segment_url, timeout=5) as response:
+            async with session.get(segment_url, timeout=10) as response:
                 if response.status == 200:
                     return True
                 else:
@@ -79,7 +79,7 @@ class IPTVChecker:
 
     async def check_playlist(self, session, playlist_url):
         try:
-            async with session.get(playlist_url, timeout=5) as response:
+            async with session.get(playlist_url, timeout=10) as response:
                 if response.status == 200:
                     return True
                 else:
