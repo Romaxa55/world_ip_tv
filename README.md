@@ -58,7 +58,7 @@ If you have suggestions or find bugs, please create an issue or submit a pull re
 This project is licensed under the MIT License. See the LICENSE file for more information.
 
 ## 🔍 Resources
-
+ 
 - **IPTV Checker Script**: Automates the process of checking and generating the IPTV playlist.
 - **GitHub Actions**: Ensures daily checks and updates.
 - **GitHub Pages**: Hosts the generated playlist for easy access.
