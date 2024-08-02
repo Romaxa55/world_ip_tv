@@ -141,6 +141,8 @@ https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png",Fashion TV
 https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4vcGzcC.png",Fibwi (1080p) [Not 24/7]
+https://hostcdn3.fibwi.com/fibwi_diario/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DTRPV6B.png",Filmstream
 https://spi-filmstream-1-in.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3lAoTq3.png",Fitel TV (1080p)
@@ -161,8 +163,6 @@ https://streamingtvi.gestec-video.com/hls/tvixa.m3u8
 https://fast-channels.atresmedia.com/648c271d2bfab0e4177a0d61/648c271d2bfab0e4177a0d61.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EY6TsdV.png",KTO (404p) [Not 24/7]
 https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1jDS9UC.png",La 1 (720p)
-https://ztnr.rtve.es/ztnr/1688877.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RqUJ4oj.png",La 1 Canarias (720p)
 https://ztnr.rtve.es/ztnr/5190066.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/512px-Logo_TVE-1.svg.png",La 1 Catalunya (720p)
@@ -307,8 +307,6 @@ https://cloudvideo.servers10.com:8081/8136/index.m3u8
 https://cloudvideo.servers10.com:8081/stztelebista/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OgEeQzl.jpg",Tarotéame (576p)
 https://5d2733224ac48.streamlock.net/taroteame/tarot_web/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yOQ9e3a.png",TarotVisión (576p)
-https://stream.andalhost.com/hls/tarotvision.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oGvsUH9.png",TBN España (576p)
 https://edge.xn--tbnespaa-j3a.es/LiveApp/streams/tbnlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w5NTWpl.png",Tele Elx (1080p)
@@ -359,8 +357,6 @@ https://streamtv2.elitecomunicacion.cloud:3144/live/verbenatvlive.m3u8
 https://tv.radiocast.es:5443/vinxtv/streams/vinxtvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QQviU5m.png",Vivamóvil (720p)
 https://5d8d85cf2c308.streamlock.net:1936/AlcalaTV/endirecto/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ty7GkoN.png",XPTV1 (720p)
-https://janus.xpbroadcasting.com:8443/hls/xptv1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/74Z8ATB.png",XPTV2 (720p)
 https://janus.xpbroadcasting.com:8443/hls/xptv2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1m7kDmc.png",XPTV US (720p)
