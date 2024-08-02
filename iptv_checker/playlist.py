@@ -26,16 +26,11 @@ class Playlist:
         return self.channels
 
     def add_channels(self, channels):
-        unique_urls = set()
-        unique_channels = []
-        for channel in channels:
-            if channel["url"] not in unique_urls:
-                unique_channels.append(channel)
-                unique_urls.add(channel["url"])
-        self.channels = unique_channels
+        self.channels.extend(channels)
 
-    def to_m3u(self):
+    def to_m3u(self, group_title=None):
         m3u_content = "#EXTM3U\n"
         for channel in self.channels:
-            m3u_content += f'#EXTINF:-1 tvg-logo="{channel["logo"]}",{channel["name"]}\n{channel["url"]}\n'
+            group = f' group-title="{group_title}"' if group_title else ""
+            m3u_content += f'#EXTINF:-1 tvg-logo="{channel["logo"]}"{group},{channel["name"]}\n{channel["url"]}\n'
         return m3u_content

@@ -62,8 +62,7 @@ class IPTVChecker:
                             logger.info(f"Channel {channel['name']} ({url}) is a direct stream.")
                             return channel
                     else:
-                        logger.warning(
-                            f"Channel {channel['name']} ({url}) is not available. Status code: {response.status}")
+                        logger.warning(f"Channel {channel['name']} ({url}) is not available. Status code: {response.status}")
                         return None
             except Exception as e:
                 logger.error(f"Error checking channel {channel['name']} ({url}): {e}")
@@ -97,7 +96,7 @@ class IPTVChecker:
         playlist = Playlist()
         playlist.add_channels(self.available_channels)
         logger.info(f"Total available channels to save: {len(self.available_channels)}")
-        return playlist.to_m3u()
+        return playlist.to_m3u(group_title=self.country_name)
 
     async def run(self):
         logger.info(f"Starting to check playlist from {self.playlist_url}")

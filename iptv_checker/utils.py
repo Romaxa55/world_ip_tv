@@ -1,11 +1,9 @@
 import asyncio
 import os
-
 import aiohttp
 import logging
 
 logger = logging.getLogger(__name__)
-
 
 def read_playlist_urls(filepath):
     playlist_urls = {}
@@ -21,7 +19,6 @@ def read_playlist_urls(filepath):
                 continue
             playlist_urls[country.strip()] = url
     return playlist_urls
-
 
 async def download_playlist(url):
     async with aiohttp.ClientSession() as session:
@@ -49,8 +46,8 @@ def create_index_m3u():
                 file_path = os.path.join(root, file)
                 with open(file_path, 'r') as f:
                     content = f.read()
-                    # Пропускаем первую строку каждого файла, так как она содержит #EXTM3U
-                    index_content += "\n".join(content.splitlines()[1:]) + "\n"
+                    lines = content.splitlines()[1:]
+                    index_content += "\n".join(lines) + "\n"
 
     index_path = os.path.join(output_dir, 'index.m3u')
     with open(index_path, 'w') as f:
