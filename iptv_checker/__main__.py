@@ -9,7 +9,7 @@ async def main():
     playlists_path = os.path.join(base_dir, 'playlists.txt')
 
     playlist_urls = read_playlist_urls(playlists_path)
-    semaphore = asyncio.Semaphore(10)
+    semaphore = asyncio.Semaphore(100)
 
     tasks = []
     for country_name, playlist_url in playlist_urls.items():
