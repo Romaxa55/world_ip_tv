@@ -1,19 +1,17 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HkY10xX.jpg",ABC 2 Atlanta GA (WSB-TV) (720p)
-https://lnc-wsb2.tubi.video/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Q4B9h5L.png",ABC 22 Savannah GA (WJCL) (720p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Q4B9h5L.png" group-title="Georgia",ABC 22 Savannah GA (WJCL) (720p)
 https://lnc-wjcl.tubi.video/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z6lB0Ww.png",ACTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z6lB0Ww.png" group-title="Georgia",ACTV
 https://castus-vod-dev.s3.amazonaws.com/vod_clients/athens/live/ch2/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FhIRe7O.png",Atlanta's 57 WATC 57.1 (720p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FhIRe7O.png" group-title="Georgia",Atlanta's 57 WATC 57.1 (720p)
 https://uni01rtmp.tulix.tv/watc57/watc57/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RAfuLul.png",Atlanta's 57 WATC TOO 57.2 (720p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RAfuLul.png" group-title="Georgia",Atlanta's 57 WATC TOO 57.2 (720p)
 https://uni01rtmp.tulix.tv/watc57-2/watc57-2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DcZoeGw.jpg",FOX 5 Atlanta GA (WAGA-TV) (720p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DcZoeGw.jpg" group-title="Georgia",FOX 5 Atlanta GA (WAGA-TV) (720p)
 https://lnc-waga.tubi.video/index.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/JysD2a4.png",La Que Buena Atlanta
+#EXTINF:-1 tvg-logo="https://iili.io/JysD2a4.png" group-title="Georgia",La Que Buena Atlanta
 https://streamyes.alsolnet.com/quebuenaatlanta/live/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/divkttQ.png",NBC 11 Atlanta GA (1080p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/divkttQ.png" group-title="Georgia",NBC 11 Atlanta GA (1080p)
 https://livevideo.tegnadigital.com/wxia/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WXIA/elvs/live.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png",WMGT-TV News (Macon GA) (720p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="Georgia",WMGT-TV News (Macon GA) (720p)
 https://dai.google.com/linear/hls/event/ygKx2LkmRQCZ_orwBQhfFw/master.m3u8
