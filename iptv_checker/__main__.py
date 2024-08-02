@@ -12,7 +12,7 @@ if __name__ == "__main__":
     playlist_urls = read_playlist_urls(playlists_path)
 
     # Ограничение числа одновременных задач
-    semaphore = asyncio.Semaphore(500)  # Задаем лимит в 10 одновременных задач
+    semaphore = asyncio.Semaphore(100)  # Задаем лимит в 10 одновременных задач
 
     # Создание экземпляра IPTVChecker для каждого URL и запуск его
     async def main():
