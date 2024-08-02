@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DUY5WXf.png",AKTV (720p)
-https://e.siar.us/live/aktv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3yfMjmf/logo-3.png",Alwafa Tarim TV (Am Media) (720p)
 https://ammedia.siar.us/ammedia/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/P3whqna.png",Balikpapan TV (720p)
@@ -11,10 +9,18 @@ http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
 http://117.103.69.219:8080/live/streaming/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/REuN9RR.png",BBC News Asia Pacific (720p)
 https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZREy4zM.png",Biznet Adventure (720p)
+http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J5QNqJ0.png",Biznet Kids (480p)
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XqUfQKA.png",Biznet Lifestyle (480p)
+http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist_w109806785_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1qZ0RLUGNsY0dkWmZ2cklEeGZNZHBUN3Zfc3JNV0NidWJudEdvOWNDWVdwY0JCUWFsTWxMUXhIc3dtNDNQYlZS.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OuogLHx.png",Bloomberg TV Asia (720p)
+https://bloomberg.com/media-manifest/streams/asia.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OuogLHx.png",Bloomberg TV Asia Live Event (720p)
+https://bloomberg.com/media-manifest/streams/asia-event.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fdygcVx.png",BTV (720p)
 https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tWt4Wou.png",CCTV-4 Asia (480p)
-http://210.210.155.37/qwr9ew/s/s19/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Celebes_TV.png",Celebes TV [Not 24/7]
 https://ams.juraganstreaming.com:5443/LiveApp/streams/celebesmedia.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bUfeG7Y.png",CNBC Indonesia (720p)
@@ -59,6 +65,8 @@ https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
 https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dlsv1sl.png",Rajawali TV
 https://cdn09jtedge.indihometv.com/joss/130/rtv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XwCeHlC.png",Rodja TV (720p)
+https://rodjatv.com/rodjatv/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IDNjMfQ.png",Sakti TV (720p)
 https://saktitv.siar.us/saktitv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1f0EC7t.png",TATV (720p) [Not 24/7]
@@ -67,8 +75,6 @@ https://v2.siar.us/tatv/live.sdp/playlist.m3u8
 https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/512px-Trans_TV_2013.svg.png",Trans TV (720p)
 https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FRsRXRR.png",TV5 Monde Asia (Asie) (1080p) [Geo-blocked]
-https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xPjWyiL.png",TV9 Nusantara (720p)
 https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IGIX3o8.jpg",TV Kesehatan (1080p)
@@ -81,6 +87,66 @@ https://rtvelivestream.akamaized.net/rtvesec/int/tvei_asia_main.m3u8
 https://rtvelivestream.akamaized.net/rtvesec/int/tvei_eu_main.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BAklJGy.png",TVKU (720p)
 http://103.30.1.14:8080/hls/live.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png",TVRI Aceh (720p)
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIACEH)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3N6NDPf.png",TVRI Bali (480p)
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIBALI)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png",TVRI Bangka Belitung (480p)
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIBABEL)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qswy60o.png",TVRI Bengkulu (480p)
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIBENGKULU)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lSgiYnp.png",TVRI DKI Jakarta (720p) [Not 24/7]
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIDKI)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png",TVRI Gorontalo (480p)
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIGORONTALO)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e0Ulmy5.png",TVRI Jambi (720p) [Not 24/7]
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJAMBI)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rrRMl08.png",TVRI Jawa Barat (480p)
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJABARBANDUNG)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FLrmZvc.png",TVRI Jawa Tengah (720p)
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJATENGSEMARANG)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vxe6tcn.png",TVRI Jawa Timur (720p)
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJATIMSURABAYA)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png",TVRI Kalimantan Barat (480p)
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKALBAR)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png",TVRI Kalimantan Selatan (720p)
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKALSELBANJARMSN)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KQSlIQt.png",TVRI Kalimantan Tengah (480p)
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKALTENG)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9ND64L5.png",TVRI Kalimantan Timur (720p)
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKALTIMSAMARINDA)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8102yhJ.png",TVRI Lampung (720p)
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRILAMPUNG)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png",TVRI Maluku (480p)
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIMALUKUAMBON)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png",TVRI Nasional (720p)
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png",TVRI Nusa Tenggara Barat (720p)
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINTBMATARAM)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/acFJNef.png",TVRI Nusa Tenggara Timur (480p)
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINTTKUPANG)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eQ7Aqy5.png",TVRI Papua (480p)
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIPAPUA)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iSERkWC.png",TVRI Riau (720p) [Not 24/7]
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIRIAU)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rFKcGqwx/TVRI-Sport-2022.png",TVRI Sport (720p)
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png",TVRI Sulawesi Barat (720p)
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISULBARMAJENE)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QCJnteP.png",TVRI Sulawesi Selatan (480p)
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISULSELMAKASAR)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png",TVRI Sulawesi Tengah (720p)
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISULTENGPALU)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png",TVRI Sulawesi Tenggara (480p)
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISULTRA)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CkZf4bq.png",TVRI Sumatera Barat (720p)
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISUMBARPADANG)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iuUTOWz.png",TVRI Sumatera Selatan (480p)
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISUMSEL)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRIWorld.png/512px-TVRIWorld.png",TVRI World
+https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lcH92DJ.png",TVRI Yogyakarta (720p)
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iEKDH26.png",UGTV (720p)
 https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Uv8RWks.png",Wesal TV (720p) [Not 24/7]

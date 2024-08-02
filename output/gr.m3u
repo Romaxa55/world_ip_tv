@@ -3,16 +3,28 @@
 http://eu2.tv4e.gr:554/live/smil:myStream.sdp.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IUVRm5L.png",24 Horas Internacional [Geo-blocked]
 https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Action24-logo-small.png",Action 24 (1080p)
+http://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xqa87lG.png",Alert (576p) [Not 24/7]
 https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wnVEvRM.png",Alfa Dramas (226p) [Not 24/7]
 https://www.hellasnet.tv/rest2.live.hn/w2r.alf/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZgKZ5u9.jpg",ART TV (720p)
+https://til.pp.ua:3711/live/arttvgr70live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oYRPfZm.png",Astra TV (480p) [Not 24/7]
 https://ssh101.bozztv.com/ssh101/astratv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Attica_logo_155.jpg",Attica TV (1080p)
+http://atticatv.siliconweb.com/atticatv/atticaliveabr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TZ1unwF.png",Baraza TV Deep House (720p)
 https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TZ1unwF.png",Baraza TV Relaxing (720p)
 https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AeeeDUc.png",Best TV (720p) [Not 24/7]
+http://push-int.siliconweb.com/bestTV/stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OuogLHx.png",Bloomberg TV EMEA Live Event (720p)
+https://bloomberg.com/media-manifest/streams/eu-event.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OuogLHx.png",Bloomberg TV Europe (720p)
+https://bloomberg.com/media-manifest/streams/eu.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/52JW71Q.png",Center TV (1080p) [Not 24/7]
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/centertv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CvxVN0L.png",Corfu TV (576p) [Not 24/7]
@@ -33,12 +45,10 @@ https://eucom-live.freecaster.com/eucom/96098c0b-0743-4afc-9562-db1673053f9d/960
 http://ellastv.gotdns.com:88/freetv/promo/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3S4P7ob.png",Epiloges TV (480p)
 https://5d00db0e0fcd5.streamlock.net/7170/7170/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nYVqhu8.png",Epirus TV1 (1080p)
+https://til.pp.ua:3928/live/epiruslive.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/EWTN_Logo_and_Wordmark_%282016%29.svg/512px-EWTN_Logo_and_Wordmark_%282016%29.svg.png",EWTN Europe (720p) [Not 24/7]
 https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7xtz1Jo.png",Faros TV2 (480p) [Geo-blocked]
-https://s1.cystream.net/live/faros2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/X19638q.png",Faros TV (540p) [Geo-blocked]
-https://s1.cystream.net/live/faros1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png",Fashion TV
 https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://flash-tv.gr/wp-content/uploads/2021/01/flash_logo-panw-1-300x62-1.png",Flash TV (720p) [Not 24/7]
@@ -63,6 +73,8 @@ https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/LePanto.m3u8
 https://thor.mental-media.gr:19360/imp/imp.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QZQhg6C.png",Magic TV (480p)
 https://itv.streams.ovh/magictv/magictv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KX5olay.png",Mesogeios TV (404p)
+https://til.pp.ua:3872/live/mesogeiostvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9OFdMud.png",Naftemporiki TV (1080p)
 https://naftemporiki-live.cdn.vustreams.com/live/a4b4a88a-681c-4a2d-8e74-33daa5f2cb61/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nvNW8G7.png",Nea TV (720p)
@@ -77,6 +89,8 @@ http://tv.nrg91.gr:1935/onweb/live/master.m3u8
 https://5c389faa13be3.streamlock.net:9553/onweb/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/One_Channel_Logo_2019.png",One Channel (1080p) [Geo-blocked]
 https://onechannel.siliconweb.com/one/stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M6XG03v.png",Open TV (576p)
+http://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/13C3CPr.png",Panik TV (1080p)
 https://livetv.streams.ovh:1936/paniktv/paniktv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.peer.biz/peertv-iptv/peer-tv-alto-adige.png",Peer TV Alto Adige (1280p)
@@ -101,23 +115,45 @@ http://web.onair-radio.eu:1935/video/video/playlist.m3u8
 http://ovh-edge-h.evrideo.com:8080/23e234f2-aec8-4804-b694-4cdd71d2d48d_MONITORING_HLS/video_240p_WEBRTC_MONITORING.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9Pf1we6.png",Samiaki TV (540p) [Not 24/7]
 http://live.cast-control.eu:1935/samiaki/samiaki/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IAb4Gbf.png",Smile TV (360p) [Geo-blocked]
-https://s1.cystream.net/live/smile/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mrKRFnf.png",Skai TV (720p)
+http://skai-live-back.siliconweb.com/media/cambria4/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6NUpxhr.png",Star Channel (720p)
+http://livestar.siliconweb.com/media/star1/star1mediumhd.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4PrPG5j/Start-TV-Corfu-Radio-100-1-www-startmedia-gr-1.jpg",Start TV (480p)
 https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/arQe5qS.png",Syros TV1 (720p)
 https://eco.streams.ovh:1936/syrostv1/syrostv1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://telekriti.com/wp-content/uploads/2023/08/NEW-LOGO-7c-300x50.png",Telekriti (720p) [Not 24/7]
+https://neon.streams.gr:8081/telekriti/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TGRT_EU.png/512px-TGRT_EU.png",TGRT Europe (1080p)
+https://canli.tgrteu.com/tgrteu.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BqPnIiy.png",Thessalia TV (720p) [Not 24/7]
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/thessaliatv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SfV2gJg.png",Top Channel (720p)
+http://eu1.vectromdigital.com:1935/topchannel/topchannel/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g0jPOcC.png",TRT (360p)
 https://www.hellasnet.tv/rest2.live.hn/u2r.trt/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OBH2DfE.png",TV 100 (576p) [Not 24/7]
+https://live.fm100.gr/hls/tv100/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lmuw8ff.png",TV Filopoli (360p) [Not 24/7]
 http://live.streams.ovh:1935/tvfilopoli/tvfilopoli/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/72ZSoN11sHL5AtqrapJ5nHRPGDG-CRY5WZuI2KgRWbQDwlunzCOxSa2MFHPmdJiI1UQ=w240-h480-rw",TV Kosmos (576p) [Not 24/7]
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/tvkosmosgr.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ow1HArj.png",TVE Internacional Europe-Asia [Geo-blocked]
-https://rtvelivestream.akamaized.net/rtvesec/int/tvei_eu_main.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8oy62fX.png",Xplore (714p) [Geo-blocked]
 http://web.onair-radio.eu:1935/explorecy/explorecy/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AmW9d6H.jpg",Zougla TV (720p)
+https://zouglacam-mdc-secure.akamaized.net/zouglalive/main/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/o2cvqv3.png",Βουλή Τηλεόραση 2 (540p) [Not 24/7]
+https://streamer-cache.grnet.gr/parliament/hls/webtv2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/o2cvqv3.png",Βουλή Τηλεόραση 3 (540p) [Not 24/7]
+https://streamer-cache.grnet.gr/parliament/hls/webtv3.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/o2cvqv3.png",Βουλή Τηλεόραση (540p) [Not 24/7]
+https://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zuyYIca.png",Εγνατία Τηλεόραση (576p)
 https://video.streams.ovh:1936/egnatiatv/egnatiatv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QQSSMZx.png",Εκκλησία (1080p)
+https://liveopen.siliconweb.com/openTvLive/openEcclessia/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pUcV46F.png",НТВ Мир
+http://stream02.vnet.am/HTB/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/On6ggLe.png",Перец
+http://stream01.vnet.am/Perec/mono.m3u8
