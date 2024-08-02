@@ -1,10 +1,9 @@
 import re
-
+import m3u8
 
 class Playlist:
     def __init__(self, content=None):
-        self.segments = []
-        self.nested_playlists = []
+        self.channels = []
         if content:
             self.parse(content)
 
@@ -12,23 +11,26 @@ class Playlist:
         lines = content.splitlines()
         for i in range(len(lines)):
             if lines[i].startswith('#EXTINF'):
-                url = lines[i + 1]
-                if url.endswith('.m3u') or url.endswith('.m3u8'):
-                    self.nested_playlists.append(url)
-                else:
-                    self.segments.append(url)
+                match = re.match(r'#EXTINF:-1.*tvg-logo="(?P<logo>[^"]+)".*,(?P<name>.+)', lines[i])
+                if match:
+                    channel = {
+                        "name": match.group("name"),
+                        "logo": match.group("logo"),
+                        "url": lines[i + 1]
+                    }
+                    self.channels.append(channel)
 
     def get_urls(self):
-        return self.segments
+        return [channel["url"] for channel in self.channels]
 
-    def get_nested_playlists(self):
-        return self.nested_playlists
+    def get_channels(self):
+        return self.channels
 
-    def add_segments(self, urls):
-        self.segments = urls
+    def add_channels(self, channels):
+        self.channels = channels
 
     def to_m3u(self):
         m3u_content = "#EXTM3U\n"
-        for url in self.segments:
-            m3u_content += f"#EXTINF:-1,{url}\n{url}\n"
+        for channel in self.channels:
+            m3u_content += f'#EXTINF:-1 tvg-logo="{channel["logo"]}",{channel["name"]}\n{channel["url"]}\n'
         return m3u_content
