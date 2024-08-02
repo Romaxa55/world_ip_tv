@@ -11,9 +11,11 @@ logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 class IPTVChecker:
-    def __init__(self, playlist_url):
+    def __init__(self, country_name, playlist_url, semaphore):
+        self.country_name = country_name
         self.playlist_url = playlist_url
         self.available_channels = []
+        self.semaphore = semaphore
 
     async def check_channels(self, playlist_content):
         playlist = Playlist(playlist_content)
@@ -29,41 +31,43 @@ class IPTVChecker:
         logger.info(f"Checked {len(channels_to_check)} channels, {len(self.available_channels)} are available.")
 
     async def check_channel(self, session, channel):
-        url = channel["url"]
-        try:
-            async with session.get(url, timeout=10) as response:
-                if response.status == 200:
-                    # Проверка плейлиста
-                    playlist_content = await response.text()
-                    m3u_playlist = m3u8.loads(playlist_content, uri=url)
-                    if m3u_playlist.segments:
-                        # Если есть сегменты, проверяем первый сегмент
-                        segment_url = m3u_playlist.segments[0].absolute_uri
-                        if await self.check_segment(session, segment_url):
-                            logger.info(f"Channel {channel['name']} is available with segments.")
-                            return channel
-                        else:
-                            logger.warning(f"Channel {channel['name']} has no working segments.")
-                            return None
-                    elif m3u_playlist.playlists:
-                        # Если есть вложенные плейлисты, проверяем их
-                        for p in m3u_playlist.playlists:
-                            nested_playlist_url = p.absolute_uri
-                            if await self.check_playlist(session, nested_playlist_url):
-                                logger.info(f"Channel {channel['name']} is available with nested playlists.")
+        async with self.semaphore:
+            url = channel["url"]
+            try:
+                async with session.get(url, timeout=10) as response:
+                    if response.status == 200:
+                        # Проверка плейлиста
+                        playlist_content = await response.text()
+                        m3u_playlist = m3u8.loads(playlist_content, uri=url)
+                        if m3u_playlist.segments:
+                            # Если есть сегменты, проверяем первый сегмент
+                            segment_url = m3u_playlist.segments[0].absolute_uri
+                            if await self.check_segment(session, segment_url):
+                                logger.info(f"Channel {channel['name']} ({url}) is available with segments.")
                                 return channel
-                        logger.warning(f"Channel {channel['name']} has no working nested playlists.")
-                        return None
+                            else:
+                                logger.warning(f"Channel {channel['name']} ({url}) has no working segments.")
+                                return None
+                        elif m3u_playlist.playlists:
+                            # Если есть вложенные плейлисты, проверяем их
+                            for p in m3u_playlist.playlists:
+                                nested_playlist_url = p.absolute_uri
+                                if await self.check_playlist(session, nested_playlist_url):
+                                    logger.info(f"Channel {channel['name']} ({url}) is available with nested playlists.")
+                                    return channel
+                            logger.warning(f"Channel {channel['name']} ({url}) has no working nested playlists.")
+                            return None
+                        else:
+                            # Если это прямой поток без сегментов
+                            logger.info(f"Channel {channel['name']} ({url}) is a direct stream.")
+                            return channel
                     else:
-                        # Если это прямой поток без сегментов
-                        logger.info(f"Channel {channel['name']} is a direct stream.")
-                        return channel
-                else:
-                    logger.warning(f"Channel {channel['name']} is not available. Status code: {response.status}")
-                    return None
-        except Exception as e:
-            logger.error(f"Error checking channel {channel['name']}: {e}")
-            return None
+                        logger.warning(
+                            f"Channel {channel['name']} ({url}) is not available. Status code: {response.status}")
+                        return None
+            except Exception as e:
+                logger.error(f"Error checking channel {channel['name']} ({url}): {e}")
+                return None
 
     async def check_segment(self, session, segment_url):
         try:
@@ -99,13 +103,19 @@ class IPTVChecker:
         logger.info(f"Starting to check playlist from {self.playlist_url}")
         playlist_content = await download_playlist(self.playlist_url)
         await self.check_channels(playlist_content)
+
+        if not self.available_channels:
+            logger.info("No available channels, skipping save.")
+            return
+
         new_playlist_content = self.create_new_playlist()
 
         # Определение пути для сохранения файла на уровень выше
         current_dir = os.path.dirname(os.path.abspath(__file__))
         output_dir = os.path.join(current_dir, '..', 'output')
         os.makedirs(output_dir, exist_ok=True)
-        output_path = os.path.join(output_dir, 'available_channels.m3u')
+        filename = os.path.basename(self.playlist_url)
+        output_path = os.path.join(output_dir, filename)
 
         with open(output_path, 'w') as f:
             f.write(new_playlist_content)

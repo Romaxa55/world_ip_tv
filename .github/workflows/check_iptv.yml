@@ -2,7 +2,7 @@ name: Check IPTV
 
 on:
   schedule:
-    - cron: '0 * * * *' # Запуск каждый час
+    - cron: '0 0 * * *' # Запуск каждый день в полночь
   workflow_dispatch:
 
 jobs:
@@ -24,10 +24,19 @@ jobs:
         pip install -r requirements.txt
 
     - name: Run IPTV checker
-      run: python -m iptv_checker.check_iptv
+      run: python -m iptv_checker
 
-    - name: Upload new playlist
-      uses: actions/upload-artifact@v2
+    - name: Configure git
+      run: |
+        git config --global user.name 'github-actions[bot]'
+        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+
+    - name: Commit changes
+      run: |
+        git add output/*
+        git commit -m "Update available channels"
+
+    - name: Push changes
+      uses: ad-m/github-push-action@v0.6.0
       with:
-        name: available_channels.m3u
-        path: available_channels.m3u
+        github_token: ${{ secrets.GITHUB_TOKEN }}
