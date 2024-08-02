@@ -1,3 +1,4 @@
+import asyncio
 import os
 
 import aiohttp
@@ -29,22 +30,23 @@ def read_playlist_urls(file_path):
     with open(file_path, 'r') as f:
         return {line.split()[0]: line.split()[1] for line in f if line.strip()}
 
-def create_index_m3u(playlist_urls):
+def create_index_m3u():
     index_content = "#EXTM3U\n"
-    base_url = "https://romaxa55.github.io/world_ip_tv/output/"  # Замените на свой домен
+    base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    output_dir = os.path.join(base_dir, 'output')
 
-    for country_name, playlist_url in playlist_urls.items():
-        filename = os.path.basename(playlist_url)
-        country_url = f"{base_url}{filename}"
-        index_content += f"#EXTINF:-1,{country_name}\n{country_url}\n"
+    for root, _, files in os.walk(output_dir):
+        for file in files:
+            if file.endswith('.m3u'):
+                file_path = os.path.join(root, file)
+                with open(file_path, 'r') as f:
+                    content = f.read()
+                    # Пропускаем первую строку каждого файла, так как она содержит #EXTM3U
+                    index_content += "\n".join(content.splitlines()[1:]) + "\n"
 
-    # Сохранение index.m3u файла
-    current_dir = os.path.dirname(os.path.abspath(__file__))
-    output_dir = os.path.join(current_dir, '..', 'output')
-    os.makedirs(output_dir, exist_ok=True)
     index_path = os.path.join(output_dir, 'index.m3u')
-
     with open(index_path, 'w') as f:
         f.write(index_content)
 
     print(f"Index file created at {index_path}")
+

@@ -26,6 +26,7 @@ if __name__ == "__main__":
         await asyncio.gather(*tasks)
 
         # Создание главного index.m3u файла
-        create_index_m3u(playlist_urls)
+        create_index_m3u()
+
 
     asyncio.run(main())

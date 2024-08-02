@@ -29,8 +29,11 @@ class Playlist:
     def add_channels(self, channels):
         self.channels = channels
 
-    def to_m3u(self):
+    def to_m3u(self, group_title=None):
         m3u_content = "#EXTM3U\n"
         for channel in self.channels:
-            m3u_content += f'#EXTINF:-1 tvg-logo="{channel["logo"]}",{channel["name"]}\n{channel["url"]}\n'
+            if group_title:
+                m3u_content += f'#EXTINF:-1 tvg-logo="{channel["logo"]}" group-title="{group_title}",{channel["name"]}\n{channel["url"]}\n'
+            else:
+                m3u_content += f'#EXTINF:-1 tvg-logo="{channel["logo"]}",{channel["name"]}\n{channel["url"]}\n'
         return m3u_content

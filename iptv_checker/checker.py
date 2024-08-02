@@ -97,7 +97,7 @@ class IPTVChecker:
         playlist = Playlist()
         playlist.add_channels(self.available_channels)
         logger.info(f"Total available channels to save: {len(self.available_channels)}")
-        return playlist.to_m3u()
+        return playlist.to_m3u(group_title=self.country_name)
 
     async def run(self):
         logger.info(f"Starting to check playlist from {self.playlist_url}")

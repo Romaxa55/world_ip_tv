@@ -1,29 +1,37 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dLzgBUj.png",Astro Awani (720p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dLzgBUj.png" group-title="Malaysia:",Astro Awani (720p)
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/REuN9RR.png",BBC News Asia Pacific (720p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/REuN9RR.png" group-title="Malaysia:",BBC News Asia Pacific (720p)
 https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OuogLHx.png",Bloomberg TV Asia (720p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Malaysia:",Bloomberg TV Asia (720p)
 https://bloomberg.com/media-manifest/streams/asia.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OuogLHx.png",Bloomberg TV Asia Live Event (720p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Malaysia:",Bloomberg TV Asia Live Event (720p)
 https://bloomberg.com/media-manifest/streams/asia-event.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/F8ZM25a.png",EWTN Africa Asia (720p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tWt4Wou.png" group-title="Malaysia:",CCTV-4 Asia (480p)
+http://210.210.155.37/qwr9ew/s/s19/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F8ZM25a.png" group-title="Malaysia:",EWTN Africa Asia (720p)
 https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/EWTN_Logo_and_Wordmark_%282016%29.svg/512px-EWTN_Logo_and_Wordmark_%282016%29.svg.png",EWTN Asia-Pacific (720p) [Not 24/7]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/EWTN_Logo_and_Wordmark_%282016%29.svg/512px-EWTN_Logo_and_Wordmark_%282016%29.svg.png" group-title="Malaysia:",EWTN Asia-Pacific (720p) [Not 24/7]
 https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tY7IJva.png",Kanal 10 Asia (540p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tY7IJva.png" group-title="Malaysia:",Kanal 10 Asia (540p)
 http://cdn-kanal10.crossnet.net:1935/kanal10/kanal10asia/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wSyPmiY.png",RTM TV 1 [Geo-blocked]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/512px-Rai_Italia_-_Logo_2017.svg.png" group-title="Malaysia:",RAI Italia Asia (576p)
+http://210.210.155.37/x6bnqe/s/s63/index2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wSyPmiY.png" group-title="Malaysia:",RTM TV 1 [Geo-blocked]
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LGEdeyJ.png",RTM TV 2 [Geo-blocked]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LGEdeyJ.png" group-title="Malaysia:",RTM TV 2 [Geo-blocked]
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1pYYSu2.png",Sukan RTM [Geo-blocked]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/RTP_Internacional_2016_%28Reduced_Version%29.svg/512px-RTP_Internacional_2016_%28Reduced_Version%29.svg.png" group-title="Malaysia:",RTP Internacional Asia (480p)
+http://210.210.155.37/qwr9ew/s/s38/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1pYYSu2.png" group-title="Malaysia:",Sukan RTM [Geo-blocked]
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dwzOBZ1.png",TVE Internacional Asia-Oceania [Geo-blocked]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FRsRXRR.png" group-title="Malaysia:",TV5 Monde Asia (Asie) (1080p) [Geo-blocked]
+https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dwzOBZ1.png" group-title="Malaysia:",TVE Internacional Asia-Oceania [Geo-blocked]
 https://rtvelivestream.akamaized.net/rtvesec/int/tvei_asia_main.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ow1HArj.png",TVE Internacional Europe-Asia [Geo-blocked]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ow1HArj.png" group-title="Malaysia:",TVE Internacional Europe-Asia [Geo-blocked]
 https://rtvelivestream.akamaized.net/rtvesec/int/tvei_eu_main.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/X6JKNEE.png",TVIKIM
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X6JKNEE.png" group-title="Malaysia:",TVIKIM
 https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/o0eevnb.png",Zarok TV Sorani (720p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/o0eevnb.png" group-title="Malaysia:",Zarok TV Sorani (720p)
 https://zindisorani.zaroktv.com.tr/hls/stream.m3u8
