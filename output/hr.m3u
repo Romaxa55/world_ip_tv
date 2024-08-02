@@ -5,6 +5,10 @@ https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
 https://live-hls-web-ajb.getaj.net/AJB/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A5ui53C.png",Bloomberg Adria (1080p)
 https://d3ojytvj4doga3.cloudfront.net/app-23764-1566/ngrp:Jq3SvH9h_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OuogLHx.png",Bloomberg TV EMEA Live Event (720p)
+https://bloomberg.com/media-manifest/streams/eu-event.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OuogLHx.png",Bloomberg TV Europe (720p)
+https://bloomberg.com/media-manifest/streams/eu.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FCb7Ag2.png",CMC TV (1080p)
 https://stream.cmctv.hr:49998/cmc/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DIIRPNN.png",EbS Live (Europe by Satellite) (1080p)
@@ -19,6 +23,8 @@ https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist.m3u8
 https://stream.cmctv.hr:49998/kit/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4R4fhbd.png",Libertas TV (1080p)
 https://stream.luci.xyz/hls/LTV.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WWOlm1x.png",Minimax (576p) (576p)
+http://88.212.7.10/live/test_minimax/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.peer.biz/peertv-iptv/peer-tv-alto-adige.png",Peer TV Alto Adige (1280p)
 https://iptv.peer.biz/live/peertv-it.m3u8
 #EXTINF:-1 tvg-logo="https://www.peer.biz/peertv-iptv/peer-tv-south-tyrol.png",Peer TV South Tyrol (1280p)
@@ -45,3 +51,7 @@ https://tvjadran.stream.agatin.hr:3412/live/tvjadranlive.m3u8
 https://stream.agatin.hr:3727/live/tvnovalive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ow1HArj.png",TVE Internacional Europe-Asia [Geo-blocked]
 https://rtvelivestream.akamaized.net/rtvesec/int/tvei_eu_main.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pUcV46F.png",НТВ Мир
+http://stream02.vnet.am/HTB/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/On6ggLe.png",Перец
+http://stream01.vnet.am/Perec/mono.m3u8

@@ -15,12 +15,18 @@ https://cloudfront41.lexanetwork.com:1344/relay01/livestream002.sdp/playlist.m3u
 https://stream.iptvservice.eu/hls/balatontv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3H3Ct9f.png",Berente TV (1080p)
 https://stream.streaming4u.hu/BerenteTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OuogLHx.png",Bloomberg TV EMEA Live Event (720p)
+https://bloomberg.com/media-manifest/streams/eu-event.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OuogLHx.png",Bloomberg TV Europe (720p)
+https://bloomberg.com/media-manifest/streams/eu.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CqqWtzo.png",Budapest Európa Televízió (576p)
 https://cloudfront44.lexanetwork.com:1344/freerelay/bpetv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vVOEYuj.png",Csurgó TV (720p)
 http://79.120.178.90:1935/csurgotv/csurgolive/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xKJoN8L.png",DSTV (720p)
 http://79.120.178.90:1935/dstv/dstvlive/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YSpqmSO.png",DTV (720p) [Not 24/7]
+http://cloudfront44.lexanetwork.com:1732/hlsrelay003/hls/livestream.sdp.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DIIRPNN.png",EbS Live (Europe by Satellite) (1080p)
 https://eucom-live.freecaster.com/eucom/96098bf4-5a2a-466b-8d7f-e35300fa4f28/96098bf4-5a2a-466b-8d7f-e35300fa4f28.isml/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7V012zQ.png",EbS+ Live (Europe by Satellite) (1080p)
@@ -45,8 +51,6 @@ https://cloudfront44.lexanetwork.com:1344/relay03/livestream003.sdp/playlist.m3u
 https://cloudfront44.lexanetwork.com:1344/relay01/broadcast007.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QcrVj3Q.png",Karcag TV (720p)
 https://cloudfront41.lexanetwork.com:1344/relay03/livestream003.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yxwrX2N.png",Kecskemeti TV (416p) [Not 24/7]
-http://rtmp1.40e.hu:8000/live/ktv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DifVZkz.png",Komáromi Televízió (400p)
 https://cloudfront44.lexanetwork.com:1344/relay01/HDE017.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Hf122ZD.png",Liceum TV (576p)
@@ -61,6 +65,8 @@ https://stream.streaming4u.hu/ObudaTV/index.m3u8
 https://cloudfront44.lexanetwork.com:1344/relay01/broadcast002.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t0Aq3UD.png",Ózdi Városi TV (720p) [Not 24/7]
 http://stream.nmih.hu:7980/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xQa2idL.png",Pannon RTV (648p)
+https://stream.nmih.hu:4102/live.m3u8
 #EXTINF:-1 tvg-logo="https://www.peer.biz/peertv-iptv/peer-tv-alto-adige.png",Peer TV Alto Adige (1280p)
 https://iptv.peer.biz/live/peertv-it.m3u8
 #EXTINF:-1 tvg-logo="https://www.peer.biz/peertv-iptv/peer-tv-south-tyrol.png",Peer TV South Tyrol (1280p)
@@ -75,6 +81,8 @@ http://tv.geniusnet.sk:8081/regiotv/pl.m3u8
 https://cloudfront44.lexanetwork.com:1344/relay01/HDE038.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ihdk45P.png",Soltvadkerti Televízió (720p)
 http://79.120.178.90:1935/soltvadkerttv/soltvlive/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ilRmZtF.png",Szécsény TV (720p)
+http://iptv.eurocable.co.hu/EC-SZECSENYTVHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Eiab9MP.png",Szolnok TV (1080p)
 https://cloudfront44.lexanetwork.com:1344/relay01/livestream004.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/skXYntc.png",Tatai TV (1080p)
@@ -91,8 +99,6 @@ https://stream.y5.hu/stream/stream_bekescsaba/stream.m3u8
 http://stream.tveger.hu:8010/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2LE8xSW.png",TV Keszthely (360p)
 https://cloudfront44.lexanetwork.com:1344/freerelay/keszthelyivtv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ow1HArj.png",TVE Internacional Europe-Asia [Geo-blocked]
-https://rtvelivestream.akamaized.net/rtvesec/int/tvei_eu_main.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IoHyW7w.png",VTV Füzesabony (720p)
 http://stream.nmih.hu:7960/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vysX07C.png",Williams TV (480p)
@@ -103,3 +109,7 @@ https://cloudfront44.lexanetwork.com:1344/relay01/HDE051.sdp/playlist.m3u8
 https://cloudfront44.lexanetwork.com:1344/freerelay/zegtv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wPqCtwR.png",Zuglo TV (360p)
 https://cloudfront44.lexanetwork.com:1344/freerelay/zuglotv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pUcV46F.png",НТВ Мир
+http://stream02.vnet.am/HTB/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/On6ggLe.png",Перец
+http://stream01.vnet.am/Perec/mono.m3u8
