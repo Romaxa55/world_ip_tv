@@ -31,7 +31,7 @@ def read_playlist_urls(file_path):
 
 def create_index_m3u(playlist_urls):
     index_content = "#EXTM3U\n"
-    base_url = "https://yourdomain.github.io/iptv/"  # Замените на свой домен
+    base_url = "https://romaxa55.github.io/world_ip_tv/output/"  # Замените на свой домен
 
     for country_name, playlist_url in playlist_urls.items():
         filename = os.path.basename(playlist_url)
