@@ -25,6 +25,8 @@ http://livevideo.vedge.infomaniak.com/livecast/ik:bblackafrica/manifest.m3u8
 https://bloomberg.com/media-manifest/streams/eu-event.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ARJM3s5.png" group-title="Senegal",Diama TV (1080p)
 https://helga.iptv2022.com/Diama_TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K8EGFnv.png" group-title="Senegal",Diamaguene TV (480p) [Not 24/7]
+https://helga.iptv2022.com/sh/DIAMAGUENE_TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/F8ZM25a.png" group-title="Senegal",EWTN Africa Asia (720p)
 https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hW4g2oe.png" group-title="Senegal",GOD TV Africa (576p)
@@ -35,8 +37,6 @@ https://helga.iptv2022.com/sh/Grand_Yoff_TV/index.m3u8
 https://tv.imediasn.com/hls/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pxQkYG7.jpeg" group-title="Senegal",Keur Ndanane TV (720p)
 https://helga.iptv2022.com/sh/KN_TV/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BUxzHmO.png" group-title="Senegal",Leral TV (480p)
-https://helga.iptv2022.com/sh/Leral/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xXZ5kFy/unnamed.jpg" group-title="Senegal",Louga TV (480p)
 https://stream.sen-gt.com/Mbacke/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aFzTA2t.jpg" group-title="Senegal",Mader TV (720p)
@@ -53,8 +53,10 @@ https://edge-a3.evrideo.tv/8f37c9f0-fe22-44f4-b64a-76ad11730daf_1000026630_HLS/m
 https://origin3.afxp.telemedia.co.za/PremiumFree/romanza/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HHGktpF.png" group-title="Senegal",RTS 1 (720p)
 http://69.64.57.208/rts1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/i9P2qjs.png" group-title="Senegal",Seneweb TV (676p) [Not 24/7]
-https://helga.iptv2022.com/sh/Sene_Web_Tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YypHsF4.png" group-title="Senegal",RTS 2 (720p)
+http://69.64.57.208/rts2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1BLXnHB.png" group-title="Senegal",Sen TV (360p)
+http://69.64.57.208/sentv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MeCSPsI.jpg" group-title="Senegal",SenJeunes TV (480p) [Not 24/7]
 https://stream.sen-gt.com/senjeunestv/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6VjLFmR.png" group-title="Senegal",TBN Africa (1080p)
