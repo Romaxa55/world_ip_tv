@@ -19,6 +19,8 @@ https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/index.m3u8
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/REuN9RR.png" group-title="Mexico",BBC News (North America) (1080p)
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IDvpRNI.png" group-title="Mexico",California Medios TV (720p)
+https://s5.mexside.net:1936/medios/medios/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="Mexico",Canal 6 CDMX
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/652e91fd6208700008dcaf7blivestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&profilesFromStream=true&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TvTn3hO.png" group-title="Mexico",Canal 10 Cancún (720p) [Not 24/7]
@@ -35,16 +37,16 @@ https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlis
 https://5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YDp8MlN.png" group-title="Mexico",Canal 44 Chihuahua (720p) [Not 24/7]
 https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AWLWu91.png" group-title="Mexico",Canal Catorce
-https://cdn.mycloudstream.io/hls/live/broadcast/uqgv4lg6/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YND5HXD/Captura.png" group-title="Mexico",Canal Ocho TV (1080p)
+https://ssh101.bozztv.com/ssh101/ochotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fLpkHfZ.png" group-title="Mexico",Canal Parlamento del Congreso de Jalisco (720p) [Not 24/7]
 https://60417ddeaf0d9.streamlock.net/srtc/smil:srtc.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://caribbeanadvantage.com/images/CAtv-logo-512.png" group-title="Mexico",Caribbean Advantage TV (1080p)
-https://video2.getstreamhosting.com:19360/8216/8216.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gBbLyqh.png" group-title="Mexico",CCTV-4 America (1080p)
 https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Poz3xfi.png" group-title="Mexico",CGTN Español (576p)
 https://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/03jFV68.png" group-title="Mexico",Clan TVE Internacional (1080p)
+https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n0kd17r.png" group-title="Mexico",Claro Sports
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6320d2755e54db000783fd87livestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&profilesFromStream=true&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qEk0QGa.png" group-title="Mexico",Conecta TV
@@ -59,8 +61,6 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 https://wifiexpert-1.energeek.cl/energeek/canal-1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/euaoN1A.png" group-title="Mexico",EnerGeek Radio (1080p)
 https://wifiexpert-1.energeek.cl/energeek/radio/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YwUVTmS.png" group-title="Mexico",Enlace (720p)
-https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z52nEnH.png" group-title="Mexico",Estrella Games (1080p)
 https://estrella-games-oando.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HRrkhLq.png" group-title="Mexico",Estrella News
@@ -83,6 +83,8 @@ https://spi-filmstream-1-in.samsung.wurl.tv/playlist.m3u8
 https://stream1.sersat.com/hls/garagetv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NNd1lYl.png" group-title="Mexico",Golden TV (240p) [Not 24/7]
 https://bozztv.com/gusa/gusa-goldentv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CBbbrkI.png" group-title="Mexico",Hiperconectados TV
+https://stmv5.voxtvhd.com.br/hiperconectados/hiperconectados/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AfsVFfM.png" group-title="Mexico",Hispan TV
 https://cdnlive.presstv.ir/live/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/J1kV1Bn.png" group-title="Mexico",ITV Deportes
@@ -119,6 +121,8 @@ https://59e88b197fb16.streamlock.net:4443/live/canal24/playlist.m3u8
 https://59e88b197fb16.streamlock.net:4443/live/canal4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rxVVrZV.jpg" group-title="Mexico",NRT México Región Sureste (720p)
 https://59e88b197fb16.streamlock.net:4443/live/canal6/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3fzB7zY.png" group-title="Mexico",Nueve TV San Luís Potosí (720p)
+https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/exdDHml.png" group-title="Mexico",Nuevo Tiempo (720p) [Not 24/7]
 https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K0351vF.png" group-title="Mexico",Once México (1080p)
