@@ -9,8 +9,6 @@ https://canal.mediaserver.com.co/live/ANCTELEVISION.m3u8
 http://animezonetv.net/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://web.archive.org/web/20240509182044if_/https://pbs.twimg.com/profile_images/1744338643957780480/24Kv02RD_400x400.jpg" group-title="Colombia",ANIMESTATION (Argentina) (720p)
 https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/79sX78u.png" group-title="Colombia",ATN Televisión (640p)
-https://59ef525c24caa.streamlock.net/atntelevision/atntelevision/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/giPOGyi.png" group-title="Colombia",ATV (360p) [Not 24/7]
 https://movil.ejeserver.com/live/verteve.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MsQLaQG.png" group-title="Colombia",Avivamiento TV (1080p) [Not 24/7]
@@ -39,6 +37,8 @@ http://131.221.41.94/hls/canal2.m3u8
 https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ODMa27W.jpg" group-title="Colombia",Canal Más Televisión (720p)
 https://movil.ejeserver.com/live/teledoradahd.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zRqfJuj.png" group-title="Colombia",Canal Mundo Visión (720p)
+https://movil.ejeserver.com/live/mundovisiontv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/edaAexc.png" group-title="Colombia",Canal Nets (720p) [Not 24/7]
 https://movil.ejeserver.com/live/nets.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D1s1Q3k.png" group-title="Colombia",Canal Telefamilia (360p) [Not 24/7]
@@ -55,8 +55,6 @@ https://livees.cgtn.com/1000e/prog_index.m3u8
 https://cp.panelchs.com:1936/8096/8096/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/03jFV68.png" group-title="Colombia",Clan TVE Internacional (1080p)
 https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/n0kd17r.png" group-title="Colombia",Claro Sports
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6320d2755e54db000783fd87livestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&profilesFromStream=true&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EOEtETt.png" group-title="Colombia",CNC HD Online (1080p) [Geo-blocked]
 https://hvtraficonew.ddns.net/pastocnc6/cnc6/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J1f4fNq.png" group-title="Colombia",CNC Medellín (720p)
@@ -75,12 +73,14 @@ http://168.181.122.234:8000/play/a038/index.m3u8
 https://srv2.tropicalmoonmedia.com/dreamforcebtltv/dreamforcebtltv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="Colombia",DW Español (1080p)
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ppBdqel.png" group-title="Colombia",Eduvision (1080p)
+https://stmv3.voxtvhd.com.br/conex2/conex2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.energeek.cl/logos/Marca-512.png" group-title="Colombia",EnerGeek (720p) [Not 24/7]
+https://wifiexpert-1.energeek.cl/energeek/canal-1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/euaoN1A.png" group-title="Colombia",EnerGeek Radio (1080p)
 https://wifiexpert-1.energeek.cl/energeek/radio/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YwUVTmS.png" group-title="Colombia",Enlace (720p)
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WgnZPol.png" group-title="Colombia",Eureka (1080p)
-https://play.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C022/022/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/EWTN_Logo_and_Wordmark_%282016%29.svg/512px-EWTN_Logo_and_Wordmark_%282016%29.svg.png" group-title="Colombia",EWTN el Canal Católico (720p) [Not 24/7]
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.energeek.cl/logos/Fanpop-512.png" group-title="Colombia",Fanpop TV
@@ -161,8 +161,6 @@ https://cp.panelchs.com:1936/8060/8060/playlist.m3u8
 https://v4.tustreaming.cl/tevexinter/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jL1kLyS.png" group-title="Colombia",Tropical Moon Salsa TV (720p)
 https://srv.tropicalmoonmedia.com/musictv/musictv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h48pwLn.png" group-title="Colombia",Tropical Music TV (720p)
-http://68.235.37.11:1935/vallenato/vallenato/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e6esjLZ.jpg" group-title="Colombia",Tu Universo TV (720p)
 https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tMl4ISO.png" group-title="Colombia",TV Gracia (720p)
@@ -173,8 +171,12 @@ https://stmv1.voxtvhd.com.br/tvpenol/tvpenol/playlist.m3u8
 https://asucap.com/livestream/asucap_envivo.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iODADvi.png" group-title="Colombia",TVE Internacional America (1080p)
 https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zsCZHMh.png" group-title="Colombia",TVE Star HD (1080p)
+https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RnZU9q3.png" group-title="Colombia",TVQ (720p)
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/9b8beac9026c450fb81ed895539c4665/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CQpuBeQ.png" group-title="Colombia",TVQ Sports (720p)
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/1b6bbade53634f5a847b953c9adfd102/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BzQphbw.png" group-title="Colombia",UCL (720p)
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vtGED07.jpg" group-title="Colombia",Venevisión Internacional (720p)
