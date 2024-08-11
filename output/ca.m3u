@@ -49,6 +49,8 @@ https://eu.streamjo.com/eetlive/eettv.m3u8
 https://hls.erfanhalgheh.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/EWTN_Logo_and_Wordmark_%282016%29.svg/512px-EWTN_Logo_and_Wordmark_%282016%29.svg.png" group-title="Canada",EWTN Canada (720p) [Not 24/7]
 https://cdn3.wowza.com/1/YW5wSWZiRGd2eFlU/bGV0aVBq/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QSi0YTS.png" group-title="Canada",Feva TV (1080p)
+https://d3c1w351ahk83d.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-FEVATV/416.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vlKPZHR.png" group-title="Canada",Fight Network (1080p)
 https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62f4f90e39183b000769f12b/colorLogoPNG.png" group-title="Canada",Frasier
@@ -65,8 +67,6 @@ http://cdn12.henico.net:8080/live/gsctv/index.m3u8
 https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/ICI_RDI_logo.svg/512px-ICI_RDI_logo.svg.png" group-title="Canada",ICI RDI (720p)
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mIih39Y.png" group-title="Canada",IIPC TV (480p) [Geo-blocked]
-https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5QGxHhh.png" group-title="Canada",Legislative Assembly of British Columbia
 https://cdn3.wowza.com/5/YldIU1hsTlljRWZF/hbs-prim-house-httpo/HouseP.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ll/legislative-assembly-of-british-columbia-ca.png" group-title="Canada",Legislative Assembly of British Columbia Committee A
@@ -81,8 +81,6 @@ https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://lnc-love-nature.tubi.video/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a5fw83n.jpg" group-title="Canada",MHZ
 https://mhz-samsung-linear-ca.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Y5YnUit.png" group-title="Canada",Montreal Greek TV (480p)
-http://live.greektv.ca/hls1/greektv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WXRBuOW.png" group-title="Canada",NETV Toronto (720p)
 https://eu1.vectromdigital.com:1936/netvtoronto/netvtoronto/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bd/CJON-TV.PNG" group-title="Canada",Newfoundland Television (480p)
@@ -97,6 +95,8 @@ http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/inde
 http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LdGWsGj.png" group-title="Canada",Prime Asia TV (1080p)
 http://primeasia.selfip.net/Samsung/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vji81jB.png" group-title="Canada",Prime Canada TV (720p) [Not 24/7]
+http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CL32kFA.png" group-title="Canada",Radio Tele Evangile Sans Limite
 https://5790d294af2dc.streamlock.net/8124/8124/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/RT-France-logo.svg/512px-RT-France-logo.svg.png" group-title="Canada",RT France (1080p) [Geo-blocked]
@@ -107,12 +107,16 @@ http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8
 https://cdn12.henico.net:8443/live/ssct/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1mawJQX.png" group-title="Canada",Stingray Ambience (1080p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziostingrayambiance/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3UppN5P.png" group-title="Canada",Stingray CMusic
+https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-62fbf197c67d52bddf74cc87.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lgpIwId.png" group-title="Canada",Stingray Hit List (1080p)
 https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4xVVKH8.png" group-title="Canada",Stingray Holiday Hits (1080p)
 https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9TLTLS3.png" group-title="Canada",Stingray Karaoke (1080p)
 https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/882kd90.png" group-title="Canada",Stingray Naturescape
+https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-60d324f59adce5002c41dbc5.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H2ugC9L.png" group-title="Canada",Stingray Pop Adult (1080p)
 https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6E3wYrb.png" group-title="Canada",Stingray Remember the 80s (1080p)
@@ -147,6 +151,8 @@ http://cdn3.toronto360.tv:8081/toronto360/hd/playlist.m3u8
 https://rdn.essastream.com:3388/live/dajatvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JnxNMNq/logo-2022.png" group-title="Canada",TV Punjab (720p)
 https://932y483pdjv8-hls-live.5centscdn.com/stream/deb10bae362f810630ec3abedcae5894.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iODADvi.png" group-title="Canada",TVE Internacional America (1080p)
+https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zsCZHMh.png" group-title="Canada",TVE Star HD (1080p)
 https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tvokids-logo.svg/512px-Tvokids-logo.svg.png" group-title="Canada",TVOKids
