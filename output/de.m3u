@@ -113,6 +113,8 @@ https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist.m3u8
 https://spi-filmstream-1-in.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/19iKLvf.png" group-title="Germany",Filstalwelle (1080p)
 https://h055.video-stream-hosting.de/filstalwelle-live/_definst_/mp4:livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1uoP10V.png" group-title="Germany",Finest TV (288p) [Not 24/7]
+https://media.finest.tv/hls/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ze04puX.png" group-title="Germany",FOLX Music (1080p)
 https://cdne.folxplay.tv/folx-trz/streams/ch-4/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3pGGLLD.png" group-title="Germany",Franken Fernsehen (Nürnberg) (1080p) [Not 24/7]
@@ -277,8 +279,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5eb96303f5bb020008e7e44f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84aea082-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=98a9fe20-9187-429d-b9ac-8042d3142022&serverSideAds=false
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5rbfiFp.png" group-title="Germany",Pluto TV Indies
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ce40e59246a395e9758923e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84aea084-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1717ce52-d158-4c4f-870e-5f72d6328d3d&serverSideAds=false
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UZf28c3.png" group-title="Germany",Pluto TV Kids
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ad9b648e738977e2c312131/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84aea085-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=68ca4400-31c3-45e1-ac30-9bcbc6aaefd8&serverSideAds=false
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RJhxl8t.png" group-title="Germany",Pluto TV Kultfilme
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dde47b63585b500099f74ec/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84aea088-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3418c444-a5b9-456d-9d11-e4e9c7b5eec0&serverSideAds=false
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HuSrPf8.png" group-title="Germany",Pluto TV Lives
@@ -409,8 +409,6 @@ https://live2.telvi.de/hls/tvm_hd720.m3u8
 https://tvoberfranken.iptv-playoutcenter.de/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Gg6d4Jb.png" group-title="Germany",TVA (1080p) [Not 24/7]
 https://tvaktuellr.iptv-playoutcenter.de/tvaktuellr/tvaktuellr.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ow1HArj.png" group-title="Germany",TVE Internacional Europe-Asia [Geo-blocked]
-https://rtvelivestream.akamaized.net/rtvesec/int/tvei_eu_main.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7fzlbi2.png" group-title="Germany",Victorious
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e8b5e43f294f8000793c3d7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84afb1f7-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b8f594b9-41be-4385-aa1a-9f9f0de6f06b&serverSideAds=false
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EsWuCJ3.png" group-title="Germany",Volksmusik TV (1080p)
@@ -453,5 +451,3 @@ https://stream.yol.tv:9443/medialive/yol.m3u8
 https://cdne.folxplay.tv/folx-trz/streams/ch-2/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pUcV46F.png" group-title="Germany",НТВ Мир
 http://stream02.vnet.am/HTB/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/On6ggLe.png" group-title="Germany",Перец
-http://stream01.vnet.am/Perec/mono.m3u8
