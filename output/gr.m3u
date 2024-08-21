@@ -9,8 +9,6 @@ http://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
 https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wnVEvRM.png" group-title="Greece",Alfa Dramas (226p) [Not 24/7]
 https://www.hellasnet.tv/rest2.live.hn/w2r.alf/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZgKZ5u9.jpg" group-title="Greece",ART TV (720p)
-https://til.pp.ua:3711/live/arttvgr70live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oYRPfZm.png" group-title="Greece",Astra TV (480p) [Not 24/7]
 https://ssh101.bozztv.com/ssh101/astratv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Attica_logo_155.jpg" group-title="Greece",Attica TV (1080p)
@@ -25,8 +23,6 @@ http://push-int.siliconweb.com/bestTV/stream/playlist.m3u8
 https://bloomberg.com/media-manifest/streams/eu-event.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Greece",Bloomberg TV Europe (720p)
 https://bloomberg.com/media-manifest/streams/eu.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/C9CormG.png" group-title="Greece",Blue Sky TV (576p)
-https://cdn1.smart-tv-data.com/bluesky/bluesky-live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/52JW71Q.png" group-title="Greece",Center TV (1080p) [Not 24/7]
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/centertv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CvxVN0L.png" group-title="Greece",Corfu TV (576p) [Not 24/7]
@@ -43,8 +39,6 @@ https://live.cast-control.eu/ekpdipso/ekpdipso/playlist.m3u8
 https://eucom-live.freecaster.com/eucom/96098bf4-5a2a-466b-8d7f-e35300fa4f28/96098bf4-5a2a-466b-8d7f-e35300fa4f28.isml/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7V012zQ.png" group-title="Greece",EbS+ Live (Europe by Satellite) (1080p)
 https://eucom-live.freecaster.com/eucom/96098c0b-0743-4afc-9562-db1673053f9d/96098c0b-0743-4afc-9562-db1673053f9d.isml/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aRWB7ss.png" group-title="Greece",Ellas TV (1080p)
-http://ellastv.gotdns.com:88/freetv/promo/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/y0ydCNB/unnamed-4.png" group-title="Greece",Ellinikos FM (720p)
 https://til.pp.ua:3093/live/ellinikosfmlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3S4P7ob.png" group-title="Greece",Epiloges TV (480p)
@@ -125,8 +119,6 @@ http://skai-live-back.siliconweb.com/media/cambria4/index.m3u8
 http://livestar.siliconweb.com/media/star1/star1mediumhd.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4PrPG5j/Start-TV-Corfu-Radio-100-1-www-startmedia-gr-1.jpg" group-title="Greece",Start TV (480p)
 https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/arQe5qS.png" group-title="Greece",Syros TV1 (720p)
-https://eco.streams.ovh:1936/syrostv1/syrostv1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://telekriti.com/wp-content/uploads/2023/08/NEW-LOGO-7c-300x50.png" group-title="Greece",Telekriti (720p) [Not 24/7]
 https://neon.streams.gr:8081/telekriti/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TGRT_EU.png/512px-TGRT_EU.png" group-title="Greece",TGRT Europe (1080p)
@@ -145,10 +137,18 @@ http://live.streams.ovh:1935/tvfilopoli/tvfilopoli/playlist.m3u8
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/tvkosmosgr.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1u9a6G7.png" group-title="Greece",TV Rodopi (720p) [Not 24/7]
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/TVRodopi.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ow1HArj.png" group-title="Greece",TVE Internacional Europe-Asia [Geo-blocked]
+https://rtvelivestream.akamaized.net/rtvesec/int/tvei_eu_main.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8oy62fX.png" group-title="Greece",Xplore (714p) [Geo-blocked]
 http://web.onair-radio.eu:1935/explorecy/explorecy/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AmW9d6H.jpg" group-title="Greece",Zougla TV (720p)
 https://zouglacam-mdc-secure.akamaized.net/zouglalive/main/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/o2cvqv3.png" group-title="Greece",Βουλή Τηλεόραση 2 (540p) [Not 24/7]
+https://streamer-cache.grnet.gr/parliament/hls/webtv2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/o2cvqv3.png" group-title="Greece",Βουλή Τηλεόραση 3 (540p) [Not 24/7]
+https://streamer-cache.grnet.gr/parliament/hls/webtv3.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/o2cvqv3.png" group-title="Greece",Βουλή Τηλεόραση (540p) [Not 24/7]
+https://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zuyYIca.png" group-title="Greece",Εγνατία Τηλεόραση (576p)
 https://video.streams.ovh:1936/egnatiatv/egnatiatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QQSSMZx.png" group-title="Greece",Εκκλησία (1080p)
