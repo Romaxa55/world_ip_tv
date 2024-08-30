@@ -53,8 +53,6 @@ https://bloomberg.com/media-manifest/streams/asia.m3u8
 https://bloomberg.com/media-manifest/streams/asia-event.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvQzwSp.png" group-title="India",Calvary TV (720p)
 https://player.mslivestream.net/mslive/71e7f7cc7dc7c51206b7b3bbb51e3052.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zIXsuC2.png" group-title="India",CD News (576p)
-https://5a1178b42cc03.streamlock.net/8174/8174/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WrmeIco.png" group-title="India",CNN News 18
 https://n18syndication.akamaized.net/bpk-tv/CNN_News18_NW18_MOB/output01/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H4f9R7n.png" group-title="India",DD News (1080p)
@@ -167,24 +165,8 @@ http://137.59.86.218:1935/live/onetv/playlist.m3u8
 https://livelegitpro.in/hls2/newstime/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1dHarb7.png" group-title="India",Pravasi Channel (1080p)
 https://m6gdavepdn93-hls-live.5centscdn.com/pravasi/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DG0x4UD.png" group-title="India",Prudent Media (1080p)
-https://prudentmcdn.rixcast.com/prudentm.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4lUwdME.png" group-title="India",PTC Chakde (720p)
-https://streaming.ptcplay.com/ptcchakdeINONE/smil:Live.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/C0y7yFJ/Ptc-Dhol-tv.jpg" group-title="India",PTC Dhol (720p)
-https://streaming.ptcplay.com/ptcdholtvINOne/smil:Live.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8PHk66Q.png" group-title="India",PTC Music (720p)
-https://streaming.ptcplay.com/ptcMusicINOne/smil:Live.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nbUMvaR.png" group-title="India",PTC Punjabi (720p)
-https://streaming.ptcplay.com/ptcPunjabiINOne/smil:Live.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/g88pV3L.png" group-title="India",PTC Punjabi Gold (720p)
-https://streaming.ptcplay.com/ptcpunjabiGoldINOne/smil:Live.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/T5VK7G5.png" group-title="India",PTC Simran (720p)
-https://streaming.ptcplay.com/ptcSimranINOne/smil:Live.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wczSawd.png" group-title="India",Public TV (1080p)
 https://livestream.knowtable.xyz:5443/show/streams/Publictv_adaptive.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/v5urG30.png" group-title="India",Pulari TV (720p)
-https://royalstarindia.co.in/pularitv_hls/pularitv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XUnWcZF.png" group-title="India",R Plus (768p)
 https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8hnJuxa.png" group-title="India",Real News Kerala (1080p) [Not 24/7]
@@ -271,11 +253,15 @@ https://5a1178b42cc03.streamlock.net/8200/8200/playlist.m3u8
 https://5a1178b42cc03.streamlock.net/8210/8210/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MC6edvH.jpg" group-title="India",Venad News (360p)
 https://5a1178b42cc03.streamlock.net/8222/8222/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YozqNL3.jpg" group-title="India",Vision (1080p)
-http://103.85.204.205:1935/VISIONMEDIA/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WVyjqrX/in-vyas-channel-5512.jpg" group-title="India",Vyas NIC (576p)
 https://playhls.media.nic.in/hls/live/vyas/vyas.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KIEKOt1.png" group-title="India",Weatherspy
 https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/y4ycZTB/unnamed.jpg" group-title="India",Zainabia Channel
+https://zainabia.livebox.co.in/ZainabiaChannelhls/channel.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/o0eevnb.png" group-title="India",Zarok TV Sorani (720p)
 https://zindisorani.zaroktv.com.tr/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nUmsyGt.png" group-title="India",Zee Aflam (720p) [Geo-blocked]
+https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fBL7YrC.png" group-title="India",Zee Alwan (720p) [Geo-blocked]
+https://weyyak-live.akamaized.net/weyyak_zee_alwan/index.m3u8

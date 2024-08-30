@@ -25,6 +25,10 @@ http://168.181.122.234:8000/play/a038/index.m3u8
 https://srv2.tropicalmoonmedia.com/dreamforcebtltv/dreamforcebtltv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="Paraguay",DW Español (1080p)
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.energeek.cl/logos/Marca-512.png" group-title="Paraguay",EnerGeek (720p) [Not 24/7]
+https://wifiexpert-1.energeek.cl/energeek/canal-1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/euaoN1A.png" group-title="Paraguay",EnerGeek Radio (1080p)
+https://wifiexpert-1.energeek.cl/energeek/radio/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YwUVTmS.png" group-title="Paraguay",Enlace (720p)
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/EWTN_Logo_and_Wordmark_%282016%29.svg/512px-EWTN_Logo_and_Wordmark_%282016%29.svg.png" group-title="Paraguay",EWTN el Canal Católico (720p) [Not 24/7]
@@ -37,8 +41,6 @@ https://spi-filmstream-1-in.samsung.wurl.tv/playlist.m3u8
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FqFxog1.png" group-title="Paraguay",Garage TV Latin America
 https://stream1.sersat.com/hls/garagetv.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jkvYVyz/Captura.png" group-title="Paraguay",GO TV (720p)
-https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NNd1lYl.png" group-title="Paraguay",Golden TV (240p) [Not 24/7]
 https://bozztv.com/gusa/gusa-goldentv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CBbbrkI.png" group-title="Paraguay",Hiperconectados TV
@@ -73,8 +75,6 @@ https://ssh101.bozztv.com/ssh101/caazapapotytv/playlist.m3u8
 https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N7VH24E.png" group-title="Paraguay",RCN Xtra (1080p)
 https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qYRw4JP/Captura.png" group-title="Paraguay",República TV (720p)
-https://rds3.desdeparaguay.net/republicatv/republicatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/npL1bPz.jpg" group-title="Paraguay",Salto TV (1080p) [Not 24/7]
 https://ssh101.bozztv.com/ssh101/redcanindeyu/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="Paraguay",Tastemade en Español (1080p)
@@ -91,6 +91,8 @@ http://68.235.37.11:1935/vallenato/vallenato/.m3u8
 https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RnZU9q3.png" group-title="Paraguay",TVQ (720p)
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/9b8beac9026c450fb81ed895539c4665/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CQpuBeQ.png" group-title="Paraguay",TVQ Sports (720p)
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/1b6bbade53634f5a847b953c9adfd102/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BzQphbw.png" group-title="Paraguay",UCL (720p)
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cgTD2TW.png" group-title="Paraguay",Unicanal (1080p) [Not 24/7]
