@@ -47,6 +47,8 @@ http://95.216.180.111:1935/live/10/playlist.m3u8
 https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsafe_HLS/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sWWdpdH/1687955091062.jpg" group-title="Iraq",Alhurra Iraq (720p)
 https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038899/MBN_Iraq_Worldsafe_HLS/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lqVwrAF.png" group-title="Iraq",Alquran (1080p)
+https://ktvlive.online/stream/hls/ch1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PVQKsjE.png" group-title="Iraq",Bayyinat TV (404p)
 https://nl2.livekadeh.com/hls2/Bayyinat.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ScyTG6P.png" group-title="Iraq",BBC Arabic (720p)
@@ -55,8 +57,6 @@ https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabi
 https://live.beitolabbas.tv/live/beitolabbastv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Iraq",Bloomberg TV EMEA Live Event (720p)
 https://bloomberg.com/media-manifest/streams/eu-event.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AkFFrS7.png" group-title="Iraq",CGTN Arabic (576p) [Not 24/7]
-https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/haribosky/images/b/bd/Channel_8_Logo_PNG.png/revision/latest?cb=20211023173015" group-title="Iraq",Channel 8 Kurdish (720p)
 https://live.channel8.com/Channel8-Kurdish/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UJqDWVB.png" group-title="Iraq",Dijlah Tarab (1080p)
@@ -65,22 +65,10 @@ https://ghaasiflu.online/tarab/index.m3u8
 https://ghaasiflu.online/Dijlah/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EfKe3ae.png" group-title="Iraq",DW Arabic (1080p)
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.essaidafm.com/images/radio/logo_ar.png" group-title="Iraq",Essaida TV
-https://essaidatv.dextream.com/hls/stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/F8ZM25a.png" group-title="Iraq",EWTN Africa Asia (720p)
 https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jd9DywP.png" group-title="Iraq",Gali Kurdistan (720p) [Not 24/7]
 https://live.bradosti.net/live/GaliKurdistan_playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TXzEtF8.png" group-title="Iraq",Hadi TV Azeri and Russian (720p)
-https://live.ishiacloud.com/haditv.co.uk/haditv3.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TXzEtF8.png" group-title="Iraq",Hadi TV English and Urdu (720p)
-https://live.ishiacloud.com/haditv.co.uk/haditv1.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TXzEtF8.png" group-title="Iraq",Hadi TV Farsi (720p)
-https://live.ishiacloud.com/haditv.co.uk/haditv4.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TXzEtF8.png" group-title="Iraq",Hadi TV Hausa (720p)
-https://live.ishiacloud.com/haditv.co.uk/haditv5.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TXzEtF8.png" group-title="Iraq",Hadi TV Pashto and Persian (720p)
-https://live.ishiacloud.com/haditv.co.uk/haditv6.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SLoSBTh.png" group-title="Iraq",Imam Asr TV (720p)
 https://iptv.imamasrtv.com/asrfa/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pDdUvz7.png" group-title="Iraq",Imam Hussein TV 1 (1080p) [Not 24/7]
@@ -129,8 +117,6 @@ https://iraq-prod-dub-ak.akamaized.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/i
 https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fNA00VF.png" group-title="Iraq",National Geographic Abu Dhabi (1080p) [Geo-blocked]
 https://vo-live.cdb.cdn.orange.com/Content/Channel/NationalGeographicHDChannel/HLS/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uGKGtbW.png" group-title="Iraq",NRT TV (720p) [Not 24/7]
-https://media.streambrothers.com:1936/8226/8226/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XpgWb6B/IMG-20230628-140407.jpg" group-title="Iraq",NUBAR Plus TV (720p)
 http://stream.nubar.tv:1935/private/NUBARPlus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h4LWHr5.png" group-title="Iraq",NUBAR TV (1080p)
