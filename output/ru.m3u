@@ -41,6 +41,8 @@ http://31.148.48.15/Bridge_TV/index.m3u8
 https://strm.yandex.ru/kal/bridgetv_russkiyhit/bridgetv_russkiyhit0.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a9DXkMN.png" group-title="Russia",Bridge Шлягер (1080p) [Geo-blocked]
 https://strm.yandex.ru/kal/bridgetv_shlyager/bridgetv_shlyager0.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nDWkCmL.png" group-title="Russia",CGTN Русский (576p)
+https://news.cgtn.com/resource/live/russian/cgtn-r.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/F8ZM25a.png" group-title="Russia",EWTN Africa Asia (720p)
 https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/EWTN_Logo_and_Wordmark_%282016%29.svg/512px-EWTN_Logo_and_Wordmark_%282016%29.svg.png" group-title="Russia",EWTN Europe (720p) [Not 24/7]
@@ -65,8 +67,6 @@ https://stream01.vnet.am/Boomerang/mono.m3u8
 http://91.205.199.3/nostalgia/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9r1BKzK.png" group-title="Russia",NTV HD
 http://91.205.199.3/ntvhd/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zswzDZS.png" group-title="Russia",Ocean TV
-http://camera.global-x.ru/OceanTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4KiYSln.png" group-title="Russia",Pobeda
 http://91.205.199.3/pobeda/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0Tu5lte.png" group-title="Russia",REN TV HD
@@ -95,6 +95,8 @@ https://cdn-01.bonus-tv.ru/tvm_edge/playlist.m3u8
 https://cdn.universmotri.ru/live/smil:univer.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EGIpLPu.png" group-title="Russia",viju Explore
 http://91.205.199.3/viasatexplorer/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FqWkeXb.png" group-title="Russia",viju History
+https://stream2.cinerama.uz/1046/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8BPZ18l.png" group-title="Russia",viju Nature
 http://91.205.199.3/viasatnature/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TMmyuzh.png" group-title="Russia",viju TV1000 action
@@ -105,6 +107,8 @@ https://stream2.cinerama.uz/1059/tracks-v1a1/mono.m3u8
 http://91.205.199.3/vipmegahit/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8yXZET5.png" group-title="Russia",viju+ Serial
 http://91.205.199.3/vipserialhd/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fXESG0l.png" group-title="Russia",viju+ Sport
+https://stream2.cinerama.uz/1229/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/o0eevnb.png" group-title="Russia",Zarok TV Sorani (720p)
 https://zindisorani.zaroktv.com.tr/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bcw0s4V.png" group-title="Russia",Аист ТВ
@@ -123,8 +127,6 @@ https://streaming.astrakhan.ru/astrakhanrulivehd/playlist.m3u8
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/russia1-hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tUF33HD.png" group-title="Russia",БелРос (576p)
 https://live2.mediacdn.ru/sr1/tro/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/R1UjyfX.png" group-title="Russia",Бокс ТВ
-http://stream01.vnet.am/BoksTv/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vruuPKF.png" group-title="Russia",Большая Азия
 http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zKH1b5k.png" group-title="Russia",Ветта 24 (Пермь) (576p) [Not 24/7]
@@ -207,8 +209,6 @@ https://sevas.1tvcrimea.ru/legendarniy24.m3u8
 http://camera.global-x.ru/Lya-Minor/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r485aZL.png" group-title="Russia",Магнат ТВ
 https://s1.tv-nano.com/Magnat_HD_5119705/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Pg7K7eV.png" group-title="Russia",Матур ТВ (1080p)
-https://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hUjLRLy.png" group-title="Russia",Миллет (540p) [Not 24/7]
 https://live.trkmillet.ru/millet/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dj9c8Yd.png" group-title="Russia",Мир 24 (1080p)
@@ -221,14 +221,10 @@ http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3
 https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U0vKj3P.png" group-title="Russia",Музыка Первого
 http://31.148.48.15/Muzika_Pervogo/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xi351Fx.png" group-title="Russia",Мульт
-http://stream01.vnet.am/Mult/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GOSdjiq.png" group-title="Russia",Надежда (720p)
 https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8xdU3Ry.png" group-title="Russia",Нано ТВ HD
 http://s1.tv-nano.com/Nano_rec/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZZxzueO.png" group-title="Russia",Наука 2.0
-http://stream01.vnet.am/Nauka/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uXOz2d9.png" group-title="Russia",Наша Сибирь (1080p) [Geo-blocked]
 https://strm.yandex.ru/kal/sibir/sibir0.m3u8
 #EXTINF:-1 tvg-logo="https://www.nebesatv7.com/wp-content/themes/tv7-theme/assets/img/logo_nebesa_short.png" group-title="Russia",Небеса ТВ7 (720p)
@@ -273,12 +269,12 @@ https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Prima/hls/index.m3u8
 https://cdn-01.bonus-tv.ru/prosveschenie_edge/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UfmlXxe.png" group-title="Russia",Пятница
 http://s18209.cdn.ngenix.net/hls/CH_R01_FRIDAY/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/N2z3EZC.png" group-title="Russia",Пятница International
-https://stream01.vnet.am/Pyatnica/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/z2mxf3E.png" group-title="Russia",Радио Говорит Москва (Веб-камера) (720p)
 https://video.govoritmoskva.ru/rufm/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5xKqV1s.png" group-title="Russia",Радио Хит (Орск) (720p)
 http://lova.me/hls/hithd.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lbqM3K2.png" group-title="Russia",Радио Шансон (720p) [Not 24/7]
+http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/B5FA62o.png" group-title="Russia",Радость моя
 https://radm.mediacdn.ru/cdn/radost/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0Tu5lte.png" group-title="Russia",РЕН ТВ
