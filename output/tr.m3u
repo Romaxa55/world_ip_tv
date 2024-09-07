@@ -5,6 +5,10 @@ https://hls.4utv.live/hls/stream.m3u8
 https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8FO41es.png" group-title="Turkey",24 TV
 https://kanal24.blutv.com/blutv_kanal24_live/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/agn47sQ.png" group-title="Turkey",360 TV (720p) [Not 24/7]
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dWElJll.png" group-title="Turkey",AA Live (720p) [Not 24/7]
+https://mtulqxgomrllive.mediatriple.net/mtulqxgomrllive/broadcast_59f9c0c785b88.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ls9NLa4.png" group-title="Turkey",Agro TV (1080p)
 https://yayin30.haber100.com/live/agrotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oGto929.png" group-title="Turkey",Akit TV (720p)
@@ -23,10 +27,10 @@ http://95.216.180.111:1935/live/10/playlist.m3u8
 https://master.starmena-cloud.com/hls/almahriah.m3u8
 #EXTINF:-1 tvg-logo="https://www.anadolunettv.com/d/r/logo.png" group-title="Turkey",Anadolu Net TV (1080p)
 https://live.artidijitalmedya.com/artidijital_anadolunet/anadolunet/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JsDCyWG.png" group-title="Turkey",ARAS TV (576p) [Not 24/7]
+http://1.rtmp.org/tv217/yayin.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p3ON1oX.png" group-title="Turkey",BENGÜTÜRK TV (720p) [Not 24/7]
 https://tv.ensonhaber.com/benguturk/benguturk.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BxxH8wE.png" group-title="Turkey",Berat TV (720p) [Not 24/7]
-https://cdn-berattv.yayin.com.tr/berattv/berattv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bRhnM6W/qti5aea.png" group-title="Turkey",Beşiktaş Web TV (360p)
 https://s01.vpis.io/besiktas/besiktas.m3u8
 #EXTINF:-1 tvg-logo="https://birtv.tv/assets/upload/637f83951df60.png" group-title="Turkey",Bir TV (720p)
@@ -65,6 +69,8 @@ https://live.artidijitalmedya.com/artidijital_diyartv/diyartv/playlist.m3u8
 https://dost.stream.emsal.im/tv/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vJ8VaZi.png" group-title="Turkey",Dream Türk (720p)
 https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZLX2RB7.png" group-title="Turkey",DRT Denizli (720p)
+https://edge1.socialsmart.tv/drttv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TMTnMI3.png" group-title="Turkey",Ekoturk
 https://ekoturk.blutv.com/blutv_ekoturk2/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VDGEPrD.png" group-title="Turkey",Er TV (1080p) [Geo-blocked]
@@ -135,6 +141,8 @@ https://cdn-kanals.yayin.com.tr/kanals/kanals/playlist.m3u8
 https://edge1.socialsmart.tv/kanalurfa/bant1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Kr8960d.png" group-title="Turkey",Kanal Z (1080p) [Geo-blocked]
 https://live.artidijitalmedya.com/artidijital_kanalz/kanalz/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0RATxcN.png" group-title="Turkey",Kardelen TV (1080p)
+https://edge1.socialsmart.tv/kardelentv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MymuDJ1.png" group-title="Turkey",Kay TV (900p) [Geo-blocked]
 https://live.artidijitalmedya.com/artidijital_kaytv/kaytv1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FQKPjsm.png" group-title="Turkey",Kent Türk TV (1080p) [Not 24/7]
@@ -245,6 +253,8 @@ https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CRBfZi4.png" group-title="Turkey",TRT EBA Ilkokul (720p)
 https://tv-e-okul00.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vj2L2L2.png" group-title="Turkey",TRT EBA Lise (720p)
+https://tv-e-okul02.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kZxb8Zz.png" group-title="Turkey",TRT EBA Ortaokul (720p)
 https://tv-e-okul01.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/TRT_Haber_Eyl%C3%BCl_2020_Logo.svg/512px-TRT_Haber_Eyl%C3%BCl_2020_Logo.svg.png" group-title="Turkey",TRT Haber (720p)
@@ -269,8 +279,6 @@ https://tv100.blutv.com/blutv_tv100_live/live.m3u8
 https://b01c02nl.mediatriple.net/videoonlylive/mtdxkkitgbrckilive/broadcast_5ee244263fd6d.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tva-tr.png" group-title="Turkey",TV A (720p)
 https://live.artidijitalmedya.com/artidijital_tva/tva/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Uhg95Ze.png" group-title="Turkey",TV Den (576p) [Not 24/7]
-http://canli.tvden.com.tr/hls/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ow1HArj.png" group-title="Turkey",TVE Internacional Europe-Asia [Geo-blocked]
 https://rtvelivestream.akamaized.net/rtvesec/int/tvei_eu_main.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mQo8yWQ.png" group-title="Turkey",TVnet (720p)
