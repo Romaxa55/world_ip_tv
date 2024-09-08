@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="Romania",24 Horas Internacional [Geo-blocked]
 https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/S7X1PiC.png" group-title="Romania",AgroTV (404p) [Not 24/7]
-https://stream1.1616.ro:1945/agro/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IqvZBeo.png" group-title="Romania",Aleph Business (720p)
 https://stream-aleph.m.ro/Aleph/ngrp:Alephbiz9X16.stream_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qPRQZMI.png" group-title="Romania",Aleph News (720p)
@@ -27,12 +25,16 @@ https://www.btv.ro/hls/banat-tv.m3u8
 https://bloomberg.com/media-manifest/streams/eu-event.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Romania",Bloomberg TV Europe (720p)
 https://bloomberg.com/media-manifest/streams/eu.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7QHdiTO.png" group-title="Romania",Bucovina TV (480p) [Not 24/7]
+http://46.4.14.12:9999/btvsvlive/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z3aD0lN.png" group-title="Romania",CaTine (720p)
 https://stream1.antenaplay.ro/live/CaTine/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/C5dIgsc.png" group-title="Romania",Columna TV (720p)
 http://live.columnatv.ro:1935/columnatv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/584Wn29.png" group-title="Romania",Comedy Play (720p)
 https://stream1.antenaplay.ro/live/ComedyPlay/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RD4TgcM.png" group-title="Romania",Credo TV (720p) [Not 24/7]
+http://cdn.credonet.tv:1935/ctv/livecredo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2z4F1UT.png" group-title="Romania",Digi 24 (576p)
 https://edge-ar.rcs-rds.ro/digi24ar/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pfs882Z.png" group-title="Romania",Dotto TV (720p)
@@ -55,8 +57,6 @@ https://online.tvimpact.live/hls/impact_tv.m3u8
 http://46.4.14.12:9999/intermedia1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0SMSIm9.png" group-title="Romania",Kanal D2 (360p)
 https://stream2.kanald.ro/iphone/knd-live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/15ILp0P.png" group-title="Romania",Kanal D (480p)
-https://stream1.kanald.ro/iphone/knd-live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NKfVymH.png" group-title="Romania",Kiss TV (1080p)
 https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qskVMhF.png" group-title="Romania",Light Channel (480p) [Not 24/7]
@@ -87,14 +87,10 @@ https://iptv.peer.biz/live/peertv-en.m3u8
 https://iptv.peer.biz/live/peertv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8G1S2c2.png" group-title="Romania",Ploiesti TV (1080p)
 https://v1.mediastreaming.ro/stream/hls/ploiestitv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/p2umWAT.png" group-title="Romania",Prima TV (404p) [Not 24/7]
-https://stream1.1616.ro:1945/prima/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7vqB5Sx.png" group-title="Romania",Pro TV News (1080p)
 https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist.m3u8?offsetSeconds=0&url=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SWcY6iG.png" group-title="Romania",PROFI 24 TV (576p)
 https://profi24-u3391.vm.elestio.app/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zOXxzrU.png" group-title="Romania",Profit News (404p)
-https://stream1.1616.ro:1945/profit/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GvyF2Wh.png" group-title="Romania",Qub TV (720p)
 https://live.djemba.ro/live/qubtvlive/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EvIDGyR.png" group-title="Romania",Rapsodia TV (576p)
@@ -135,7 +131,5 @@ https://rtvelivestream.akamaized.net/rtvesec/int/tvei_eu_main.m3u8
 http://85.186.22.140/testing/pl5/playlist/ram/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w28wcHs.png" group-title="Romania",TVR International (1080p)
 https://tvr-tvri.cdn.zitec.com/live/tvri/main.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pUcV46F.png" group-title="Romania",НТВ Мир
-http://stream02.vnet.am/HTB/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/On6ggLe.png" group-title="Romania",Перец
 http://stream01.vnet.am/Perec/mono.m3u8
