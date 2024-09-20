@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MvpntzA.png" group-title="Kuwait",2M Monde (360p)
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6BVWk8z.png" group-title="Kuwait",Abu Dhabi Sports 1 (1080p)
-https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M8ZuzeB.png" group-title="Kuwait",Al Hayat TV (720p)
 http://media.islamexplained.com:1935/live/_definst_mp4:ahme.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7bRVpnu.png" group-title="Kuwait",Al Jazeera Arabic (1080p)
@@ -23,6 +21,8 @@ http://95.216.180.111:1935/live/10/playlist.m3u8
 https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Kuwait",Bloomberg TV EMEA Live Event (720p)
 https://bloomberg.com/media-manifest/streams/eu-event.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AkFFrS7.png" group-title="Kuwait",CGTN Arabic (576p) [Not 24/7]
+https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Dj16oKL.png" group-title="Kuwait",Dubai One (1080p)
 https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EfKe3ae.png" group-title="Kuwait",DW Arabic (1080p)
@@ -57,8 +57,6 @@ https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m
 https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lxWdjXG.png" group-title="Kuwait",MBC Plus Drama (1080p)
 https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fNA00VF.png" group-title="Kuwait",National Geographic Abu Dhabi (1080p) [Geo-blocked]
-https://vo-live.cdb.cdn.orange.com/Content/Channel/NationalGeographicHDChannel/HLS/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AbrHI7K.png" group-title="Kuwait",PMC (1080p)
 https://hls.pmchd.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kuYMKgG.png" group-title="Kuwait",PMC Royale (720p) [Not 24/7]
