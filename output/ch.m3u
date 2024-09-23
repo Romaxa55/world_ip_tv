@@ -7,10 +7,14 @@ https://edge14.vedge.infomaniak.com/livecast/ik:alpen-wellelivestream/playlist.m
 https://bloomberg.com/media-manifest/streams/eu-event.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Switzerland",Bloomberg TV Europe (720p)
 https://bloomberg.com/media-manifest/streams/eu.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TNciMh2.png" group-title="Switzerland",Canal 9 en Français (1080p)
+https://edge.vedge.infomaniak.com/livecast/ik:livehd/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eQ8xHK9.jpg" group-title="Switzerland",Canal Alpha Jura (1080p)
 https://canalalphaju.vedge.infomaniak.com/livecast/ik:canalalphaju/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eQ8xHK9.jpg" group-title="Switzerland",Canal Alpha Neuchatel (1080p) [Not 24/7]
 https://edge.vedge.infomaniak.com/livecast/ik:canalalpha/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.bejart.ch/wp-content/uploads//carac-400x304.png" group-title="Switzerland",Carac 1 (1080p)
+https://edge.vedge.infomaniak.com/livecast/ik:event/.m3u8
 #EXTINF:-1 tvg-logo="https://www.bejart.ch/wp-content/uploads//carac-400x304.png" group-title="Switzerland",Carac 2 (1080p)
 https://edge.vedge.infomaniak.com/livecast/ik:onefmmd/.m3u8
 #EXTINF:-1 tvg-logo="https://www.bejart.ch/wp-content/uploads//carac-400x304.png" group-title="Switzerland",Carac 3 (1080p)
@@ -31,14 +35,18 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f
 https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/11V0QSp.png" group-title="Switzerland",GO-TV Canale 163 (720p)
 https://6zklxkbbdw9b-hls-live.mariatvcdn.it/msmotor/2f759512164fc6fe4acbed6a5648993a.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TNciMh2.png" group-title="Switzerland",Kanal 9 auf Deutsch (1080p)
+https://edge.vedge.infomaniak.com/livecast/ik:livesd2/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EY6TsdV.png" group-title="Switzerland",KTO (404p) [Not 24/7]
 https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DdCfl4n.png" group-title="Switzerland",La Télé (1080p)
+https://edge.vedge.infomaniak.com/livecast/ik:latele/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0ZiJm7H.png" group-title="Switzerland",LFM TV (1080p)
+https://edge.vedge.infomaniak.com/livecast/ik:lfmhd/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YtYhbJD.png" group-title="Switzerland",Meteonews (1080p)
 https://streaming.meteonews.net/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SLrjImc.png" group-title="Switzerland",More Than Sports TV (1080p)
 https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7cz52W3.png" group-title="Switzerland",One TV (720p)
-https://edge.vedge.infomaniak.com/livecast/ik:onefmmd/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Gxipj7d.png" group-title="Switzerland",Pluto TV Romance
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60812fc8539963000707d1e1/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e05c6a4-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d84357a9-e5ec-4c91-a037-9a426fa2cdff
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bR2TTGu.png" group-title="Switzerland",Pluto TV Sports
@@ -63,8 +71,6 @@ https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_ljzy
 https://klive.kaltura.com/env/cluster-1-d.live.nvp1/live/hls/p/1719221/e/1_obr1n222/tl/main/st/0/t/V5aB4vl7IdB41mCbZmUxNA/index-s32.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t6HbqgA.png" group-title="Switzerland",Telebasel (432p)
 https://cldf-wzw-live.r53.cdn.tv1.eu/10096xtelebase/_definst_/1000199copo/live/app510394368/w162136077/live_de_1500/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/TeleBielingue_Logo.svg/512px-TeleBielingue_Logo.svg.png" group-title="Switzerland",TeleBielingue (720p)
-https://edge.vedge.infomaniak.com/livecast/telebielinguech/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u6dLKa9.png" group-title="Switzerland",TeleTicino (720p)
 https://vstream-cdn.ch/hls/teleticino.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/f8kzNT1.png" group-title="Switzerland",TeleZüri (720p)
