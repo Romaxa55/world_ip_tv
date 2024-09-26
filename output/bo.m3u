@@ -11,6 +11,8 @@ https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/index.m3u8
 http://181.188.144.141/tmp_hls/ant_tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E243X2x.png" group-title="Bolivia",ATB La Paz (614p) [Not 24/7]
 http://186.121.206.197/live/daniel/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PWKjVkb.png" group-title="Bolivia",Atesur (1080p) [Not 24/7]
+https://video2.getstreamhosting.com:19360/8038/8038.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tKLYYys.png" group-title="Bolivia",Bolivia TV 7.2 (720p)
 https://5ca3e84a76d30.streamlock.net/boliviatv2/videoboliviatv2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tKLYYys.png" group-title="Bolivia",Bolivia TV (720p) [Not 24/7]
@@ -61,8 +63,6 @@ https://stmv5.voxtvhd.com.br/hiperconectados/hiperconectados/playlist.m3u8
 https://cdnlive.presstv.ir/live/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WIeZMKT.png" group-title="Bolivia",Kanal D Drama (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1CftDPB.png" group-title="Bolivia",Locomotion TV (480p) [Not 24/7]
-http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ce29Mbv.png" group-title="Bolivia",Marvisión TV (720p)
 https://vdo.grupolimalive.com:3631/live/marvisionlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Oj3hEBh.jpg" group-title="Bolivia",MAX Anime (720p)
@@ -77,12 +77,16 @@ https://dai.google.com/linear/hls/event/sFuxwI37R9KMTs-KywMcBg/master.m3u8
 https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pandamax.cl/assets/img/pandalogo2.png" group-title="Bolivia",Pandamax Channel (1080p)
 https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4A7R2Jt.png" group-title="Bolivia",PAT La Paz (720p) [Not 24/7]
+https://w8.redpat.tv:7777/play/120/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4A7R2Jt.png" group-title="Bolivia",PAT Santa Cruz (720p) [Not 24/7]
 https://w8.redpat.tv:7777/play/110/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vEzeqHP.png" group-title="Bolivia",Platzi TV (1080p)
 https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vPvR7dX.png" group-title="Bolivia",PTV (720p)
 https://glb.bozztv.com/glb/ssh101/centralptv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TmSNZTg.jpg" group-title="Bolivia",Radio Uno PST (720p)
+https://master.tucableip.com/pstbolivia/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="Bolivia",RCN Mas
 https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N7VH24E.png" group-title="Bolivia",RCN Xtra (1080p)
@@ -101,6 +105,8 @@ https://video01.kshost.com.br:4443/juan6318/juan6318/playlist.m3u8
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FnInQRd.png" group-title="Bolivia",Tevex (720p) [Not 24/7]
 https://v4.tustreaming.cl/tevexinter/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tl-estrella-bo.png" group-title="Bolivia",TL Estrella (720p) [Not 24/7]
+https://stmvideo3.livecastv.com/teleestrellahd/teleestrellahd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WFycUP7.png" group-title="Bolivia",Tu Tv (720p) [Not 24/7]
 https://solo.disfrutaenlared.com:1936/tutv/tutv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V6wxEdh.png" group-title="Bolivia",TV Latina Canal 42 (720p) [Not 24/7]
@@ -109,8 +115,8 @@ https://glb.bozztv.com/glb/ssh101/tvlatinared/index.m3u8
 http://tv.istbolivia.com:1935/tvshow/tvshow/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iODADvi.png" group-title="Bolivia",TVE Internacional America (1080p)
 https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zsCZHMh.png" group-title="Bolivia",TVE Star HD (1080p)
-https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RnZU9q3.png" group-title="Bolivia",TVQ (720p)
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/9b8beac9026c450fb81ed895539c4665/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CQpuBeQ.png" group-title="Bolivia",TVQ Sports (720p)
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/1b6bbade53634f5a847b953c9adfd102/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YdiF5k6.png" group-title="Bolivia",TVU (720p) [Not 24/7]
