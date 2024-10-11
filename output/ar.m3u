@@ -7,8 +7,6 @@ http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
 https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/60vSWW0.png" group-title="Argentina",Aire de Santa Fe (1080p)
 https://unlimited1-us.dps.live/airedesantafetv/airedesantafetv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://alternatv.ar/alternatv.png" group-title="Argentina",AlternaTV (720p)
-https://alternatv.ar/stream/hls/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AHaXlCh.png" group-title="Argentina",Anime Zone TV (480p)
 http://animezonetv.net/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://web.archive.org/web/20240509182044if_/https://pbs.twimg.com/profile_images/1744338643957780480/24Kv02RD_400x400.jpg" group-title="Argentina",ANIMESTATION (Argentina) (720p)
@@ -23,6 +21,8 @@ https://stream.arcast.com.ar/atbargentina/atbargentina/playlist.m3u8
 https://ssh101.bozztv.com/ssh101/streamavc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g1BFoSs.png" group-title="Argentina",Azahares Radio Multimedia (720p)
 https://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9FDqljV.png" group-title="Argentina",Bayres TV (720p)
+https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zkNUO5p.png" group-title="Argentina",Beats Radio (480p)
 https://videostream.shockmedia.com.ar:19360/beatsradio/beatsradio.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U9NuJQC.png" group-title="Argentina",Cable Imagen Armstrong (540p) [Not 24/7]
@@ -85,10 +85,10 @@ https://stream.arcast.live/canalu/canalu/playlist.m3u8
 https://video2.getstreamhosting.com:19360/8216/8216.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CEuPoqG.png" group-title="Argentina",Catamarca TV (720p)
 https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8?DVR=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rwoIF4w.png" group-title="Argentina",Celta TV (240p)
-https://vivo.solumedia.com:19360/celta/celta.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/b6RerDw.png" group-title="Argentina",Chaco TV (720p) [Not 24/7]
 https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zGubmgZ.png" group-title="Argentina",Chilecito TV (480p)
+https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p9aaBKg.png" group-title="Argentina",Cinco TV (480p)
 https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V1xZV72.png" group-title="Argentina",Ciudad Magazine (1080p) [Geo-blocked]
@@ -145,14 +145,20 @@ https://srv3.zcast.com.br/lavozdetucumanhd/lavozdetucumanhd/playlist.m3u8
 https://vivo.solumedia.com:19360/lapacho/lapacho.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QIGSf4L.png" group-title="Argentina",Litus TV (720p)
 https://stream.arcast.com.ar/litustv/ngrp:litustv_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1CftDPB.png" group-title="Argentina",Locomotion TV (480p) [Not 24/7]
+http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ibe9iSi.png" group-title="Argentina",LTO Televisión (720p) [Not 24/7]
 https://ltocatamarca.github.io/ltotv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TJ4gWQM.png" group-title="Argentina",Más FM 95.9 (720p)
+https://vivo.solumedia.com:19360/masfm/masfm.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Oj3hEBh.jpg" group-title="Argentina",MAX Anime (720p)
 https://vcp14.myplaytv.com/maxanime/maxanime/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7f7M7zl.png" group-title="Argentina",Metro TV (720p)
 https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0C5ZpfP/7-LPSf1-Th-400x400.jpg" group-title="Argentina",Milennio TV (720p)
 https://videostream.shockmedia.com.ar:19360/milenniotv/milenniotv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HXRpRlK.png" group-title="Argentina",Misiones Cuatro (480p)
+https://streamlov.alsolnet.com/misionescuatro/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xtu85tb.png" group-title="Argentina",Neo TV (432p)
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eIX71c9.png" group-title="Argentina",Neox TV (480p)
@@ -191,6 +197,8 @@ https://media.neuquen.gov.ar/rtn/television/playlist.m3u8
 https://live.enhdtv.com:8081/radioiguazutv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NNyDWsz/download-8.png" group-title="Argentina",Radiocanal San Francisco (1080p)
 http://204.199.3.2/.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TD0I4hG.png" group-title="Argentina",RBD Radio Multimedia (720p)
+https://videostream.shockmedia.com.ar:19360/rbdradio/rbdradio.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="Argentina",RCN Mas
 https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N7VH24E.png" group-title="Argentina",RCN Xtra (1080p)
@@ -207,8 +215,6 @@ https://stream.arcast.com.ar/somosnoticias/somosnoticias/playlist.m3u8
 https://videohd.live:19360/8016/8016.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zbR9qhb/descarga.jpg" group-title="Argentina",Telecóndor Satelital (360p)
 https://videostream.shockmedia.com.ar:19360/canal4telecondor/canal4telecondor.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5X8gdCv.png" group-title="Argentina",TeleJunín (576p)
-https://videostream.shockmedia.com.ar:19360/telejunin/telejunin.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yqXORkt.png" group-title="Argentina",Telenord Corrientes (1080p) [Not 24/7]
 http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/P50VjRX.png" group-title="Argentina",TeleSUR (1080p)
@@ -225,6 +231,12 @@ https://w2.manasat.com/tvmana-ar/smil:tvmana-ar.smil/playlist.m3u8
 https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iODADvi.png" group-title="Argentina",TVE Internacional America (1080p)
 https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zsCZHMh.png" group-title="Argentina",TVE Star HD (1080p)
+https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RnZU9q3.png" group-title="Argentina",TVQ (720p)
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/9b8beac9026c450fb81ed895539c4665/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CQpuBeQ.png" group-title="Argentina",TVQ Sports (720p)
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/1b6bbade53634f5a847b953c9adfd102/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0MXsQ25.png" group-title="Argentina",TVU Universidad Nacional de La Plata (720p) [Not 24/7]
 https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BzQphbw.png" group-title="Argentina",UCL (720p)
