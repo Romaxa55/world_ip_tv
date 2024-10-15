@@ -47,6 +47,8 @@ https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8
 https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qvs1BKr.png" group-title="Netherlands",Feel Good TV (720p) [Not 24/7]
 https://58c04fb1d143f.streamlock.net/feel_good_radio_1/feel_good_radio_1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hOGS5LL.png" group-title="Netherlands",GHtv Holland (720p)
+http://37.48.120.77:8080/hls/ghtvonline.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LwEHfjD.png" group-title="Netherlands",Gigant FM (720p)
 https://video.uitzending.tv:19360/gigantfm/gigantfm.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xyOVVZ0.png" group-title="Netherlands",Haarlem105 RTV (720p)
@@ -77,8 +79,6 @@ https://ms7.mx-cd.net/tv/278-3414514/RTV_Lansingerland.smil/playlist.m3u8
 https://ms7.mx-cd.net/tv/238-2061506/Omroep_LEO_TV.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8i6OwaS.png" group-title="Netherlands",LOE TV (720p)
 https://58c04fb1d143f.streamlock.net/loemedia/loemedia/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bH4XSGw.png" group-title="Netherlands",LON TV (Lokale Omroep Nuenen) (720p)
-https://streamingserver02.omroepnuenen.nl/lon/lonweb_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Dw4u9wT.png" group-title="Netherlands",LOZ (Lokale Omroep Zeewolde) (720p)
 https://5e2b3e3114872.streamlock.net:1443/lozlive/smil:lozlive/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sWcwIte.png" group-title="Netherlands",Magic PowerRadio (288p) [Not 24/7]
@@ -123,8 +123,6 @@ https://d2pqcu7r58rgg1.cloudfront.net/nlpo/clr-nlpo/omroepvenlo/index.m3u8
 https://d3j015sg8r68y.cloudfront.net/nlpo/clr-nlpo/omroepvenray/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5IDb9fk.png" group-title="Netherlands",Omroep West (1080p) [Not 24/7]
 https://d1axml5ozykh3g.cloudfront.net/live/omroepwest/tv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3c3QUSn.png" group-title="Netherlands",Omroep Zeeland (1080p)
-https://d3isaxd2t6q8zm.cloudfront.net/live/omroepzeeland/tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WzxY0PL.png" group-title="Netherlands",OOG TV (720p)
 https://d1xcc1603wntzx.cloudfront.net/nlpo/clr-nlpo/oogtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nWahRAb.png" group-title="Netherlands",Open Rotterdam (480p) [Not 24/7]
@@ -153,6 +151,8 @@ https://stream.radio350.nl/hls/radio350.m3u8
 https://radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SYzjLlI.png" group-title="Netherlands",Radio Aalsmeer TV (720p) [Not 24/7]
 https://radioaalsmeer.nl:4443/live/tv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QWetX72.png" group-title="Netherlands",Radio Continu TV (720p)
+https://streaming05.stream.delivery/radiocontinu/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nyVlZeL.png" group-title="Netherlands",Radio JND (1080p)
 https://radiojnd.cdn.hostin.cc/radiojnd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9OMsUd7.png" group-title="Netherlands",RadioToppers (720p)
@@ -167,10 +167,10 @@ https://ms2.mx-cd.net/dtv-02/260-2403096/Regio90TV.smil/playlist.m3u8
 https://d3ud9qm9b5yby9.cloudfront.net/nlpo/clr-nlpo/76ecd122/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BG7zrsC.png" group-title="Netherlands",Regio TV Nieuws (1080p) [Not 24/7]
 http://highvolume04.streampartner.nl/regiomedia/regiomedia/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UdYMXWQ.png" group-title="Netherlands",RPL TV Woerden (720p)
+https://d1893oi5c6e5u0.cloudfront.net/nlpo/clr-nlpo/rpltvwoerden/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lRCsPWT.png" group-title="Netherlands",RTV 1 (720p)
 https://dy7fxpkq4ggk8.cloudfront.net/nlpo/clr-nlpo/rtv1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ySfYF1a.png" group-title="Netherlands",RTV Amstelveen (720p) [Not 24/7]
-https://live.rtva.nl/live/zender.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5vqYgYr.png" group-title="Netherlands",RTV Dordrecht (480p)
 https://ms2.mx-cd.net/dtv-02/107-475823/RTV_Dordrecht.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UBQCjnG.png" group-title="Netherlands",RTV Drenthe (1080p)
@@ -261,6 +261,8 @@ https://livestreaming.b67bu.tweedekamer.nl/live/plenairezaal/4000/prog_index.m3u
 https://livestreaming.b67.tweedekamer.nl/live/thorbeckezaal/571/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X9fezZ8.png" group-title="Netherlands",Tweede Kamer: Troelstrazaal (1080p) [Not 24/7]
 https://livestreaming.b67.tweedekamer.nl/live/troelstrazaal/567/prog_index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/llDbOoU.png" group-title="Netherlands",Tynaarlo Lokaal TV (1080p)
+https://wowza2.videostreamingwowza.com/eeldevrieszuidlaren/eeldevrieszuidlaren/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9F8ieEz.png" group-title="Netherlands",UStad (1080p)
 http://media.rtvutrecht.nl/live/rtvutrecht/ustad/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MhcKEwr.png" group-title="Netherlands",Vechtdal TV (480p)
