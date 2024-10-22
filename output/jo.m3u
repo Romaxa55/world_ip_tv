@@ -21,8 +21,6 @@ https://pull-cdnw.anystream.uk/live/d84d4809018b100059f000f600000000/playlist.m3
 https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YMqWEe4.png" group-title="Jordan",Alaraby TV (1080p)
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iYibJxK.png" group-title="Jordan",Alerth Alnabawi Channel (576p)
-http://82.212.74.2:8000/live/7307.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/f6PQzKd.png" group-title="Jordan",Alforat TV (1080p)
 http://95.216.180.111:1935/live/10/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/alhaqeqa-aldawlia-jo.png" group-title="Jordan",Alhaqeqa Aldawlia (1080p)
@@ -43,8 +41,6 @@ https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
 https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0XozB5N.png" group-title="Jordan",Jordan Satellite Channel (1080p)
 https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zGGeSQg.png" group-title="Jordan",Kaifa TV (576p)
-http://82.212.74.2:8000/live/7311.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CiA3plN.png" group-title="Jordan",MBC 1 (1080p)
 https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PVt8OPN.png" group-title="Jordan",MBC 3 KSA (1080p)
@@ -65,6 +61,14 @@ https://vo-live.cdb.cdn.orange.com/Content/Channel/NationalGeographicHDChannel/H
 https://hls.pmchd.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kuYMKgG.png" group-title="Jordan",PMC Royale (720p) [Not 24/7]
 https://rohls.pmc.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kyUtYM4.png" group-title="Jordan",Radio Fann Jordan: City View (180p) [Not 24/7]
+http://188.247.86.66/RadioFann/CityView1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s199080/images/logod.png" group-title="Jordan",Radio Yaqeen Jordan: Studio (180p) [Not 24/7]
+http://188.247.86.66/MixFM/OnAirStudio1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xGDjlp5.png" group-title="Jordan",Rotana Radio Jordan: Studio (180p) [Not 24/7]
+http://188.247.86.66/RotanaRadio/OnAirStudio1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NjgOBts.png" group-title="Jordan",Rotana Tarab Jordan: City View (180p) [Not 24/7]
+http://188.247.86.66/RadioFann/Audio32/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WX80rty.png" group-title="Jordan",Roya TV (1080p) [Not 24/7]
 https://royatv-live.daioncdn.net/royatv/royatv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G8vGrn1.png" group-title="Jordan",RT Arabic (1080p) [Geo-blocked]
