@@ -23,6 +23,8 @@ https://www.btv.ro/hls/banat-tv.m3u8
 https://bloomberg.com/media-manifest/streams/eu-event.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Romania",Bloomberg TV Europe (720p)
 https://bloomberg.com/media-manifest/streams/eu.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C5dIgsc.png" group-title="Romania",Columna TV (720p)
+http://live.columnatv.ro:1935/columnatv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/584Wn29.png" group-title="Romania",Comedy Play (720p)
 https://stream1.antenaplay.ro/live/ComedyPlay/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RD4TgcM.png" group-title="Romania",Credo TV (720p) [Not 24/7]
@@ -33,8 +35,6 @@ https://edge-ar.rcs-rds.ro/digi24ar/index.m3u8
 https://dotto.edvr.ro/live/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DIIRPNN.png" group-title="Romania",EbS Live (Europe by Satellite) (1080p)
 https://eucom-live.freecaster.com/eucom/96098bf4-5a2a-466b-8d7f-e35300fa4f28/96098bf4-5a2a-466b-8d7f-e35300fa4f28.isml/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7V012zQ.png" group-title="Romania",EbS+ Live (Europe by Satellite) (1080p)
-https://eucom-live.freecaster.com/eucom/96098c0b-0743-4afc-9562-db1673053f9d/96098c0b-0743-4afc-9562-db1673053f9d.isml/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/EWTN_Logo_and_Wordmark_%282016%29.svg/512px-EWTN_Logo_and_Wordmark_%282016%29.svg.png" group-title="Romania",EWTN Europe (720p) [Not 24/7]
 https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png" group-title="Romania",Fashion TV
@@ -67,12 +67,6 @@ https://vid4.misatv.ro:5050/MSTV/romanian/playlist.m3u8
 http://novapress.ro:2022/live/nova/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sarnn0Y.png" group-title="Romania",Observator News (720p)
 https://live1ag.antenaplay.ro/live_ObservatorNews/live_ObservatorNews.m3u8
-#EXTINF:-1 tvg-logo="https://www.peer.biz/peertv-iptv/peer-tv-alto-adige.png" group-title="Romania",Peer TV Alto Adige (1280p)
-https://iptv.peer.biz/live/peertv-it.m3u8
-#EXTINF:-1 tvg-logo="https://www.peer.biz/peertv-iptv/peer-tv-south-tyrol.png" group-title="Romania",Peer TV South Tyrol (1280p)
-https://iptv.peer.biz/live/peertv-en.m3u8
-#EXTINF:-1 tvg-logo="https://www.peer.biz/peertv-iptv/peer-tv-suedtirol.png" group-title="Romania",Peer TV Südtirol (1080p)
-https://iptv.peer.biz/live/peertv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8G1S2c2.png" group-title="Romania",Ploiesti TV (1080p)
 https://v1.mediastreaming.ro/stream/hls/ploiestitv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7vqB5Sx.png" group-title="Romania",Pro TV News (1080p)
@@ -97,6 +91,8 @@ https://stream-aleph.m.ro/Aleph/ngrp:Smartv.stream_all/playlist.m3u8
 https://customer-x8zydurm357k8j9p.cloudflarestream.com/0dd00c080ff4cbe839a12c923610a55c/manifest/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pzxUE0O.png" group-title="Romania",Super TV (576p)
 http://iptv.supertv.ro:8000/play/a001/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/11b5W8u.png" group-title="Romania",Tele7music (720p)
+https://live.tele7music.ro/hls/stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3EZ8CmJ.png" group-title="Romania",TeleM Botosani (540p) [Not 24/7]
 http://89.137.197.15:8080/testing/pl5/playlist/ram/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qSd8DTI.png" group-title="Romania",Telestar1 (360p) [Not 24/7]
@@ -113,7 +109,5 @@ https://rtvelivestream.akamaized.net/rtvesec/int/tvei_eu_main.m3u8
 http://85.186.22.140/testing/pl5/playlist/ram/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w28wcHs.png" group-title="Romania",TVR International (1080p)
 https://tvr-tvri.cdn.zitec.com/live/tvri/main.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pUcV46F.png" group-title="Romania",НТВ Мир
-http://stream02.vnet.am/HTB/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/On6ggLe.png" group-title="Romania",Перец
 http://stream01.vnet.am/Perec/mono.m3u8
