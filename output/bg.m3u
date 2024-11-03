@@ -3,6 +3,8 @@
 https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SZtJfOG.png" group-title="Bulgaria",100% Auto Moto TV (406p) [Not 24/7]
 http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tPMNDtD.png" group-title="Bulgaria",Agro TV (480p)
+https://restr2.bgtv.bg/agro/hls/agro.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Bulgaria",Bloomberg TV EMEA Live Event (720p)
 https://bloomberg.com/media-manifest/streams/eu-event.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Bulgaria",Bloomberg TV Europe (720p)
@@ -45,8 +47,6 @@ https://streamer103.neterra.tv/tiankov-orient/live.m3u8
 https://streamer103.neterra.tv/travel/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YLDp5u3.png" group-title="Bulgaria",TV 1 (720p)
 https://tv1.cloudcdn.bg:8081/stream.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HDGfDkL.png" group-title="Bulgaria",TV Zagora (576p)
-http://zagoratv.ddns.net:8080/tvzagora.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YNmrCF7.png" group-title="Bulgaria",TVart (1080p)
 https://stream.osc.bg/tvart/Stream3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ow1HArj.png" group-title="Bulgaria",TVE Internacional Europe-Asia [Geo-blocked]
@@ -55,5 +55,3 @@ https://rtvelivestream.akamaized.net/rtvesec/int/tvei_eu_main.m3u8
 https://obs.friendshipchurch.eu/tvn/mystream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pUcV46F.png" group-title="Bulgaria",НТВ Мир
 http://stream02.vnet.am/HTB/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/On6ggLe.png" group-title="Bulgaria",Перец
-http://stream01.vnet.am/Perec/mono.m3u8
