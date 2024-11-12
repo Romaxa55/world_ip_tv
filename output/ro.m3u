@@ -23,8 +23,6 @@ https://www.btv.ro/hls/banat-tv.m3u8
 https://bloomberg.com/media-manifest/streams/eu-event.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Romania",Bloomberg TV Europe (720p)
 https://bloomberg.com/media-manifest/streams/eu.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/C5dIgsc.png" group-title="Romania",Columna TV (720p)
-http://live.columnatv.ro:1935/columnatv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/584Wn29.png" group-title="Romania",Comedy Play (720p)
 https://stream1.antenaplay.ro/live/ComedyPlay/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RD4TgcM.png" group-title="Romania",Credo TV (720p) [Not 24/7]
@@ -63,6 +61,8 @@ https://www.livemetropolatv.ro/MetropolaTV/Metro/playlist.m3u8
 http://88.212.15.27/live/test_minimax/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Dy0mfkq.png" group-title="Romania",Mireasa (720p)
 https://stream1.antenaplay.ro/live/MireasaExtra/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2RxQNm6.png" group-title="Romania",MISA TV (720p)
+https://vid4.misatv.ro:5050/MSTV/romanian/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/37BKxGv.png" group-title="Romania",Nova TV Brasov (576p) [Not 24/7]
 http://novapress.ro:2022/live/nova/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sarnn0Y.png" group-title="Romania",Observator News (720p)
@@ -87,6 +87,10 @@ https://stream.realitatea.net/realitatea/plus_fq/playlist.m3u8
 https://stream.realitatea.net/realitatea/sportiva_md/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bNdpyAZ.png" group-title="Romania",Realitatea Star (720p)
 https://stream.realitatea.net/realitatea/star_md/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JoPywOp.png" group-title="Romania",Rock TV (720p)
+https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0TDnVQ4.png" group-title="Romania",ROTV Valencia (720p)
+https://rotv.romediavalencia.com:3839/live/rotvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3QUH7WS.png" group-title="Romania",Smart TV (720p)
 https://stream-aleph.m.ro/Aleph/ngrp:Smartv.stream_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZFQCQ8L.png" group-title="Romania",Speranta TV (1080p)
@@ -99,8 +103,6 @@ https://live.tele7abc.ro/hls/stream/index.m3u8
 https://live.tele7music.ro/hls/stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3EZ8CmJ.png" group-title="Romania",TeleM Botosani (540p) [Not 24/7]
 http://89.137.197.15:8080/testing/pl5/playlist/ram/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qSd8DTI.png" group-title="Romania",Telestar1 (360p) [Not 24/7]
-http://89.47.97.15/telestar/telestar.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TGRT_EU.png/512px-TGRT_EU.png" group-title="Romania",TGRT Europe (1080p)
 https://canli.tgrteu.com/tgrteu.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4yZV72X.png" group-title="Romania",TV Arad (720p)
