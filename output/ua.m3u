@@ -3,8 +3,6 @@
 https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bSXKdK5.png" group-title="Ukraine",100% News (576p)
 http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rHHz94D.png" group-title="Ukraine",Avers (480p)
-https://avers.pp.ua/hls/efir.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zdRvy87.png" group-title="Ukraine",BamBarBia TV (720p) [Not 24/7]
 http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D8YJzHV.png" group-title="Ukraine",Black Sea TV (432p)
@@ -31,12 +29,16 @@ https://freedom.cdn-01.cosmonova.net.ua/mobile-app/main/freedom/master.m3u8
 https://stream.uagit.tv/gittv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t1OABVZ.png" group-title="Ukraine",I-UA.tv (1080p)
 https://kie2.cdn.i-ua.tv/hlsme/iuatv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8rNbbY7.png" group-title="Ukraine",IT-3 (720p)
+http://cdn10.live-tv.od.ua:8081/it3od/720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NZdT9yJ.png" group-title="Ukraine",ITV HD
 http://cdn10.live-tv.od.ua:8081/itvrv/abr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CxsUpGz.png" group-title="Ukraine",Izmail TV (384p)
 https://cdn10.live-tv.cloud/izod/izod-abr-lq/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AfcBWCg.png" group-title="Ukraine",M2 (540p)
 https://live.m2.tv/hls3/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WDHoSVz.png" group-title="Ukraine",PTV (720p)
+https://cdn10.live-tv.cloud/hrpl/hrpl-abr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qL1uNlW.png" group-title="Ukraine",Renome (576p)
 http://85.238.112.40:8810/hls_sec/online/list-renome.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ouv51WB.png" group-title="Ukraine",Telekanal RAI (480p)
@@ -77,5 +79,7 @@ http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt-abr/playlist.m3u8
 http://cdn10.live-tv.od.ua:8081/sferarv/sferarv-abr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PtTQ5lv.png" group-title="Ukraine",ТВА (Чернiвцi) (576p)
 http://hls.cdn.ua/tva.ua_live/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LyA3kBR.png" group-title="Ukraine",Телеканал Репортер Одесса (720p)
+http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr/31chod/31chod/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/f5EtIzV.png" group-title="Ukraine",Тернопіль 1 (720p)
 https://ott.columbus.te.ua/ternopil1/index.m3u8
