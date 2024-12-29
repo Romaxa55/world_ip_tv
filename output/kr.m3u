@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://www.abn.co.kr/resources/images/logo.png" group-title="South Korea",ABN TV (720p)
+https://vod2.abn.co.kr/IPHONE/abn.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Asu5pE9.png" group-title="South Korea",Arirang
 https://cdn-01.bonus-tv.ru/arirang_edge/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dtfiG9k.png" group-title="South Korea",Arirang Radio (720p)
@@ -75,12 +77,8 @@ http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
 https://5ee1ec6f32118.streamlock.net/live/livetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HCbvAiM.png" group-title="South Korea",MBC Daejeon (대전 MBC) (720p) [Not 24/7]
 https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FGsKCH3.png" group-title="South Korea",MBC Gangwon (MBC 강원영동) (1080p) [Not 24/7]
-http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JM4rxGU.png" group-title="South Korea",MBC Jeju (제주 MBC) (352p) [Not 24/7]
 https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3C57SwN.png" group-title="South Korea",MBC Jeonju (450p)
-https://5ee9633b25727.streamlock.net/jmbc_tv/_definst_/jmbc_tv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5oraHc0.png" group-title="South Korea",MBC Mokpo (목포 MBC) (720p) [Not 24/7]
 http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3VSuYsn.png" group-title="South Korea",MBC Yeosu (여수 MBC) (1080p) [Not 24/7]
@@ -107,8 +105,6 @@ http://61.82.49.4:1935/live/_definst_/tv.stream/playlist.m3u8
 http://123.140.197.22/stream/1/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Srsw4Mi.png" group-title="South Korea",SBS KBC (1080p) [Not 24/7]
 http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gaBq1Lz.png" group-title="South Korea",SBS KNN (1080p) [Not 24/7]
-https://stream1.knn.co.kr/hls/9ly4534y7dm2xfa123r2_tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/grr8BlV.png" group-title="South Korea",SBS TJB (1080p) [Not 24/7]
 http://1.245.74.5:1935/live/tv/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Hq3yjqA.png" group-title="South Korea",Shinsegae Shopping TV (720p)
@@ -121,5 +117,7 @@ https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
 https://rtvelivestream.akamaized.net/rtvesec/int/tvei_eu_main.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hfXjVJd.png" group-title="South Korea",W Shopping (720p)
 https://liveout.catenoid.net/live-05-wshopping/wshopping_1500k/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IkFev3L.png" group-title="South Korea",WBC TV (1080p)
+https://cdnlive179.smartucc.kr/smartlive/312/46324be24454bd98f785039457ac695d/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/o0eevnb.png" group-title="South Korea",Zarok TV Sorani (720p)
 https://zindisorani.zaroktv.com.tr/hls/stream.m3u8
