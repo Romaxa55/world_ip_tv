@@ -23,8 +23,12 @@ http://95.216.180.111:1935/live/10/playlist.m3u8
 https://master.starmena-cloud.com/hls/almahriah.m3u8
 #EXTINF:-1 tvg-logo="https://www.anadolunettv.com/d/r/logo.png" group-title="Turkey",Anadolu Net TV (1080p)
 https://live.artidijitalmedya.com/artidijital_anadolunet/anadolunet/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JsDCyWG.png" group-title="Turkey",ARAS TV (576p) [Not 24/7]
+http://1.rtmp.org/tv217/yayin.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HyVUwFC.png" group-title="Turkey",ATV
 https://c.fulltvizle.com/aytv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QWo0x7S.jpg" group-title="Turkey",beIN Sports Haber
+https://canlitvulusal3.xyz/live/beinsportshaber/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p3ON1oX.png" group-title="Turkey",BENGÜTÜRK TV (720p) [Not 24/7]
 https://tv.ensonhaber.com/benguturk/benguturk.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bmkXfIE.png" group-title="Turkey",Bloomberg HT
@@ -101,8 +105,6 @@ https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8
 https://halktv-live.daioncdn.net/halktv/halktv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NrxHGnb.png" group-title="Turkey",Hunat TV (720p) [Geo-blocked]
 https://live.artidijitalmedya.com/artidijital_hunattv/hunattv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aXxAz84.png" group-title="Turkey",IBB TV (1080p)
-http://wowza.istweb.tv:1935/webtv/webtv_wowza1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eXErSv0.png" group-title="Turkey",Kanal 3 (1080p) [Not 24/7]
 https://live.artidijitalmedya.com/artidijital_kanal3/kanal3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0gq9xOm.png" group-title="Turkey",Kanal 7 (1080p) [Not 24/7]
@@ -219,8 +221,6 @@ https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
 https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rsoSLih.png" group-title="Turkey",Teve2 (1080p)
 https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TGRT_EU.png/512px-TGRT_EU.png" group-title="Turkey",TGRT Europe (1080p)
-https://canli.tgrteu.com/tgrteu.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PrxwKDw.png" group-title="Turkey",TGRT Haber (720p)
 https://canli.tgrthaber.com/tgrt.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Mbi0jbz.png" group-title="Turkey",Tivi 6 (720p)
@@ -251,6 +251,8 @@ https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2AcRKdL.png" group-title="Turkey",TürkHaber (720p)
 https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8CtrYVb.png" group-title="Turkey",TV 1 (720p)
+https://edge1.socialsmart.tv/tv1/bant1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UpsQsbd.png" group-title="Turkey",TV4 (720p)
 https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DKNwiDm.png" group-title="Turkey",TV 8 (1080p) [Not 24/7]
