@@ -85,6 +85,8 @@ https://reflect-fairfield-ca.cablecast.tv/live-8/live/live.m3u8
 https://reflect-watchkfon-fontana.cablecast.tv/live-3/live/live.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png" group-title="California",FOX 2 San Francisco CA (KTVU) (720p)
 https://apollo.production-public.tubi.io/live/ac-ktvu.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png" group-title="California",FOX 11 Los Angeles CA (KTTV) (720p)
+https://apollo.production-public.tubi.io/live/ac-kttv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PYhdQy9.png" group-title="California",Fresno CMAC 1 Public Channel (720p)
 https://reflect-vod-cmac.cablecast.tv/live-11/live/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O0sYOED.png" group-title="California",Fresno CMAC 2 Education Channel (720p)
@@ -113,8 +115,6 @@ https://reflect-kcat-live.cablecast.tv/live-2/live/live.m3u8
 https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/kern/G0169_003/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QJyt4n4.jpg" group-title="California",KFMB CBS 8
 https://livevideo.tegnadigital.com/kfmb/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KFMB/elvs/live.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TLN_2015.png/512px-TLN_2015.png" group-title="California",KQSL Channel 8 (720p)
-https://uni01rtmp.tulix.tv/kqsltv/kqsltv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Estrella_TV_2020_Logo.svg/512px-Estrella_TV_2020_Logo.svg.png" group-title="California",KRCA-TV Estrella Los Angeles (720p)
 https://content.uplynk.com/channel/829a8c85f9e840c6bed963856c231428.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="California",KSBY News San Louis Obispo CA (720p)
@@ -159,14 +159,16 @@ https://cdn3.wowza.com/5/RXJNMFI3VlVkOEFP/encinitas/G0322_002/playlist.m3u8
 https://cdn3.wowza.com/5/WDIrTW5sM1JEY1NN/napatv/G0360_003/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RZF3wwW.png" group-title="California",Napa Valley TV Public Access Channel 28 (480p)
 https://cdn3.wowza.com/5/WDIrTW5sM1JEY1NN/napatv/G0360_004/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="California",NBC 3 Sacramento CA (KCRA) (720p)
+https://apollo.production-public.tubi.io/live/ac-kcra.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="California",NBC 4 Los Angeles CA (KNBC) [Geo-blocked]
 https://amg00884-nbcuniversal-nbcla-pcr-xumo-ksnf2.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="California",NBC 7 San Diego CA (KNSD) [Geo-blocked]
 https://amg00884-nbcuniversal-nbcsd-pcr-xumo-o4a18.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="California",NBC 8 Salinas CA (KSBW) (720p)
+https://apollo.production-public.tubi.io/live/ac-ksbw.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="California",NBC 11 San Jose CA (KNTV) [Geo-blocked]
 https://amg00884-nbcuniversal-nbcsf-pcr-xumo-xetsp.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wKSZn6x.png" group-title="California",Newport Beach Television (720p)
-https://cdn3.wowza.com/5/RXJNMFI3VlVkOEFP/newportbeach/G0064_003/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6C71KwP.png" group-title="California",Oceanside Community Television (KOCT) Community Channel 18 (720p)
 https://securestream6.champds.com/hlssstc/KOCTCALIVE/KOCTCALIVE.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6C71KwP.png" group-title="California",Oceanside Community Television (KOCT) Education and Government Channel 19 (720p)
