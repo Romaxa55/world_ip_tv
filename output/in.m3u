@@ -15,6 +15,8 @@ https://mediaserver.abnvideos.com/streams/abntvindia.m3u8
 https://abplivetv.akamaized.net/hls/live/2043013/ganga/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/ABP_Majha_logo.svg/512px-ABP_Majha_logo.svg.png" group-title="India",ABP Majha (720p)
 https://abplivetv.akamaized.net/hls/live/2043011/manjha/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ENImp3R.png" group-title="India",Akaram Kidz (460p) [Not 24/7]
+http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WdSjlPl.png" group-title="India",Amrita TV (720p)
 https://dr1zhpsuem5f4.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sh0yFSf.png" group-title="India",Anjan (1080p) [Not 24/7]
@@ -37,6 +39,8 @@ https://mcncdndigital.com/balleballetv/index.m3u8
 https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/x5f8E3K.png" group-title="India",Bharat Samachar TV (360p)
 https://idvd.multitvsolution.com/idvo/bharatsamachar.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GlfrYs7.png" group-title="India",Blessing TV Tamil (720p)
+https://stream.blessingtv.tv:1443/blessingtv-tamillive/mystream_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="India",Bloomberg TV Asia (720p)
 https://bloomberg.com/media-manifest/streams/asia.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="India",Bloomberg TV Asia Live Event (720p)
@@ -91,8 +95,6 @@ http://akalmultimedia.net:1935/gdnslive/gdns-live/chunklist.m3u8
 https://server.livelegitpro.in/globalpunjab/globalpunjab/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZrvoGqS.png" group-title="India",GoodNews TV (720p)
 https://bpgdlwwar3ze-hls-live.wmncdn.net/goodnews/live.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xhbZvzt/cropped-final-logo-300x127.png" group-title="India",Gospel TV India (720p)
-http://live.adostream.com:1935/gospeltv/gospeltv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/srOoujm.png" group-title="India",Grace Family TV (720p)
 https://gracefamilytv.livebox.co.in/gracefamilytvhls/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JcD2xck/logo-hamda.png" group-title="India",Hamdard TV (1080p)
@@ -187,8 +189,6 @@ https://6n3yow8pl9ok-hls-live.5centscdn.com/sadhanalivetv/live.stream/playlist.m
 https://6n3yow8pl9ok-hls-live.5centscdn.com/sadhananewstv/live.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dSOfYyh.png" group-title="India",Safari TV (480p) [Not 24/7]
 https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cLXkYvr/IMG-20230610-140232.jpg" group-title="India",Samachar Plus (1080p)
-https://samacharplus.livebox.co.in/samacharplushls/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TWSZC2H.png" group-title="India",Sansad TV (1080p) [Not 24/7]
 https://hls.media.nic.in/hls/live/lstv/lstv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SDkiMvR.png" group-title="India",Sanskar TV (1080p)
@@ -255,12 +255,8 @@ https://rtvelivestream.akamaized.net/rtvesec/int/tvei_eu_main.m3u8
 https://segment.yuppcdn.net/110322/channel24/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/etr1k08.png" group-title="India",Vaanavil TV (720p)
 https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bf/Vasanth_TV_logo.png" group-title="India",Vasanth TV (240p)
-https://vasanth.pc.cdn.bitgravity.com/vasanth/secure/live/feed01/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SvXCjha.png" group-title="India",VBC News (576p)
 https://5a1178b42cc03.streamlock.net/8200/8200/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KbU36xI.png" group-title="India",VCV (720p) [Not 24/7]
-https://5a1178b42cc03.streamlock.net/8210/8210/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MC6edvH.jpg" group-title="India",Venad News (360p)
 https://5a1178b42cc03.streamlock.net/8222/8222/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YozqNL3.jpg" group-title="India",Vision (1080p)
