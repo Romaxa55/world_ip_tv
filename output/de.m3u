@@ -3,8 +3,6 @@
 https://123tv-mx1.flex-cdn.net/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="Germany",24 Horas Internacional [Geo-blocked]
 https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Allg%C3%A4u_TV_Logo_%282021%29.svg/512px-Allg%C3%A4u_TV_Logo_%282021%29.svg.png" group-title="Germany",Allgäu TV (1080p)
-https://stream01.welocal.stream/stream/fhd-allgaeutv_25679/ngrp:stream_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3JriZGR.png" group-title="Germany",Altenburg TV (1080p)
 https://58de7a369a9c4.streamlock.net/abgtv/abgtv_1080p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hvGJ2oa.png" group-title="Germany",Anixe + (360p)
@@ -15,10 +13,12 @@ https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
 http://livestreams.br.de/i/bralpha_germany@119899/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DLVjeno.png" group-title="Germany",Aristo TV (360p)
 https://ma.anixa.tv/clips/stream/aristo/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/27AKMUL.png" group-title="Germany",Augsburg TV (1080p)
-https://stream02.welocal.stream/stream/fhd-augsburgtv_104951/ngrp:stream_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4nDlMt0.png" group-title="Germany",Avatar
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/600adbdf8c554e00072125c9/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ac5690-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f0f2f9f0-a766-421f-b28e-f13232bf4b9f
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="Germany",Baden TV (1080p) [Not 24/7]
+http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
+#EXTINF:-1 tvg-logo="https://badentvsued.s3.welocal.cloud/sources/60631840dfa86.png" group-title="Germany",Baden TV Süd (480p)
+https://cdn.icu.de/rtplive/smil:btvsued.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/td3d1F8.png" group-title="Germany",Beverly Hills 90210
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60afb576053df900076fa2f0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ac7da0-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c388ec54-e705-453e-8f4f-45a71cebb28d
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RLwmrk3.png" group-title="Germany",Bibel TV (720p)
@@ -33,8 +33,6 @@ https://bloomberg.com/media-manifest/streams/eu-event.m3u8
 https://bloomberg.com/media-manifest/streams/eu.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/26s6V64.png" group-title="Germany",BR Fernsehen Nord (720p)
 https://mcdn.br.de/br/fs/bfs_nord/hls/de/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1UZNdRH.png" group-title="Germany",Chaos City
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60afbad343e3840007164348/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84aca4b5-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ac925887-52f7-4055-a15c-ef63b5a406a8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4SEAbVf.png" group-title="Germany",Chemnitz Fernsehen (1080p)
 https://chemnitz.iptv-playoutcenter.de/chemnitz/chemnitzfernsehen.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YFnmSLW.png" group-title="Germany",Cira TV
@@ -123,8 +121,6 @@ https://h056.video-stream-hosting.de/easycast11-live/_definst_/mp4:livestreamhd2
 https://leipzig.iptv-playoutcenter.de/leipzig/leipzigfernsehen.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0OmBlfE.png" group-title="Germany",Light Channel (576p) [Not 24/7]
 http://streamer1.streamhost.org:1935/salive/lctvde/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/R74gG7U.png" group-title="Germany",Magenta Musik 360 (1080p)
-https://streaming.magentamusik.de/csm/573870/magentamusik1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tAaMdp0.png" group-title="Germany",Marco Polo TV
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65004cf398020f00084ca8bc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84adb624-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c670d03b-8683-44b1-822a-72919a68ae4d
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IFGXK6u.png" group-title="Germany",MDF.1 (1080p)
@@ -149,14 +145,6 @@ https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_mv/master.m3u8
 https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/512px-Logo_NDR_Fernsehen_2017.svg.png" group-title="Germany",NDR Schleswig-Holstein (720p)
 https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_sh/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9uaMgTk.png" group-title="Germany",Niederbayern TV (720p)
-https://stream03.welocal.stream/stream/sat-nby/ngrp:sat-nby.stream_all/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mAaIh3C.png" group-title="Germany",Niederbayern TV Deggendorf & Straubing (1080p)
-https://stream03.welocal.stream/stream/fhd-nbydeggendorf_99148/ngrp:stream_all/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5sHzZAh.png" group-title="Germany",Niederbayern TV Landshut (1080p)
-https://stream03.welocal.stream/stream/fhd-nbylandshut_75262/ngrp:stream_all/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0wnFhNi.png" group-title="Germany",Niederbayern TV Passau (1080p)
-https://stream03.welocal.stream/stream/fhd-nbypassau_49171/ngrp:stream_all/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7A2LRKI.png" group-title="Germany",Noa 4 Hamburg (1080p)
 https://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/941nrGb.png" group-title="Germany",Noa 4 Norderstedt (1080p)
@@ -243,8 +231,6 @@ http://58bd5b7a98e04.streamlock.net/medienasa-live/ran1_high/playlist.m3u8
 http://58bd5b7a98e04.streamlock.net/medienasa-live/rbw_high/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3koyLef.png" group-title="Germany",Regio TV Bodensee (1080p)
 https://regiotv-b.iptv-playoutcenter.de/regiotv-b/regiotv-b.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3koyLef.png" group-title="Germany",Regio TV Schwaben (1080p)
-https://stream05.welocal.stream/stream/fhd-regiotv_182913/ngrp:stream_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3koyLef.png" group-title="Germany",Regio TV Stuttgart (1080p)
 https://regiotv-s.iptv-playoutcenter.de/regiotv-s/regiotv-s.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.rennsteig.tv/wp-content/uploads/rennsteig-tv-claim-300.png" group-title="Germany",Rennsteig TV (720p)
@@ -255,6 +241,8 @@ http://58bd5b7a98e04.streamlock.net/medienasa-live/RFH_high/playlist.m3u8
 https://rnf.iptv-playoutcenter.de/rnf/rnf.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v1PIbB2.png" group-title="Germany",RT DE (1080p) [Not 24/7]
 https://rt-ger.rttv.com/dvr/rtdeutsch/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/94K94k2.png" group-title="Germany",RTL (576p)
+https://s6.hopslan.com/rtlc1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OodehFV.png" group-title="Germany",Saarland Fernsehen 1 (1080p)
 https://saarland1.iptv-playoutcenter.de/saarland1/saarland1.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Yv7j4ia.png" group-title="Germany",Saarland Fernsehen 2 (720p) [Not 24/7]
@@ -303,8 +291,6 @@ https://stream.tiviturk.de/live/tiviturk.m3u8
 https://h057.video-stream-hosting.de/tv38-live/_definst_/smil:livestream.smil/playlist.m3u8?ref=
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Tv.berlin_2009.svg/512px-Tv.berlin_2009.svg.png" group-title="Germany",TV Berlin (720p)
 https://live2.telvi.de/hls/tvberlin.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ymh11VV.png" group-title="Germany",TV Ingolstadt (1080p)
-https://stream01.welocal.stream/stream/fhd-tvingolstadt_44349/ngrp:stream_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvmainfranken.png" group-title="Germany",TV Mainfranken (1080p) [Not 24/7]
 https://tvtouringw.iptv-playoutcenter.de/tvtouringw/tvtouringw.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tjD9fX2.png" group-title="Germany",TV Oberfranken (TVO) (1080p) [Not 24/7]
@@ -317,6 +303,8 @@ https://rtvelivestream.akamaized.net/rtvesec/int/tvei_eu_main.m3u8
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e8b5e43f294f8000793c3d7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84afb1f7-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b8f594b9-41be-4385-aa1a-9f9f0de6f06b
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EsWuCJ3.png" group-title="Germany",Volksmusik TV (1080p)
 https://vmtv.iptv-playoutcenter.de/vmtv/vmtv1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QPcmfZb.png" group-title="Germany",VOX (576p)
+https://s6.hopslan.com/voxx1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RbqDMYx.png" group-title="Germany",WDR 1 Live (720p)
 https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qn5Vmdu.png" group-title="Germany",WDR Fernsehen Aachen (720p) [Geo-blocked]
@@ -349,7 +337,5 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5a
 https://ef56ef401101403a8b06f1dec29ef1eb.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_ZeeOne/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RbdpCNf.png" group-title="Germany",ZWEI2 Music (1080p)
 https://cdne.folxplay.tv/folx-trz/streams/ch-2/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pUcV46F.png" group-title="Germany",НТВ Мир
-http://stream02.vnet.am/HTB/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/On6ggLe.png" group-title="Germany",Перец
 http://stream01.vnet.am/Perec/mono.m3u8
