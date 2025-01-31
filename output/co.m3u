@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="Colombia",24 Horas Internacional [Geo-blocked]
 https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JFEFVwV.jpg" group-title="Colombia",Agenda Al Día TV (720p)
+https://cp.panelchs.com:1936/8156/8156/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xjTU14t.jpg" group-title="Colombia",ANC Televisión (480p) [Not 24/7]
 https://canal.mediaserver.com.co/live/ANCTELEVISION.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AHaXlCh.png" group-title="Colombia",Anime Zone TV (480p)
@@ -33,18 +35,16 @@ http://190.211.140.89:8081/SVTranscoder/SOLTVabr.stream/playlist.m3u8
 https://eu1.servers10.com:8081/8056/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fT6OU3M.png" group-title="Colombia",Canal 14 Regional (720p) [Not 24/7]
 https://glb.bozztv.com/glb/ssh101/videoenvivo/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9BwZyhM.jpg" group-title="Colombia",Canal 55 Telemorisco TV (720p)
-http://canal.mediaserver.com.co/live/telemorisco.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/S4xqZgV.png" group-title="Colombia",Canal Cine Dios (480p)
 https://canal.mediaserver.com.co/live/cinedios.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BYsyNHZ.jpg" group-title="Colombia",Canal Dos Yopal (720p)
 http://131.221.41.94/hls/canal2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ii9hnTA.jpeg" group-title="Colombia",Canal INFO TV (1080p) [Not 24/7]
+https://glb.bozztv.com/glb/ssh101/infotv01/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ODMa27W.jpg" group-title="Colombia",Canal Más Televisión (720p)
 https://movil.ejeserver.com/live/teledoradahd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zRqfJuj.png" group-title="Colombia",Canal Mundo Visión (720p)
 https://movil.ejeserver.com/live/mundovisiontv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/edaAexc.png" group-title="Colombia",Canal Nets (720p) [Not 24/7]
-https://movil.ejeserver.com/live/nets.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rfnFqU3.png" group-title="Colombia",Canal Oración Con Son (1080p)
 https://canal.mediaserver.com.co/live/oracionconson.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3qxBDhV.png" group-title="Colombia",Canal PyC (480p) [Not 24/7]
@@ -111,8 +111,6 @@ https://streaming-cl.sh1ny.space/memfs/0e41fc31-9f44-46d4-8712-0446e2f3dcaa.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7Wlt6bc.png" group-title="Colombia",La Hermandad Salsera (1080p) [Not 24/7]
 https://streamlov.alsolnet.com/hermandadsalsera/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1CftDPB.png" group-title="Colombia",Locomotion TV (480p) [Not 24/7]
-http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tCg7owd.png" group-title="Colombia",MasMusica FM (720p)
 https://movil.ejeserver.com/live/masmusica.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1836009952420274177/FfYonU6r_400x400.jpg" group-title="Colombia",MCI Television
@@ -185,5 +183,3 @@ https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
 https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9tZae88.png" group-title="Colombia",Veo Televisión (720p) [Not 24/7]
 https://movil.ejeserver.com/live/veotv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/25CFHpB.png" group-title="Colombia",Vive TV Colombia (1080p)
-http://192.144.113.132:1935/live/ViveTV/playlist.m3u8
