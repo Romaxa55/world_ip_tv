@@ -467,12 +467,10 @@ https://bcovlive-a.akamaihd.net/r21fb8503a4a74d098b798f16922b2a36/us-east-1/7345
 https://bcovlive-a.akamaihd.net/r602a47f47fee47bb83239eb1b1e1ac83/us-east-1/734546207001/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gG2SWgG.png" group-title="United States",CBN News National (1080p)
 https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png" group-title="United States",CBS 3 Great Falls MT (KRTV) (720p)
-https://apollo.production-public.tubi.io/live/ac-krtv.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png" group-title="United States",CBS 3 Norfolk VA (WTKR) (720p)
-https://apollo.production-public.tubi.io/live/ac-wtkr.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E4PkyqN.png" group-title="United States",CBS 3 Omaha NE (KMTV-TV) (720p)
 https://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png" group-title="United States",CBS 7 Bozeman MT (KBZK) (720p)
+https://apollo.production-public.tubi.io/live/ac-kbzk.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png" group-title="United States",CBS 11 Houston TX (KHOU) (1080p)
 https://livevideo.tegnadigital.com/khou/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KHOU/elvs/live.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png" group-title="United States",CBS 12 KWCH Weather Channel / Always On Storm Team 12
@@ -495,6 +493,8 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dc9b875e280c80009a8a44a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2791e5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a612bd7b-6a41-4c05-aebf-59ac30d6018b
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DExbVa9.png" group-title="United States",CBS News Miami
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb299b79498900070b29e0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2791e6-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0f5951e3-be83-4440-8784-62a52e09b81b
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ubxwfMY.png" group-title="United States",CBS News Minnesota
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5eb1b0bf2240d8000732a09c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2791e7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4664f76e-5d97-4d34-816d-f8d81755622a
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bpc4v0u.png" group-title="United States",CBS News New York
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dc9b8223687ff000936ed79/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2791e9-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c8f1fbb0-e9de-4ec2-b727-78b57832f3ae
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FmtTbNY.png" group-title="United States",CBS News Philadelphia
@@ -729,6 +729,8 @@ https://amg09501-questar-amg09501c3-stirr-us-3096.playouts.now.amagi.tv/amg09501
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc5us/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CIYnLWz.png" group-title="United States",Fear Factor
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/588128d17d64bc0d0f385c34/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28ca62-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e31f1ad3-d53a-4c8d-9e63-079c41a20d98
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YtBZ0Lc/FIDELE-TV.png" group-title="United States",Fidele TV (480p)
+https://59d39900ebfb8.streamlock.net/FIDELETV/FIDELETV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8j2npVc.png" group-title="United States",Filmrise Forensic Files (720p)
 https://apollo.production-public.tubi.io/live/ac-forensic-files.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8j2npVc.png" group-title="United States",Filmrise True Crime (720p)
@@ -885,8 +887,6 @@ https://video1.getstreamhosting.com:1936/8326/8326/playlist.m3u8
 https://bozztv.com/hwotta/playlist/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IdGNIoB.png" group-title="United States",Home.Made.Nation
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dc1cb279c91420009db261d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c293f93-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5d04cbed-3ba0-4e3b-9baf-dc4eb838fa1c
-#EXTINF:-1 tvg-logo="https://i.imgur.com/p24tAjs.jpg" group-title="United States",Hope4Life TV (720p)
-http://144.217.14.88/hls/hope4life.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rnZN7rD.png" group-title="United States",HSN
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1us/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R6oC2A3.png" group-title="United States",HSN2
@@ -947,6 +947,8 @@ https://jlt-jltv-xumo.otteravision.com/jlt/jltv/jltv.m3u8
 https://amg00514-noseybaxterllc-realnosey-cineverse-tqbpv.amagi.tv/playlist/amg00514-noseybaxterllc-realnosey-cineverse/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/o5EPIyZ.png" group-title="United States",Julia Child
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/606b5ee42b54a100079dd593/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2966a3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=88ac2596-0c05-4abb-a965-5fc31339f864
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lTdwfd8.png" group-title="United States",Juventud Renovada en el Espiritu Santo (720p) [Not 24/7]
+http://teleredmcp.com:1935/jrestv/jrestv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lRy231d.png" group-title="United States",K-Content by CJ ENM
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6176ff3ba00900000763710f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2966a4-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=783bd025-4cbc-40c4-a742-b70d428fd035
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V73Tkyc.png" group-title="United States",KARE-DT1 (1080p)
@@ -1131,6 +1133,8 @@ http://80tv.lincoln.ne.gov/live/live.m3u8
 http://10tv.lincoln.ne.gov/live/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ACEbGD5.png" group-title="United States",Localish (720p)
 https://apollo.production-public.tubi.io/live/ac-localish.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Logo_TV_2015.svg/512px-Logo_TV_2015.svg.png" group-title="United States",Logo East
+http://fl3.moveonjoy.com/Logo/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GtNgJ28.png" group-title="United States",Logo Pluto TV
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ce5a8954311f992edbe1da2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c298db6-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=df156d8e-abc9-4542-8940-17058c09347c
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Kr3U3Ub.png" group-title="United States",Logos TV (1080p) [Not 24/7]
@@ -1211,6 +1215,8 @@ https://mdstrm.com/live-stream-playlist/660b066dae419408a11b6072.m3u8
 https://tbn-jw.cdn.vustreams.com/live/merit-dev/live.isml/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/S2VUrO8.png" group-title="United States",MGM+ East
 http://fl2.moveonjoy.com/EPIX/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QV7Lt5j.png" group-title="United States",MGM+ Marquee
+http://fl2.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjQwMDkyNjVf/MidnightPulp_200x200.png" group-title="United States",Midnight Pulp
 https://amg01201-cinedigmenterta-midnightpulp-cineverse-axym1.amagi.tv/playlist/amg01201-cinedigmenterta-midnightpulp-cineverse/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RPJiolQ.png" group-title="United States",Midpen Media Center Arts Issues and Lifestyles Channel 30 (720p)
@@ -1289,6 +1295,8 @@ https://mst3k-vizio.amagi.tv/playlist.m3u8
 https://mytime-tcl.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/73/MNTV-KCWX_Custom_Logo_7-3.png" group-title="United States",myTV San Antonio TX (KCWX-TV) (720p) [Not 24/7]
 http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cjFVtxK.png" group-title="United States",Nago TV (240p)
+https://lakay.online/public/nagotv/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6GtlOSi.png" group-title="United States",Napa Valley TV Education Access Channel 27 (480p)
 https://cdn3.wowza.com/5/WDIrTW5sM1JEY1NN/napatv/G0360_003/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RZF3wwW.png" group-title="United States",Napa Valley TV Public Access Channel 28 (480p)
@@ -1301,8 +1309,6 @@ https://livestream.telvue.com/nashuanh2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/pla
 https://livestream.telvue.com/nashuanh3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="United States",NBC 2 Orlando FL (WESH) (720p)
 https://apollo.production-public.tubi.io/live/ac-wesh.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="United States",NBC 2 Tulsa OK (KJRH) (720p)
-https://apollo.production-public.tubi.io/live/ac-kjrh.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="United States",NBC 4 Los Angeles CA (KNBC) [Geo-blocked]
 https://amg00884-nbcuniversal-nbcla-pcr-xumo-ksnf2.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/WNBC_4_NY.svg/512px-WNBC_4_NY.svg.png" group-title="United States",NBC 4 New York NY (WNBC) [Geo-blocked]
@@ -1337,8 +1343,6 @@ https://amg00884-nbcuniversal-ctnews-xumo-cdfzg.amagi.tv/playlist.m3u8
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5df97894467dfa00091c873c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5101-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f97284ae-c6d0-447a-b3ee-5be284830e0b
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5iT7hEa.png" group-title="United States",NBCLX
 https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/64sZVF9.jpg" group-title="United States",New Canaan Television 79 (NCTV79) (New Canaan CT) (1080p)
-https://livestream.telvue.com/nctv791/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wKSZn6x.png" group-title="United States",Newport Beach Television (720p)
 https://cdn3.wowza.com/5/RXJNMFI3VlVkOEFP/newportbeach/G0064_003/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ez7qAZP.png" group-title="United States",News 12 New York
@@ -1523,8 +1527,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1aca831
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddc266f80e3550009136843/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KnlQzs7.png" group-title="United States",Pluto TV Backcountry
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cabdf1437b88b26947346b2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ac634-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4bbab6d6-61db-4795-bbab-9325b47792ec
-#EXTINF:-1 tvg-logo="https://i.imgur.com/npxaOtl.png" group-title="United States",Pluto TV Bob Esponja (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1aca0b4e448e00075e7c5e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KuIVlD1.png" group-title="United States",Pluto TV British TV (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b68a18823ecb93393cba2f1/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5b68a18823ecb93393cba2f1&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=154&terminate=false&userId=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tm3VFmq.png" group-title="United States",Pluto TV Cars
@@ -1917,8 +1919,6 @@ https://github.com/BellezaEmporium/IPTV_Exception/raw/master/channels/ve/telesur
 https://reflect-temecula.cablecast.tv/live-2/live/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KMeHRV3.png" group-title="United States",Tempe Channel 11
 https://cdn3.wowza.com/5/cFh0V0QwUVc4SDl2/tempe/G0355_003/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mggN4mS.jpg" group-title="United States",Tempo Afric TV (720p)
-https://streamspace.live/hls/tempoafrictv/livestream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="United States",Tennis Channel
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lCpf5P1.png" group-title="United States",Teve Vida Network (480p) [Not 24/7]
@@ -2045,6 +2045,8 @@ https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main.m3u8
 https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
 #EXTINF:-1 tvg-logo="https://www.watchyour.tv/channels/logo/tvs-bowling-network.jpg" group-title="United States",TVS Bowling Network (720p)
 https://bozztv.com/gusa/gusa-tvsbowling/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30ZoF75.png" group-title="United States",TVS Boxing (360p)
+https://bozztv.com/gusa/gusa-tvsboxing/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yyz1S2W.png" group-title="United States",TVS Cipher Network (360p)
 https://bozztv.com/gusa/gusa-tvsmystery/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/st1xMsw.png" group-title="United States",TVS Classic Movies (288p)
@@ -2099,6 +2101,8 @@ https://bozztv.com/gusa/gusa-tvsturbo/index.m3u8
 https://bozztv.com/gusa/gusa-tvsvintage/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dwr98qb.png" group-title="United States",TVS Western Movie (270p)
 https://bozztv.com/gusa/gusa-tvswesternmovies/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8hC4PfF.png" group-title="United States",TVS Women Sports (720p)
+https://bozztv.com/gusa/gusa-tvswsn/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.watchyour.tv/channels/logo/tvs-consumer-direct.jpg" group-title="United States",TVSConsumerDirect
 https://rpn.bozztv.com/gusa/gusa-ConsumerDirect/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cTwdOtV.png" group-title="United States",UALR TV
