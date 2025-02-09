@@ -5,6 +5,8 @@ https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
 https://s.emisoras.tv:8081/atv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AHaXlCh.png" group-title="Honduras",Anime Zone TV (480p)
 http://animezonetv.net/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://web.archive.org/web/20240509182044if_/https://pbs.twimg.com/profile_images/1744338643957780480/24Kv02RD_400x400.jpg" group-title="Honduras",ANIMESTATION (Argentina) (720p)
+https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="Honduras",AXN
 https://streamer1.nexgen.bz/AXN/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jytpy32.png" group-title="Honduras",AZA TV HD (720p)
@@ -17,8 +19,6 @@ https://5e85d90130e77.streamlock.net/6052/6052/playlist.m3u8
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/canal11hn/canal11hn.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QQNcob1.png" group-title="Honduras",Canal 15 DTP (352p)
 https://s.emisoras.tv:8081/dtp/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xhVEEA1.png" group-title="Honduras",Canal 51 (720p)
-https://tvcn51.com/hls/cn51480.m3u8
 #EXTINF:-1 tvg-logo="https://caribbeanadvantage.com/images/CAtv-logo-512.png" group-title="Honduras",Caribbean Advantage TV (1080p) [Not 24/7]
 https://video2.getstreamhosting.com:19360/8216/8216.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gBbLyqh.png" group-title="Honduras",CCTV-4 America (1080p)
@@ -54,11 +54,9 @@ https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.energeek.cl/logos/Fanpop-512.png" group-title="Honduras",Fanpop TV
 https://streaming-cl.sh1ny.space/memfs/e16d2f72-70b5-4bf5-b9c5-107b6390a10f.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZnmAXVv.png" group-title="Honduras",France 24 Español (1080p)
-https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_5000.m3u8
+https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vPxvbVv.png" group-title="Honduras",Frecuencia Musical TV [Not 24/7]
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FqFxog1.png" group-title="Honduras",Garage TV Latin America
-https://stream1.sersat.com/hls/garagetv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2t7A2yg.png" group-title="Honduras",Girasol TV (720p)
 https://video.misistemareseller.com/Girasoltv/Girasoltv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hxGvZ77.png" group-title="Honduras",Globo TV (1080p) [Not 24/7]
@@ -77,6 +75,10 @@ https://streaming-cl.sh1ny.space/memfs/0e41fc31-9f44-46d4-8712-0446e2f3dcaa.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/S79uof0.png" group-title="Honduras",Kerusso TV (720p)
 https://s.emisoras.tv:8081/kerussotv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZqwLPag.jpg" group-title="Honduras",La Top 102.9 (720p)
+https://59d39900ebfb8.streamlock.net/top102/top102/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vgHhh1W.jpg" group-title="Honduras",La Top 107.7 (720p)
+https://59d39900ebfb8.streamlock.net/top107/top107/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fc5IHSy.png" group-title="Honduras",Lenca Television Canal 40 (720p) [Not 24/7]
 https://lencatelevision.com/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UXsgEPX.png" group-title="Honduras",Litoral Atlántico HD (720p)
@@ -91,8 +93,6 @@ https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/es/playlist.m3u8
 https://dai.google.com/linear/hls/event/sFuxwI37R9KMTs-KywMcBg/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/exdDHml.png" group-title="Honduras",Nuevo Tiempo (720p) [Not 24/7]
 https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nfJhQMx/Bj7qf5-Tb-Z9.jpg" group-title="Honduras",Omega TV (720p) [Not 24/7]
-https://5caf24a595d94.streamlock.net:1937/8142/8142/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9yMyYCn.png" group-title="Honduras",Paradise TV (720p)
 https://s2.tvdatta.com:3840/live/paradisetvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vEzeqHP.png" group-title="Honduras",Platzi TV (1080p)
@@ -103,8 +103,12 @@ https://stmv1.srvif.com/puringla/puringla/playlist.m3u8
 https://5e85d90130e77.streamlock.net/6024/6024/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/chPfoOs.png" group-title="Honduras",Radio Ideal 104.7 FM (La Esperanza) (720p) [Not 24/7]
 https://www.idealfm104-7.com/hls/0/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C9zjz9p/343159606-190989583743350-3489987129696505785-n.jpg" group-title="Honduras",Radio Imagen 105.1 FM (720p) [Not 24/7]
+https://streaming.imagenfm105-1.com/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="Honduras",RCN Mas
 https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0TEeEFG.jpg" group-title="Honduras",RCV TV (712p)
+https://59d39900ebfb8.streamlock.net/rcv/rcv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.energeek.cl/logos/spectrumtv-512.png" group-title="Honduras",Spectrum Channel (720p)
 https://panel.miplay.cl:8082/spectrumchannel/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/512px-Star_Channel_2020.svg.png" group-title="Honduras",Star Channel Central America
@@ -119,6 +123,8 @@ https://viewhn.com/telemas/live/playlist.m3u8
 https://s.emisoras.tv:8081/telerayo/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/P50VjRX.png" group-title="Honduras",TeleSUR (1080p)
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QaocW5x.png" group-title="Honduras",Televisión Metrópolis 19.2 (1080p) [Not 24/7]
+https://5e85d90130e77.streamlock.net/6014/6014/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FnInQRd.png" group-title="Honduras",Tevex (720p) [Not 24/7]
 https://v4.tustreaming.cl/tevexinter/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h48pwLn.png" group-title="Honduras",Tropical Music TV (720p)
@@ -131,8 +137,6 @@ https://cloud2.streaminglivehd.com:1936/8032/8032/playlist.m3u8
 https://s.emisoras.tv:8081/tvcopan/index.m3u8
 #EXTINF:-1 tvg-logo="https://dajatv.com/wp-content/uploads/2021/09/logo_daja_2.png" group-title="Honduras",TV Daja (1080p)
 https://rdn.essastream.com:3388/live/dajatvlive.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tjnTbRR.jpg" group-title="Honduras",TV MÁS HD (720p)
-https://s1.tvdatta.com:3991/live/tvmashdlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iODADvi.png" group-title="Honduras",TVE Internacional America (1080p)
 https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zsCZHMh.png" group-title="Honduras",TVE Star HD (1080p)
