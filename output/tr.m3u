@@ -3,6 +3,8 @@
 https://hls.4utv.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="Turkey",24 Horas Internacional [Geo-blocked]
 https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
+#EXTINF:-1 tvg-logo="https://iatv.tmgrup.com.tr/site/v2/a2tv/i/a2tv-logo.png" group-title="Turkey",A2TV
+https://c.fulltvizle.com/a2/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png" group-title="Turkey",A Haber
 https://c.fulltvizle.com/ahaber/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mgDCKiy.png" group-title="Turkey",Aksu TV (720p)
@@ -11,8 +13,6 @@ https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/playlist.m3u8
 http://media.islamexplained.com:1935/live/_definst_mp4:ahme.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rjXDCN5.png" group-title="Turkey",Al Rafidain (720p) [Not 24/7]
 https://arrafidain.tvplayer.online/arrafidaintv/source2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QEHKGnG.png" group-title="Turkey",Al-Zahra TV Turkic (720p) [Not 24/7]
-https://live.al-zahratv.com/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a3w9eFe.png" group-title="Turkey",Alanya Posta TV (1080p)
 https://api-tv3.yayin.com.tr/postatv/postatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/f6PQzKd.png" group-title="Turkey",Alforat TV (1080p)
@@ -87,6 +87,8 @@ https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8
 https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZbUSlOC.png" group-title="Turkey",Fortuna TV
 https://edge1.socialsmart.tv/ftvturk/bant1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TwqIJwo.png" group-title="Turkey",Gonca TV (720p)
+https://edge1.socialsmart.tv/goncatv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/gg/grand-cinema.png" group-title="Turkey",Grand Cinema
 https://gcinemahls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eRR0gkC.png" group-title="Turkey",GRT (900p)
@@ -187,6 +189,8 @@ https://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
 https://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XSL1gd7.png" group-title="Turkey",Power TV (1080p)
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/a52f843a-9a9c-4d96-8f77-57f3ec96acb0-width200-quality90.jpeg" group-title="Turkey",Red Carpet TV International (1080p)
+https://fast-rakuten.okast.tv//fa2e8c4385712f9a9076eaf728c751de/channels/1a6ecfaa-40c6-41b8-8634-595c424f856e/21f67fd1-4d21-43ba-8ad8-3afac9982c25/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cKQIK4i.png" group-title="Turkey",Sat7 Türk (1080p)
 https://live.artidijitalmedya.com/artidijital_sat7turk/sat7turk/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TXDV1ty.png" group-title="Turkey",Satranç TV (480p) [Not 24/7]
@@ -245,8 +249,8 @@ https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
 https://edge1.socialsmart.tv/tv1/bant1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UpsQsbd.png" group-title="Turkey",TV4 (720p)
 https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DKNwiDm.png" group-title="Turkey",TV 8 (1080p) [Not 24/7]
-https://tv8-live.daioncdn.net/tv8/tv8.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DKNwiDm.png" group-title="Turkey",TV 8 (1080p)
+https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZvjuVGh.png" group-title="Turkey",TV 100 (720p)
 https://tv100.blutv.com/blutv_tv100_live/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tudXdOZ.png" group-title="Turkey",TV 264 (1080p)

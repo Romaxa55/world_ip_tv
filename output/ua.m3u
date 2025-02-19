@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="Ukraine",24 Horas Internacional [Geo-blocked]
 https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bSXKdK5.png" group-title="Ukraine",100% News (576p)
+http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rHHz94D.png" group-title="Ukraine",Avers (480p)
 https://avers.pp.ua/hls/efir.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D8YJzHV.png" group-title="Ukraine",Black Sea TV (432p)
@@ -39,6 +41,10 @@ https://cdn10.live-tv.cloud/izod/izod-abr-lq/playlist.m3u8
 https://live.m2.tv/hls3/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WDHoSVz.png" group-title="Ukraine",PTV (720p)
 https://cdn10.live-tv.cloud/hrpl/hrpl-abr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/a52f843a-9a9c-4d96-8f77-57f3ec96acb0-width200-quality90.jpeg" group-title="Ukraine",Red Carpet TV International (1080p)
+https://fast-rakuten.okast.tv//fa2e8c4385712f9a9076eaf728c751de/channels/1a6ecfaa-40c6-41b8-8634-595c424f856e/21f67fd1-4d21-43ba-8ad8-3afac9982c25/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qL1uNlW.png" group-title="Ukraine",Renome (576p)
+http://85.238.112.40:8810/hls_sec/online/list-renome.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ouv51WB.png" group-title="Ukraine",Telekanal RAI (480p)
 https://stream.rai.ua/rai/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jDaoUt5.png" group-title="Ukraine",TIS TV (720p)
@@ -67,6 +73,8 @@ http://nadiya.home-net.com.ua/mob/mystream.m3u8
 http://stream02.vnet.am/HTB/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.ntktv.ua/bitrix/templates/ntk_copy/images/logo.png" group-title="Ukraine",НТК ТВ (1080p) [Not 24/7]
 https://stream.ntktv.ua/s/ntk/ntk.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jFP50g2.png" group-title="Ukraine",Общественное Независимое Телевидение (576p)
+http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Bj4T9wB/logo-Orbita-fin14.png" group-title="Ukraine",Орбіта ТВ (360p) [Not 24/7]
 http://ftp.orbita.dn.ua/hls/orbita.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8qdc6aO.png" group-title="Ukraine",Первый городской (Одесса) (1080p) [Not 24/7]

@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ILfXDRs.png" group-title="Spain",7 TeleValencia (576p)
 https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/La_7_logo.svg/150px-La_7_logo.svg.png" group-title="Spain",7 Televisión Región de Murcia (1080p)
+https://rtv-murcia-live.globalmest.com/principal/smil:principal.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BTJvvBK.png" group-title="Spain",8 La Marina TV (576p)
 https://streaming005.gestec-video.com/hls/canal24.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="Spain",24 Horas Internacional [Geo-blocked]
@@ -47,14 +49,14 @@ https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
 https://rtvelivestream.akamaized.net/rtvesec/can/24h_can_main_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="Spain",Canal 24 Horas Catalunya (720p)
 https://rtvelivestream.akamaized.net/rtvesec/cat/24h_cat_main_dvr.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yEfSnGt.png" group-title="Spain",Canal 45 (576p)
+https://nlb1-live.emitstream.com/hls/625csn5et2iszm9oze65/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pwRVbCz.png" group-title="Spain",Canal 56 (576p) [Not 24/7]
 https://videos.canal56.com/directe/stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9RoBASf.png" group-title="Spain",Canal 2000 La Solana (720p) [Not 24/7]
 http://canal2000.berkano-systems.net/streaming/streams/canal2000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uWhVKL3.png" group-title="Spain",Canal Diocesano (576p)
 https://nlb2-live.emitstream.com/hls/5i3pxfuz4az356yu22ij/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pjqGrEo.png" group-title="Spain",Canal Extremadura (576p) [Not 24/7]
-https://cdnlive.codev8.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8?DVR=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QSUOxtM.png" group-title="Spain",Canal Málaga RTV (720p) [Not 24/7]
 https://canalmalaga-tv-live.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BUO0wH6.png" group-title="Spain",Canal Parlamento (360p) [Not 24/7]
@@ -85,8 +87,6 @@ https://5d8d85cf2c308.streamlock.net:1936/Condavision/endirecto/playlist.m3u8
 https://congresodirecto.akamaized.net/hls/live/2038274/canal1/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2LAzcH8.jpg" group-title="Spain",Congreso de los Diputados 3 (360p) [Not 24/7]
 https://congresodirecto.akamaized.net/hls/live/2038276/canal3/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2LAzcH8.jpg" group-title="Spain",Congreso de los Diputados 4 (360p) [Not 24/7]
-https://congresodirecto.akamaized.net/hls/live/2038277/canal4/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2LAzcH8.jpg" group-title="Spain",Congreso de los Diputados 5 (360p) [Not 24/7]
 https://congresodirecto.akamaized.net/hls/live/2038278/canal5/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iM9AN6Z.png" group-title="Spain",Costa Noroeste TV (1080p) [Not 24/7]
@@ -119,8 +119,6 @@ https://elche7tv.gestec-video.com/hls/canal2.m3u8
 https://video3.lhdserver.es/empordatv2/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jDT5XFs.jpg" group-title="Spain",Este Canal TV (576p)
 http://synclosdragos1.syncsolutions.es:8008/live3/emision/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rMAB720.png" group-title="Spain",Estepona Televisión (720p)
-https://cloudvideo.servers10.com:8081/8022/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/ETB1_2022_logo.svg/512px-ETB1_2022_logo.svg.png" group-title="Spain",ETB 1 (720p)
 https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/ETB2_2022_logo.svg/512px-ETB2_2022_logo.svg.png" group-title="Spain",ETB 2 (720p)
@@ -131,10 +129,10 @@ https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png" group-title="Spain",Fashion TV
 https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3lAoTq3.png" group-title="Spain",Fitel TV (1080p)
-https://tv.mywifisocial.es/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZnmAXVv.png" group-title="Spain",France 24 Español (1080p)
 https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MpvjCzC/Fuerteventura-tv-service-webtv-488969d1-1.png" group-title="Spain",Fuerteventura TV (1080p)
+https://5c0956165db0b.streamlock.net/ftv/directo/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eaLIJzK.png" group-title="Spain",Goiena Eus (720p)
 https://zuzenean.goienamedia.eus/goiena-telebista.m3u8
 #EXTINF:-1 tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/1fe37ff8-c6b7-4123-8c68-653d657b4c5f-width200-quality90.jpeg" group-title="Spain",Grjngo (720p)
@@ -269,6 +267,8 @@ https://cloudvideo.servers10.com:8081/8028/index.m3u8
 https://fd18f1cadd404894a31a3362c5f319bd.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_RakutenViki-1/048a962c-e84b-4a0e-aeb3-98376f4b9953/2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5pMo7dL.png" group-title="Spain",Real Madrid
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545
+#EXTINF:-1 tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/a52f843a-9a9c-4d96-8f77-57f3ec96acb0-width200-quality90.jpeg" group-title="Spain",Red Carpet TV International (1080p)
+https://fast-rakuten.okast.tv//fa2e8c4385712f9a9076eaf728c751de/channels/1a6ecfaa-40c6-41b8-8634-595c424f856e/21f67fd1-4d21-43ba-8ad8-3afac9982c25/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mPvSubP.png" group-title="Spain",Ribera TV (576p)
 https://common01.todostreaming.es/live/ribera-livestream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0TDnVQ4.png" group-title="Spain",ROTV Valencia (720p)
@@ -331,6 +331,8 @@ https://eu1.servers10.com:8081/8166/index.m3u8
 https://streamingtvi.gestec-video.com/hls/unesd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EW2bfix.png" group-title="Spain",Univers TV (720p)
 https://cloud2.streaminglivehd.com:1936/universfaller/universfaller/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V23bltn.png" group-title="Spain",Urola Telebista (416p)
+https://5940924978228.streamlock.net/j_Directo2/mp4:j_Directo2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://verbenafm.com/wp-content/uploads/2022/08/logoverbenatv-300x300.png" group-title="Spain",Verbena TV (1080p)
 https://streamtv2.elitecomunicacion.cloud:3144/live/verbenatvlive.m3u8
 #EXTINF:-1 tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/1f51bd5f-5c9a-486d-8720-800de7f73129-width200-quality90.jpeg" group-title="Spain",Viasat Explore Classic (720p)
