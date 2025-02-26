@@ -3,6 +3,8 @@
 https://mediaserver.abnvideos.com/streams/abnafrica.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6BVWk8z.png" group-title="Morocco",Abu Dhabi Sports 1
 https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YWIJdai.png" group-title="Morocco",Africa 24 (540p)
+https://edge12.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YWIJdai.png" group-title="Morocco",Africa 24 English (1080p)
 https://edge17.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5UxU4zc.png" group-title="Morocco",Africanews
@@ -19,6 +21,8 @@ https://alarabyta.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist.m3u
 http://media.islamexplained.com:1935/live/_definst_mp4:ahme.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7bRVpnu.png" group-title="Morocco",Al Jazeera (1080p)
 https://live-hls-apps-aja-fa.getaj.net/AJA/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5dNJlLo.png" group-title="Morocco",Al Jazeera Documentary (1080p) [Geo-blocked]
+https://live-hls-apps-ajd-fa.getaj.net/AJD/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Aljazeera_Mubasher.svg/512px-Aljazeera_Mubasher.svg.png" group-title="Morocco",Al Jazeera Mubasher (1080p)
 https://live-hls-apps-ajm-fa.getaj.net/AJM/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zkBT0C8.png" group-title="Morocco",Al Qamar TV (1080p)
@@ -27,10 +31,12 @@ https://streamer3.premio.link/alqamar/playlist.m3u8
 https://goccn.cloud/hls/amanitv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ScyTG6P.png" group-title="Morocco",BBC Arabic (720p)
 https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Morocco",Bloomberg TV EMEA Live Event (720p)
-https://bloomberg.com/media-manifest/streams/eu-event.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AkFFrS7.png" group-title="Morocco",CGTN Arabic (1080p) [Not 24/7]
 https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/inJyJBN.png" group-title="Morocco",Chada TV (720p)
+https://chadatv.vedge.infomaniak.com/livecast/chadatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BnNYzWI.png" group-title="Morocco",CNBC Africa (480p)
+https://5be2f59e715dd.streamlock.net/CNBC/smil:CNBCSandton.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/opBXx1K.png" group-title="Morocco",CNBC Arabiya (1080p)
 https://cnbc-live.akamaized.net/cnbc/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Dj16oKL.png" group-title="Morocco",Dubai One (1080p)
@@ -39,8 +45,8 @@ https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist.
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/F8ZM25a.png" group-title="Morocco",EWTN Africa Asia (720p)
 https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/o1Vz78r.png" group-title="Morocco",France 24 Arabic (1080p)
-https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eKy2ocd.png" group-title="Morocco",IBN TV Africa (720p)
+http://68.183.41.209:8080/live/5d9a537c64b9c/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CiA3plN.png" group-title="Morocco",MBC 1 (1080p)
 https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n9mSHuP.png" group-title="Morocco",MBC 2 (480p)
@@ -53,14 +59,38 @@ https://shls-masr-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/in
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TTAGFHG.png" group-title="Morocco",MBC Bollywood (1080p) [Geo-blocked]
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g5PWnqp.png" group-title="Morocco",MBC Drama KSA (1080p)
+https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lF8UxvR.png" group-title="Morocco",MBC FM (1080p)
 https://dbbv9umqcd7cs.cloudfront.net/out/v1/db15b75c3cc0400c91961468d6a232ac/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lxWdjXG.png" group-title="Morocco",MBC+ Drama (1080p)
+https://mbcplusdrama-prod-dub-enc.edgenextcdn.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5S3er4e.png" group-title="Morocco",Medi 1 TV Afrique (1080p) [Not 24/7]
+https://streaming1.medi1tv.com/live/smil:medi1fr.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5S3er4e.png" group-title="Morocco",Medi 1 TV Arabic (1080p) [Not 24/7]
+https://streaming1.medi1tv.com/live/smil:medi1ar.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5S3er4e.png" group-title="Morocco",Medi 1 TV Maghreb (1080p) [Not 24/7]
+https://streaming1.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fNA00VF.png" group-title="Morocco",National Geographic Abu Dhabi (1080p) [Geo-blocked]
+https://vo-live.cdb.cdn.orange.com/Content/Channel/NationalGeographicHDChannel/HLS/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AbrHI7K.png" group-title="Morocco",PMC (1080p)
+https://hls.pmchd.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kuYMKgG.png" group-title="Morocco",PMC Royale (720p) [Not 24/7]
+https://rohls.pmc.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DjgNNHK.png" group-title="Morocco",QwestTV
+https://amg00447-qwesttv-qwestjazz-cineverse-ve12d.amagi.tv/playlist/amg00447-qwesttv-qwestjazz-cineverse/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EauXR22.png" group-title="Morocco",REFLET TV (1080p)
+https://edge-a3.evrideo.tv/8f37c9f0-fe22-44f4-b64a-76ad11730daf_1000026630_HLS/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HYg75w2.png" group-title="Morocco",Romanza+ Africa (720p)
 https://origin3.afxp.telemedia.co.za/PremiumFree/romanza/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G8vGrn1.png" group-title="Morocco",RT Arabic (1080p) [Geo-blocked]
+https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SvjU4h6.png" group-title="Morocco",Sky News Arabia (1080p) [Not 24/7]
 https://stream.skynewsarabia.com/ott/ott.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FjtzQQs.png" group-title="Morocco",Sky News Arabia (Portrait) (1280p) [Not 24/7]
 https://stream.skynewsarabia.com/vertical/vertical.m3u8
+#EXTINF:-1 tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/666abcee75.jpeg" group-title="Morocco",TV BRICS Africa (1080p)
+https://cdn.freevisiontv.co.za/sttv/smil:brics.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vBbSHB4/Tvi-africa.png" group-title="Morocco",TVI África (480p) [Not 24/7]
 https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nLtiXNf.png" group-title="Morocco",Wanasah (1080p)
