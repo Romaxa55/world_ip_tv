@@ -17,8 +17,12 @@ http://185.105.4.151:8080/_defapp_/ittihad/index.m3u8
 https://live-hls-apps-aja-fa.getaj.net/AJA/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5dNJlLo.png" group-title="Lebanon",Al Jazeera Documentary (1080p) [Geo-blocked]
 https://live-hls-apps-ajd-fa.getaj.net/AJD/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Aljazeera_Mubasher.svg/512px-Aljazeera_Mubasher.svg.png" group-title="Lebanon",Al Jazeera Mubasher 24 (1080p)
+https://live-hls-apps-ajm24-fa.getaj.net/AJM24/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Aljazeera_Mubasher.svg/512px-Aljazeera_Mubasher.svg.png" group-title="Lebanon",Al Jazeera Mubasher (1080p)
 https://live-hls-apps-ajm-fa.getaj.net/AJM/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Aljazeera_Mubasher.svg/512px-Aljazeera_Mubasher.svg.png" group-title="Lebanon",Al Jazeera Mubasher Broadcast 2 (1080p)
+https://live-hls-apps-ajm2-fa.getaj.net/AJM2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sOQLV7L.png" group-title="Lebanon",Al Manar (576p) [Not 24/7]
 https://edge.fastpublish.me/live/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GtQOKeW.png" group-title="Lebanon",Al Mayadeen (576p)
@@ -27,10 +31,14 @@ https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
 https://streamer3.premio.link/alqamar/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/f6PQzKd.png" group-title="Lebanon",Alforat TV (1080p)
 http://95.216.180.111:1935/live/10/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4WKQppG.png" group-title="Lebanon",Aliman TV (240p) [Not 24/7]
+https://svs.itworkscdn.net/alimanlive/imantv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1vqhmNz.png" group-title="Lebanon",ALWifak News TV (720p)
 http://alwifaklive.info:1935/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sTOoDy1.png" group-title="Lebanon",Arabica TV (720p)
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ps4Gtj0.png" group-title="Lebanon",Assirat TV (700p)
+https://svs.itworkscdn.net/assiratvlive/assirat/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ScyTG6P.png" group-title="Lebanon",BBC Arabic (720p)
 https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Lebanon",Bloomberg TV EMEA Live Event (720p)
@@ -47,6 +55,8 @@ https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist.
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/F8ZM25a.png" group-title="Lebanon",EWTN Africa Asia (720p)
 https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z3QeQHk.png" group-title="Lebanon",Falestinona Channel (576p)
+https://ffs3.gulfsat.com/Falestinona-TV/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/o1Vz78r.png" group-title="Lebanon",France 24 Arabic (1080p)
 https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OaqEpwe.png" group-title="Lebanon",Future TV (1080p)
