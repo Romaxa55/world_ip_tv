@@ -119,8 +119,6 @@ http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1920x1080@4504/playlist
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/russia1-hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jZlj3ga.png" group-title="Russia",Время
 http://31.148.48.15/Vremya/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zMNJfoV.png" group-title="Russia",Городской телеканал (Ярославль) (576p)
-https://www.gtk.tv/hls/gtyar.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IlL57Rm.png" group-title="Russia",Губерния (Самара) (576p)
 http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jumkRvc.png" group-title="Russia",Дагестан (1080p)
@@ -141,6 +139,8 @@ https://dumatv.iptv2022.com/index.m3u8
 https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/57deE7f.png" group-title="Russia",Енисей (1080p) [Not 24/7]
 https://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/19R470V.png" group-title="Russia",Жар Птица (404p) [Geo-blocked]
+http://streamer.rtcommufa.ru:1935/ptica/ptica1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LPqySGk.png" group-title="Russia",ЖИВИ!
 http://31.148.48.15/Zhivi/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4PAcpfM.png" group-title="Russia",Звезда
@@ -263,6 +263,8 @@ https://stream01.vnet.am/Pyatnica/mono.m3u8
 https://video.govoritmoskva.ru/rufm/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5xKqV1s.png" group-title="Russia",Радио Хит (Орск) (720p)
 http://lova.me/hls/hithd.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lbqM3K2.png" group-title="Russia",Радио Шансон (720p) [Not 24/7]
+http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/B5FA62o.png" group-title="Russia",Радость моя
 https://radm.mediacdn.ru/cdn/radost/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CwhmJby.png" group-title="Russia",РБК-ТВ
