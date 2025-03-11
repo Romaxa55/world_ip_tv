@@ -49,6 +49,8 @@ https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
 https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/o1Vz78r.png" group-title="Jordan",France 24 Arabic (1080p)
 https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8
+#EXTINF:-1 tvg-logo="https://www.jawharafm.net/ar/static/fr/image/png/logo-jfm.png" group-title="Jordan",Jawhara FM (720p) [Not 24/7]
+http://streaming.toutech.net:1935/live/mp4:jawharafm.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8UrCl4k.png" group-title="Jordan",Jordan Archive (1080p)
 https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Archive/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DuwwoO2.png" group-title="Jordan",Jordan Comedy (1080p)
@@ -89,8 +91,6 @@ https://rohls.pmc.live/hls/stream.m3u8
 http://45.63.116.205/hls2/stream1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wHOQU0R.png" group-title="Jordan",Radio Yaqeen Jordan City View (1080p) [Not 24/7]
 http://45.63.116.205/hls4/stream1.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xGDjlp5.png" group-title="Jordan",Rotana Radio Jordan Studio (1080p) [Not 24/7]
-http://45.63.116.205/hls/stream1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NjgOBts.png" group-title="Jordan",Rotana Tarab Jordan City View (720p) [Not 24/7]
 http://45.63.116.205/hls3/stream1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oIThcM8.png" group-title="Jordan",Roya Comedy (1080p)
@@ -101,8 +101,8 @@ https://playlist.fasttvcdn.com/pl/a2le4pbpa6rpzv147haf4w/drama/playlist.m3u8
 https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids-originals/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lWfh8pP.png" group-title="Jordan",Roya Kitchen (1080p)
 https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-kitchen/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WX80rty.png" group-title="Jordan",Roya TV (1080p)
-https://roya.daioncdn.net/royatv/royatv.m3u8?app=8c1e143a-39cf-40b4-acb2-e78faa1f322d
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WX80rty.png" group-title="Jordan",Roya TV (1080p) [Not 24/7]
+https://royatv-live.daioncdn.net/royatv/royatv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G8vGrn1.png" group-title="Jordan",RT Arabic (1080p) [Geo-blocked]
 https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SvjU4h6.png" group-title="Jordan",Sky News Arabia (1080p) [Not 24/7]
