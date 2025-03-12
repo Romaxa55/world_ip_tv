@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YRiulCU.png" group-title="Thailand",3HD
 https://lb1-live-mv.v2h-cdn.com/hls/ffae/3hd/3hd.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FvEp1S2.png" group-title="Thailand",13 Siam Thai (1080p)
-https://live.x2.co.th/live/13livetv-th.m3u8
 #EXTINF:-1 tvg-logo="https://files.catbox.moe/6rj9aw.jpg" group-title="Thailand",@TV (720p)
 http://49.0.87.24:1936/HDAttv/Attv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MCbCSWv.png" group-title="Thailand",ALTV (1080p)
@@ -23,6 +21,8 @@ https://live.x2.co.th/live/bntv.m3u8
 https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SBCIwek.png" group-title="Thailand",Channel 7
 http://streaming-hwc.ch7.com/livech7hd/HD.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/P3c5jAu.png" group-title="Thailand",Channel 8 (1080p) [Not 24/7]
+http://usa.login.in.th:1935/ch8/ch8/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nLzdGeX.png" group-title="Thailand",DLTV 1 (1080p)
 https://cdn-live.dltv.ac.th/dltv01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lDBSTfE.png" group-title="Thailand",DLTV 2 (1080p)
@@ -107,10 +107,14 @@ https://live.topnews.co.th/hls/topnews_a_720.m3u8
 https://lb1-live-mv.v2h-cdn.com/hls/ffca/true24/true24.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/x1FTvdC.png" group-title="Thailand",TV5 HD (720p)
 https://lb1-live-mv.v2h-cdn.com/hls/fffb/5hd/5hd.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aCFpuzW.png" group-title="Thailand",TV Muslim Thailand
+https://vdo.plathong.net/tvmuslim/tvmuslim/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dwzOBZ1.png" group-title="Thailand",TVE Internacional Asia-Oceania [Geo-blocked]
 https://rtvelivestream.akamaized.net/rtvesec/int/tvei_asia_main.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ow1HArj.png" group-title="Thailand",TVE Internacional Europe-Asia [Geo-blocked]
 https://rtvelivestream.akamaized.net/rtvesec/int/tvei_eu_main.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Chx0AV9.png" group-title="Thailand",White Channel (1080p)
+http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zq6Xshf.png" group-title="Thailand",Workpoint TV
 https://lb1-live-mv.v2h-cdn.com/hls/ffcb/workpoint/workpoint.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4TMtUjW.png" group-title="Thailand",Zabb Channel (720p)
