@@ -25,8 +25,6 @@ http://vcdn1.produck.company:1935/out/dtv/playlist.m3u8
 http://cdn1.live-tv.od.ua:8081/dumska/dumska720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/EWTN_Logo_and_Wordmark_%282016%29.svg/512px-EWTN_Logo_and_Wordmark_%282016%29.svg.png" group-title="Ukraine",EWTN Europe (720p) [Not 24/7]
 https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nIPEpkB.png" group-title="Ukraine",EWTN Ukraine (1080p)
-https://cdn3.wowza.com/1/WjduMm1tYnlwNXQx/M01NV3Uz/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/e481c9fa-07c8-4345-8638-47527a0b807b-width200-quality90.jpeg" group-title="Ukraine",Fail Army (720p)
 https://bd93cfed.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZhaWxBcm15X0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/a27208c4-021a-45e8-a250-11f8ffab36c8-width200-quality90.jpeg" group-title="Ukraine",FIFA+ (720p)
@@ -43,6 +41,8 @@ https://cdn10.live-tv.cloud/itvrv/abr-lq/playlist.m3u8
 https://cdn10.live-tv.cloud/izod/izod-abr-lq/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AfcBWCg.png" group-title="Ukraine",M2 (540p)
 https://live.m2.tv/hls3/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zNscEST.png" group-title="Ukraine",MTV Hits Europe
+http://45.88.92.3:80/tr3_MTVHits_SD/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WbjURLo.png" group-title="Ukraine",Museum TV English (1080p)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtven-xiaomi/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WDHoSVz.png" group-title="Ukraine",PTV (720p)
@@ -59,6 +59,8 @@ https://stream.rai.ua/rai/stream.m3u8
 https://cdn10.live-tv.cloud/riood/tisod-abr/riood/tisod720/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CCxEt0w.png" group-title="Ukraine",TRK Krug (576p)
 http://cdn1.live-tv.od.ua:8081/krugod/krugod-abr/krugod/krugod/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PcTDZ8e.png" group-title="Ukraine",TV7+
+https://tv7plus.com/hls/tv7_site.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ytz7jYV.png" group-title="Ukraine",TV Rivne 1 (720p)
 https://cdn1.live-tv.cloud/rivne1/rivne1-abr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ow1HArj.png" group-title="Ukraine",TVE Internacional Europe-Asia [Geo-blocked]
@@ -73,6 +75,8 @@ http://194.50.51.34/playlist.m3u8
 http://85.238.112.69:8811/hls_sec/239.0.4.18-.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jdy4SoG.png" group-title="Ukraine",Ланет.TV (486p)
 https://kiev1-cdn.lanet.tv/live/1008.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mUx2P29.png" group-title="Ukraine",Надия/Новый канал (576p) [Not 24/7]
+http://nadiya.home-net.com.ua/mob/mystream.m3u8
 #EXTINF:-1 tvg-logo="https://www.ntktv.ua/bitrix/templates/ntk_copy/images/logo.png" group-title="Ukraine",НТК ТВ (1080p) [Not 24/7]
 https://stream.ntktv.ua/s/ntk/ntk.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jFP50g2.png" group-title="Ukraine",Общественное Независимое Телевидение (576p)
