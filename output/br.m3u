@@ -1,14 +1,14 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="Brazil",24 Horas Internacional [Geo-blocked]
 https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dWA9y2J.png" group-title="Brazil",1001 Noites (720p) [Not 24/7]
-https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KgetM8j.png" group-title="Brazil",Adesso TV (720p)
 https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7rjCS5i.png" group-title="Brazil",Amazon Sat (1080p)
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CFSSTID.png" group-title="Brazil",Anime TV (360p) [Not 24/7]
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BtkX8kg.png" group-title="Brazil",Assembleia Legislativa do Estado de Mato Grosso (720p)
+https://streaming.al.mt.gov.br/test/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ifGQGJx.png" group-title="Brazil",Bem TV (720p)
 http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZqhizdP.png" group-title="Brazil",Boas Novas (1080p)
@@ -127,6 +127,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1212ad1
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32d4d9ec194100070c7449/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PMptSP3.png" group-title="Brazil",Primer TV (1080p)
 http://200.194.238.229:8383/live/primer/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sz9gTTr.png" group-title="Brazil",RecordTV
+https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iiJufN2.png" group-title="Brazil",Rede Brasil de Comunicação (720p) [Not 24/7]
 http://rbc.directradios.com:1935/rbc/rbc/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JSiZG2B.png" group-title="Brazil",Rede Mais (720p)
@@ -151,8 +153,8 @@ http://flash1.crossdigital.com.br/2063/2063/playlist.m3u8
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/b5xOCsC.png" group-title="Brazil",Sertão TV (720p)
 http://wz4.dnip.com.br/sertaotv/sertaotv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mHxQyB2.png" group-title="Brazil",SIC TV (720p)
-https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.energeek.cl/logos/spectrumtv-512.png" group-title="Brazil",Spectrum Channel (720p)
+https://panel.miplay.cl:8082/spectrumchannel/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SeF2I7q.png" group-title="Brazil",STZ TV (720p)
 https://cdn.jmvstream.com/w/AVJ-12952/playlist/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aMuMVvB.png" group-title="Brazil",TCM 10 HD (1080p)
@@ -193,8 +195,6 @@ https://video01.kshost.com.br:4443/inside2133/inside2133/playlist.m3u8
 https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CpXjcyE.png" group-title="Brazil",TV Clube (720p)
 https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KX3fner.png" group-title="Brazil",TV COM Santos (416p)
-https://srv1.zcast.com.br/tvcomsantos/tvcomsantos/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JdCKNZ4.png" group-title="Brazil",TV Curuça (360p)
 https://stmv1.srvif.com/tvcurucasp/tvcurucasp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hEd25Cr.png" group-title="Brazil",TV Difusora Leste (1080p)
@@ -211,6 +211,8 @@ https://video01.kshost.com.br:4443/moises3834/moises3834/playlist.m3u8
 https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dnmzIhF.png" group-title="Brazil",TV Japi (720p)
 https://stmv1.paineltv.net/tvjapi/tvjapi/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W6bHHqE.png" group-title="Brazil",TV Liberdade (720p) [Not 24/7]
+https://srv1.paineldevideo.com/liberdaderadioetv/liberdaderadioetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zZ9LEOZ.png" group-title="Brazil",TV Maceió (360p)
 https://srv5.zcast.com.br/paulo4100/paulo4100/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lgCRX7q.png" group-title="Brazil",TV Mais Maricá (1080p)
@@ -259,14 +261,14 @@ https://5cf4a2c2512a2.streamlock.net/tvsuldeminas/tvsuldeminas/playlist.m3u8
 https://streamer1.streamhost.org/salive/GMI3anjoh/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tv.thathi.com.br/wp-content/uploads/2021/02/tv-thathi-150x150.png" group-title="Brazil",TV Thathi (720p) [Not 24/7]
 https://cdn-grupo-10049.ciclano.io:1443/grupo-10049/grupo-10049/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5SKSkUQ.png" group-title="Brazil",TV Tudo BH (720p)
+https://tv02.zas.media:1936/tvtudo/tvtudo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Yp3dbJo.png" group-title="Brazil",TV UFG (720p) [Not 24/7]
 http://flash.softhost.com.br:1935/ufg/tvufgweb/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TIsk5zN.png" group-title="Brazil",TV Universal (480p)
 https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TZF55f9.png" group-title="Brazil",TV Viçosa (480p)
 http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z1uWe7g.png" group-title="Brazil",TV Vila Real (720p)
-https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jCGrjf5.png" group-title="Brazil",TV Zoom (720p)
 https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zUpWcUN.png" group-title="Brazil",TVBE Joinville (720p)
@@ -289,5 +291,3 @@ http://painelvj.com.br:1935/tvnbrasil/tvnbrasil.sdp/playlist.m3u8
 https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N0TvAFz.png" group-title="Brazil",UNISUL TV (720p)
 https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TxHWAeD.png" group-title="Brazil",VV8 TV (720p)
-https://video01.kshost.com.br/seap8272/seap8272/playlist.m3u8

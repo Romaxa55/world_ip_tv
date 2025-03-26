@@ -1,12 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="Venezuela",24 Horas Internacional [Geo-blocked]
 https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wpWBsgf/IMG-20230705-154622.jpg" group-title="Venezuela",Aguacate TV (1080p)
-https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AHaXlCh.png" group-title="Venezuela",Anime Zone TV (480p)
 http://animezonetv.net/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SLqrEOz.png" group-title="Venezuela",Anzoátegui TV (360p) [Not 24/7]
-https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vygOosC.png" group-title="Venezuela",BTA TV (720p)
 https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7Tb7CF4.jpg" group-title="Venezuela",Canal 21 Táchira (360p)
@@ -67,6 +63,8 @@ http://51.222.85.85:81/hls/loco/index.m3u8
 https://vod2live.univtec.com/manifest/89290956-94ab-4950-accb-a54bbd7e176f.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AlY38PN.png" group-title="Venezuela",MDA Televisión (720p)
 https://vcp.myplaytv.com/mdatv/mdatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yfgTa2d.png" group-title="Venezuela",Monagas Visión (720p) [Not 24/7]
+https://cloud2.streaminglivehd.com:1936/monagasvision-2/monagasvision-2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8dUS3Ih.png" group-title="Venezuela",Novelisima
 https://dai.google.com/linear/hls/event/sFuxwI37R9KMTs-KywMcBg/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/exdDHml.png" group-title="Venezuela",Nuevo Tiempo (720p) [Not 24/7]
@@ -81,8 +79,6 @@ https://vcp.myplaytv.com/panavision/panavision/playlist.m3u8
 https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OSet4en.png" group-title="Venezuela",Plous TV (1080p)
 https://vcp.myplaytv.com/glowtv/glowtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://intervenhosting.net/roku/portutv/portutv.jpg" group-title="Venezuela",PortuTV (480p) [Not 24/7]
-https://streamtv.intervenhosting.net:3789/live/portutvlive.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Promar_Television.png" group-title="Venezuela",PromarTV (1080p) [Not 24/7]
 http://vcp1.myplaytv.com:1935/promar/promar/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="Venezuela",RCN Más (1080p)
@@ -95,6 +91,8 @@ https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 https://cloud2.streaminglivehd.com:1936/siembratv/siembratv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jOroeJZ.png" group-title="Venezuela",Somos TV (720p) [Not 24/7]
 https://vcp3.myplaytv.com/somostv/somostv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.energeek.cl/logos/spectrumtv-512.png" group-title="Venezuela",Spectrum Channel (720p)
+https://panel.miplay.cl:8082/spectrumchannel/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/Logo_TAM.png" group-title="Venezuela",TAM TV (240p)
 https://tv.webtuya.com:3726/live/tammeridalive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jPzcb2S.png" group-title="Venezuela",TeleAragua (480p)
