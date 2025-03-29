@@ -1,10 +1,22 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/BhFbqwxiQN89UGI2cpoffye2UuKtblDDUwJHce0fzjpdrMkb0CtKf_42ZVTiLX2Ulwbjey4YZQ=s512-c-k-c0x00ffffff-no-rj" group-title="Mozambique",ABN Africa (480p)
+https://mediaserver.abnvideos.com/streams/abnafrica.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YWIJdai.png" group-title="Mozambique",Africa 24 (540p)
+https://edge12.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YWIJdai.png" group-title="Mozambique",Africa 24 English (1080p)
+https://edge17.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0cY4K7G.png" group-title="Mozambique",Amani TV (1080p) [Not 24/7]
+https://goccn.cloud/hls/amanitv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Mozambique",Bloomberg TV EMEA Live Event (720p)
+https://bloomberg.com/media-manifest/streams/eu-event.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BnNYzWI.png" group-title="Mozambique",CNBC Africa (480p)
 https://5be2f59e715dd.streamlock.net/CNBC/smil:CNBCSandton.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KUb4vEz.png" group-title="Mozambique",CuriosityStream (720p)
 http://fl3.moveonjoy.com/Curiosity_Stream/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Mozambique",Nickelodeon (Spain) (576p)
-http://185.189.225.150:85/nickelodeon/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F8ZM25a.png" group-title="Mozambique",EWTN Africa Asia (720p)
+https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OioFepy.jpeg" group-title="Mozambique",Medi 1 TV Afrique (1080p) [Not 24/7]
+https://streaming1.medi1tv.com/live/smil:medi1fr.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DjgNNHK.png" group-title="Mozambique",Qwest TV (1080p)
 https://qwestjazz-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-qwestjazz-rakuten/CDN/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EauXR22.png" group-title="Mozambique",REFLET TV (1080p)
@@ -13,6 +25,10 @@ https://edge-a3.evrideo.tv/8f37c9f0-fe22-44f4-b64a-76ad11730daf_1000026630_HLS/m
 https://origin3.afxp.telemedia.co.za/PremiumFree/romanza/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/666abcee75.jpeg" group-title="Mozambique",TV BRICS Africa (1080p)
 https://cdn.freevisiontv.co.za/sttv/smil:brics.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R5YrV5s.png" group-title="Mozambique",TV Maná Moçambique (1080p)
+https://w2.manasat.com/tvmana-mz/smil:tvmana-mz.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HlWzzfj.png" group-title="Mozambique",TV Vitória (720p)
+https://stmv1.srvif.com/tvvitoriamz/tvvitoriamz/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vBbSHB4/Tvi-africa.png" group-title="Mozambique",TVI África (480p) [Not 24/7]
 https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Vqv7R3Y.png" group-title="Mozambique",TVM (480p) [Not 24/7]
