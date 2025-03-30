@@ -1,10 +1,16 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="Martinique",24 Horas Internacional [Geo-blocked]
+https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="Martinique",AXN
+https://streamer1.nexgen.bz/AXN/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="Martinique",BBC News (North America) (1080p)
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://caribbeanadvantage.com/images/CAtv-logo-512.png" group-title="Martinique",Caribbean Advantage TV (1080p) [Not 24/7]
 https://video2.getstreamhosting.com:19360/8216/8216.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gBbLyqh.png" group-title="Martinique",CCTV-4 America (1080p)
 https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/03jFV68.png" group-title="Martinique",Clan TVE Internacional (1080p)
+https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.energeek.cl/logos/Marca-512.png" group-title="Martinique",EnerGeek (720p) [Not 24/7]
 https://streaming-cl.sh1ny.space/memfs/e8a8e789-170b-4de4-a33b-90a9a475ce65.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/euaoN1A.png" group-title="Martinique",EnerGeek Radio (1080p)
@@ -23,7 +29,9 @@ https://streaming-cl.sh1ny.space/memfs/0e41fc31-9f44-46d4-8712-0446e2f3dcaa.m3u8
 https://panel.miplay.cl:8082/spectrumchannel/index.m3u8
 #EXTINF:-1 tvg-logo="https://dajatv.com/wp-content/uploads/2021/09/logo_daja_2.png" group-title="Martinique",TV Daja (1080p)
 https://rdn.essastream.com:3388/live/dajatvlive.m3u8
-#EXTINF:-1 tvg-logo="https://tvfamille.org/website/images/logo/tv_famille_logo_2019_square_75px.png" group-title="Martinique",TV Famille (720p)
-https://streamer1.streamhost.org/salive/GMItvfh/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iODADvi.png" group-title="Martinique",TVE Internacional America (1080p)
+https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zsCZHMh.png" group-title="Martinique",TVE Star HD (1080p)
+https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Vi%C3%A0ATV.png/512px-Vi%C3%A0ATV.png" group-title="Martinique",ViàATV (1080p) [Geo-blocked]
 https://streamer01.myvideoplace.tv/streamer02/hls/ATV_DIRECT_EV_111018.m3u8

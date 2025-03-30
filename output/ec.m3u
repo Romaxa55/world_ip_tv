@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="Ecuador",24 Horas Internacional [Geo-blocked]
 https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gUqKymM.png" group-title="Ecuador",América Estéreo Guayaquil (360p)
+https://video.makrodigital.com/americaestereoguayaquil/americaestereoguayaquil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gUqKymM.png" group-title="Ecuador",América Estéreo Ibarra (720p)
 https://video.makrodigital.com/americaestereoibarra/americaestereoibarra/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gUqKymM.png" group-title="Ecuador",América Estéreo Quito (1080p)
@@ -69,16 +71,12 @@ https://eu1.servers10.com:8081/8068/index.m3u8
 https://cp.panelchs.com:1936/8004/8004/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YjgYYH3.png" group-title="Ecuador",LatacungaTV (720p)
 https://ssh101.bozztv.com/ssh101/streamlatacungatv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1CftDPB.png" group-title="Ecuador",Locomotion TV (480p) [Not 24/7]
-http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mZkW342.png" group-title="Ecuador",Manavisión (480p)
 https://play.once.net.ec/play/Ily2oYdd3E1fi9wK2zORoRovFU9P5xM0g3CNVK2MT0M/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ez1NxwJ.jpg" group-title="Ecuador",Marca TV (1080p)
 https://eu1.servers10.com:8081/8030/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yID5T2S.jpg" group-title="Ecuador",Metropoli Medios TV (720p)
 https://eu1.servers10.com:8081/8214/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zNscEST.png" group-title="Ecuador",MTV Hits Europe
-http://45.88.92.3:80/tr3_MTVHits_SD/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8dUS3Ih.png" group-title="Ecuador",Novelisima
 https://dai.google.com/linear/hls/event/sFuxwI37R9KMTs-KywMcBg/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/exdDHml.png" group-title="Ecuador",Nuevo Tiempo (720p) [Not 24/7]
@@ -121,6 +119,8 @@ https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 https://v4.tustreaming.cl/tevexinter/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h48pwLn.png" group-title="Ecuador",Tropical Music TV (720p)
 https://server80.servistreaming.com:3074/hybrid/play.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QJW6khK.jpg" group-title="Ecuador",TV Color Canal 36 (720p)
+https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iODADvi.png" group-title="Ecuador",TVE Internacional America (1080p)
 https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zsCZHMh.png" group-title="Ecuador",TVE Star HD (1080p)
