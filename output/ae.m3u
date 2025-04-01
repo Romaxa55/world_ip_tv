@@ -43,8 +43,8 @@ https://amg01480-alshallalfze-alshallal-ono-q0hfg.amagi.tv/playlist.m3u8
 https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OpHjfYV.png" group-title="United Arab Emirates",Al Wousta TV (1080p)
 https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rBixF3P.png" group-title="United Arab Emirates",Al Yaum TV (720p)
-https://alyaum-tv.akamaized.net/hls/alyaum-tv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rBixF3P.png" group-title="United Arab Emirates",Al Yaum TV (1080p)
+https://iko-live.akamaized.net/AlyuamTV/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NXFkYFj.png" group-title="United Arab Emirates",Alarabiya Portrait (720p)
 https://live.alarabiya.net/alarabiapublish/arabiav.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/f6PQzKd.png" group-title="United Arab Emirates",Alforat TV (1080p)
@@ -53,10 +53,10 @@ http://95.216.180.111:1935/live/10/playlist.m3u8
 https://shls-live-enc.edgenextcdn.net/out/v1/948c54279b594944adde578c95f1d7d1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n2nczHO.png" group-title="United Arab Emirates",Baynounah TV (1080p)
 https://vo-live.cdb.cdn.orange.com/Content/Channel/Baynounah/HLS/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ScyTG6P.png" group-title="United Arab Emirates",BBC Arabic (540p)
-https://vs-hls-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AkFFrS7.png" group-title="United Arab Emirates",CGTN Arabic (576p) [Not 24/7]
-https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ScyTG6P.png" group-title="United Arab Emirates",BBC Arabic (720p)
+https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AkFFrS7.png" group-title="United Arab Emirates",CGTN Arabic (1080p) [Not 24/7]
+https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/opBXx1K.png" group-title="United Arab Emirates",CNBC Arabiya (1080p)
 https://cnbc-live.akamaized.net/cnbc/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Dj16oKL.png" group-title="United Arab Emirates",Dubai One (1080p)
@@ -141,16 +141,12 @@ https://svs.itworkscdn.net/smcradiolive/smcradiolive/playlist.m3u8
 https://live.kwikmotion.com/smcquranlive/quranradiolive/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IaRaabJ.jpg" group-title="United Arab Emirates",Sharjah Sports TV (1080p)
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tq5Aj9i.png" group-title="United Arab Emirates",Sharjah TV (360p)
-https://cdn-globecast.akamaized.net/live/eds/sharjah_tv/hls_roku/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SvjU4h6.png" group-title="United Arab Emirates",Sky News Arabia (720p) [Not 24/7]
-https://stream.skynewsarabia.com/hls/sna.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tq5Aj9i.png" group-title="United Arab Emirates",Sharjah TV (1080p)
+https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SvjU4h6.png" group-title="United Arab Emirates",Sky News Arabia (1080p) [Not 24/7]
+https://stream.skynewsarabia.com/ott/ott.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FjtzQQs.png" group-title="United Arab Emirates",Sky News Arabia (Portrait) (1280p) [Not 24/7]
 https://stream.skynewsarabia.com/vertical/vertical.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" group-title="United Arab Emirates",Spacetoon (576p)
-https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dEfI2M9.png" group-title="United Arab Emirates",TRT Arabi (1080p) [Not 24/7]
-https://tv-trtarabi.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ow1HArj.png" group-title="United Arab Emirates",TVE Internacional Europe-Asia [Geo-blocked]
 https://rtvelivestream.akamaized.net/rtvesec/int/tvei_eu_main.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nLtiXNf.png" group-title="United Arab Emirates",Wanasah (1080p)
