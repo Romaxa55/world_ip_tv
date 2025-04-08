@@ -7,8 +7,6 @@ https://mediaserver.abnvideos.com/streams/abnsat.m3u8
 https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t7CaTu3.png" group-title="Iraq",Afaq TV
 http://63b03f7689049.streamlock.net:1935/live/1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://afarin.tv/images/baxcha.png" group-title="Iraq",Afarin Baxcha (1080p)
-https://5dcabf026b188.streamlock.net/afarinTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6MnXD7g.png" group-title="Iraq",Afarin TV (720p) [Not 24/7]
 https://65f16f0fdfc51.streamlock.net/afarinTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cTLj7Yt.png" group-title="Iraq",Aflam (1080p)
@@ -29,6 +27,8 @@ http://63b03f7689049.streamlock.net:1935/live/19/playlist.m3u8
 http://63b03f7689049.streamlock.net:1935/live/33/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YPj6kXq.png" group-title="Iraq",Al Ghadeer TV
 http://63b03f7689049.streamlock.net:1935/live/2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8qQouTW.jpg" group-title="Iraq",Al Iraqia (720p)
+https://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/feQTXeZ.jpg" group-title="Iraq",Al Iraqia News (720p)
 https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rxDh6W1.png" group-title="Iraq",Al Janoub TV
@@ -49,6 +49,8 @@ https://streamer3.premio.link/alqamar/playlist.m3u8
 https://media1.livaat.com/static/AL-RASHEED-HD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Eo3UYCK.png" group-title="Iraq",Al-Jawadain TV (1080p) [Not 24/7]
 https://live.aljawadain.org/live/aljawadaintv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JyWjfIB.png" group-title="Iraq",Al-Naeem TV (576p)
+https://nl2.livekadeh.com/hls2/alnaeem.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mJIG5IV.png" group-title="Iraq",Al-Sharqiya (1080p)
 https://5d94523502c2d.streamlock.net/home/mystream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PeAcXB9.png" group-title="Iraq",Al-Sharqiya News (1080p)
@@ -59,8 +61,6 @@ https://63b03f7689049.streamlock.net/live/1tv/playlist.m3u8
 http://95.216.180.111:1935/live/10/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tiQp2sR.png" group-title="Iraq",Alhurra (720p)
 https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsafe_HLS/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lqVwrAF.png" group-title="Iraq",Alquran (1080p)
-https://ktvlive.online/stream/hls/ch1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QtlnZbq.png" group-title="Iraq",Bab Al Hara (1080p)
 https://shls-live-enc.edgenextcdn.net/out/v1/948c54279b594944adde578c95f1d7d1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ScyTG6P.png" group-title="Iraq",BBC Arabic (720p)
@@ -117,8 +117,6 @@ https://6476e46b58f91.streamlock.net/music/livestream/playlist.m3u8
 https://6476e46b58f91.streamlock.net/liveTrans/SHOW2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JkK8HG8.png" group-title="Iraq",KurdMax Sorani (1080p)
 https://6476e46b58f91.streamlock.net/liveTrans/KurdmaxS0rani!/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/F3XRwkt.png" group-title="Iraq",Kurdsat News (1080p)
-https://kurdsat-news.akamaized.net/hls/kurdsat-news.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LsYYkUI.png" group-title="Iraq",Marjaeyat TV Arabic (1080p)
 https://livefa.marjaeyattv.com/mtv_ar/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Dvf61Jp.png" group-title="Iraq",Marjaeyat TV English (1080p)
@@ -127,6 +125,8 @@ https://livefa.marjaeyattv.com/mtv_en/playlist.m3u8
 https://livefa.marjaeyattv.com/mtv_fa/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CiA3plN.png" group-title="Iraq",MBC 1 (1080p)
 https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n9mSHuP.png" group-title="Iraq",MBC 2 (480p)
+https://edge66.magictvbox.com/liveApple/MBC_2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PVt8OPN.png" group-title="Iraq",MBC 3 KSA (1080p)
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BcXASJp.png" group-title="Iraq",MBC 4 (1080p)
