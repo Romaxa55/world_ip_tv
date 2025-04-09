@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jrGrfof.png" group-title="Canada",5AAB TV (720p) [Not 24/7]
+http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="Canada",24 Horas Internacional [Geo-blocked]
 https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zfdbVSm/logo-1.png" group-title="Canada",Afghan Nobel Movies (720p)
@@ -35,8 +37,6 @@ https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1
 http://fl2.moveonjoy.com/CRAVE_2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MyH3Q2p.png" group-title="Canada",Crave 4
 http://fl2.moveonjoy.com/CRAVE_4/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PzqzgMm.png" group-title="Canada",Deshi TV (720p)
-https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zh60l1x.png" group-title="Canada",Dukh Nivaran (720p) [Not 24/7]
 http://cdn12.henico.net:8080/live/dncal/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vB4yzen.png" group-title="Canada",Eawaz TV (720p) [Not 24/7]
@@ -65,12 +65,16 @@ https://cdn.live247stream.com/hyder/tv/playlist.m3u8
 https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/ICI_RDI_logo.svg/512px-ICI_RDI_logo.svg.png" group-title="Canada",ICI RDI (720p)
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mIih39Y.png" group-title="Canada",IIPC TV (480p) [Geo-blocked]
+https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5QGxHhh.png" group-title="Canada",Legislative Assembly of British Columbia
 https://cdn3.wowza.com/5/YldIU1hsTlljRWZF/hbs-prim-house-httpo/HouseP.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ll/legislative-assembly-of-british-columbia-ca.png" group-title="Canada",Legislative Assembly of British Columbia Committee A
 https://cdn3.wowza.com/5/YldIU1hsTlljRWZF/hbs-prim-dougfir-httpo/DougFirP.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n24MrsX.png" group-title="Canada",Legislative Assembly of Ontario
 https://temp3.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wY9WhYS.png" group-title="Canada",Legislative Assembly TV Nunavut
+http://temp2.isilive.ca/live/nunavut/live-eng/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/512px-Love_Nature_TV.png" group-title="Canada",Love Nature (720p) [Geo-blocked]
 https://bamus-klowdtv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Mad_world.jpg" group-title="Canada",Mad World (720p)
@@ -97,8 +101,6 @@ https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/ontarioca/G2446_002/playlist.m3u8
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sCBbBOj.png" group-title="Canada",Pamir TV (1080p) [Not 24/7]
 http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CwAdPpZ.jpg" group-title="Canada",Pardesi TV (720p)
-http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J8ejADF.png" group-title="Canada",Parnian TV (720p)
 https://live2.parnian.tv/hls/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LdGWsGj.png" group-title="Canada",Prime Asia TV (1080p)
