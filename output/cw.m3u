@@ -1,8 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="Curacao",24 Horas Internacional [Geo-blocked]
 https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7cVkllH.png" group-title="Curacao",Bonce TV (480p) [Not 24/7]
-https://seswa.bonce.tv/hls/bonceswa.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="Curacao",AXN
+https://streamer1.nexgen.bz/AXN/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="Curacao",BBC News (North America) (1080p)
+https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://caribbeanadvantage.com/images/CAtv-logo-512.png" group-title="Curacao",Caribbean Advantage TV (1080p) [Not 24/7]
 https://video2.getstreamhosting.com:19360/8216/8216.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gBbLyqh.png" group-title="Curacao",CCTV-4 America (1080p)
@@ -15,6 +17,12 @@ https://xui-backend.energeek.cl/live/10/playlist.m3u8?username=dEmoweBeneRGEek20
 https://streaming-cl.sh1ny.space/memfs/75b105a4-2fd3-4538-a55c-480f3903a262.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GVKjI5c.jpeg" group-title="Curacao",Energia TV (720p) [Not 24/7]
 https://cur.watch/api/get_stream/dctv/basilachill/mystream.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/512px-FX_International_logo.svg.png" group-title="Curacao",FX
+https://streamer1.nexgen.bz/FX/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/512px-Logo_Lifetime_2020.svg.png" group-title="Curacao",Lifetime
+https://streamer1.nexgen.bz/LIFETIME/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/512px-MTV_2021_%28brand_version%29.svg.png" group-title="Curacao",MTV
+https://streamer1.nexgen.bz/MTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZUob2uZ.png" group-title="Curacao",Nos Païs (720p) [Not 24/7]
 https://5f86a49aedff6.streamlock.net/nos_pais_24_7/nos_pais_24_7/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dajatv.com/wp-content/uploads/2021/09/logo_daja_2.png" group-title="Curacao",TV Daja (1080p)
