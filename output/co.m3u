@@ -15,10 +15,16 @@ https://streamer1.nexgen.bz/BET/index.m3u8
 https://movil.ejeserver.com/live/visiondorada.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Rvuyu7R.jpg" group-title="Colombia",Cable Sur TV (720p)
 https://tvlatina.live:1936/8012/8012/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2312Luq.png" group-title="Colombia",Cali TV (540p) [Not 24/7]
+https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Yv8XIGW.png" group-title="Colombia",Canal 2 Alpavisión Neiva (720p) [Not 24/7]
 https://stmv1.voxtvhd.com.br/alpavision/alpavision/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/peOIG1F.png" group-title="Colombia",Canal 8 TV+ (720p)
 https://movil.ejeserver.com/live/canal8tv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w5e1d8k.png" group-title="Colombia",Canal 9 Cosespu (720p)
+https://video2.lhdserver.es/canal9cosespu/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kAbrHqt.jpeg" group-title="Colombia",Canal 10 SOL TV (1080p)
+http://190.211.140.89:8081/SVTranscoder/SOLTVabr.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wNSUMhJ.png" group-title="Colombia",Canal 14 Codazzi (720p) [Not 24/7]
 https://eu1.servers10.com:8081/8056/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9BwZyhM.jpg" group-title="Colombia",Canal 55 Telemorisco TV (720p)
@@ -29,12 +35,12 @@ https://canal.mediaserver.com.co/live/cinedios.m3u8
 http://131.221.41.94/hls/canal2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ODMa27W.jpg" group-title="Colombia",Canal Más Televisión (720p)
 https://movil.ejeserver.com/live/teledoradahd.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zRqfJuj.png" group-title="Colombia",Canal Mundo Visión (720p)
+https://movil.ejeserver.com/live/mundovisiontv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/edaAexc.png" group-title="Colombia",Canal Nets (720p) [Not 24/7]
 https://movil.ejeserver.com/live/nets.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rfnFqU3.png" group-title="Colombia",Canal Oración Con Son (1080p)
 https://canal.mediaserver.com.co/live/oracionconson.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HbWadhJ.png" group-title="Colombia",Canal Santa Marta TV (720p) [Not 24/7]
-https://streaming.amelbasoluciones.co:19360/santamartalive/santamartalive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D1s1Q3k.png" group-title="Colombia",Canal Telefamilia (360p) [Not 24/7]
 https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rA9Y0Z1.jpg" group-title="Colombia",Carare TV (1080p) [Not 24/7]
@@ -79,8 +85,6 @@ https://s2.tvdatta.com:3307/hybrid/play.m3u8
 https://streamer1.nexgen.bz/FX/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FqFxog1.png" group-title="Colombia",Garage TV Latin America
 https://stream1.sersat.com/hls/garagetv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CBbbrkI.png" group-title="Colombia",Hiperconectados TV
-https://stmv5.voxtvhd.com.br/hiperconectados/hiperconectados/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png" group-title="Colombia",History
 https://streamer1.nexgen.bz/HISTORY/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m7IRKFH.jpg" group-title="Colombia",INPO TV (720p)
@@ -103,8 +107,6 @@ https://video.ejeserver.com/live/mcitelevision.m3u8
 https://vcp.myplaytv.com/moviefe/moviefe/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/512px-MTV_2021_%28brand_version%29.svg.png" group-title="Colombia",MTV
 https://streamer1.nexgen.bz/MTV/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zNscEST.png" group-title="Colombia",MTV Hits Europe
-http://45.88.92.3/tr3_MTVHits_SD/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8dUS3Ih.png" group-title="Colombia",Novelisima
 https://dai.google.com/linear/hls/event/sFuxwI37R9KMTs-KywMcBg/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/exdDHml.png" group-title="Colombia",Nuevo Tiempo (720p) [Not 24/7]
