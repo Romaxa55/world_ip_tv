@@ -29,8 +29,6 @@ http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H34quHQ.png" group-title="Mexico",Canal 10 Durango
 https://5e50264bd6766.streamlock.net/canal10durango/videocanal10durango/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/r7czgOc.png" group-title="Mexico",Canal 15 ILCE Summa Sabres (720p)
-https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PAvnVN9.png" group-title="Mexico",Canal 26 Aguascalientes (1080p)
 https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/JCt1Nbn.png" group-title="Mexico",Canal 33 Tijuana (720p)
@@ -105,8 +103,6 @@ https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/652e922db4b047000825f975livestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&profilesFromStream=true&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/512px-MTV_2021_%28brand_version%29.svg.png" group-title="Mexico",MTV
 https://streamer1.nexgen.bz/MTV/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zNscEST.png" group-title="Mexico",MTV Hits Europe
-http://45.88.92.3/tr3_MTVHits_SD/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pw4NZK1.png" group-title="Mexico",MyTime Movie Network Mexico (720p)
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aZCTkjU.jpg" group-title="Mexico",Nayarit Comunica
@@ -141,8 +137,6 @@ https://webprod.sipse.com.mx:8080/show/merida.m3u8
 https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.energeek.cl/logos/spectrumtv-512.png" group-title="Mexico",Spectrum Channel (720p)
 https://panel.miplay.cl:8082/spectrumchannel/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dLHIvKz.png" group-title="Mexico",Super Channel 12 (1080p) [Geo-blocked]
-https://servilive.com:3263/live/channel12live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XkpDSmO.png" group-title="Mexico",Tele Yucatan [Geo-blocked]
 https://5ca3e84a76d30.streamlock.net/teleyucatan/videoteleyucatan/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MeV5N08.png" group-title="Mexico",Teleplay Sureste (720p)
@@ -161,6 +155,8 @@ https://rdn.essastream.com:3388/live/dajatvlive.m3u8
 https://5ca9af4645e15.streamlock.net/lobodurango/videolobodurango/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/z9iVlMn.png" group-title="Mexico",TV Mar La Paz (1080p)
 https://5fc584f3f19c9.streamlock.net/tvmarlapaz/smil:tvmarlapaz.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z9iVlMn.png" group-title="Mexico",TV Mar Puerto Vallarta (1080p)
+https://5ca3e84a76d30.streamlock.net/tvmarvallarta/videotvmarvallarta/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9qL4LJF.png" group-title="Mexico",TV Nuevo León Canal 28 (XHMNL-TDT) (720p)
 https://s5.mexside.net:1936/canal28/canal28/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4demWOi.png" group-title="Mexico",TV UJAT (XHUJAT-TDT) (720p) [Not 24/7]
