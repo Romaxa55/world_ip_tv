@@ -53,6 +53,8 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65a67dd13af63d0008257f17/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1c5240-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6e62cae5-9404-4e52-8b20-c5fc2b453e9d
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Spu4s89.png" group-title="United States",AABC TV (480p)
 https://streamer1.connectto.com/AABC_WEB_1201/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="United States",ABC
+http://41.205.93.154/ABC/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="United States",ABC 3 Lafayette LA (KATC) (720p)
 https://aegis-cloudfront-1.tubi.video/28467730-4b65-4c85-8151-4c7d162c0896/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8vXRrRe.jpg" group-title="United States",ABC 4 Seattle WA (KOMO-TV) (720p)
@@ -63,10 +65,10 @@ https://content.uplynk.com/channel/ext/4413701bf5a1488db55b767f8ae9d4fa/kgo_24x7
 https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/KABC-TV-Logo-2021.png/512px-KABC-TV-Logo-2021.png" group-title="United States",ABC 7 Los Angeles CA (KABC-TV) (720p)
 https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CWZtYNi.png" group-title="United States",ABC 7 Omaha NE (KETV) (720p)
-https://apollo.production-public.tubi.io/live/ac-ketv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="United States",ABC 9 Orlando FL (WFTV) (720p)
 https://amg00327-coxmediagroup-wftvbreaking-ono-hec7b.amagi.tv/playlist/amg00327-coxmediagroup-wftvbreaking-ono/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="United States",ABC 10 San Diego CA (KGTV) (720p)
+https://apollo.production-public.tubi.io/live/ac-kgtv2.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/KTNV_2023.svg/512px-KTNV_2023.svg.png" group-title="United States",ABC 13 Las Vegas NV (KTNV) (720p)
 https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/43s7KXt.png" group-title="United States",ABC 15 Phoenix AZ (KNXV-TV) (720p)
@@ -211,8 +213,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65
 https://streamer1.connectto.com/ARTN_mobile/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TOM5qO6.png" group-title="United States",Aspire
 http://fl3.moveonjoy.com/Aspire/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6lklsyN.png" group-title="United States",AssyriaSat (720p) [Not 24/7]
-http://66.242.170.53/hls/live/temp/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WfKlGbX.png" group-title="United States",At Home with Family Handyman
 https://linear-458.frequency.stream/dist/xumo/458/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MOGQAns.png" group-title="United States",Atlanta Channel (720p)
@@ -351,8 +351,8 @@ http://fl3.moveonjoy.com/BOUNCE_TV/index.m3u8
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6176fd25e83a5f0007a464c9/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2743c7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c190f5a2-d746-452a-adf6-37d9268e59ae
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Kkcp9Bk.png" group-title="United States",Brat TV (720p) [Geo-blocked]
 https://amg00350-amg00350c1-klowdtv-us-2536.playouts.now.amagi.tv/playlist/amg00350-bratstudiofast-brat-klowdtvus/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JmTIRLF.png" group-title="United States",Bravo
-https://streamer1.nexgen.bz/BRAVO/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JmTIRLF.png" group-title="United States",Bravo East
+http://fl3.moveonjoy.com/BRAVO/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eUTDIQ2.png" group-title="United States",Brevard County Government Access TV (Brevard FL) (720p)
 https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/brevardfl/G2111_002/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PJdzoLN.png" group-title="United States",BritBox Mysteries
@@ -413,6 +413,8 @@ https://bcovlive-a.akamaihd.net/r602a47f47fee47bb83239eb1b1e1ac83/us-east-1/7345
 https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png" group-title="United States",CBS 2 Billings MT (KTVQ) (1080p)
 https://aegis-cloudfront-1.tubi.video/16dca551-7e18-4599-b235-395d5044099b/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png" group-title="United States",CBS 3 Great Falls MT (KRTV) (720p)
+https://apollo.production-public.tubi.io/live/ac-krtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E4PkyqN.png" group-title="United States",CBS 3 Omaha NE (KMTV-TV) (720p)
 https://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png" group-title="United States",CBS 12 KWCH Weather Channel / Always On Storm Team 12
@@ -597,6 +599,8 @@ https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/cupertino/G0067_003/playlist.m3u8
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d40855b3fb0855028c99b6f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c287c40-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=92a113fc-f35c-4160-9c63-27cd8537a39f
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8mAJuut.png" group-title="United States",Dateline 24/7
 https://dz59iptwz5rxs.cloudfront.net/live/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IjzCv8f.png" group-title="United States",Daystar TV
+https://live20.bozztv.com/dvrfl05/gin-daystar/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lZvNXA1.png" group-title="United States",Deal or no Deal
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e92951c2db99000787c00d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c79df75-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=99d1f141-b1af-4c62-9b90-538de8ee3cc4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vhSzfDC.png" group-title="United States",Degrassi
@@ -681,10 +685,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/58
 https://edge-f.swagit.com/live/fernandinabeachfl/live-1-a/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p13E4cf.png" group-title="United States",Fido TV (1080p)
 https://1123112950.rsc.cdn77.org/HLS/FIDO.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8j2npVc.png" group-title="United States",Filmrise Forensic Files (720p)
-https://apollo.production-public.tubi.io/live/ac-forensic-files.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8j2npVc.png" group-title="United States",Filmrise True Crime (720p)
-https://apollo.production-public.tubi.io/live/ac-filmrise-true-crime.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ESV6qgH.png" group-title="United States",FITE 24/7 (1080p)
 https://d3d85c7qkywguj.cloudfront.net/scheduler/scheduleMaster/263.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rtL5L81.png" group-title="United States",Flicks of Fury
@@ -1255,8 +1255,6 @@ https://apollo.production-public.tubi.io/live/ac-wesh.m3u8
 https://apollo.production-public.tubi.io/live/ac-kjrh.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="United States",NBC 3 Sacramento CA (KCRA) (720p)
 https://apollo.production-public.tubi.io/live/ac-kcra.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="United States",NBC 4 Greenville SC (WYFF) (720p)
-https://apollo.production-public.tubi.io/live/ac-wyff.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HC85eBq.png" group-title="United States",NBC 4 Milwaukee WI (WTMJ) (720p)
 https://aegis-cloudfront-1.tubi.video/558113f6-9f55-41d3-83e0-8d6102a9f0ea/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7JpMArM.png" group-title="United States",NBC 4 Washington DC (WRC) [Geo-blocked]
@@ -1267,12 +1265,8 @@ https://apollo.production-public.tubi.io/live/ac-wlwt.m3u8
 https://apollo.production-public.tubi.io/live/ac-koaa.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="United States",NBC 5 Dallas-Fort Worth TX (KXAS) [Geo-blocked]
 https://amg00884-nbcuniversal-dfwnews-xumo-r5in7.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="United States",NBC 5 Plattsburgh NY (WPTZ) (720p)
-https://apollo.production-public.tubi.io/live/ac-wptz.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p3HXpSv.png" group-title="United States",NBC 6 Miami FL (WTVJ) [Geo-blocked]
 https://amg00884-nbcuniversal-nbcnsf-pcr-xumo-78jf2.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="United States",NBC 6 New Orleans LA (WDSU) (720p)
-https://apollo.production-public.tubi.io/live/ac-wdsu.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/WBTS-LD_NBC_10_Boston_logo.png/512px-WBTS-LD_NBC_10_Boston_logo.png" group-title="United States",NBC 10 Boston NH (WBTS) [Geo-blocked]
 https://amg00884-nbcuniversal-nbcbos-pcr-xumo-9xxph.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/WCAUlogo2.svg/512px-WCAUlogo2.svg.png" group-title="United States",NBC 10 Philadelphia PA (WCAU) [Geo-blocked]
@@ -1311,8 +1305,6 @@ https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1311088/playlist.m3u8
 https://cdn.igocast.com/channel2_hls/channel2_master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Newsy_2021.svg/512px-Newsy_2021.svg.png" group-title="United States",Newsy (1080p)
 https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mPGtwAP.png" group-title="United States",NFL Channel
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5105-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6477ef85-3680-442c-94d8-27197903b1f6
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/512px-NFL_Network_logo.svg.png" group-title="United States",NFL Network
 http://fl3.moveonjoy.com/NFL_NETWORK/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5lPqQj5.png" group-title="United States",NFL RedZone
@@ -1457,6 +1449,8 @@ https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/pinole/G0032_004/playlist.m3u8
 https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/pinole/G0032_002/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/PIX11_2017.svg/512px-PIX11_2017.svg.png" group-title="United States",PIX11 (720p)
 https://content.uplynk.com/channel/98828f7707b84dc496472d5789143df2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ysRh3Nl.png" group-title="United States",PixL TV
+https://frndlymsl.akamaized.net/hls/live/2006426/pixlmsl/pixlmsl/playlist.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CKwmLLN.png" group-title="United States",Placentia TV (Placentia CA) (720p)
 https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/placentia/G0928_002/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tDapGal.png" group-title="United States",Pluto TV Action
@@ -1749,6 +1743,8 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c393cad2de254456f7ef8c2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bb097-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ba96820a-ef7c-474b-9484-5944ae6322c0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/woY8Ecb.png" group-title="United States",Spike Pluto TV
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5812bcc8237a6ff45d16c407/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bb098-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7817c7c9-18cd-4d07-835d-350e94a68d2b
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yCp6vXz.png" group-title="United States",Spirit TV (720p) [Not 24/7]
+https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ulGKX30.png" group-title="United States",SportsGrid (1080p)
 https://sportsgrid-tribal.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CXauv8M.png" group-title="United States",Sportsman Channel
@@ -1775,6 +1771,8 @@ https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/stockton/G0044_008/playlist.m3u8
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e8254118601b80007b4b7ae/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bd7a7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=376bc851-10a1-4952-ada7-86e9d28d5845
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/Story_television_logo.png" group-title="United States",Story Television
 https://2-fss-1.streamhoster.com/pl_122/206858-4412976-1/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rKkHhkX.png" group-title="United States",Stryk TV (1080p)
+https://fffffff110156200.tvustream.com:8298/ryfy.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W8RLk5w.png" group-title="United States",SUMtv Latino (1080p)
 https://bozztv.com/uni10rtmp/ssstv2-cdn/smil:ssstv2web.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SundanceTV_2014.svg/512px-SundanceTV_2014.svg.png" group-title="United States",Sundance TV East
@@ -1939,8 +1937,6 @@ https://livestream.telvue.com/templeuni1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/pl
 https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/bullheadcity/G0860_002/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Eh4kfwR.png" group-title="United States",TV84 (480p)
 https://cdn20.liveonlineservices.com/hls/tv84.m3u8
-#EXTINF:-1 tvg-logo="https://dajatv.com/wp-content/uploads/2021/09/logo_daja_2.png" group-title="United States",TV Daja (1080p)
-https://rdn.essastream.com:3388/live/dajatvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y1rXIAS.png" group-title="United States",TV Land Drama
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d40bebc5e3d2750a2239d7e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c9af3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5e762bb7-572b-4470-87fd-b3b4bb48462e
 #EXTINF:-1 tvg-logo="https://i.imgur.com/phHHs7l.png" group-title="United States",TV Land Sitcoms
@@ -2007,6 +2003,8 @@ https://bozztv.com/gusa/gusa-tvsturbo/index.m3u8
 https://bozztv.com/gusa/gusa-tvsvintage/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dwr98qb.png" group-title="United States",TVS Western Movie (270p)
 https://bozztv.com/gusa/gusa-tvswesternmovies/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8hC4PfF.png" group-title="United States",TVS Women Sports (720p)
+https://bozztv.com/gusa/gusa-tvswsn/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.watchyour.tv/channels/logo/tvs-consumer-direct.jpg" group-title="United States",TVSConsumerDirect
 https://rpn.bozztv.com/gusa/gusa-ConsumerDirect/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cTwdOtV.png" group-title="United States",UALR TV
@@ -2029,8 +2027,6 @@ https://usatodaynews-xumo.amagi.tv/playlist.m3u8
 https://cdn3.wowza.com/5/RXJNMFI3VlVkOEFP/vacaville/G0228_002/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cn6pAEZ.png" group-title="United States",Valley Shore Community Television (VSCTV) (Clinton CT) (1080p)
 https://reflect-vsctv.cablecast.tv/live-3/live/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bRQSzhs.png" group-title="United States",Velayat TV (480p)
-https://nl.livekadeh.com/hls2/velayattv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vtGED07.jpg" group-title="United States",Venevisión Internacional (720p)
 https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/featuredImage.jpg" group-title="United States",Vevo 2K
@@ -2069,14 +2065,16 @@ https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8
 https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/C4wIRxg.png" group-title="United States",VSiN (720p)
 https://vsin-sgrewind.streamguys1.com/scte/live-2k/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Retro_Television_Network.png/512px-Retro_Television_Network.png" group-title="United States",W14DK-D3 (1280p)
+https://2-fss-2.streamhoster.com/pl_118/204972-1954132-1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TjQP7kS.png" group-title="United States",W14DK-D 14.1 TV Delmarva
 https://2-fss-2.streamhoster.com/pl_118/amlst:204972-1949480/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/NewsNetLogo2022.png" group-title="United States",W14DK-D 14.2 NEWSNET
 https://2-fss-2.streamhoster.com/pl_118/204972-1954106-1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Retro_Television_Network.png/512px-Retro_Television_Network.png" group-title="United States",W14DK-D 14.3 RetroTV
-https://2-fss-2.streamhoster.com/pl_118/204972-1954132-1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D4mZ8ll.png" group-title="United States",W14DK-D 14.5 All Sports Television Network
 https://2-fss-2.streamhoster.com/pl_118/204972-2205186-1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DcZoeGw.jpg" group-title="United States",WAGA-DT1
+https://live20.bozztv.com/dvrfl05/gin-fox5/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vaSXaFp.png" group-title="United States",Wanted: Dead or Alive
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6089788de5c8410007808e26/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2d1025-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=66e6d8ef-5958-4806-9fdc-ff058061dd07
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9vvlJN9.png" group-title="United States",Waypoint TV (1080p)
