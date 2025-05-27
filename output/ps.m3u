@@ -21,8 +21,6 @@ https://live-hls-apps-ajm24-fa.getaj.net/AJM24/index.m3u8
 https://live-hls-apps-ajm-fa.getaj.net/AJM/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Aljazeera_Mubasher.svg/512px-Aljazeera_Mubasher.svg.png" group-title="Palestine",Al Jazeera Mubasher Broadcast 2 (1080p)
 https://live-hls-apps-ajm2-fa.getaj.net/AJM2/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NVOeM3P.png" group-title="Palestine",Al Madina (720p)
-https://streaming.zaytonatube.com:8081/AlMadinatv/almadina21/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c2bwn4G.png" group-title="Palestine",Al Najah News (720p)
 https://streaming.najah.edu:8443/hls/AlNajah.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zkBT0C8.png" group-title="Palestine",Al Qamar TV (1080p)
@@ -35,6 +33,8 @@ https://shls-live-enc.edgenextcdn.net/out/v1/948c54279b594944adde578c95f1d7d1/in
 https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Palestine",Bloomberg TV EMEA Live Event (720p)
 https://bloomberg.com/media-manifest/streams/eu-event.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AkFFrS7.png" group-title="Palestine",CGTN Arabic (1080p) [Not 24/7]
+https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/opBXx1K.png" group-title="Palestine",CNBC Arabiya (1080p)
 https://cnbc-live.akamaized.net/cnbc/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Dj16oKL.png" group-title="Palestine",Dubai One (1080p)
@@ -43,10 +43,6 @@ https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist.
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sua70RO.png" group-title="Palestine",EWTN Africa Asia (720p)
 https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1xERxmB.png" group-title="Palestine",Fajer TV 1 (480p)
-http://platform.topuphost.com:8577/live/alfajr.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JkVtm2S.png" group-title="Palestine",Fajer TV 2 (576p)
-http://platform.topuphost.com:8577/live/alfajr2.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6B3Cims.png" group-title="Palestine",Falastini TV (1080p)
 https://rp.tactivemedia.com/palestiniantv_source/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u8N6uoj.png" group-title="Palestine",France 24 Arabic (1080p)
@@ -87,7 +83,7 @@ https://pbc.furrera.ps/PalestineEDU/index.m3u8
 https://live.paltodaytv.com/paltv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AbrHI7K.png" group-title="Palestine",PMC (1080p)
 https://hls.pmc.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kuYMKgG.png" group-title="Palestine",PMC Royale (720p) [Not 24/7]
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/pmc-royale-ch.png" group-title="Palestine",PMC Royale (720p) [Not 24/7]
 https://rohls.pmc.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Nothing_whitespace_blank.png" group-title="Palestine",Radio Albalad TV (720p)
 http://streaming.zaytonatube.com:8080/radioalbalad/radioalbalad/playlist.m3u8
@@ -97,6 +93,8 @@ https://mn-nl.mncdn.com/palabroad/live/playlist.m3u8
 https://shls-live-enc.edgenextcdn.net/out/v1/0ef83323c0374a1187c182645db2a45f/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G8vGrn1.png" group-title="Palestine",RT Arabic (1080p) [Geo-blocked]
 https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4Cyz4Bn.png" group-title="Palestine",Shabab FM (720p) [Not 24/7]
+https://streaming.zaytonatube.com:8081/ShababFM/shabab/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SvjU4h6.png" group-title="Palestine",Sky News Arabia (1080p) [Not 24/7]
 https://stream.skynewsarabia.com/ott/ott.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FjtzQQs.png" group-title="Palestine",Sky News Arabia (Portrait) (1280p) [Not 24/7]
