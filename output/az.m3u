@@ -1,14 +1,14 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m6CM7VU.png" group-title="Azerbaijan",Alvin Channel TV (360p) [Not 24/7]
 https://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2CSW4V4.png" group-title="Azerbaijan",APA Tv
+http://rtmp.apa.tv/@pagroup!23.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E97M2OL.png" group-title="Azerbaijan",ARB
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mtvIFyq.png" group-title="Azerbaijan",ARB 24
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-24.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dSg7KUK.png" group-title="Azerbaijan",ARB Gunes
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-gunes.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/snBMMeH.png" group-title="Azerbaijan",Az TV (1080p)
-https://str.yodacdn.net/aztv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r4FzxSg.png" group-title="Azerbaijan",Baku TV (720p)
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/baku-tv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Azerbaijan",Bloomberg TV EMEA Live Event (720p)
@@ -17,6 +17,8 @@ https://bloomberg.com/media-manifest/streams/eu-event.m3u8
 https://bloomberg.com/media-manifest/streams/eu.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DnlngRZ.png" group-title="Azerbaijan",Carousel International
 https://cdn4.skygo.mn/live/disk1/Karusel/HLS-FTA/Karusel.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wVT0dwO.png" group-title="Azerbaijan",CBC
+https://live20.bozztv.com/dvrfl05/gin-cbctvaz/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nDWkCmL.png" group-title="Azerbaijan",CGTN Русский (1080p)
 https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dunya-tv-az.png" group-title="Azerbaijan",Dunya TV
@@ -37,8 +39,6 @@ https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/2ee2b8d4-acc4-4296-9dc8-66f1ffd0fff8/5.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PlvaDIa.png" group-title="Azerbaijan",Medeniyyet TV (406p)
 https://str.yodacdn.net/medeniyyet/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ccwijY0.png" group-title="Azerbaijan",Multilandia
-http://s1.merlive.am/multilandia/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WbjURLo.png" group-title="Azerbaijan",Museum TV English (1080p)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtven-xiaomi/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/1cc9ab7e-8283-4c32-a3f3-e2a4d0e1d33f-width200-quality90.jpeg" group-title="Azerbaijan",People Are Awesome (720p)
