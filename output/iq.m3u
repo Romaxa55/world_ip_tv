@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cCmjqtQ/logo-2.png" group-title="Iraq",Abalfadhl TV (720p)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cCmjqtQ/logo-2.png" group-title="Iraq",Abalfadhl TV
 https://t.northtelecom.org/ABALFADHLTV.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WhPlJzh.jpeg" group-title="Iraq",ABNsat (720p)
 https://mediaserver.abnvideos.com/streams/abnsat.m3u8
@@ -27,6 +27,8 @@ http://63b03f7689049.streamlock.net:1935/live/6/playlist.m3u8
 http://63b03f7689049.streamlock.net:1935/live/19/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TkjdGhy.png" group-title="Iraq",Al Etejah TV
 http://63b03f7689049.streamlock.net:1935/live/33/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M8ZuzeB.png" group-title="Iraq",Al Hayat TV (720p)
+https://cdn3.wowza.com/5/OE5HREpIcEkySlNT/alhayat-live/ngrp:livestream_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8qQouTW.jpg" group-title="Iraq",Al Iraqia (720p)
 https://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/feQTXeZ.jpg" group-title="Iraq",Al Iraqia News (720p)
@@ -63,6 +65,8 @@ https://63b03f7689049.streamlock.net/live/1tv/playlist.m3u8
 http://95.216.180.111:1935/live/10/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tiQp2sR.png" group-title="Iraq",Alhurra (720p)
 https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsafe_HLS/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/ava-family-iq.png" group-title="Iraq",AVA Family (720p)
+https://familyhls.avatv.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JazFBkW.jpeg" group-title="Iraq",Avar TV (1080p)
 https://avr.host247.net/live/AvarTv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QtlnZbq.png" group-title="Iraq",Bab Al Hara (1080p)
@@ -99,6 +103,16 @@ https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8
 https://avr.host247.net/live/FarmodaTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u8N6uoj.png" group-title="Iraq",France 24 Arabic (1080p)
 https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TXzEtF8.png" group-title="Iraq",Hadi TV Azeri and Russian (720p)
+https://live.ishiacloud.com/haditv.co.uk/haditv3.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TXzEtF8.png" group-title="Iraq",Hadi TV English and Urdu (720p)
+https://live.ishiacloud.com/haditv.co.uk/haditv1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TXzEtF8.png" group-title="Iraq",Hadi TV Farsi (720p)
+https://live.ishiacloud.com/haditv.co.uk/haditv4.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TXzEtF8.png" group-title="Iraq",Hadi TV Hausa (720p)
+https://live.ishiacloud.com/haditv.co.uk/haditv5.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TXzEtF8.png" group-title="Iraq",Hadi TV Pashto and Persian (720p)
+https://live.ishiacloud.com/haditv.co.uk/haditv6.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SLoSBTh.png" group-title="Iraq",Imam Asr TV (720p)
 https://iptv.imamasrtv.com/asrfa/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pDdUvz7.png" group-title="Iraq",Imam Hussein TV 1 (1080p) [Not 24/7]
@@ -138,7 +152,7 @@ https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/in
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BcXASJp.png" group-title="Iraq",MBC 4 (1080p)
 https://shls-masr-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TTAGFHG.png" group-title="Iraq",MBC Bollywood (1080p) [Geo-blocked]
-https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g5PWnqp.png" group-title="Iraq",MBC Drama KSA (1080p)
 https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lF8UxvR.png" group-title="Iraq",MBC FM (1080p)
@@ -167,7 +181,7 @@ http://stream.nubar.tv:1935/private/NUBARtv/playlist.m3u8
 https://media2.streambrothers.com:1936/8218/8218/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AbrHI7K.png" group-title="Iraq",PMC (1080p)
 https://hls.pmc.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/pmc-royale-ch.png" group-title="Iraq",PMC Royale (720p) [Not 24/7]
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/pmc-royale-ch.png" group-title="Iraq",PMC Royale (720p)
 https://rohls.pmc.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aCJeVSr.png" group-title="Iraq",Ramez (1080p)
 https://shls-live-enc.edgenextcdn.net/out/v1/0ef83323c0374a1187c182645db2a45f/index.m3u8
