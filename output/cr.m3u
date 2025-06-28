@@ -89,7 +89,7 @@ https://vcp.myplaytv.com/glowtv/glowtv/playlist.m3u8
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bfef8b40-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=787d09fb-c219-46d0-b022-07fb4d7f7395&userId=&serverSideAds=false
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v3BO4nW.png" group-title="Costa Rica",Pluto TV Cine Estelar
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff0c3c1-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=20f53e04-9cb8-454e-ad8b-838686c353e7&userId=&serverSideAds=false
-#EXTINF:-1 tvg-logo="https://i.imgur.com/g9LkLOY.png" group-title="Costa Rica",Pluto TV Cine Suspenso (720p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GnUmEZn.png" group-title="Costa Rica",Pluto TV Cine Suspenso (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddc4e8bcbb9010009b4e84f/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h17lAxc.png" group-title="Costa Rica",Pluto TV The Walking Dead ESP (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e82bb378601b80007b4bd78/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e82bb378601b80007b4bd78&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=925&terminate=false&userId=
@@ -101,6 +101,8 @@ https://ilglobotv-live.akamaized.net/channels/RAIItaliaSudAmerica/Live.m3u8
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/viJBL6f.png" group-title="Costa Rica",Retrox TV (720p)
 https://acceso.radiosportstv.online:3259/live/retroxtvlive.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XWmwwbj.jpg" group-title="Costa Rica",RTV Chirripó (720p)
+https://lstv.duckdns.org:449/hls/rtchirripo.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mbB8hqL/blanco-crop.png" group-title="Costa Rica",San José TV (1080p)
 https://rtmp.info/sanjosetv/envivo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Yd7JOxr.png" group-title="Costa Rica",San Vito Televisión (720p)
@@ -109,8 +111,6 @@ https://stmv.streamingvip.click/sanvitotv/sanvitotv/playlist.m3u8
 http://tiquiciatv.com:1935/stv/web/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uQfzebn.png" group-title="Costa Rica",Series con Ñ
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb3087fbbc120007fc46be/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b8988-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8d10604b-577d-49d0-a6bc-03b028c6758f
-#EXTINF:-1 tvg-logo="https://i.ibb.co/P4kpMgk/1689344714578.jpg" group-title="Costa Rica",SOY Plancha TV (720p)
-https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="Costa Rica",Tastemade en Espanol [Geo-blocked]
 https://tastemadees16us-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OFSOvpd.jpg" group-title="Costa Rica",TDtv (720p)
@@ -119,6 +119,8 @@ https://cloudvideo.servers10.com:8081/8230/index.m3u8
 http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m3xu6Ms.png" group-title="Costa Rica",TeleBrunca (720p) [Not 24/7]
 https://59ef525c24caa.streamlock.net/telebrunca/telebrunca/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KUpgeOf.png" group-title="Costa Rica",TeleSUR Costa Rica (720p) [Not 24/7]
+https://s1.tvdatta.com:3582/live/telesurlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FnInQRd.png" group-title="Costa Rica",Tevex (720p) [Not 24/7]
 https://v4.tustreaming.cl/tevexinter/index.m3u8
 #EXTINF:-1 tvg-logo="https://dajatv.com/wp-content/uploads/2021/09/logo_daja_2.png" group-title="Costa Rica",TV Daja (1080p)
@@ -137,8 +139,6 @@ http://k4.usastreams.com/videotour/videotour/playlist.m3u8
 https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WIeZMKT.png" group-title="Costa Rica",Vive Kanal D Drama (1080p)
 https://thema-vivekanald-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Dvo1b82.png" group-title="Costa Rica",VM Latino (720p) [Not 24/7]
-https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HzGs1Eh.png" group-title="Costa Rica",VoiceOver Radio TV (720p)
 https://cloudvideo.servers10.com:8081/8198/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/o7MCfuA.jpg" group-title="Costa Rica",Xpresso Joven Radio (720p)
