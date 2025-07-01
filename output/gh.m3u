@@ -1,6 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SLrX8Ef.png" group-title="Ghana",ABN Africa (480p)
 https://mediaserver.abnvideos.com/streams/abnafrica.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YWIJdai.png" group-title="Ghana",Africa 24 (1080p)
+https://africa24.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YWIJdai.png" group-title="Ghana",Africa 24 Sport (1080p)
+https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5UxU4zc.png" group-title="Ghana",Africanews French (720p)
 https://2767164d5ee04887b96812a9eea74d32.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6573/44d3df93-4a3e-43e0-990f-a5d196bbe3aa/5.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fWlLvRA.png" group-title="Ghana",Afroturk TV (1080p)
@@ -11,12 +15,6 @@ https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_c
 https://bloomberg.com/media-manifest/streams/eu-event.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BzA2z7m.png" group-title="Ghana",Canal 2 International
 http://69.64.57.208/canal2international/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YgLMMOr.png" group-title="Ghana",CeeJay TV (480p) [Not 24/7]
-https://asiakwa.com/ceejaytv/index.fmp4.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XJsN2WR.png" group-title="Ghana",ChannelOne TV (576p)
-https://2ctv.crystaltv.mobi:44095/tv877.167.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BnNYzWI.png" group-title="Ghana",CNBC Africa (480p)
-https://5be2f59e715dd.streamlock.net/CNBC/smil:CNBCSandton.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sua70RO.png" group-title="Ghana",EWTN Africa Asia (720p)
 https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gAQVPTV.png" group-title="Ghana",Faculty TV (720p)
@@ -33,6 +31,8 @@ https://g2qd3exjy7an-hls-live.5centscdn.com/gtvsport/ghanaweb.stream/playlist.m3
 https://tv.localstreamgh.com/MabeshTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MargDV9.png" group-title="Ghana",Maranatha TV
 https://media.streambrothers.com:1936/8298/8298/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KKomvF9.png" group-title="Ghana",Max TV
+https://tv.qixapps.com/hls/006bea00-06e8-440e-babe-0a588e1138f2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OioFepy.jpeg" group-title="Ghana",Medi 1 TV Afrique (1080p) [Not 24/7]
 https://streaming1.medi1tv.com/live/smil:medi1fr.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1o5wYVn.png" group-title="Ghana",Metro TV
