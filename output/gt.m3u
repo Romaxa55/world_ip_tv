@@ -1,20 +1,24 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="Guatemala",24 Horas HEVC
 https://d3pfmk89wc0vm9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nlow3qkp9tmdm/24H_ES.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BtGK7iZ.png" group-title="Guatemala",A+ Guate (720p)
+https://ch2-tva.duin.dev/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tLhcNTD/amigos-tv-chiquimula.png" group-title="Guatemala",Amigos TV Chiquimula (480p)
 https://antmedia.cablevisionrobles.com:5443/LiveApp/streams/CqwAgRagMvBNYN8c1731608980342.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AHaXlCh.png" group-title="Guatemala",Anime Zone TV (480p)
 http://animezonetv.net/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DVC5w6H.png" group-title="Guatemala",Aurora Media Films (720p)
 https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WxLHBwu.png" group-title="Guatemala",BabyFirst Spanish
-https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/be6f9eac-280e-4748-b866-2eb2463c1844/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UJhQoUK.png" group-title="Guatemala",Azteca Guate (1080p)
+https://ch1-tva.duin.dev/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="Guatemala",BBC News (North America) (1080p)
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nmZ2nId.png" group-title="Guatemala",Bob Esponja LATAM
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6254598f5083f800076d8563/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=94b33a50-52dc-11ed-8a57-a7949f30f39c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c32ca8be-d69f-4d5d-af36-5defdd524167&userId=&serverSideAds=false
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2Sekew2.png" group-title="Guatemala",Canal 9 Barbe TV (720p) [Not 24/7]
 https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FMrB17k.png" group-title="Guatemala",Canal 9 Ixchiguán (720p)
+https://cdn.streamhispanatv.net:3859/live/ixchiguanlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/INKZvlN.png" group-title="Guatemala",Canal 13 Esquipulas (720p)
 https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PP4U1JL.png" group-title="Guatemala",Canal 30 TV Bethel (720p) [Not 24/7]
@@ -45,8 +49,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h8S0eA4.png" group-title="Guatemala",El-Roi TV (720p)
 https://cdn.streamhispanatv.net:3648/live/elroitvlive.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.energeek.cl/logos/Fanpop-512.png" group-title="Guatemala",EnerGeek FAN (1080p)
-https://xui-backend.energeek.cl/live/10/playlist.m3u8?username=ZZDemoIPTVGH&password=mdo96EuqMkTR
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YwUVTmS.png" group-title="Guatemala",Enlace (720p)
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8mdSWO4.jpg" group-title="Guatemala",Espíritu Santo Y Fuego TV (480p)
@@ -71,6 +73,8 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c
 http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UC8WrEN.jpg" group-title="Guatemala",Maxivisión TV (720p)
 https://video03.logicahost.com.br/maxivisiontv/maxivisiontv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zNscEST.png" group-title="Guatemala",MTV Hits Europe
+http://45.88.92.3/tr3_MTVHits_SD/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wLjSSo2.jpg" group-title="Guatemala",Multivisión Sports (720p) [Not 24/7]
 https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mBNOSzl.png" group-title="Guatemala",Nim TV (720p) [Not 24/7]
