@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/slSUDNX.png" group-title="Germany",1-2-3 TV (270p)
 https://123tv-mx1.flex-cdn.net/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eTmHk4e.png" group-title="Germany",Alex Berlin (1080p)
+https://alex-stream.rosebud-media.de/bounce/alexlivetv50.smil/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Allg%C3%A4u_TV_Logo_%282021%29.svg/512px-Allg%C3%A4u_TV_Logo_%282021%29.svg.png" group-title="Germany",Allgäu TV (1080p)
 https://stream01.welocal.stream/stream/fhd-allgaeutv_25679/ngrp:stream_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3JriZGR.png" group-title="Germany",Altenburg TV (1080p)
@@ -123,8 +125,6 @@ https://relay2.cdn.fem-net.de/hls/loop/istuff_live/istuff_live-720p.m3u8
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/7441/7441_264_live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1LzJz7Y/Channels4-profile-7.jpg" group-title="Germany",Kanal12 Spremberg TV (404p) [Not 24/7]
 https://58de7a369a9c4.streamlock.net/sprembergtv/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dJocxUQ.png" group-title="Germany",Kanal Avrupa (1080p)
-https://api-tv27.yayin.com.tr/kanalavrupa/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CVJWiM0.png" group-title="Germany",KaufBei TV (576p)
 https://api.alpaca.t62a.com/hls/9103/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vZdNp5S.png" group-title="Germany",KiKA (1080p) [Geo-blocked]
@@ -155,6 +155,8 @@ https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/615c1e5ce3039400070a0547/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84addd31-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5bdf8fde-2533-4c16-b518-58e9777e93ca
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tpLRnP2.png" group-title="Germany",MTV Catfish TV Show
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5db6a697d5f34a000934cd13/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84addd34-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d88db7fd-9049-4209-8a4a-b6fb695742ed
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zNscEST.png" group-title="Germany",MTV Hits Europe
+http://45.88.92.3/tr3_MTVHits_SD/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WsQRCmZ.png" group-title="Germany",MTV Pluto TV
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5caf325764025859afdd6c4d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ae0445-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=46816ea6-8434-4e99-9589-496d1e6cd098
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GIKkbjT.png" group-title="Germany",MTV Ridiculousness
@@ -227,10 +229,10 @@ https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk2/_definst_/live/video/hk2_d
 https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk3/_definst_/live/video/hk3_de.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mksEgwx.png" group-title="Germany",Parlamentsfernsehen 4 (1080p) [Not 24/7]
 https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk4/_definst_/live/video/hk4_de.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.peer.biz/peertv-iptv/peer-tv-south-tyrol.png" group-title="Germany",Peer TV South Tyrol (1280p)
+https://iptv.peer.biz/live/peertv-en.m3u8
 #EXTINF:-1 tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/1cc9ab7e-8283-4c32-a3f3-e2a4d0e1d33f-width200-quality90.jpeg" group-title="Germany",People Are Awesome (720p)
 https://3ab76e42.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1Blb3BsZUFyZUF3ZXNvbWVfSExT/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/On6ggLe.png" group-title="Germany",Peretz International
-https://cdn4.skygo.mn/live/disk1/Che/HLSv3-FTA/Che.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N00seOn.png" group-title="Germany",Pluto TV Animals
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d767ae7b456c8cf265ce922/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ae5268-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f4297955-3ff8-4299-b8e4-ca974cec3c7a
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bvbn8pa.png" group-title="Germany",Pluto TV Anime
@@ -311,6 +313,12 @@ http://58bd5b7a98e04.streamlock.net/medienasa-live/RFH_high/playlist.m3u8
 https://rnf.iptv-playoutcenter.de/rnf/rnf.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v1PIbB2.png" group-title="Germany",RT DE (1080p) [Not 24/7]
 https://rt-ger.rttv.com/dvr/rtdeutsch/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/94K94k2.png" group-title="Germany",RTL (720p)
+http://185.189.225.150:85/RTL/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/94K94k2.png" group-title="Germany",RTL HD
+https://strm.hdtvizlecanli.com/live/rtl.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KbdK8t9.png" group-title="Germany",RTL Super
+https://trn09.bozztv.com/gin-superrtl/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OodehFV.png" group-title="Germany",Saarland Fernsehen 1 (1080p)
 https://saarland1.iptv-playoutcenter.de/saarland1/saarland1.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Yv7j4ia.png" group-title="Germany",Saarland Fernsehen 2 (720p) [Not 24/7]

@@ -77,6 +77,8 @@ http://streamingcontrol.com:1935/ectv/ectv/playlist.m3u8
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96b8f4f1ca3f0629f4bf1/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c293f99-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=28f850bd-0f1c-4ede-b97c-ebd1d9a28126
 #EXTINF:-1 tvg-logo="https://static.kanade.cl/assets/img/profilepic_512px.png" group-title="Guatemala",Kanade (1080p)
 https://backend.energeek.cl/webtv/kanadeweb/index.m3u8?token=ZZDemoIPTVGH
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1CftDPB.png" group-title="Guatemala",Locomotion TV (480p) [Not 24/7]
+http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UC8WrEN.jpg" group-title="Guatemala",Maxivisión TV (720p)
 https://video03.logicahost.com.br/maxivisiontv/maxivisiontv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6bdj2BV.jpg" group-title="Guatemala",Multivisión Canal 3 (720p) [Not 24/7]
@@ -117,8 +119,6 @@ https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 https://5e85d90130e77.streamlock.net/6006/6006/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VShjB3o.png" group-title="Guatemala",SAS TV (720p)
 https://cdn.streamhispanatv.net:3390/live/sastvgtlive.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YXYv8sf/logo-soltv2.png" group-title="Guatemala",Sol TV (720p)
-https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="Guatemala",Tastemade en Espanol [Geo-blocked]
 https://tastemadees16us-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.telecostaescuintla.com/gallery_gen/f57408fa00aca6d969248be4b56b48e6.png" group-title="Guatemala",Telecosta (720p)

@@ -49,6 +49,8 @@ https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8
 https://vivo.solumedia.com:19360/cooperativa/cooperativa.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iJMH0UK.png" group-title="Argentina",Canal 7 Santiago del Estero (720p)
 https://stream.arcast.com.ar/envivo/castv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Canal_9_Litoral_2021.png" group-title="Argentina",Canal 9 Litoral (720p)
+https://stream.arcast.live/ahora/ahora/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xqgRFpC.png" group-title="Argentina",Canal 9 Resistencia (720p)
 http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yYExcq1.jpg" group-title="Argentina",Canal 11 de la Costa (720p)
@@ -131,12 +133,14 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c
 https://backend.energeek.cl/webtv/kanadeweb/index.m3u8?token=ZZDemoIPTVGH
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PmFBL7x.png" group-title="Argentina",Lapacho TV Canal 11 (720p)
 https://vivo.solumedia.com:19360/lapacho/lapacho.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QIGSf4L.png" group-title="Argentina",Litus TV (720p)
-https://stream.arcast.com.ar/litustv/ngrp:litustv_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1CftDPB.png" group-title="Argentina",Locomotion TV (480p) [Not 24/7]
+http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TJ4gWQM.png" group-title="Argentina",Más FM 95.9 (720p)
 https://vivo.solumedia.com:19360/masfm/masfm.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7f7M7zl.png" group-title="Argentina",Metro TV (720p)
 https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zNscEST.png" group-title="Argentina",MTV Hits Europe
+http://45.88.92.3/tr3_MTVHits_SD/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eIX71c9.png" group-title="Argentina",Neox TV (480p)
 https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IhJ0BjF.png" group-title="Argentina",NET TV (720p)
@@ -195,8 +199,6 @@ https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
 https://stream.arcast.com.ar/somosnoticias/somosnoticias/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="Argentina",Tastemade en Espanol [Geo-blocked]
 https://tastemadees16us-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/p7tt72X.png" group-title="Argentina",TELE 6
-https://envivo.bolivia-link.com:3337/live/tele6live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZDenyAE.png" group-title="Argentina",TeleCinco Trelew (240p)
 https://videohd.live:19360/8016/8016.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yqXORkt.png" group-title="Argentina",Telenord (720p) [Not 24/7]

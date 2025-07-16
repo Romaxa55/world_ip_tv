@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7ecgGIG.png" group-title="Mexico",8NTV (1080p)
 https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CZ8LKmA.png" group-title="Mexico",15TV
+https://cdn.fastocloud.com/leonel.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="Mexico",24 Horas HEVC
 https://d3pfmk89wc0vm9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nlow3qkp9tmdm/24H_ES.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="Mexico",ADN 40 (720p)
@@ -107,6 +109,8 @@ https://backend.energeek.cl/webtv/kanadeweb/index.m3u8?token=ZZDemoIPTVGH
 https://cloudvideo.servers10.com:8081/8128/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3fA50RJ.png" group-title="Mexico",Lobo TV (720p)
 https://5ca3e84a76d30.streamlock.net/tvlobo/videotvlobo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1CftDPB.png" group-title="Mexico",Locomotion TV (480p) [Not 24/7]
+http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GylOPxE.png" group-title="Mexico",María Visión Mexico (360p) [Not 24/7]
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iVfzakA.png" group-title="Mexico",Mexiquense TV (720p)
@@ -117,6 +121,8 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/652e922db4b047000825f
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aZCTkjU.jpg" group-title="Mexico",Nayarit Comunica
 https://live.iplanay.gob.mx/hls/nayarittv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3fzB7zY.png" group-title="Mexico",Nueve TV San Luís Potosí (720p)
+https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/exdDHml.png" group-title="Mexico",Nuevo Tiempo (720p) [Not 24/7]
 https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K0351vF.png" group-title="Mexico",Once México (1080p)
@@ -155,12 +161,8 @@ https://webprod.sipse.com.mx:8080/show/merida.m3u8
 https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/512px-Sony_Channel_Logo.png" group-title="Mexico",Sony Channel
 https://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dLHIvKz.png" group-title="Mexico",Super Channel 12 (1080p) [Geo-blocked]
-https://servilive.com:3263/live/channel12live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="Mexico",Tastemade en Espanol [Geo-blocked]
 https://tastemadees16us-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/p7tt72X.png" group-title="Mexico",TELE 6
-https://envivo.bolivia-link.com:3337/live/tele6live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XkpDSmO.png" group-title="Mexico",Tele Yucatan [Geo-blocked]
 https://5ca3e84a76d30.streamlock.net/teleyucatan/videoteleyucatan/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FnInQRd.png" group-title="Mexico",Tevex (720p) [Not 24/7]
