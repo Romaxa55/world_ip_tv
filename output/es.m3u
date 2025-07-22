@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/324_%28CCMA%29_logo.svg/revision/latest/scale-to-width-down/512" group-title="Spain",3/24 (1080p)
 https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ILfXDRs.png" group-title="Spain",7 TeleValencia (576p)
+https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZjnlY3D.jpeg" group-title="Spain",8madrid TV (720p)
 http://185.189.225.150:85/8madrid/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="Spain",24 Horas HEVC
@@ -119,8 +121,6 @@ https://streams.prd.commavservices.eu/live/ebsplus/index.m3u8
 https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JzAzsft.png" group-title="Spain",EL PAÍS TV (1080p)
 https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Eltorotv.png" group-title="Spain",El Toro TV (720p)
-https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jc0lUbX.png" group-title="Spain",Empordà TV (1080p)
 https://video3.lhdserver.es/empordatv2/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jDT5XFs.jpg" group-title="Spain",Este Canal TV (576p)
@@ -161,8 +161,6 @@ https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83da
 http://185.189.225.149/HitTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/5194tl8duqL.png" group-title="Spain",HOLA! Play (1080p)
 https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/a9hgTmM.png" group-title="Spain",Imás TV (1080p) [Not 24/7]
-https://secure3.todostreaming.es/live/imastv-livestream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ulSkAjZ.png" group-title="Spain",Interalmeria TV (1080p)
 https://interalmeria.tv/directo/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EY6TsdV.png" group-title="Spain",KTO (404p) [Not 24/7]
@@ -187,6 +185,8 @@ https://di2qeq48iv8ps.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 http://185.189.225.150:85/LaSexta/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RlzVIJP.png" group-title="Spain",Lancelot TV (404p)
 https://5c0956165db0b.streamlock.net:8090/directo/_definst_/lancelot.television/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/La_Otra_logo_%282017%29.svg/512px-La_Otra_logo_%282017%29.svg.png" group-title="Spain",LaOtra (720p)
+https://laotra-1-23-secure2.akamaized.net/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hBswXYZ.png" group-title="Spain",LiraTV (720p)
 https://cloud2.streaminglivehd.com:1936/liratv/liratv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1CftDPB.png" group-title="Spain",Locomotion TV (480p) [Not 24/7]
@@ -221,10 +221,6 @@ http://185.189.225.150:85/nickelodeon/index.m3u8
 https://cloudvideo.servers10.com:8081/8032/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/C5SYw7B.png" group-title="Spain",NORTEvisión (1080p)
 http://amaru.dyndns.org:8870/0.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Vx1F4o5.png" group-title="Spain",Nova (Spain) (576p)
-http://185.189.225.150:85/nova/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mUrZz9O.png" group-title="Spain",Onda 15 TV (224p)
-https://cloudvideo.servers10.com:8081/8034/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kUhFkVF.png" group-title="Spain",Onda Algeciras TV (576p)
 https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sOBMnby.png" group-title="Spain",Onda Cádiz 24h (720p)
@@ -287,14 +283,10 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac8a87cd38d00074
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f28009b150b2500077766b8/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LQB6G3s.jpg" group-title="Spain",POP World TV (720p)
 https://janus.xpbroadcasting.com:8443/hls/popworld.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/amgBFmH.png" group-title="Spain",Popular TV Cantabria (576p) [Not 24/7]
-https://limited12.todostreaming.es/live/ptvcantabria-livestream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TbevWX4.png" group-title="Spain",Popular TV Melilla (1080p) [Not 24/7]
 http://5940924978228.streamlock.net:1935/8009/8009/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i9tsnhD.png" group-title="Spain",Punt 3 Vall Uixó (1080p)
 https://bit.controlstreams.com:5443/LiveApp/streams/punt3.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MzUQtrl.png" group-title="Spain",Ràdio Bocairent TV (1080p) [Not 24/7]
-http://185.81.77.4/BocairentTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cdpbkSo.png" group-title="Spain",Radio Carnaval TV (720p) [Not 24/7]
 https://eu1.servers10.com:8081/8116/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oefjONS.png" group-title="Spain",Radio Televisión Mogán (1080p)
@@ -355,6 +347,8 @@ https://video.telesafor.com/hls/video.m3u8
 http://185.189.225.150:85/TeleCincoHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/b0H5f62.png" group-title="Spain",Teledeporte HEVC
 https://d2a02gfcid1k4a.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-clihr3vf54f9j/Teledeporte_ES.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BXyplMX.png" group-title="Spain",Teleganés (720p)
+https://nlb2-live.emitstream.com/hls/5z6oj7ziwxzfnj78vg2m/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/TeleMadrid.svg/512px-TeleMadrid.svg.png" group-title="Spain",Telemadrid (720p)
 https://telemadrid-23-secure2.akamaized.net/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/TeleMadrid_INT_Logo.jpg/400px-TeleMadrid_INT_Logo.jpg" group-title="Spain",Telemadrid Internacional (720p)
