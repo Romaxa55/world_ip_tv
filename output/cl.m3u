@@ -85,6 +85,8 @@ https://s2.tvdatta.com:3307/hybrid/play.m3u8
 https://stream1.sersat.com/hls/garagetv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BYBMuhf.png" group-title="Chile",Girovisual (720p)
 https://unlimited1-cl-isp.dps.live/girovisual2/girovisual2.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CBbbrkI.png" group-title="Chile",Hiperconectados TV
+https://stmv5.voxtvhd.com.br/hiperconectados/hiperconectados/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9JKRO3R.png" group-title="Chile",Holvoet TV (Copiapó) (720p) [Not 24/7]
 https://unlimited1-us.dps.live/holvoettv/holvoettv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Sb5adD7.png" group-title="Chile",Investiga
@@ -93,18 +95,16 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c
 https://backend.energeek.cl/webtv/kanadeweb/index.m3u8?token=ZZDemoIPTVGH
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AWdgMCC.png" group-title="Chile",La Popular TV
 https://tv.arkeo.cl:1936/enlacetv1/enlacetv1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1CftDPB.png" group-title="Chile",Locomotion TV (480p) [Not 24/7]
-http://51.222.85.85:81/hls/loco/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/v7SA92F.png" group-title="Chile",MTNA TV
-https://live.mtna.tv/hls/mtna/mtna.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zNscEST.png" group-title="Chile",MTV Hits Europe
+http://45.88.92.3/tr3_MTVHits_SD/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0SFE2Fr.png" group-title="Chile",Nativa TV
+https://stmv5.voxtvhd.com.br/nativatv/nativatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oo5vDBv.png" group-title="Chile",NCTV (1080p)
 https://pantera1-100gb-cl-movistar.dps.live/nctv/nctv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NnkSyta.png" group-title="Chile",NTV
 https://panel.miplay.cl:8082/ntv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nkQyR1X.png" group-title="Chile",Nublevision (720p)
 https://tv.arkeo.cl:1936/nublevision/nublevision/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/exdDHml.png" group-title="Chile",Nuevo Tiempo (720p) [Not 24/7]
-https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eaJVCwM.png" group-title="Chile",Pichilemu TV (1080p)
 https://5ff3d9babae13.streamlock.net/8028/8028/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vEzeqHP.png" group-title="Chile",Platzi TV (1080p)
@@ -163,6 +163,8 @@ https://tvturf4.janus.cl/playlist/stream.m3u8?d=w&id=
 https://pantera1-100gb-cl-movistar.dps.live/tvquellon/tvquellon.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CNUZ6ig.png" group-title="Chile",TV Senado (360p)
 https://janus-tv-ply.senado.cl/playlist/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tpI0WQH.png" group-title="Chile",TV UCT (1080p)
+https://unlimited1-us.dps.live/uct/uct.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/b25bhDc/TV-MAS-2.png" group-title="Chile",TV+ 2
 https://panel.miplay.cl:8082/tvmas2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9LEiQPJ.png" group-title="Chile",TVN3 (1080p) [Geo-blocked]

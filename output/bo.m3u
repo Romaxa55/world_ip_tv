@@ -63,6 +63,8 @@ https://s2.tvdatta.com:3307/hybrid/play.m3u8
 https://stream1.sersat.com/hls/garagetv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fE3BkcT.png" group-title="Bolivia",Gigavision
 https://tv2.bitstreaming.net:3896/multi_web/play.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CBbbrkI.png" group-title="Bolivia",Hiperconectados TV
+https://stmv5.voxtvhd.com.br/hiperconectados/hiperconectados/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8XHSVWY/IMG-20210613-153444.png" group-title="Bolivia",Imperial TV
 https://play.agenciastreaming.com:19360/8122/8122.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4eNH7JS.png" group-title="Bolivia",IN TV
@@ -71,10 +73,6 @@ https://envivo.bolivia-link.com:3580/live/intvlive.m3u8
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96b8f4f1ca3f0629f4bf1/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c293f99-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=28f850bd-0f1c-4ede-b97c-ebd1d9a28126
 #EXTINF:-1 tvg-logo="https://static.kanade.cl/assets/img/profilepic_512px.png" group-title="Bolivia",Kanade (1080p)
 https://backend.energeek.cl/webtv/kanadeweb/index.m3u8?token=ZZDemoIPTVGH
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1CftDPB.png" group-title="Bolivia",Locomotion TV (480p) [Not 24/7]
-http://51.222.85.85:81/hls/loco/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/exdDHml.png" group-title="Bolivia",Nuevo Tiempo (720p) [Not 24/7]
-https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wAIBvaO.png" group-title="Bolivia",Palenque TV
 https://tv.bitstreaming.net:3234/live/palenquetvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4A7R2Jt.png" group-title="Bolivia",PAT La Paz
@@ -103,16 +101,24 @@ https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 http://streamer1.streamhost.org:1935/salive/GMIredadvenirm/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YC5FRmq.png" group-title="Bolivia",Red CCTV (480p)
 https://solo.disfrutaenlared.com:1936/redcctv/redcctv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cECNvvr.png" group-title="Bolivia",RTP
+https://rtp.noxun.net/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="Bolivia",Tastemade en Espanol [Geo-blocked]
 https://tastemadees16us-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JkCywl5.png" group-title="Bolivia",TDT Multimedia (720p)
 https://video01.kshost.com.br:4443/juan6318/juan6318/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p7tt72X.png" group-title="Bolivia",TELE 6
+https://envivo.bolivia-link.com:3337/live/tele6live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/507tvMY.png" group-title="Bolivia",Telemicro Internacional
 http://45.190.13.8:80/TelemicroHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FnInQRd.png" group-title="Bolivia",Tevex (720p) [Not 24/7]
 https://v4.tustreaming.cl/tevexinter/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yBdCP0n.png" group-title="Bolivia",Turbion Digital TV
+https://live20.bozztv.com/akamaissh101/ssh101/turbion/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BzQphbw.png" group-title="Bolivia",UCL (720p)
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Kwvbyr0/unnamed.jpg" group-title="Bolivia",UPP TV/Bolivisión SCZ (720p) [Not 24/7]
+https://alba-bo-bolivision-upptv.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vtGED07.jpg" group-title="Bolivia",Venevisión Internacional (720p)
 https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WIeZMKT.png" group-title="Bolivia",Vive Kanal D Drama (1080p)
