@@ -125,6 +125,8 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e
 http://107.167.7.162:8081/playlist/amhor/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71CZKwin9mL.png" group-title="Virginia",Ameritrade (1080p) [Not 24/7]
 https://tdameritrade-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m5Anun9.png" group-title="Virginia",AMG TV (1080p)
+https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NTlC6e7.png" group-title="Virginia",Amga TV (720p) [Not 24/7]
 https://streamer1.connectto.com/AMGA_WEB_1202/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KXdvPum.png" group-title="Virginia",Amu TV
@@ -321,8 +323,6 @@ https://cbsn-phi.cbsnstream.cbsnews.com/out/v1/5c9ad3e215984b0e9ad845b335216b72/
 https://cbsn-pit.cbsnstream.cbsnews.com/out/v1/6966dabf8150405ab26f854e3cd6a2b8/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0e1kSGX.png" group-title="Virginia",CBS News Sacramento (720p)
 https://lineup.cbsivideo.com/playout/c1ed69db-6b71-4581-a937-a70ab4089f8a/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eMjutHS.png" group-title="Virginia",CBS Sports Golazo Network
-https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/q8BENJg.png" group-title="Virginia",CBS Sports HQ
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3a15356b-8467-4ae7-b2f6-9c8467fcf41d
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A8CnA8g.png" group-title="Virginia",CBS Sports Network USA
@@ -453,8 +453,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d
 https://wescottcc.piksel.tech/hls/live/2041478/adp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/b2a80f0a20fc338f22a8289f23d20d19d958470ff1b8df3845c57cbc54ec1245.png" group-title="Virginia",Duck Hunting TV
 https://main.duckhunting.playout.vju.tv/duckhuntingtv/main.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TWFDkap.png" group-title="Virginia",E! East
-https://fl3.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qelJwNi.png" group-title="Virginia",Eagle One News (576p)
 https://5a1178b42cc03.streamlock.net/8182/8182/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fewPTFE.png" group-title="Virginia",EBS Cinema (720p)
@@ -493,6 +491,8 @@ https://fl3.moveonjoy.com/TVG/index.m3u8
 https://1123112950.rsc.cdn77.org/HLS/FIDO.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8j2npVc.png" group-title="Virginia",Filmrise Forensic Files (720p)
 https://apollo.production-public.tubi.io/live/ac-forensic-files.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8j2npVc.png" group-title="Virginia",Filmrise True Crime (720p)
+https://apollo.production-public.tubi.io/live/ac-filmrise-true-crime.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ESV6qgH.png" group-title="Virginia",FITE 24/7 (1080p)
 https://d3d85c7qkywguj.cloudfront.net/scheduler/scheduleMaster/263.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rtL5L81.png" group-title="Virginia",Flicks of Fury
@@ -511,6 +511,8 @@ https://radiovid.foxnews.com/hls/live/661547/RADIOVID/index.m3u8
 https://fl1.moveonjoy.com/FOX_SOUL/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LHtxKI8.png" group-title="Virginia",Fox Sports 2 (720p)
 http://23.237.104.106:8080/USA_FS2/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/512px-FOX_Deportes_logo.png" group-title="Virginia",Fox Sports en Espanol (720p)
+https://apollo.production-public.tubi.io/live/fox-sports-espanol.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/512px-Fox_Weather_logo.svg.png" group-title="Virginia",Fox Weather (720p)
 https://247wlive.foxweather.com/stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qq6heRq.png" group-title="Virginia",Free Speech TV (720p)
@@ -571,6 +573,8 @@ https://na.linear.zype.com/bf94f9f4-383c-40e0-9d49-279a4f33ab8d/f29b8836-d990-4c
 https://amg09501-amg09501c1-klowdtv-us-2398.playouts.now.amagi.tv/playlist/amg09501-quester-gotraveler-klowdtvus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NxE3kX3.png" group-title="Virginia",Grande-ish
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fafef7c2440500071266e0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c291883-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=cee74994-231a-4a51-b141-e2e69c070aee
+#EXTINF:-1 tvg-logo="https://i.ibb.co/v6Lgng1s/Graphite-HD-Logo.png" group-title="Virginia",Graphite HD (720p) [Not 24/7]
+https://live20.bozztv.com/giatv/giatv-gooderisgooder/gooderisgooder/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TzvnHDn.png" group-title="Virginia",Great American Country
 https://fl3.moveonjoy.com/Great_American_Country/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wHb9BLd.png" group-title="Virginia",Greensboro TV (Greensboro NC) (720p)
@@ -645,6 +649,8 @@ https://fl3.moveonjoy.com/ION_TV/index.m3u8
 https://hls.iranfarda.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JWrdL9a.png" group-title="Virginia",It's Supernatural! Network (ISN Network) (1080p)
 https://content.uplynk.com/channel/fbc0f835332e476397b12216f9042f78.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lDWY-W9dD7UvLlp1NuWLJs1wV6t_KjeOT-1iVVIGuLZ8U=s512-c-k-c0x00ffffff-no-rj" group-title="Virginia",JBS (404p) [Not 24/7]
+http://uni8rtmp.tulix.tv:1935/shalomtv-pc/smil:shalomtv.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SssCaj1.png" group-title="Virginia",Jersey Shore
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/609bfa51fbecc1000733152e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2966a1-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d53c01b5-86bc-43d2-afd7-b739724c937c
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KBTqpJ7.png" group-title="Virginia",Johnny Carson TV
@@ -799,8 +805,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d
 https://fl3.moveonjoy.com/MTV_U/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lW74nDH.png" group-title="Virginia",Mundo Viajero
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60511efd71ec430007f50d97/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a29f6-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e048dd46-54cc-485e-b0d7-5ee578a0a861
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zzVq7BQ.png" group-title="Virginia",Museum TV Fast
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtv-eng-samsungse/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8KWjY4o.png" group-title="Virginia",Mystery Science Theater 3000 (1080p)
 https://mst3k-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HYgxPVQ.png" group-title="Virginia",MyTime Movie Network
@@ -831,6 +835,8 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Newsmax_logo.svg/512px-Newsmax_logo.svg.png" group-title="Virginia",Newsmax TV (720p)
 https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/NewsNetLogo2022.png" group-title="Virginia",NewsNet (720p) [Not 24/7]
+https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1311088/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Newsy_2021.svg/512px-Newsy_2021.svg.png" group-title="Virginia",Newsy (1080p)
 https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mPGtwAP.png" group-title="Virginia",NFL Channel
@@ -929,6 +935,8 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60
 https://amg02333-pbs-amg02333c8-firetv-us-4239.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/q4cUQKW.png" group-title="Virginia",PBS Kids
 https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ambc9le.png" group-title="Virginia",PBS Kids Eastern/Central (720p)
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/NJ_PBS_logo.png/512px-NJ_PBS_logo.png" group-title="Virginia",PBS National East (1080p) [Geo-blocked]
 https://pbs.lls.cdn.pbs.org/est/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Brry7cZ.png" group-title="Virginia",PBS Nature (1080p) [Geo-blocked]
@@ -1295,6 +1303,8 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JMnxswq.png" group-title="Virginia",Toon Goggles (720p)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=37
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aSjhZK7.png" group-title="Virginia",Toonami Aftermath East (480p)
+http://api.toonamiaftermath.com:3000/est/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UfN6aAi.png" group-title="Virginia",Top Stories by Newsy (720p)
 https://content.uplynk.com/channel/33c48f602cfd4474b957eb4ad999caf8.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sXkluxg.png" group-title="Virginia",Tosh.0
@@ -1303,6 +1313,8 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d0c16d686454ead733d08f8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c73e9-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3441abd1-12dc-4351-b79d-3b4eb58dc339
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JCpFAll.png" group-title="Virginia",Tribeca Channel [Geo-blocked]
 https://amg02507-giantpictures-tribeca-xumo-ey2b7.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pUVL3d5.png" group-title="Virginia",Trinity Channel
+https://edge66.magictvbox.com/liveApple/trinity/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/True_Crime_Network_logo.svg/512px-True_Crime_Network_logo.svg.png" group-title="Virginia",True Crime Network
 https://dvrfl03.bozztv.com/hdirect/hdirect-ovair1-truecrimenetwork/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Y6Hix17.png" group-title="Virginia",True Crime Now (1080p)
@@ -1379,6 +1391,8 @@ https://fl3.moveonjoy.com/VH1/index.m3u8
 https://vicetv-vicefast2-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Vice_TV_logo.svg/512px-Vice_TV_logo.svg.png" group-title="Virginia",Vice TV (1080p)
 https://vicetv-vicefast1-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zgiuNNj.png" group-title="Virginia",Victor Valley Movies (1080p) [Not 24/7]
+https://2-fss-2.streamhoster.com/pl_138/201950-5317556-1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3FaNbYD.png" group-title="Virginia",Vision Global TV (720p) [Geo-blocked]
 https://vdopanel.jlahozconsulting.com:3407/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TmqComb.png" group-title="Virginia",VOA Persian

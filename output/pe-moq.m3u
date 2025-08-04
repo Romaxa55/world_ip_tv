@@ -69,10 +69,6 @@ https://cloudvideo.servers10.com:8081/impactotv/index.m3u8
 https://video2.lhdserver.es/cableperu/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Sb5adD7.png" group-title="Moquegua",Investiga
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96b8f4f1ca3f0629f4bf1/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c293f99-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=28f850bd-0f1c-4ede-b97c-ebd1d9a28126
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dudxyqk.png" group-title="Moquegua",JN19 (1080p) [Not 24/7]
-https://servilive.com:3028/live/jntv19live.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/jj/jn19_pe.png" group-title="Moquegua",JN19 TV2 (1080p) [Not 24/7]
-https://servilive.com:3224/live/jn19tv2live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/b25XfCj.png" group-title="Moquegua",JNE TV
 https://live20.bozztv.com/akamaissh101/ssh101/jnetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.kanade.cl/assets/img/profilepic_512px.png" group-title="Moquegua",Kanade (1080p)
@@ -83,6 +79,8 @@ https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea
 https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zK1YcpJ.png" group-title="Moquegua",Mega TV Jaen (720p) [Not 24/7]
 https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sfNL6Bv.png" group-title="Moquegua",Millenium 109 FM (720p) [Not 24/7]
+https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SuVO9T7.png" group-title="Moquegua",Monterrico TV (1080p) [Not 24/7]
 https://www.opencaster.com/resources/hls_stream/hipodromojcp2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Y9k9XSO.png" group-title="Moquegua",Nativa (720p) [Not 24/7]
@@ -119,6 +117,8 @@ https://servilive.com:3538/live/v6qe84b6flive.m3u8
 https://videoserver.tmcreativos.com:19360/radiomaster/radiomaster.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Lid5RTv.png" group-title="Moquegua",Radio Onda Digital
 https://v4.tustreaming.cl/radioondadigitaltv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TBPVOBI.png" group-title="Moquegua",Radio Tropical Tarapoto (480p) [Not 24/7]
+https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iHaFLHX.png" group-title="Moquegua",RadioTV Oriente
 https://live.obslivestream.com/tvoriente/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="Moquegua",RCN Más (1080p)
@@ -127,8 +127,6 @@ https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I4grcqk.png" group-title="Moquegua",Región TV Callao (480p) [Not 24/7]
 https://servilive.com:3757/live/regiontvlive.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oFGiW7u.png" group-title="Moquegua",RN Televisión (720p) [Not 24/7]
-https://videoserver.tmcreativos.com:19360/rnyurimaguas/rnyurimaguas.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DAK5ZnD.png" group-title="Moquegua",RSelvaTV
 https://live.obslivestream.com/selvatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GtNkuAc.png" group-title="Moquegua",Sol Televisión (720p)
@@ -143,8 +141,6 @@ https://envivo.bolivia-link.com:3337/live/tele6live.m3u8
 https://live.obslivestream.com/telecolormux/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FnInQRd.png" group-title="Moquegua",Tevex (720p) [Not 24/7]
 https://v4.tustreaming.cl/tevexinter/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tiNvihZ.png" group-title="Moquegua",Top FM TV (240p) [Not 24/7]
-https://tvdatta.com:3084/live/toptvaguaytialive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AsdBQa3.png" group-title="Moquegua",Turbo Mix Radio TV (360p) [Not 24/7]
 https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nr4ctt4.png" group-title="Moquegua",TV Cosmos (720p) [Not 24/7]
@@ -167,6 +163,8 @@ https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
 https://cdn.mycloudstream.io/hls/live/broadcast/ic1frrzz/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/F0PWpyc.png" group-title="Moquegua",Unitel
 https://play.agenciastreaming.com:8081/uniteltv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EeNpfIr.png" group-title="Moquegua",Uranio TV (Yurimaguas) (720p) [Not 24/7]
+https://live.obslivestream.com/uraniotv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vtGED07.jpg" group-title="Moquegua",Venevisión Internacional (720p)
 https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aJ4XExn.png" group-title="Moquegua",Vía Altomayo (720p) [Not 24/7]
@@ -177,5 +175,3 @@ https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8
 https://thema-vivekanald-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TOnknEW.png" group-title="Moquegua",VNP
 https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yk46NxC.png" group-title="Moquegua",WOW TV (576p) [Not 24/7]
-https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8

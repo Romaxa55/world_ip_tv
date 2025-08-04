@@ -127,6 +127,8 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e
 http://107.167.7.162:8081/playlist/amhor/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71CZKwin9mL.png" group-title="New Mexico",Ameritrade (1080p) [Not 24/7]
 https://tdameritrade-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m5Anun9.png" group-title="New Mexico",AMG TV (1080p)
+https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NTlC6e7.png" group-title="New Mexico",Amga TV (720p) [Not 24/7]
 https://streamer1.connectto.com/AMGA_WEB_1202/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KXdvPum.png" group-title="New Mexico",Amu TV
@@ -319,8 +321,6 @@ https://cbsn-phi.cbsnstream.cbsnews.com/out/v1/5c9ad3e215984b0e9ad845b335216b72/
 https://cbsn-pit.cbsnstream.cbsnews.com/out/v1/6966dabf8150405ab26f854e3cd6a2b8/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0e1kSGX.png" group-title="New Mexico",CBS News Sacramento (720p)
 https://lineup.cbsivideo.com/playout/c1ed69db-6b71-4581-a937-a70ab4089f8a/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eMjutHS.png" group-title="New Mexico",CBS Sports Golazo Network
-https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/q8BENJg.png" group-title="New Mexico",CBS Sports HQ
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3a15356b-8467-4ae7-b2f6-9c8467fcf41d
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A8CnA8g.png" group-title="New Mexico",CBS Sports Network USA
@@ -453,6 +453,8 @@ https://wescottcc.piksel.tech/hls/live/2041478/adp/playlist.m3u8
 https://main.duckhunting.playout.vju.tv/duckhuntingtv/main.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TWFDkap.png" group-title="New Mexico",E! East
 https://fl3.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qelJwNi.png" group-title="New Mexico",Eagle One News (576p)
+https://5a1178b42cc03.streamlock.net/8182/8182/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fewPTFE.png" group-title="New Mexico",EBS Cinema (720p)
 https://rpn.bozztv.com/ebstv/ebscinema/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lSpplhD.png" group-title="New Mexico",EBS Musika (720p)
@@ -489,6 +491,8 @@ https://fl3.moveonjoy.com/TVG/index.m3u8
 https://1123112950.rsc.cdn77.org/HLS/FIDO.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8j2npVc.png" group-title="New Mexico",Filmrise Forensic Files (720p)
 https://apollo.production-public.tubi.io/live/ac-forensic-files.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8j2npVc.png" group-title="New Mexico",Filmrise True Crime (720p)
+https://apollo.production-public.tubi.io/live/ac-filmrise-true-crime.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ESV6qgH.png" group-title="New Mexico",FITE 24/7 (1080p)
 https://d3d85c7qkywguj.cloudfront.net/scheduler/scheduleMaster/263.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rtL5L81.png" group-title="New Mexico",Flicks of Fury
@@ -507,12 +511,16 @@ https://radiovid.foxnews.com/hls/live/661547/RADIOVID/index.m3u8
 https://fl1.moveonjoy.com/FOX_SOUL/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LHtxKI8.png" group-title="New Mexico",Fox Sports 2 (720p)
 http://23.237.104.106:8080/USA_FS2/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/512px-FOX_Deportes_logo.png" group-title="New Mexico",Fox Sports en Espanol (720p)
+https://apollo.production-public.tubi.io/live/fox-sports-espanol.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/512px-Fox_Weather_logo.svg.png" group-title="New Mexico",Fox Weather (720p)
 https://247wlive.foxweather.com/stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qq6heRq.png" group-title="New Mexico",Free Speech TV (720p)
 https://edge.fstv-live-linear-channel.top.comcast.net/Content/HLS_HLSv3/Live/channel(b168a609-19c1-2203-ae1d-6b9726f05e67)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KbmXdjm.png" group-title="New Mexico",Freebie TV (720p) [Not 24/7]
 https://d1h1d6qoy9vnra.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Freebie-Plex/187.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qFNRJLb.png" group-title="New Mexico",Fubo Sports Network (1080p) [Geo-blocked]
+https://apollo.production-public.tubi.io/live/ac-fubo.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2Q6TENm.png" group-title="New Mexico",Fun Roads (404p)
 http://104.143.4.5:2080/funroads.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UCwjdtQ.png" group-title="New Mexico",Funny AF
@@ -567,6 +575,8 @@ https://na.linear.zype.com/bf94f9f4-383c-40e0-9d49-279a4f33ab8d/f29b8836-d990-4c
 https://amg09501-amg09501c1-klowdtv-us-2398.playouts.now.amagi.tv/playlist/amg09501-quester-gotraveler-klowdtvus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NxE3kX3.png" group-title="New Mexico",Grande-ish
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fafef7c2440500071266e0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c291883-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=cee74994-231a-4a51-b141-e2e69c070aee
+#EXTINF:-1 tvg-logo="https://i.ibb.co/v6Lgng1s/Graphite-HD-Logo.png" group-title="New Mexico",Graphite HD (720p) [Not 24/7]
+https://live20.bozztv.com/giatv/giatv-gooderisgooder/gooderisgooder/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TzvnHDn.png" group-title="New Mexico",Great American Country
 https://fl3.moveonjoy.com/Great_American_Country/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wHb9BLd.png" group-title="New Mexico",Greensboro TV (Greensboro NC) (720p)
@@ -641,6 +651,8 @@ https://fl3.moveonjoy.com/ION_TV/index.m3u8
 https://hls.iranfarda.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JWrdL9a.png" group-title="New Mexico",It's Supernatural! Network (ISN Network) (1080p)
 https://content.uplynk.com/channel/fbc0f835332e476397b12216f9042f78.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lDWY-W9dD7UvLlp1NuWLJs1wV6t_KjeOT-1iVVIGuLZ8U=s512-c-k-c0x00ffffff-no-rj" group-title="New Mexico",JBS (404p) [Not 24/7]
+http://uni8rtmp.tulix.tv:1935/shalomtv-pc/smil:shalomtv.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SssCaj1.png" group-title="New Mexico",Jersey Shore
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/609bfa51fbecc1000733152e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2966a1-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d53c01b5-86bc-43d2-afd7-b739724c937c
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KBTqpJ7.png" group-title="New Mexico",Johnny Carson TV
@@ -711,8 +723,6 @@ https://streamer1.streamhost.org/salive/logosdirectaH/playlist.m3u8
 https://streamer1.streamhost.org/salive/logoskidsH/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qkHrttj.png" group-title="New Mexico",Logos TV Salud (720p) [Not 24/7]
 https://streamer1.streamhost.org/salive/logossaludH/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qgsyzW4.png" group-title="New Mexico",LOL Standup (1080p)
-https://apollo.production-public.tubi.io/live/lol-stand-up2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tiy3Ur2.png" group-title="New Mexico",LOL! Network
 https://lol-lolnetwork-2-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rhGyebf.png" group-title="New Mexico",Love & Hip Hop
@@ -829,6 +839,8 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Newsmax_logo.svg/512px-Newsmax_logo.svg.png" group-title="New Mexico",Newsmax TV (720p)
 https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/NewsNetLogo2022.png" group-title="New Mexico",NewsNet (720p) [Not 24/7]
+https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1311088/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Newsy_2021.svg/512px-Newsy_2021.svg.png" group-title="New Mexico",Newsy (1080p)
 https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mPGtwAP.png" group-title="New Mexico",NFL Channel
@@ -847,6 +859,8 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c
 https://fl3.moveonjoy.com/NICK_MUSIC/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="New Mexico",Nickelodeon
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G1J4IsT.png" group-title="New Mexico",Nickelodeon en Español
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5107-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=919bc5fd-6cce-44a6-bb39-2894dea1c988
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nicktoons_Network_logo_2009.svg/512px-Nicktoons_Network_logo_2009.svg.png" group-title="New Mexico",NickToons
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/654ca7f92c1d3300086b608c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b6610-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=359ee837-a829-4fe0-9d99-8dc36018ced2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7EngqUi.png" group-title="New Mexico",Ninja Kidz TV
@@ -925,6 +939,8 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60
 https://amg02333-pbs-amg02333c8-firetv-us-4239.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/q4cUQKW.png" group-title="New Mexico",PBS Kids
 https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ambc9le.png" group-title="New Mexico",PBS Kids Eastern/Central (720p)
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/NJ_PBS_logo.png/512px-NJ_PBS_logo.png" group-title="New Mexico",PBS National East (1080p) [Geo-blocked]
 https://pbs.lls.cdn.pbs.org/est/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Brry7cZ.png" group-title="New Mexico",PBS Nature (1080p) [Geo-blocked]
@@ -1127,6 +1143,8 @@ https://stream6.scientology.org/master.m3u8
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5459795fc9f133a519bc0bef/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b8986-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=20db7334-405e-4c4e-abea-fa620b2d19fb
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GAIFeP2.png" group-title="New Mexico",Séptimo arte
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96b1c4f1ca3f0629f4bf0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b8987-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1202ea23-d955-4016-bac1-563ea6638683
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oHmh5Jb.png" group-title="New Mexico",Shabakeh 7 (576p)
+https://t.northtelecom.org/Shabakeh.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TFxLj80.png" group-title="New Mexico",Shemaroo Bollywood (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Logo_of_Liquidation_Channel.svg/512px-Logo_of_Liquidation_Channel.svg.png" group-title="New Mexico",Shop LC (1080p)
@@ -1295,6 +1313,8 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d0c16d686454ead733d08f8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c73e9-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3441abd1-12dc-4351-b79d-3b4eb58dc339
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JCpFAll.png" group-title="New Mexico",Tribeca Channel [Geo-blocked]
 https://amg02507-giantpictures-tribeca-xumo-ey2b7.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pUVL3d5.png" group-title="New Mexico",Trinity Channel
+https://edge66.magictvbox.com/liveApple/trinity/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/True_Crime_Network_logo.svg/512px-True_Crime_Network_logo.svg.png" group-title="New Mexico",True Crime Network
 https://dvrfl03.bozztv.com/hdirect/hdirect-ovair1-truecrimenetwork/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Y6Hix17.png" group-title="New Mexico",True Crime Now (1080p)
@@ -1359,8 +1379,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d
 https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dZHktKR.png" group-title="New Mexico",Vevo Pop
 https://amg00056-amg00056c9-rakuten-fr-3243.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevopopfr-rakutenfr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5da0d83f66c9700009b96d0e/featuredImage.jpg" group-title="New Mexico",Vevo R&B
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ce913-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b9489829-fa99-492b-9890-e85a4a467854
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H1Aap4E.png" group-title="New Mexico",Vevo Retro Rock
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61d4b38226b8a50007fe03a6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ce917-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5b34f49b-bb11-47dd-b65b-7c5074a9925c
 #EXTINF:-1 tvg-logo="https://i.imgur.com/owUXUih.png" group-title="New Mexico",Vevo True School Hip-Hop
@@ -1371,6 +1389,8 @@ https://fl3.moveonjoy.com/VH1/index.m3u8
 https://vicetv-vicefast2-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Vice_TV_logo.svg/512px-Vice_TV_logo.svg.png" group-title="New Mexico",Vice TV (1080p)
 https://vicetv-vicefast1-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zgiuNNj.png" group-title="New Mexico",Victor Valley Movies (1080p) [Not 24/7]
+https://2-fss-2.streamhoster.com/pl_138/201950-5317556-1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3FaNbYD.png" group-title="New Mexico",Vision Global TV (720p) [Geo-blocked]
 https://vdopanel.jlahozconsulting.com:3407/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TmqComb.png" group-title="New Mexico",VOA Persian
@@ -1405,6 +1425,8 @@ https://wire2fish-klowdtv.amagi.tv/playlist.m3u8
 http://wlngstudiowebcam.srfms.com:1935/wlngstudiowebcam/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3FPFBjU.png" group-title="New Mexico",WLVT-DT1
 https://dvrfl03.bozztv.com/hondu/hondu-gbp-pbs/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rhIwUcQ.png" group-title="New Mexico",Women's Sports Network (720p)
+https://apollo.production-public.tubi.io/live/ac-fast-studios-womens-sports.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/World_Channel_2023.svg" group-title="New Mexico",World Channel (1080p)
 https://world.lls.pbs.org/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2llPsSV.png" group-title="New Mexico",World Fishing Network (1080p)

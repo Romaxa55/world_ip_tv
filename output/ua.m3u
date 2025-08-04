@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bSXKdK5.png" group-title="Ukraine",100% News (576p)
 http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rHHz94D.png" group-title="Ukraine",Avers (480p)
+https://avers.pp.ua/hls/efir.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Ukraine",Bloomberg TV EMEA Live Event (720p)
 https://bloomberg.com/media-manifest/streams/eu-event.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Ukraine",Bloomberg TV Europe (720p)
@@ -31,14 +33,10 @@ https://cdn10.live-tv.cloud/itvrv/abr-lq/playlist.m3u8
 https://cdn10.live-tv.cloud/izod/izod-abr-lq/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AfcBWCg.png" group-title="Ukraine",M2 (540p)
 https://live.m2.tv/hls3/stream.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zNscEST.png" group-title="Ukraine",MTV Hits Europe
-http://45.88.92.3/tr3_MTVHits_SD/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WbjURLo.png" group-title="Ukraine",Museum TV English (1080p)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtven-xiaomi/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/1cc9ab7e-8283-4c32-a3f3-e2a4d0e1d33f-width200-quality90.jpeg" group-title="Ukraine",People Are Awesome (720p)
 https://3ab76e42.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1Blb3BsZUFyZUF3ZXNvbWVfSExT/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/M7oDym3.png" group-title="Ukraine",Pershiy XTV Media (576p)
-https://hls.xtvmedia.pp.ua:8443/hls/trk1tv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WDHoSVz.png" group-title="Ukraine",PTV (720p)
 https://cdn10.live-tv.cloud/hrpl/hrpl-abr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pbyd1g2.png" group-title="Ukraine",Rakuten VIKI (720p)
@@ -99,6 +97,8 @@ http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8
 http://ftp.orbita.dn.ua/hls/orbita.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8qdc6aO.png" group-title="Ukraine",Первый городской (Одесса) (1080p) [Not 24/7]
 http://91.194.79.46:8081/stream1/channel1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S1h1t0G.png" group-title="Ukraine",Сфера ТВ
+http://cdn10.live-tv.od.ua:8081/sferarv/sferarv-abr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PtTQ5lv.png" group-title="Ukraine",ТВА (Чернiвцi) (576p)
 http://hls.cdn.ua/tva.ua_live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LyA3kBR.png" group-title="Ukraine",Телеканал Репортер Одесса (720p)
