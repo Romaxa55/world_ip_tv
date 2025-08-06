@@ -35,6 +35,8 @@ http://live.columnatv.ro:1935/columnatv/live/playlist.m3u8
 https://stream1.antenaplay.ro/live/ComedyPlay/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RD4TgcM.png" group-title="Romania",Credo TV (720p) [Not 24/7]
 http://cdn.credonet.tv:1935/ctv/livecredo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qmRnD0M.png" group-title="Romania",Digi 24 (720p)
+https://edge-ar.rcs-rds.ro/digi24ar/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DIIRPNN.png" group-title="Romania",EbS (1080p)
 https://streams.prd.commavservices.eu/live/ebs/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7V012zQ.png" group-title="Romania",EbS+ (1080p)
@@ -95,8 +97,6 @@ https://iptv.peer.biz/live/peertv-en.m3u8
 https://iptv.peer.biz/live/peertv.m3u8
 #EXTINF:-1 tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/1cc9ab7e-8283-4c32-a3f3-e2a4d0e1d33f-width200-quality90.jpeg" group-title="Romania",People Are Awesome (720p)
 https://3ab76e42.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1Blb3BsZUFyZUF3ZXNvbWVfSExT/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/On6ggLe.png" group-title="Romania",Peretz International
-https://cdn4.skygo.mn/live/disk1/Che/HLSv3-FTA/Che.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7vqB5Sx.png" group-title="Romania",Pro TV News (1080p)
 https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist.m3u8?offsetSeconds=0&url=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GvyF2Wh.png" group-title="Romania",Qub TV (720p)
@@ -121,10 +121,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63
 https://rightsboosterltd-scl-1-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pzxUE0O.png" group-title="Romania",Super TV (576p)
 http://iptv.supertv.ro:8000/play/a001/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CheqyWH.png" group-title="Romania",Tele7ABC HD (720p)
-https://live.tele7abc.ro/hls/stream/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/11b5W8u.png" group-title="Romania",Tele7music (720p)
-https://live.tele7music.ro/hls/stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3EZ8CmJ.png" group-title="Romania",TeleM Botosani (540p) [Not 24/7]
 http://89.137.197.15:8080/testing/pl5/playlist/ram/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8z0zLjw.jpeg" group-title="Romania",TeleMoldova + [Geo-blocked]
@@ -157,3 +153,5 @@ https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83da
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883098
 #EXTINF:-1 tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/b2b4d09d-3471-4dbf-a831-3191cfc66bec-width200-quality90.jpeg" group-title="Romania",Zee One (720p)
 https://89ec2d15e090480bb419d940b8793b9c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_ZeeWorld-1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/On6ggLe.png" group-title="Romania",Перец International
+https://cdn4.skygo.mn/live/disk1/Che/HLSv3-FTA/Che.m3u8
