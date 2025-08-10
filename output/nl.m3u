@@ -37,10 +37,6 @@ https://rrr.sz.xlcdn.com/?account=dtvmaasland&file=dtv2&output=playlist.m3u8&pro
 https://rrr.sz.xlcdn.com/?account=dtvmaasland&file=dtv3&output=playlist.m3u8&protocol=https&service=wowza&type=live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JL1f9Tx.png" group-title="Netherlands",DTV Oss & Bernheze (1080p)
 https://rrr.sz.xlcdn.com/?account=dtvmaasland&file=dtv1&output=playlist.m3u8&protocol=https&service=wowza&type=live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DIIRPNN.png" group-title="Netherlands",EbS (1080p)
-https://streams.prd.commavservices.eu/live/ebs/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7V012zQ.png" group-title="Netherlands",EbS+ (1080p)
-https://streams.prd.commavservices.eu/live/ebsplus/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sua70RO.png" group-title="Netherlands",EWTN Europe (720p) [Not 24/7]
 https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VIpQJxL.png" group-title="Netherlands",Fail Army (720p)
@@ -95,8 +91,8 @@ https://593aed234297b.streamlock.net/meervandaag/meervandaag/playlist.m3u8
 https://d2ycaxub5x98iw.cloudfront.net/nlpo/clr-nlpo/merwetv/index.m3u8
 #EXTINF:-1 tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/9da0ec4d-85ea-45f4-b3f9-ae917d1714f9-width200-quality90.jpeg" group-title="Netherlands",Moconomy (1080p)
 https://3ee905090d464be5a51478fd9c642e93.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-pl_Moconomy/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WbjURLo.png" group-title="Netherlands",Museum TV English (1080p)
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtven-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/0734ee9d-7417-4f53-a092-e29d6e8146ee-width200-quality90.jpeg" group-title="Netherlands",Monster Jam
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65bcc9c8d77d450008b34c6b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b17f4-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4ef65ab7-424b-4423-93e5-e94da98d875f
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SPkK4md.png" group-title="Netherlands",NH Niews (1080p)
 https://takeoff.jetstre.am/?account=nhnieuws&file=live&output=playlist.m3u8&protocol=https&service=wowza&type=live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X8xLcpT.png" group-title="Netherlands",NOOS TV (720p)
@@ -163,6 +159,8 @@ https://stream.radio350.nl/hls/radio350.m3u8
 https://radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SYzjLlI.png" group-title="Netherlands",Radio Aalsmeer TV (720p) [Not 24/7]
 https://radioaalsmeer.nl:4443/live/tv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QWetX72.png" group-title="Netherlands",Radio Continu TV (720p)
+https://streaming05.stream.delivery/radiocontinu/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nyVlZeL.png" group-title="Netherlands",Radio JND (1080p)
 https://radiojnd.cdn.hostin.cc/radiojnd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9OMsUd7.png" group-title="Netherlands",RadioToppers (720p)
@@ -231,12 +229,14 @@ https://d11lnfpmek70tc.cloudfront.net/nlpo/clr-nlpo/2103d417/index.m3u8
 https://d11lnfpmek70tc.cloudfront.net/nlpo/clr-nlpo/bad78523/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.vimeocdn.com/portrait/31947989_640x640" group-title="Netherlands",Salto 4 (720p)
 https://salto-streams.nl/hls/sotv2.m3u8
+#EXTINF:-1 tvg-logo="https://i.vimeocdn.com/portrait/31947989_640x640" group-title="Netherlands",Salto ADE (720p)
+https://live.salto.nl/hls/at5.m3u8
 #EXTINF:-1 tvg-logo="https://i.vimeocdn.com/portrait/31947989_640x640" group-title="Netherlands",Salto Brasa Music (1080p)
 https://salto-streams.nl/hls/sotv1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0Vzg2OR.png" group-title="Netherlands",Salto MaLive (1080p)
+https://live.salto.nl/hls/malive_high.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3ivlnLO.png" group-title="Netherlands",Samen1 TV (720p)
 https://server-67.stream-server.nl:1936/Samen1TV/Samen1TV/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/e989f6d8-1ea1-44fe-97a5-9715c22c98b9-width200-quality90.jpeg" group-title="Netherlands",Shades of Black
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63920159db0dea0007dd9932/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c0251-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=93b44734-079b-4fec-a58c-6406103089cd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ljVGMWV.png" group-title="Netherlands",Sleutelstad TV (720p)
 https://samson.streamerr.co:8081/sleutelstad/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NXCUiuF.png" group-title="Netherlands",Slotstad TV (720p)
@@ -315,5 +315,9 @@ https://89ec2d15e090480bb419d940b8793b9c.mediatailor.us-east-1.amazonaws.com/v1/
 https://zfmzoetermeer.nl/live/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yiihDg6.png" group-title="Netherlands",ZO!34 (720p)
 https://video.uitzending.tv:19360/zo34/zo34.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pUcV46F.png" group-title="Netherlands",НТВ Мир
+https://streaming.thestream.cyou/live/213.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RUSX0rX.png" group-title="Netherlands",Первый канал Европа
+https://streaming.thestream.cyou/live/210.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/On6ggLe.png" group-title="Netherlands",Перец International
 https://cdn4.skygo.mn/live/disk1/Che/HLSv3-FTA/Che.m3u8

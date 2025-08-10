@@ -7,8 +7,6 @@ https://bloomberg.com/media-manifest/streams/eu.m3u8
 https://livehd.vedge.infomaniak.com/livecast/livehd/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eQ8xHK9.jpg" group-title="Switzerland",Canal Alpha Jura (1080p)
 https://canalalphaju.vedge.infomaniak.com/livecast/ik:canalalphaju/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eQ8xHK9.jpg" group-title="Switzerland",Canal Alpha Neuchatel (1080p) [Not 24/7]
-https://canalalpha.vedge.infomaniak.com/livecast/ik:canalalpha/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.bejart.ch/wp-content/uploads//carac-400x304.png" group-title="Switzerland",Carac 1 (1080p)
 https://edge13.vedge.infomaniak.com/livecast/ik:event/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://www.bejart.ch/wp-content/uploads//carac-400x304.png" group-title="Switzerland",Carac 2 (1080p)
@@ -45,16 +43,14 @@ https://g5nl63z8lpq6-hls-live.5centscdn.com/tvistream/a5586d8ea3b7b021120a05c60d
 https://edge21.vedge.infomaniak.com/livecast/ik:livesd2/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EY6TsdV.png" group-title="Switzerland",KTO (404p) [Not 24/7]
 https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DED8EXs.png" group-title="Switzerland",LCI (720p)
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/btv/py/lci1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/13PjEk8.png" group-title="Switzerland",MaxTV/Dieu TV (1080p)
 https://cdn.katapy.io/cache/stream/katapytv/dieu/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YtYhbJD.png" group-title="Switzerland",Meteonews (1080p)
 https://streaming.meteonews.net/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/0734ee9d-7417-4f53-a092-e29d6e8146ee-width200-quality90.jpeg" group-title="Switzerland",Monster Jam
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65bcc9c8d77d450008b34c6b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b17f4-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4ef65ab7-424b-4423-93e5-e94da98d875f
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SLrjImc.png" group-title="Switzerland",More Than Sports TV (1080p)
 https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WbjURLo.png" group-title="Switzerland",Museum TV English (1080p)
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtven-xiaomi/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/1cc9ab7e-8283-4c32-a3f3-e2a4d0e1d33f-width200-quality90.jpeg" group-title="Switzerland",People Are Awesome (720p)
 https://3ab76e42.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1Blb3BsZUFyZUF3ZXNvbWVfSExT/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GJBxfyf.png" group-title="Switzerland",Pluto TV Romance
@@ -85,8 +81,6 @@ https://viamotionhsi.netplus.ch/live/eds/rts1hd/browser-dash/rts1hd.mpd
 https://viamotionhsi.netplus.ch/live/eds/rts2hd/browser-dash/rts2hd.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LSJqLJw/RTV-LOGO.png" group-title="Switzerland",RTV Islam (1080p)
 https://protokolldns.xyz/rtvislamweb554/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tD48GMD/RTV-Pendimi.png" group-title="Switzerland",RTV Pendimi (720p)
-https://www.rtvpendimi.com:19360/tvpendimi/tvpendimi.m3u8
 #EXTINF:-1 tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/e989f6d8-1ea1-44fe-97a5-9715c22c98b9-width200-quality90.jpeg" group-title="Switzerland",Shades of Black
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63920159db0dea0007dd9932/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c0251-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=93b44734-079b-4fec-a58c-6406103089cd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/b3HG9wm/Logo-site.png" group-title="Switzerland",Sivan TV (1080p)
@@ -129,3 +123,7 @@ https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83da
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883098
 #EXTINF:-1 tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/b2b4d09d-3471-4dbf-a831-3191cfc66bec-width200-quality90.jpeg" group-title="Switzerland",Zee One (720p)
 https://89ec2d15e090480bb419d940b8793b9c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_ZeeWorld-1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pUcV46F.png" group-title="Switzerland",НТВ Мир
+https://streaming.thestream.cyou/live/213.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RUSX0rX.png" group-title="Switzerland",Первый канал Европа
+https://streaming.thestream.cyou/live/210.m3u8
