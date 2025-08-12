@@ -5,10 +5,6 @@ https://mediaserver.abnvideos.com/streams/abnafrica.m3u8
 https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cTLj7Yt.png" group-title="Egypt",Aflam (1080p)
 https://shls-live-enc.edgenextcdn.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YWIJdai.png" group-title="Egypt",Africa 24 (1080p)
-https://africa24.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YWIJdai.png" group-title="Egypt",Africa 24 Sport (1080p)
-https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5UxU4zc.png" group-title="Egypt",Africanews English
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/africanews/africanews-en.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5UxU4zc.png" group-title="Egypt",Africanews French
@@ -55,6 +51,8 @@ https://fl1002.bozztv.com/ga-alnahar/tracks-v1a1/mono.m3u8
 https://fl1002.bozztv.com/ga-alnahardrama/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7VYJStp.png" group-title="Egypt",Alfath Sonnah TV (576p)
 https://alfat7-q.com:5443/LiveApp/streams/986613792230697141226562.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f6PQzKd.png" group-title="Egypt",Alforat TV (1080p)
+http://95.216.180.111:1935/live/10/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vVM7I4a.png" group-title="Egypt",Alhayat Drama
 https://fl1002.bozztv.com/ga-alhayahseries/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bl9ie9u.png" group-title="Egypt",Alhayat TV
@@ -75,6 +73,8 @@ https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabi
 https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_mse_v0_hevc.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Egypt",Bloomberg TV EMEA Live Event (720p)
 https://bloomberg.com/media-manifest/streams/eu-event.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/viB0FS2.png" group-title="Egypt",Canaf54 TV
+https://5caf24a595d94.streamlock.net:1937/pvyugfkzkc/pvyugfkzkc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BzA2z7m.png" group-title="Egypt",Canal 2 International
 http://69.64.57.208/canal2international/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8apNaLP.png" group-title="Egypt",CBC (1080p)
@@ -115,6 +115,8 @@ https://5d658d7e9f562.streamlock.net/koogi.tv/koogi.smil/playlist.m3u8
 https://vo-live-media.cdb.cdn.orange.com/Content/Channel/MajidChildrenChannel/HLS/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CiA3plN.png" group-title="Egypt",MBC 1 (1080p)
 https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n9mSHuP.png" group-title="Egypt",MBC 2 (480p)
+https://edge66.magictvbox.com/liveApple/MBC_2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BcXASJp.png" group-title="Egypt",MBC 4 (1080p)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fRWaDyF.png" group-title="Egypt",MBC 5 (1080p)
@@ -139,6 +141,8 @@ https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
 https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JWihdcl.png" group-title="Egypt",Movies Thriller (1080p)
 https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zNscEST.png" group-title="Egypt",MTV Hits Europe
+http://45.88.92.3/tr3_MTVHits_SD/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://i.imgur.com/krp3kgv.png" group-title="Egypt",NogoumFMTV (672p) [Not 24/7]
 https://nogoumtv.nrpstream.com/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qpaKDtL.png" group-title="Egypt",On Drama
@@ -175,5 +179,3 @@ https://cdn.freevisiontv.co.za/sttv/smil:brics.stream.smil/playlist.m3u8
 https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nLtiXNf.png" group-title="Egypt",Wanasah (1080p)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-wanasah/13e82ea6232fa647c43b26e8a41f173d/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pZyKaUH.png" group-title="Egypt",Watan TV (1080p)
-https://rp.tactivemedia.com/watantv_source/live/playlist.m3u8
