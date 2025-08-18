@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i3YwORV.png" group-title="Costa Rica",88 Stereo (720p) [Not 24/7]
 http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EBtgnxR.png" group-title="Costa Rica",360 RFTV (576p) [Geo-blocked]
+https://acceso.radiosportstv.online:3417/live/360rftvcrlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/300c1ZH.png" group-title="Costa Rica",¡OPA! (1080i) [Geo-blocked]
 https://5fc584f3f19c9.streamlock.net/genteopa/videogenteopa/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AHaXlCh.png" group-title="Costa Rica",Anime Zone TV (480p)
@@ -27,8 +29,6 @@ https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 https://acceso.radiosportstv.online:3285/live/canal10costaricalive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1aNEo6U.png" group-title="Costa Rica",Canal 14 San Carlos (720p) [Not 24/7]
 http://tvn.obix.tv:1935/TVN/CH14.stream_720p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://caribbeanadvantage.com/images/CAtv-logo-512.png" group-title="Costa Rica",Caribbean Advantage TV (1080p) [Not 24/7]
-https://video2.getstreamhosting.com:19360/8216/8216.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gBbLyqh.png" group-title="Costa Rica",CCTV-4 America (1080p)
 https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Poz3xfi.png" group-title="Costa Rica",CGTN Español (1080p)
@@ -87,8 +87,6 @@ https://backend.energeek.cl/webtv/kanadeweb/index.m3u8?token=ZZDemoIPTVGH
 http://k4.usastreams.com/limontv1/limontv1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5xw86wu.png" group-title="Costa Rica",Los Santos TV (720p)
 https://lstv.duckdns.org:449/hls/lstv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GC2lubh.png" group-title="Costa Rica",Luz Naciente TV (720p)
-https://streeming.protoscr.com:3858/live/streeminglive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Lj2jRn3.png" group-title="Costa Rica",Nicoya TV (720p) [Not 24/7]
 https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2MNzXN7/Channels4-profile-9.jpg" group-title="Costa Rica",Norte Informativo TV (240p)
@@ -129,6 +127,8 @@ https://tastemadees16us-xumo.amagi.tv/playlist.m3u8
 https://cloudvideo.servers10.com:8081/8230/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eRwYxc2.png" group-title="Costa Rica",Tele Uno (720p) [Not 24/7]
 http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m3xu6Ms.png" group-title="Costa Rica",TeleBrunca (720p) [Not 24/7]
+https://59ef525c24caa.streamlock.net/telebrunca/telebrunca/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5Rc8mA5.png" group-title="Costa Rica",TeleMas (480p) [Geo-blocked]
 https://mist01.homestream.fun/hls/tlmas904/0_1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KUpgeOf.png" group-title="Costa Rica",TeleSUR Costa Rica (720p) [Not 24/7]
@@ -139,6 +139,8 @@ https://v4.tustreaming.cl/tevexinter/index.m3u8
 https://59a564764e2b6.streamlock.net/vallenato/tropical/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7HbISMV.png" group-title="Costa Rica",TV Sur Canal 9 (620p) [Not 24/7]
 http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OpHYYZA.png" group-title="Costa Rica",TV Sur Canal 14 (1080p)
+https://k20.usastreams.com:8081/tvsur/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iODADvi.png" group-title="Costa Rica",TVE Internacional America (720p)
 http://190.11.225.124:5000/live/tve_hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BzQphbw.png" group-title="Costa Rica",UCL (720p)
