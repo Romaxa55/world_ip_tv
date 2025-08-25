@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/3sat_2019.svg/512px-3sat_2019.svg.png" group-title="Switzerland",3sat HD (1080p)
 https://viamotionhsi.netplus.ch/live/eds/3sathd/browser-HLS8/3sathd.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Arag%C3%B3n_Internacional.png/revision/latest/scale-to-width-down/512" group-title="Switzerland",Aragon TV Internacional
+https://viamotionhsi.netplus.ch/live/eds/aragontv/browser-HLS8/aragontv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t6Lmntr.png" group-title="Switzerland",Bahrain International (720p) [Not 24/7]
 https://5c7b683162943.streamlock.net/live/ngrp:bahraininternational_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Switzerland",Bloomberg TV EMEA Live Event (720p)
@@ -23,8 +25,10 @@ https://onefmhd.vedge.infomaniak.com/livecast/ik:onefmhd/manifest.m3u8
 https://lfmhd.vedge.infomaniak.com/livecast/lfmhd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.bejart.ch/wp-content/uploads//carac-400x304.png" group-title="Switzerland",Carac 4 (1080p)
 https://edge17.vedge.infomaniak.com/livecast/ik:compack_media_1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/giDfku4.png" group-title="Switzerland",Carac 5 SD (1080p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/giDfku4.png" group-title="Switzerland",Carac 5 (1080p)
 https://viamotionhsi.netplus.ch/live/eds/teleswizz/browser-HLS8/teleswizz.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/giDfku4.png" group-title="Switzerland",Carac 5 SD
+https://viamotionhsi.netplus.ch/live/eds/teleswizz/browser-dash/teleswizz.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HGLFdfk.png" group-title="Switzerland",CCTV-4 Europe
 https://viamotionhsi.netplus.ch/live/eds/cctv4/browser-HLS8/cctv4.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png" group-title="Switzerland",CGTN (1080p)
@@ -167,6 +171,8 @@ https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/a
 https://viamotionhsi.netplus.ch/live/eds/tv24/browser-HLS8/tv24.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8PY1o81.jpg" group-title="Switzerland",TV Rheintal (720p)
 https://rtmp-vm.fidion.de/live/tvrt.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ow1HArj.png" group-title="Switzerland",TVE Internacional Europe-Asia
+https://viamotionhsi.netplus.ch/live/eds/tveinternacional/browser-HLS8/tveinternacional.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zNJlFMg.png" group-title="Switzerland",TVM3 (1080p)
 https://livevideo.infomaniak.com/streaming/livecast/tvm3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fRV6p50.png" group-title="Switzerland",TVM Internacional (480p) [Not 24/7]
