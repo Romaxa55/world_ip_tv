@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8YMLPA3.png" group-title="Rwanda",3ABN International
+https://3abn.bozztv.com/3abn2/Int_live/smil:Int_live.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png" group-title="Rwanda",ABC News (720p)
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SLrX8Ef.png" group-title="Rwanda",ABN Africa (480p)
 https://mediaserver.abnvideos.com/streams/abnafrica.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YWIJdai.png" group-title="Rwanda",Africa 24 (1080p)
@@ -13,6 +17,10 @@ https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8
 https://edge.socialsmart.tv/naturaltv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nJbAbfW.png" group-title="Rwanda",Ahupa Visual Radio
 https://tv.btnrwanda.com:3349/live/ahupalive.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Jdy3WNm.png" group-title="Rwanda",Arirang TV UN (1080p)
+https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WzLwj3X/IMG-20230703-155036.jpg" group-title="Rwanda",B+ TV (480p)
+https://tv.btnrwanda.com:3432/live/bpluslive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="Rwanda",BBC News (1080p)
 https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_mse_v0_hevc.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Rwanda",Bloomberg TV EMEA Live Event (720p)
@@ -41,14 +49,14 @@ https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_r
 https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/5377161796001/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eKy2ocd.png" group-title="Rwanda",IBN TV Africa (720p)
 http://68.183.41.209:8080/live/5d9a537c64b9c/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EfsHaMQ.png" group-title="Rwanda",Isango TV (480p) [Not 24/7]
-http://80.241.215.175:1935/isangostar/isangostar/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bXhEeTC.png" group-title="Rwanda",Isibo TV
 https://5c46fa289c89f.streamlock.net/pub2live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PsYPzNc.png" group-title="Rwanda",KC2 (720p) [Not 24/7]
 http://197.243.19.131:1935/kc2/kc2/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OioFepy.jpeg" group-title="Rwanda",Medi 1 TV Afrique (1080p) [Not 24/7]
 https://streaming1.medi1tv.com/live/smil:medi1fr.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zNscEST.png" group-title="Rwanda",MTV Hits Europe
+http://45.88.92.3/tr3_MTVHits_SD/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png" group-title="Rwanda",NHK World-Japan (720p)
 https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rjgCM2B.png" group-title="Rwanda",Peace TV English (1080p)
@@ -69,5 +77,9 @@ https://cdn.freevisiontv.co.za/sttv/smil:brics.stream.smil/playlist.m3u8
 https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fRV6p50.png" group-title="Rwanda",TVM Internacional (480p) [Not 24/7]
 http://online.tvm.co.mz:1935/live/smil:Channel2.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UcAwBep.png" group-title="Rwanda",UN Web TV (540p)
+https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Wc5Z3iS.png" group-title="Rwanda",WION (1080p)
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ciTJrnl.png" group-title="Rwanda",Zoo Moo (Australia) (1080p)
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8

@@ -1,12 +1,18 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8YMLPA3.png" group-title="Santa Rosa",3ABN International
+https://3abn.bozztv.com/3abn2/Int_live/smil:Int_live.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BtGK7iZ.png" group-title="Santa Rosa",A+ Guate (720p)
 https://ch2-tva.duin.dev/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png" group-title="Santa Rosa",ABC News (720p)
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tLhcNTD/amigos-tv-chiquimula.png" group-title="Santa Rosa",Amigos TV Chiquimula (480p)
 https://antmedia.cablevisionrobles.com:5443/LiveApp/streams/CqwAgRagMvBNYN8c1731608980342.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AHaXlCh.png" group-title="Santa Rosa",Anime Zone TV (480p)
 http://animezonetv.net/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QMadWXp.png" group-title="Santa Rosa",Antena 3 Internacional (480p)
 http://38.180.133.31:8000/play/a0ki/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Jdy3WNm.png" group-title="Santa Rosa",Arirang TV UN (1080p)
+https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DVC5w6H.png" group-title="Santa Rosa",Aurora Media Films (720p)
 https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UJhQoUK.png" group-title="Santa Rosa",Azteca Guate (1080p)
@@ -21,6 +27,8 @@ https://live1.ovalcast.com:3641/live/bcngospeltvlive.m3u8
 https://viamotionhsi.netplus.ch/live/eds/bvn/browser-HLS8/bvn.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2Sekew2.png" group-title="Santa Rosa",Canal 9 Barbe TV (720p) [Not 24/7]
 https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/INKZvlN.png" group-title="Santa Rosa",Canal 13 Esquipulas (720p)
+https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PP4U1JL.png" group-title="Santa Rosa",Canal 30 TV Bethel (720p) [Not 24/7]
 https://s.emisoras.tv:8081/canal30tvbethel/index.m3u8
 #EXTINF:-1 tvg-logo="https://caribbeanadvantage.com/images/CAtv-logo-512.png" group-title="Santa Rosa",Caribbean Advantage TV (1080p) [Not 24/7]
@@ -47,6 +55,8 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eAS86qH.png" group-title="Santa Rosa",Cine XOXO
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f5136317aedfb0007016f93/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27e002-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=308fd9dd-2f8a-441f-b59d-e02f4b0aacd7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M6FFkc3.png" group-title="Santa Rosa",Classic Arts Showcase
+https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ifarQil.png" group-title="Santa Rosa",CSI en Español
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/604928d54a4f730007ff76bc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c285532-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ec065848-4bdc-45cb-ad2c-0ef96c23d424
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="Santa Rosa",DW Español (1080p)
@@ -99,8 +109,6 @@ https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j3OGO3V.png" group-title="Santa Rosa",Nuevo Mundo TV (720p)
 https://tvlatina.live:1936/8008/8008/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/exdDHml.png" group-title="Santa Rosa",Nuevo Tiempo (720p) [Not 24/7]
-https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YtPRKmS.png" group-title="Santa Rosa",Peniel Kids & Young (480p)
 https://s.emisoras.tv:8081/penielkids/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IFQbGEf.png" group-title="Santa Rosa",Peniel Musical (480p)
@@ -151,7 +159,13 @@ http://190.11.225.124:5000/live/tve_hd/playlist.m3u8
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BzQphbw.png" group-title="Santa Rosa",UCL (720p)
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UcAwBep.png" group-title="Santa Rosa",UN Web TV (540p)
+https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vtGED07.jpg" group-title="Santa Rosa",Venevisión Internacional (720p)
 https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WIeZMKT.png" group-title="Santa Rosa",Vive Kanal D Drama (1080p)
 https://thema-vivekanald-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ciTJrnl.png" group-title="Santa Rosa",Zoo Moo (Australia) (1080p)
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mwiC0RG.png" group-title="Santa Rosa",СТС International
+https://cdn4.skygo.mn/live/disk1/STS/HLSv3-FTA/STS.m3u8

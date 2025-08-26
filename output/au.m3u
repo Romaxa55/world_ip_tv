@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jwM8DFG/2GB-1.png" group-title="Australia",2GB Sydney (1080p)
 https://2gblive.akamaized.net/hls/live/2033805/2GB/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8YMLPA3.png" group-title="Australia",3ABN International
+https://3abn.bozztv.com/3abn2/Int_live/smil:Int_live.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z4MdB0S.png" group-title="Australia",3AW Melbourne (1080p)
 https://3awlive.akamaized.net/hls/live/2032295/3AW/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q9iCxg1.png" group-title="Australia",6PR Perth (1080p)
@@ -9,6 +11,10 @@ https://6prlive.akamaized.net/hls/live/2033806/6PR/index.m3u8
 https://dce3793146fef017.mediapackage.us-west-2.amazonaws.com/out/v1/55cdf73af7894775ba6de8f57482b66a/CMAF_HLS/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qQ33TVM.png" group-title="Australia",ABC Australia
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png" group-title="Australia",ABC News (720p)
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Jdy3WNm.png" group-title="Australia",Arirang TV UN (1080p)
+https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8vGGdB0.png" group-title="Australia",ausbiz TV (720p) [Not 24/7]
 https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="Australia",BBC News Asia Pacific (1080p)
@@ -59,8 +65,6 @@ https://hncfree-samsungau.amagi.tv/playlist.m3u8
 https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/5377161796001/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4LECwDh.png" group-title="Australia",Indo Oz TV (720p)
 https://stream.e2is.in/hls/indoztv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1nJl0Pv.png" group-title="Australia",INTV Australia (720p)
-http://tv1.intv.mk:1935/live/intv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WaaaW0w.png" group-title="Australia",Juice TV (1080p) [Not 24/7]
 https://juicex.nz/hls/mystream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BQ0qWzX.png" group-title="Australia",Kordia TV (1080p)
@@ -97,5 +101,9 @@ https://tvsnhlslivetest.akamaized.net/hls/live/2034711/TVSN-MSL4/master.m3u8
 https://live-tvsn.simplestreamcdn.com/live12/tvsnbeauty/bitrate1.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lmoAFm3.png" group-title="Australia",TVSN Jewellery (1080p)
 https://live-tvsn.simplestreamcdn.com/live13/tvsnjewellery/bitrate1.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UcAwBep.png" group-title="Australia",UN Web TV (540p)
+https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Wc5Z3iS.png" group-title="Australia",WION (1080p)
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ciTJrnl.png" group-title="Australia",Zoo Moo (Australia) (1080p)
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8

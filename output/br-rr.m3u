@@ -1,8 +1,14 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8YMLPA3.png" group-title="Roraima",3ABN International
+https://3abn.bozztv.com/3abn2/Int_live/smil:Int_live.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dWA9y2J.png" group-title="Roraima",1001 Noites (720p) [Not 24/7]
 https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png" group-title="Roraima",ABC News (720p)
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7rjCS5i.png" group-title="Roraima",Amazon Sat (1080p)
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Jdy3WNm.png" group-title="Roraima",Arirang TV UN (1080p)
+https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://awtv.com.br/wp-content/uploads/2024/10/LOGO-AWTV-1080X1080-300x300.png" group-title="Roraima",AWTV (1080p)
 https://acesso.ecast.site:3070/live/awtvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6ckHV6k.jpeg" group-title="Roraima",BDC TV (576p)
@@ -73,8 +79,6 @@ https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.kanade.cl/assets/img/profilepic_512px.png" group-title="Roraima",Kanade (1080p)
 https://backend.energeek.cl/webtv/kanadeweb/index.m3u8?token=ZZDemoIPTVGH
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Tf0vweF.png" group-title="Roraima",KpopTV Play (576p)
-https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SRX6EPY.png" group-title="Roraima",Kuriakos Kids (1080p)
 https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R0aflu1.png" group-title="Roraima",Loading (720p)
@@ -87,8 +91,6 @@ https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IK3F9Uq.png" group-title="Roraima",Nova Era TV (1080p) [Not 24/7]
 http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/exdDHml.png" group-title="Roraima",Novo Tempo (720p)
-https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AQBtheU.png" group-title="Roraima",Pluto TV Cine Drama (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r9UhBfV.png" group-title="Roraima",Pluto TV Cine Família (720p) [Not 24/7]
@@ -151,8 +153,6 @@ https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3
 https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nm0jXMM/cultura-3x.png" group-title="Roraima",TV Cultura
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-encontro-das-aguas-br.png" group-title="Roraima",TV Encontro das Aguas
-https://stmv7.samcast.com.br/sistemaencontrodasaguas/sistemaencontrodasaguas/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8PErNBT.png" group-title="Roraima",TV Guará (720p) [Not 24/7]
 https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HZI0ilU.png" group-title="Roraima",TV Life America (720p)
@@ -173,8 +173,6 @@ https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8
 https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I6pKoBd.png" group-title="Roraima",TV Paraná Turismo (720p) [Not 24/7]
 http://200.189.113.201/hls/tve.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9EqSKLc.png" group-title="Roraima",TV Rio Preto (720p)
-https://video02.logicahost.com.br/tvriopreto/tvriopreto/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ff5mj0o.png" group-title="Roraima",TV Series 1 As Panteras (480p)
 https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tvsolcomunidade.com.br/wp-content/uploads/2019/01/logo-tv-sol.png" group-title="Roraima",TV Sol Comunidade (480p) [Not 24/7]
@@ -193,11 +191,13 @@ https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
 https://srv5.zcast.com.br/tvcommaceio/tvcommaceio/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iODADvi.png" group-title="Roraima",TVE Internacional America (720p)
 http://190.11.225.124:5000/live/tve_hd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/TVE_Bahia_logo.svg/512px-TVE_Bahia_logo.svg.png" group-title="Roraima",TVE RS (1080p)
-http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vstHOYx.png" group-title="Roraima",TVídeoNews (720p) [Not 24/7]
 https://video01.logicahost.com.br/tvideonews/tvideonews/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fRV6p50.png" group-title="Roraima",TVM Internacional (480p) [Not 24/7]
 http://online.tvm.co.mz:1935/live/smil:Channel2.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m0RVb79.png" group-title="Roraima",UMA TV (1080p)
 https://acesso.ecast.site:3011/live/umatvlive.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UcAwBep.png" group-title="Roraima",UN Web TV (540p)
+https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ciTJrnl.png" group-title="Roraima",Zoo Moo (Australia) (1080p)
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8

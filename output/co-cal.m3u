@@ -1,8 +1,14 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8YMLPA3.png" group-title="Caldas",3ABN International
+https://3abn.bozztv.com/3abn2/Int_live/smil:Int_live.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png" group-title="Caldas",ABC News (720p)
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AHaXlCh.png" group-title="Caldas",Anime Zone TV (480p)
 http://animezonetv.net/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QMadWXp.png" group-title="Caldas",Antena 3 Internacional (480p)
 http://38.180.133.31:8000/play/a0ki/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Jdy3WNm.png" group-title="Caldas",Arirang TV UN (1080p)
+https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MsQLaQG.png" group-title="Caldas",Avivamiento TV (1080p) [Not 24/7]
 https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WxLHBwu.png" group-title="Caldas",BabyFirst Spanish
@@ -11,8 +17,6 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/be
 https://live1.ovalcast.com:3641/live/bcngospeltvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TerY4iM.png" group-title="Caldas",Bum Televisión (720p) [Not 24/7]
 https://movil.ejeserver.com/live/visiondorada.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/512px-Channel_1_%28Colombia%29_-_2017_logo.svg.png" group-title="Caldas",Canal 1 (1080p) [Geo-blocked]
-https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/peOIG1F.png" group-title="Caldas",Canal 8 TV+ (720p)
 https://movil.ejeserver.com/live/canal8tv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kAbrHqt.jpeg" group-title="Caldas",Canal 10 SOL TV (1080p)
@@ -55,6 +59,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dcddf1ed
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f5136317aedfb0007016f93/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27e002-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=308fd9dd-2f8a-441f-b59d-e02f4b0aacd7
 #EXTINF:-1 tvg-logo="https://i.imgur.com/akGKPsk.png" group-title="Caldas",CMB Television (1080p)
 https://catv.cmbcolombia.tv/bethesda/bethesda/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EOEtETt.png" group-title="Caldas",CNC HD Online (1080p) [Geo-blocked]
+https://hvtraficonew.ddns.net/pastocnc6/cnc6/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LNl2o9q.jpg" group-title="Caldas",CNC Santander de Quilichao (480p)
 https://movil.ejeserver.com/live/cncsantander.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QlvYfEJ.png" group-title="Caldas",Cosmovision (720p)
@@ -111,8 +117,6 @@ https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ES6xFAv.png" group-title="Caldas",NSTV (720p)
 http://138.186.23.7:22281/nstv/nstv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/exdDHml.png" group-title="Caldas",Nuevo Tiempo (720p) [Not 24/7]
-https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VKYzFpZ.png" group-title="Caldas",Oasis TV (720p) [Not 24/7]
 https://5e85d90130e77.streamlock.net/6020/6020/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u5804Au.jpg" group-title="Caldas",Ondambiental TV (360p)
@@ -129,8 +133,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=unknown&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff0c3c1-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=20f53e04-9cb8-454e-ad8b-838686c353e7&userId=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GnUmEZn.png" group-title="Caldas",Pluto TV Cine Suspenso (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddc4e8bcbb9010009b4e84f/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h17lAxc.png" group-title="Caldas",Pluto TV The Walking Dead ESP (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e82bb378601b80007b4bd78/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e82bb378601b80007b4bd78&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=925&terminate=false&userId=
 #EXTINF:-1 tvg-logo="https://neotv.cl/img/pridetv-512.png" group-title="Caldas",PRIDEtv LATAM (1080p)
 https://backend.energeek.cl/webtv/pridetvweb/index.m3u8?token=ZZDemoIPTVGH
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="Caldas",RCN Más (1080p)
@@ -165,11 +167,13 @@ http://190.11.225.124:5000/live/tve_hd/playlist.m3u8
 http://online.tvm.co.mz:1935/live/smil:Channel2.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BzQphbw.png" group-title="Caldas",UCL (720p)
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rVKroNW.png" group-title="Caldas",Vallenato Internacional (720p) [Not 24/7]
-https://59a564764e2b6.streamlock.net/vallenato/vallenatom/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UcAwBep.png" group-title="Caldas",UN Web TV (540p)
+https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vtGED07.jpg" group-title="Caldas",Venevisión Internacional (720p)
 https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WIeZMKT.png" group-title="Caldas",Vive Kanal D Drama (1080p)
 https://thema-vivekanald-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/25CFHpB.png" group-title="Caldas",Vive TV Colombia (1080p)
 http://192.144.113.132:1935/live/ViveTV/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ciTJrnl.png" group-title="Caldas",Zoo Moo (Australia) (1080p)
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8

@@ -1,8 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/slSUDNX.png" group-title="Germany",1-2-3 TV (270p)
 https://123tv-mx1.flex-cdn.net/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8YMLPA3.png" group-title="Germany",3ABN International
+https://3abn.bozztv.com/3abn2/Int_live/smil:Int_live.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/3sat_2019.svg/512px-3sat_2019.svg.png" group-title="Germany",3sat HD (1080p)
 https://viamotionhsi.netplus.ch/live/eds/3sathd/browser-HLS8/3sathd.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png" group-title="Germany",ABC News (720p)
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eTmHk4e.png" group-title="Germany",Alex Berlin (1080p)
 https://alex-stream.rosebud-media.de/bounce/alexlivetv50.smil/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Allg%C3%A4u_TV_Logo_%282021%29.svg/512px-Allg%C3%A4u_TV_Logo_%282021%29.svg.png" group-title="Germany",Allgäu TV (1080p)
@@ -17,6 +21,8 @@ https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
 https://viamotionhsi.netplus.ch/live/eds/aragontv/browser-HLS8/aragontv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ARD_alpha.svg/512px-ARD_alpha.svg.png" group-title="Germany",ARD-alpha (720p)
 https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Jdy3WNm.png" group-title="Germany",Arirang TV UN (1080p)
+https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DLVjeno.png" group-title="Germany",Aristo TV (360p)
 https://ma.anixa.tv/clips/stream/aristo/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/27AKMUL.png" group-title="Germany",Augsburg TV (1080p)
@@ -273,8 +279,6 @@ https://iptv.peer.biz/live/peertv-it.m3u8
 https://iptv.peer.biz/live/peertv-en.m3u8
 #EXTINF:-1 tvg-logo="https://www.peer.biz/peertv-iptv/peer-tv-suedtirol.png" group-title="Germany",Peer TV Südtirol (1080p)
 https://iptv.peer.biz/live/peertv.m3u8
-#EXTINF:-1 tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/1cc9ab7e-8283-4c32-a3f3-e2a4d0e1d33f-width200-quality90.jpeg" group-title="Germany",People Are Awesome (720p)
-https://3ab76e42.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1Blb3BsZUFyZUF3ZXNvbWVfSExT/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N00seOn.png" group-title="Germany",Pluto TV Animals
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d767ae7b456c8cf265ce922/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ae5268-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f4297955-3ff8-4299-b8e4-ca974cec3c7a
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bvbn8pa.png" group-title="Germany",Pluto TV Anime
@@ -349,8 +353,6 @@ https://stream05.welocal.stream/stream/fhd-regiotv_182913/ngrp:stream_all/playli
 https://regiotv-s.iptv-playoutcenter.de/regiotv-s/regiotv-s.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.rennsteig.tv/wp-content/uploads/rennsteig-tv-claim-300.png" group-title="Germany",Rennsteig TV (720p)
 http://wowza.telvi.de/rennsteigtv/stream_720p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/ddf3b88d-ef92-4a57-b234-36ff7c1cea2e-width200-quality90.jpeg" group-title="Germany",Revry (720p)
-https://99d8b4b6.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1JldnJ5X0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8DZa7in.png" group-title="Germany",RFH (1080p)
 http://58bd5b7a98e04.streamlock.net/medienasa-live/RFH_high/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4wMZ8Em.png" group-title="Germany",RiC (1080p)
@@ -359,6 +361,8 @@ https://rictv.iptv-playoutcenter.de/rictv/rictv-web/playlist.m3u8
 https://rnf.iptv-playoutcenter.de/rnf/rnf.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v1PIbB2.png" group-title="Germany",RT DE (1080p) [Not 24/7]
 https://rt-ger.rttv.com/dvr/rtdeutsch/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/94K94k2.png" group-title="Germany",RTL
+https://viamotionhsi.netplus.ch/live/eds/rtl/browser-HLS8/rtl.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/94K94k2.png" group-title="Germany",RTL HD
 https://strm.hdtvizlecanli.com/live/rtl.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KbdK8t9.png" group-title="Germany",RTL Super
@@ -443,6 +447,8 @@ https://tvaktuellr.iptv-playoutcenter.de/tvaktuellr/tvaktuellr.stream_1/playlist
 https://viamotionhsi.netplus.ch/live/eds/tveinternacional/browser-HLS8/tveinternacional.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fRV6p50.png" group-title="Germany",TVM Internacional (480p) [Not 24/7]
 http://online.tvm.co.mz:1935/live/smil:Channel2.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UcAwBep.png" group-title="Germany",UN Web TV (540p)
+https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
 #EXTINF:-1 tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/1f51bd5f-5c9a-486d-8720-800de7f73129-width200-quality90.jpeg" group-title="Germany",Viasat Explore Classic (720p)
 https://da9c49fa.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLXBsX1ZpYXNhdEV4cGxvcmVfSExT/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7fzlbi2.png" group-title="Germany",Victorious
@@ -485,8 +491,6 @@ https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lta5Mog.png" group-title="Germany",World of Freesports (1080p)
 https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/77aa6871-a13f-470b-a2d5-ca5650f63323-width200-quality90.jpeg" group-title="Germany",World of Freesports (1080p)
-https://rakutenaa-mainstreammediafreesportsintl-rakuten-t7dc0.amagi.tv/playlist/rakutenAA-mainstreammediafreesportsintl-rakuten/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/98kLMjj.png" group-title="Germany",World Poker Tour
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ad9b7aae738977e2c312132/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84b00010-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=74cccc9f-4a89-4a77-9d46-ad68b9e23890
 #EXTINF:-1 tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/dff3a92e-c4aa-49c4-b1b6-4a847428b8d5-width200-quality90.png" group-title="Germany",Z Nation (720p)
@@ -499,6 +503,8 @@ https://viamotionhsi.netplus.ch/live/eds/zdfinfohd/browser-dash/zdfinfohd.mpd
 https://viamotionhsi.netplus.ch/live/eds/zdfneohd/browser-dash/zdfneohd.mpd
 #EXTINF:-1 tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/b2b4d09d-3471-4dbf-a831-3191cfc66bec-width200-quality90.jpeg" group-title="Germany",Zee One (720p)
 https://89ec2d15e090480bb419d940b8793b9c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_ZeeWorld-1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ciTJrnl.png" group-title="Germany",Zoo Moo (Australia) (1080p)
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RbdpCNf.png" group-title="Germany",ZWEI2 Music (1080p)
 https://cdne.folxplay.tv/folx-trz/streams/ch-2/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pUcV46F.png" group-title="Germany",НТВ Мир
@@ -507,3 +513,5 @@ https://streaming.thestream.cyou/live/213.m3u8
 https://streaming.thestream.cyou/live/210.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/On6ggLe.png" group-title="Germany",Перец International
 https://cdn4.skygo.mn/live/disk1/Che/HLSv3-FTA/Che.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mwiC0RG.png" group-title="Germany",СТС International
+https://cdn4.skygo.mn/live/disk1/STS/HLSv3-FTA/STS.m3u8

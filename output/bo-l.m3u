@@ -1,8 +1,14 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8YMLPA3.png" group-title="La Paz",3ABN International
+https://3abn.bozztv.com/3abn2/Int_live/smil:Int_live.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png" group-title="La Paz",ABC News (720p)
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AHaXlCh.png" group-title="La Paz",Anime Zone TV (480p)
 http://animezonetv.net/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QMadWXp.png" group-title="La Paz",Antena 3 Internacional (480p)
 http://38.180.133.31:8000/play/a0ki/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Jdy3WNm.png" group-title="La Paz",Arirang TV UN (1080p)
+https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E243X2x.png" group-title="La Paz",ATB La Paz (614p) [Not 24/7]
 http://186.121.206.197/live/daniel/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WxLHBwu.png" group-title="La Paz",BabyFirst Spanish
@@ -11,6 +17,8 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/be
 https://live1.ovalcast.com:3641/live/bcngospeltvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U98Z5zn.png" group-title="La Paz",Bolivisión LPZ (720p)
 https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BxQPPAA.png" group-title="La Paz",Cadena A (720p) [Not 24/7]
+https://5fe2654d6127d.streamlock.net/cadenaa/videocadenaa/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y3bymuv.jpg" group-title="La Paz",Canal 29 TVA
 https://play.agenciastreaming.com:19360/8160/8160.m3u8
 #EXTINF:-1 tvg-logo="https://caribbeanadvantage.com/images/CAtv-logo-512.png" group-title="La Paz",Caribbean Advantage TV (1080p) [Not 24/7]
@@ -81,10 +89,6 @@ https://backend.energeek.cl/webtv/kanadeweb/index.m3u8?token=ZZDemoIPTVGH
 https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8dUS3Ih.png" group-title="La Paz",Novelisima
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
-#EXTINF:-1 tvg-logo="https://i.imgur.com/exdDHml.png" group-title="La Paz",Nuevo Tiempo (720p) [Not 24/7]
-https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wAIBvaO.png" group-title="La Paz",Palenque TV
-https://tv.bitstreaming.net:3234/live/palenquetvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4A7R2Jt.png" group-title="La Paz",PAT La Paz
 https://www.redpat.tv/proxylpz/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vEzeqHP.png" group-title="La Paz",Platzi TV (1080p)
@@ -127,6 +131,8 @@ http://190.11.225.124:5000/live/tve_hd/playlist.m3u8
 http://online.tvm.co.mz:1935/live/smil:Channel2.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BzQphbw.png" group-title="La Paz",UCL (720p)
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UcAwBep.png" group-title="La Paz",UN Web TV (540p)
+https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
 #EXTINF:-1 tvg-logo="https://unifranz.edu.bo/wp-content/themes/unifranz-web/public/images/logos/logo-light-min.442cee.svg" group-title="La Paz",Unifranz (720p)
 https://live.enhdtv.com:8081/8192/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Kwvbyr0/unnamed.jpg" group-title="La Paz",UPP TV/Bolivisión SCZ (720p) [Not 24/7]
@@ -135,3 +141,5 @@ https://alba-bo-bolivision-upptv.stream.mediatiquestream.com/index.m3u8
 https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WIeZMKT.png" group-title="La Paz",Vive Kanal D Drama (1080p)
 https://thema-vivekanald-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ciTJrnl.png" group-title="La Paz",Zoo Moo (Australia) (1080p)
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
