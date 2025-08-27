@@ -47,8 +47,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f
 https://tv.mediacp.eu:8081/coraltv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ifarQil.png" group-title="La Paz",CSI en Español
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/604928d54a4f730007ff76bc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c285532-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ec065848-4bdc-45cb-ad2c-0ef96c23d424
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ljKb0UX.png" group-title="La Paz",CTV
-https://live.ctvbolivia.com/hls/ctv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="La Paz",DW Español (1080p)
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.energeek.cl/logos/Marca-512.png" group-title="La Paz",EnerGeek (720p) [Not 24/7]
@@ -75,8 +73,6 @@ https://s2.tvdatta.com:3307/hybrid/play.m3u8
 https://stream1.sersat.com/hls/garagetv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NNd1lYl.png" group-title="La Paz",Golden TV (240p) [Not 24/7]
 https://rpn.bozztv.com/gusa/gusa-goldentv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/swUX3hQ.png" group-title="La Paz",Gusto TV (1080p)
-https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/512px-LOGO_i24NEWS.png" group-title="La Paz",I24 News English (720p)
 https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/5377161796001/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8XHSVWY/IMG-20210613-153444.png" group-title="La Paz",Imperial TV
@@ -89,6 +85,10 @@ https://backend.energeek.cl/webtv/kanadeweb/index.m3u8?token=ZZDemoIPTVGH
 https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8dUS3Ih.png" group-title="La Paz",Novelisima
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
+#EXTINF:-1 tvg-logo="https://i.imgur.com/exdDHml.png" group-title="La Paz",Nuevo Tiempo (720p) [Not 24/7]
+https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wAIBvaO.png" group-title="La Paz",Palenque TV
+https://tv.bitstreaming.net:3234/live/palenquetvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4A7R2Jt.png" group-title="La Paz",PAT La Paz
 https://www.redpat.tv/proxylpz/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vEzeqHP.png" group-title="La Paz",Platzi TV (1080p)
@@ -133,8 +133,6 @@ http://online.tvm.co.mz:1935/live/smil:Channel2.smil/playlist.m3u8
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UcAwBep.png" group-title="La Paz",UN Web TV (540p)
 https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
-#EXTINF:-1 tvg-logo="https://unifranz.edu.bo/wp-content/themes/unifranz-web/public/images/logos/logo-light-min.442cee.svg" group-title="La Paz",Unifranz (720p)
-https://live.enhdtv.com:8081/8192/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Kwvbyr0/unnamed.jpg" group-title="La Paz",UPP TV/Bolivisión SCZ (720p) [Not 24/7]
 https://alba-bo-bolivision-upptv.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vtGED07.jpg" group-title="La Paz",Venevisión Internacional (720p)

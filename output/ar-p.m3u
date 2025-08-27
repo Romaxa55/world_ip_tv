@@ -99,14 +99,14 @@ https://stream.arcast.com.ar/litustv/ngrp:litustv_all/playlist.m3u8
 https://vivo.solumedia.com:19360/masfm/masfm.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7f7M7zl.png" group-title="Formosa",Metro TV (720p)
 https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zNscEST.png" group-title="Formosa",MTV Hits Europe
-http://45.88.92.3/tr3_MTVHits_SD/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IhJ0BjF.png" group-title="Formosa",NET TV (720p)
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png" group-title="Formosa",NHK World-Japan (720p)
 https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8dUS3Ih.png" group-title="Formosa",Novelisima
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
+#EXTINF:-1 tvg-logo="https://i.imgur.com/exdDHml.png" group-title="Formosa",Nuevo Tiempo (720p) [Not 24/7]
+https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vEzeqHP.png" group-title="Formosa",Platzi TV (1080p)
 https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OSet4en.png" group-title="Formosa",Plous TV (1080p)
@@ -119,6 +119,8 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=unknown&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff0c3c1-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=20f53e04-9cb8-454e-ad8b-838686c353e7&userId=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GnUmEZn.png" group-title="Formosa",Pluto TV Cine Suspenso (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddc4e8bcbb9010009b4e84f/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h17lAxc.png" group-title="Formosa",Pluto TV The Walking Dead ESP (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e82bb378601b80007b4bd78/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e82bb378601b80007b4bd78&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=925&terminate=false&userId=
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qgZLYDj/channels4-profile-6.jpg" group-title="Formosa",Power Max Radio TV (720p)
 https://videostream.shockmedia.com.ar:19360/radio1045/radio1045.m3u8
 #EXTINF:-1 tvg-logo="https://neotv.cl/img/pridetv-512.png" group-title="Formosa",PRIDEtv LATAM (1080p)
@@ -165,8 +167,6 @@ https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
 https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TLM592m.png" group-title="Formosa",Unife TV
 https://5dcabf026b188.streamlock.net/StreamUnife/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vtGED07.jpg" group-title="Formosa",Venevisión Internacional (720p)
-https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WIeZMKT.png" group-title="Formosa",Vive Kanal D Drama (1080p)
 https://thema-vivekanald-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ciTJrnl.png" group-title="Formosa",Zoo Moo (Australia) (1080p)

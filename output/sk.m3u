@@ -7,8 +7,8 @@ http://88.212.15.27/live/test_trojka_25p/playlist.m3u8
 http://88.212.15.27/live/test_rtvs_sport_hevc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png" group-title="Slovakia",ABC News (720p)
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Arag%C3%B3n_Internacional.png/revision/latest/scale-to-width-down/512" group-title="Slovakia",Aragon TV Internacional
-https://viamotionhsi.netplus.ch/live/eds/aragontv/browser-HLS8/aragontv.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Arag%C3%B3n_Internacional.png/revision/latest/scale-to-width-down/512" group-title="Slovakia",Aragon TV Internacional (720p) [Not 24/7]
+https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jdy3WNm.png" group-title="Slovakia",Arirang TV UN (1080p)
 https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t6Lmntr.png" group-title="Slovakia",Bahrain International (720p) [Not 24/7]
@@ -75,12 +75,18 @@ https://3ee905090d464be5a51478fd9c642e93.mediatailor.us-east-1.amazonaws.com/v1/
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65bcc9c8d77d450008b34c6b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b17f4-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4ef65ab7-424b-4423-93e5-e94da98d875f
 #EXTINF:-1 tvg-logo="https://www.mtr.sk/img/logo-mtr-0.png" group-title="Slovakia",MTR (1080p)
 https://cdnsk003.panaccess.com/local/Ruzomberok/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" group-title="Slovakia",National Geographic (1080i)
+http://78.130.250.2:8023/play/a02e/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png" group-title="Slovakia",National Geographic Wild (1080i)
+http://78.130.250.2:8023/play/a02c/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png" group-title="Slovakia",NHK World-Japan (720p)
 https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/%C3%93%C4%8Dko_logo_2012.png/512px-%C3%93%C4%8Dko_logo_2012.png" group-title="Slovakia",Óčko (540p)
 https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rjgCM2B.png" group-title="Slovakia",Peace TV English (1080p)
 https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.peer.biz/peertv-iptv/peer-tv-alto-adige.png" group-title="Slovakia",Peer TV Alto Adige (1280p)
+https://iptv.peer.biz/live/peertv-it.m3u8
 #EXTINF:-1 tvg-logo="https://www.peer.biz/peertv-iptv/peer-tv-south-tyrol.png" group-title="Slovakia",Peer TV South Tyrol (1280p)
 https://iptv.peer.biz/live/peertv-en.m3u8
 #EXTINF:-1 tvg-logo="https://www.peer.biz/peertv-iptv/peer-tv-suedtirol.png" group-title="Slovakia",Peer TV Südtirol (1080p)

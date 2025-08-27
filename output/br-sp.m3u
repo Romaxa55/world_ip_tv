@@ -11,8 +11,6 @@ https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://awtv.com.br/wp-content/uploads/2024/10/LOGO-AWTV-1080X1080-300x300.png" group-title="Sao Paulo",AWTV (1080p)
 https://acesso.ecast.site:3070/live/awtvlive.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6ckHV6k.jpeg" group-title="Sao Paulo",BDC TV (576p)
-https://video01.kshost.com.br/bdctv/bdctv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZqhizdP.png" group-title="Sao Paulo",Boas Novas (1080p)
 https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7igGMwH.png" group-title="Sao Paulo",Canal 25 Jundiaí (404p) [Not 24/7]
@@ -21,6 +19,8 @@ https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8
 https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k29So6X.png" group-title="Sao Paulo",Canal do Criador (1080p)
 https://607d2a1a47b1f.streamlock.net/crur/smil:canaldocriador.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TQFWEIS.png" group-title="Sao Paulo",Canal do Inter (720p) [Not 24/7]
+https://video01.soultv.com.br/internacional/internacional/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OOB7nrS.png" group-title="Sao Paulo",Canal Educação (720p)
 https://canaleducacao-stream.ebc.com.br/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rHPY0Yv.png" group-title="Sao Paulo",Canal Gov (720p)
@@ -45,8 +45,6 @@ https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r
 https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rHxcraT.png" group-title="Sao Paulo",Classique TV (360p)
 https://stmv1.srvif.com/classique/classique/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GrjGwKM.png" group-title="Sao Paulo",COM Brasil (1080p) [Not 24/7]
-https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XN6jjMR.png" group-title="Sao Paulo",ConecTV Brasil (720p)
 https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CJ9SPsZ.png" group-title="Sao Paulo",Conexão TV (720p)
@@ -89,12 +87,16 @@ https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A8Yhtid.png" group-title="Sao Paulo",MKK Web TV (720p) [Not 24/7]
 https://video01.logicahost.com.br/mkkwebtv/mkkwebtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zNscEST.png" group-title="Sao Paulo",MTV Hits Europe
+http://45.88.92.3/tr3_MTVHits_SD/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aiGQtzI.png" group-title="Sao Paulo",MyTime Movie Network Brazil (720p)
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png" group-title="Sao Paulo",NHK World-Japan (720p)
 https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IK3F9Uq.png" group-title="Sao Paulo",Nova Era TV (1080p) [Not 24/7]
 http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/exdDHml.png" group-title="Sao Paulo",Novo Tempo (720p)
+https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AQBtheU.png" group-title="Sao Paulo",Pluto TV Cine Drama (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r9UhBfV.png" group-title="Sao Paulo",Pluto TV Cine Família (720p) [Not 24/7]
@@ -153,8 +155,6 @@ https://stream3.camara.gov.br/tv1/manifest.m3u8
 https://stream3.camara.gov.br/tv2/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OaM9hkH.png" group-title="Sao Paulo",TV Cancao Nova (720p)
 https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova.stream_720p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xUs8gHV.png" group-title="Sao Paulo",TV Cidade de Petrópolis (1080p) [Not 24/7]
-https://video01.kshost.com.br:4443/inside2133/inside2133/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SysgBqZ.png" group-title="Sao Paulo",TV Cidade Verde (720p)
 https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CpXjcyE.png" group-title="Sao Paulo",TV Clube (720p)
@@ -163,6 +163,8 @@ https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JdCKNZ4.png" group-title="Sao Paulo",TV Curuça (360p)
 https://stmv1.srvif.com/tvcurucasp/tvcurucasp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-encontro-das-aguas-br.png" group-title="Sao Paulo",TV Encontro das Aguas
+https://stmv7.samcast.com.br/sistemaencontrodasaguas/sistemaencontrodasaguas/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8PErNBT.png" group-title="Sao Paulo",TV Guará (720p) [Not 24/7]
 https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HZI0ilU.png" group-title="Sao Paulo",TV Life America (720p)
@@ -177,14 +179,14 @@ https://5cf4a2c2512a2.streamlock.net/tvmax/tvmax/playlist.m3u8
 https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Gjan8rl.png" group-title="Sao Paulo",TV Mon (720p)
 https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/naZZUIT.png" group-title="Sao Paulo",TV Omindaré (360p)
-https://video01.kshost.com.br/lourdes52007/lourdes52007/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Y7b29VG.png" group-title="Sao Paulo",TV Padre Cicero (720p)
 https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0FOmktl.png" group-title="Sao Paulo",TV Pantanal MS (360p) [Not 24/7]
 https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I6pKoBd.png" group-title="Sao Paulo",TV Paraná Turismo (720p) [Not 24/7]
 http://200.189.113.201/hls/tve.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9EqSKLc.png" group-title="Sao Paulo",TV Rio Preto (720p)
+https://video02.logicahost.com.br/tvriopreto/tvriopreto/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ff5mj0o.png" group-title="Sao Paulo",TV Series 1 As Panteras (480p)
 https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tvsolcomunidade.com.br/wp-content/uploads/2019/01/logo-tv-sol.png" group-title="Sao Paulo",TV Sol Comunidade (480p) [Not 24/7]
@@ -203,6 +205,8 @@ https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
 https://srv5.zcast.com.br/tvcommaceio/tvcommaceio/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iODADvi.png" group-title="Sao Paulo",TVE Internacional America (720p)
 http://190.11.225.124:5000/live/tve_hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/TVE_Bahia_logo.svg/512px-TVE_Bahia_logo.svg.png" group-title="Sao Paulo",TVE RS (1080p)
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vstHOYx.png" group-title="Sao Paulo",TVídeoNews (720p) [Not 24/7]
 https://video01.logicahost.com.br/tvideonews/tvideonews/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XeqcwKe.png" group-title="Sao Paulo",TVitapé (720p)
@@ -213,7 +217,5 @@ http://online.tvm.co.mz:1935/live/smil:Channel2.smil/playlist.m3u8
 https://acesso.ecast.site:3011/live/umatvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UcAwBep.png" group-title="Sao Paulo",UN Web TV (540p)
 https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TxHWAeD.png" group-title="Sao Paulo",VV8 TV (720p)
-https://video01.kshost.com.br/seap8272/seap8272/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ciTJrnl.png" group-title="Sao Paulo",Zoo Moo (Australia) (1080p)
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8

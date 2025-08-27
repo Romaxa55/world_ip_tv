@@ -3,14 +3,16 @@
 https://3abn.bozztv.com/3abn2/Int_live/smil:Int_live.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png" group-title="Belgium",ABC News (720p)
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Arag%C3%B3n_Internacional.png/revision/latest/scale-to-width-down/512" group-title="Belgium",Aragon TV Internacional
-https://viamotionhsi.netplus.ch/live/eds/aragontv/browser-HLS8/aragontv.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Arag%C3%B3n_Internacional.png/revision/latest/scale-to-width-down/512" group-title="Belgium",Aragon TV Internacional (720p) [Not 24/7]
+https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jdy3WNm.png" group-title="Belgium",Arirang TV UN (1080p)
 https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t6Lmntr.png" group-title="Belgium",Bahrain International (720p) [Not 24/7]
 https://5c7b683162943.streamlock.net/live/ngrp:bahraininternational_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0DUprIW.png" group-title="Belgium",Bel RTL (1080p)
 https://bel-live-hls.akamaized.net/hls/live/2038650/BEL-Live-HLS/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9UmR6cs.png" group-title="Belgium",Bel'Afrika Media TV (1080p)
+https://goccn.cloud/hls/belafrikatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/1fe37ff8-c6b7-4123-8c68-653d657b4c5f-width200-quality90.jpeg" group-title="Belgium",Bigtime (720p)
 https://103f01c3ff79408e83c9212f8a374ecc.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_BjgtjmeDarmoweFilmy/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Belgium",Bloomberg TV EMEA Live Event (720p)
@@ -61,8 +63,6 @@ https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83da
 https://dpg-eventstreams.akamaized.net/hlnlivesrt-xmr/streamx/hlnlivesrt_720p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/512px-LOGO_i24NEWS.png" group-title="Belgium",I24 News English (720p)
 https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/5377161796001/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/6b97e19f-4243-4d48-b794-ff8cf54d795f-profile_image-300x300.png" group-title="Belgium",Japanim TV (1080p)
-https://foxkidstv.be:3369/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k9KJWzN/320px-Joe-radio-logo-2016-svg.png" group-title="Belgium",Joe FM (720p) [Not 24/7]
 https://dpp-streamlive-plain.medialaancdn.be/joe_kijklive/plain/hls_hd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EY6TsdV.png" group-title="Belgium",KTO (404p) [Not 24/7]
@@ -75,8 +75,6 @@ https://viamotionhsi.netplus.ch/live/eds/lci/browser-HLS8/lci.m3u8
 https://live-ln24.digiteka.com/1911668011/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rw72POr.png" group-title="Belgium",MaTele (1080p) [Not 24/7]
 https://live.matele.be/hls/live.m3u8
-#EXTINF:-1 tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/9da0ec4d-85ea-45f4-b3f9-ae917d1714f9-width200-quality90.jpeg" group-title="Belgium",Moconomy (1080p)
-https://3ee905090d464be5a51478fd9c642e93.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-pl_Moconomy/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/0734ee9d-7417-4f53-a092-e29d6e8146ee-width200-quality90.jpeg" group-title="Belgium",Monster Jam
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65bcc9c8d77d450008b34c6b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b17f4-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4ef65ab7-424b-4423-93e5-e94da98d875f
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png" group-title="Belgium",NHK World-Japan (720p)
