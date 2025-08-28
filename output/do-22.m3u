@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8YMLPA3.png" group-title="San Juan",3ABN International
 https://3abn.bozztv.com/3abn2/Int_live/smil:Int_live.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png" group-title="San Juan",ABC News (720p)
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uU01KHz.png" group-title="San Juan",Adoram TV (720p)
 https://live20.bozztv.com/giatv/giatv-adoram/adoram/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dyJyuXc.png" group-title="San Juan",Ahora TV (720p)
@@ -117,18 +119,14 @@ https://streamunoapp.com:3960/live/claroteledomlive.m3u8
 https://streamunoapp.com:3057/live/clarovisiontvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M6FFkc3.png" group-title="San Juan",Classic Arts Showcase
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CnAc7jU.png" group-title="San Juan",COCO TV (720p)
+https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/DbjywI3.png" group-title="San Juan",Codigo TV [Not 24/7]
 https://vdo2.streamgato.us:3313/live/codigotvlive.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZeUgLCa.png" group-title="San Juan",ColimdoT TV (720p)
-https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8
-#EXTINF:-1 tvg-logo="https://colometv.com/assets/images/logo.png" group-title="San Juan",Colome TV [Not 24/7]
-https://ss2.tvrdomi.com:1936/colometv/colometv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rkgWToA.jpg" group-title="San Juan",Color Visión (576p) [Not 24/7]
 https://cors-proxy.cooks.fyi/http://190.123.76.22:8000/play/a024/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D6gAezp.png" group-title="San Juan",Cotubanama TV (1080p)
 https://host.streamingnation.live/p/3588/hybrid/play.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sMF7JDm.png" group-title="San Juan",Cotui TV (720p)
-https://cloudflare.streamgato.us:3490/live/cotuitvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jk1lkOV.png" group-title="San Juan",CromTV (480p)
 https://cnn.essastream.com:3333/live/cromtvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ifarQil.png" group-title="San Juan",CSI en Español
@@ -155,6 +153,8 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 https://2-fss-1.streamhoster.com/pl_122/206532-5753032-1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/a/pUlIJZX.png" group-title="San Juan",Ecovisión (720p)
 https://streaming.grupomediosdelnorte.com:19360/ecovision/ecovision.m3u8
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3610-294x165-FFFFFF.jpg" group-title="San Juan",Edu+ TV
+https://vdopanel.jlahozconsulting.com:3720/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://elpituco.com/wp-content/uploads/2021/04/ElPituco.png" group-title="San Juan",El Pituco TV (720p)
 https://imagenuniversaltv.net:3439/live/elpitucolive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FnshExB.jpg" group-title="San Juan",El PuertoTV (720p)
@@ -167,8 +167,6 @@ https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=ZZDemoIPTVGH
 https://backend.energeek.cl/webtv/egradioweb/index.m3u8?token=ZZDemoIPTVGH
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YwUVTmS.png" group-title="San Juan",Enlace (720p)
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nePOFZW.png" group-title="San Juan",Enntivisión (720p)
-https://rdn.essastream.com:3356/live/enntivisiontvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gVtLpMD.png" group-title="San Juan",Entelevisión (720p)
 https://tv.livestreaminggroup.info:3985/live/entelevisionlive.m3u8
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3508-294x165-FFFFFF.jpg" group-title="San Juan",Enterate RD [Not 24/7]
@@ -221,8 +219,6 @@ https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
 https://vdo1.streamgato.us:3986/live/informetvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Sb5adD7.png" group-title="San Juan",Investiga
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96b8f4f1ca3f0629f4bf1/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c293f99-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=28f850bd-0f1c-4ede-b97c-ebd1d9a28126
-#EXTINF:-1 tvg-logo="https://i0.wp.com/juanpabloduartetv.com/wp-content/uploads/2024/08/logo-JPDTV-100-x-100.png" group-title="San Juan",JPD TV [Not 24/7]
-https://imagenuniversaltv.net:3026/live/juanpabloduartetvlive.m3u8
 #EXTINF:-1 tvg-logo="https://static.kanade.cl/assets/img/profilepic_512px.png" group-title="San Juan",Kanade (1080p)
 https://backend.energeek.cl/webtv/kanadeweb/index.m3u8?token=ZZDemoIPTVGH
 #EXTINF:-1 tvg-logo="https://imgur.com/kq1CrDE.png" group-title="San Juan",La Descarga TV [Geo-blocked]
@@ -267,6 +263,8 @@ https://rdn.essastream.com:3550/live/miavisiontvlive.m3u8
 https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ExoOHQI.jpeg" group-title="San Juan",Montecristi Digital 8 [Geo-blocked]
 https://soportedvb.click:3400/live/montecristitvlive.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zNscEST.png" group-title="San Juan",MTV Hits Europe
+http://45.88.92.3/tr3_MTVHits_SD/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e38DNzI.png" group-title="San Juan",Mun2TV (720p)
 https://vdo2.streamgato.us:3144/live/mund2tvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g7iFN3s.png" group-title="San Juan",Naranja TV (720p)
@@ -279,6 +277,8 @@ https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
 https://cdn.essastream.com:3457/live/noticiasn16live.m3u8
 #EXTINF:-1 tvg-logo="https://rdomint.com/images/station/300.jpg" group-title="San Juan",Notisur TV [Not 24/7]
 https://ss2.tvrdomi.com:1936/notisur/notisur/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8dUS3Ih.png" group-title="San Juan",Novelisima
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
 #EXTINF:-1 tvg-logo="https://imgur.com/0fWQS53.png" group-title="San Juan",Nueva Vision 14 [Not 24/7]
 https://live20.bozztv.com/akamaissh101/ssh101/nuevavisionhd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/exdDHml.png" group-title="San Juan",Nuevo Tiempo (720p) [Not 24/7]
@@ -287,8 +287,6 @@ https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
 https://cnn.essastream.com:3318/live/oepmtelevisionlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RUIyD9a.png" group-title="San Juan",Onda TV (720p)
 https://cnn.hostlagarto.com/ondatv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lizQs3n.png" group-title="San Juan",ORBIT TV (480p) [Geo-blocked]
-https://vdo2.streamgato.us:3670/live/orbittvlive.m3u8
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3801-294x165-FFFFFF.jpg" group-title="San Juan",OxiTV (720p) [Not 24/7]
 https://streamunoapp.com:3520/live/oxitvcanal36live.m3u8
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3449-294x165-FFFFFF.jpg" group-title="San Juan",P3TV [Not 24/7]
@@ -319,8 +317,8 @@ https://backend.energeek.cl/webtv/pridetvweb/index.m3u8?token=ZZDemoIPTVGH
 https://vdo1.streamgato.us:3418/live/pronemstvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8gSLJ2f.png" group-title="San Juan",Pula TV (720p)
 https://vdo2.streamgato.us:3239/live/pulatvlive.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/vfvN6ox.png" group-title="San Juan",Punto TV (720p)
-https://vdo1.streamgato.us:3599/live/puntotvlive.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KF7fLTx.png" group-title="San Juan",Punta Cana TV (720p) [Not 24/7]
+https://rdn.essastream.com:3544/live/puntacanatvlive.m3u8
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3039-294x165-FFFFFF.jpg" group-title="San Juan",R Television [Not 24/7]
 https://vdopanel.jlahozconsulting.com/p/3142/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HpKQYp3.png" group-title="San Juan",R&E TV (720p)
@@ -337,6 +335,8 @@ https://3ea22335.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 https://video.misistemareseller.com/redsocial/redsocial/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/Reportero-100x75-1.png" group-title="San Juan",Reportero TV [Not 24/7]
 https://streamrd.cloud:5443/LiveApp/streams/J3E3REmLNBzirS9A10575071547538.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/12Z9qPw.png" group-title="San Juan",RNN (720p) [Not 24/7]
+https://2-fss-2.streamhoster.com/pl_120/206532-5753030-1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FkHqqsi.jpg" group-title="San Juan",Rocavision TV [Not 24/7]
 https://streamunoapp.com:3331/live/rocavisiontvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EXnsmhx.png" group-title="San Juan",Romana TV Canal 42 (480p)
@@ -371,8 +371,6 @@ https://tastemadees16us-xumo.amagi.tv/playlist.m3u8
 https://cors-proxy.cooks.fyi/http://190.123.76.22:8000/play/a043/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3822-294x165-FFFFFF.jpg" group-title="San Juan",Tele Dajabon TV [Geo-blocked]
 https://cloud5.streaminglivehd.com:3880/hybrid/play.m3u8
-#EXTINF:-1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/teledominicana.png" group-title="San Juan",Tele Dominicana TV (720p)
-https://vdopanel.jlahozconsulting.com/p/3417/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/LmBxN5x.png" group-title="San Juan",Tele Proyecto TV [Not 24/7]
 https://5790d294af2dc.streamlock.net/Teleproyecto/Teleproyecto/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/90cTK8S.png" group-title="San Juan",Telecanal 12 (720p) [Not 24/7]
@@ -397,8 +395,6 @@ https://vdo2.streamgato.us:3673/live/telemaxlive.m3u8
 https://streamunoapp.com:3366/live/telemetrolive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WhgySAk.png" group-title="San Juan",Telemicro (480p)
 https://cors-proxy.cooks.fyi/http://190.123.76.22:8000/play/a023/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1Ei0kB8.png" group-title="San Juan",Telenord 10 (720p) [Not 24/7]
-https://rdn.essastream.com:3676/live/telenord10live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/o7EzEsV.png" group-title="San Juan",Telenord 12 (720p) [Not 24/7]
 https://vdo1.streamgato.us:3345/live/telenord12live.m3u8
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3649-294x165-FFFFFF.jpg" group-title="San Juan",Telerumba TV (720p) [Not 24/7]
@@ -417,8 +413,6 @@ https://soportedvb.click:3413/live/televerlive.m3u8
 https://vdo1.streamgato.us:3035/live/televidalive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cPIgs0v.png" group-title="San Juan",Tenarenses TV (720p) [Not 24/7]
 https://vdo2.streamgato.us:3305/live/tenarensestvrdlive.m3u8
-#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3835-294x165-FFFFFF.jpg" group-title="San Juan",Terrenas Vision [Not 24/7]
-https://live20.bozztv.com/akamaissh101/ssh101/terrenasvision/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FnInQRd.png" group-title="San Juan",Tevex (720p) [Not 24/7]
 https://v4.tustreaming.cl/tevexinter/index.m3u8
 #EXTINF:-1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/tigueritos-tv.jpg" group-title="San Juan",Tiguerito TV (720p) [Not 24/7]
@@ -451,8 +445,6 @@ https://cloud5.livescast.com:19360/canaltvquisqueya/canaltvquisqueya.m3u8
 http://190.11.225.124:5000/live/tve_hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bu6bQMa.png" group-title="San Juan",TVN24 (720p)
 https://ss2.tvrdomi.com:1936/vozzmedianetwork/vozzmedianetwork/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/a2YX1oj.jpg" group-title="San Juan",TVS (540p) [Not 24/7]
-https://imagenuniversaltv.net:3741/live/tvslive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BzQphbw.png" group-title="San Juan",UCL (720p)
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UcAwBep.png" group-title="San Juan",UN Web TV (540p)
@@ -463,6 +455,8 @@ https://media.streambrothers.com:1936/8262/8262/playlist.m3u8
 https://streaming.telecablecentral.com.do/Vallevision/ValleHD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jiyMOZx.png" group-title="San Juan",VegaTeve (1080p) [Not 24/7]
 https://cloud6.livescast.com:3797/live/vegatevelive.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vtGED07.jpg" group-title="San Juan",Venevisión Internacional (720p)
+https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uQAeKKa.png" group-title="San Juan",VillaAltagracia TV
 https://inliveserver.com:1936/10016/10016/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mogsnzp.png" group-title="San Juan",Vision 3000 [Geo-blocked]
@@ -473,6 +467,10 @@ https://vdopanel.jlahozconsulting.com:3407/hybrid/play.m3u8
 https://cloudflare.streamgato.us:3820/live/visionndvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WIeZMKT.png" group-title="San Juan",Vive Kanal D Drama (1080p)
 https://thema-vivekanald-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qjm4B0J.png" group-title="San Juan",VTV Canal 32 (1080p)
+https://cnn.livestreaminggroup.info:3507/live/vtv32live.m3u8
+#EXTINF:-1 tvg-logo="https://xtratvrd.com/logo512.png" group-title="San Juan",Xtra Tv [Not 24/7]
+https://cnn.essastream.com:3387/live/xtratvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bvPh0Uq.png" group-title="San Juan",Xtremo Channel (720p) [Geo-blocked]
 https://ss2.tvrdomi.com:1936/xtremochannel/xtremochannel/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3751-294x165-FFFFFF.jpg" group-title="San Juan",Zinc Nombre TV [Not 24/7]

@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8YMLPA3.png" group-title="Santiago",3ABN International
 https://3abn.bozztv.com/3abn2/Int_live/smil:Int_live.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png" group-title="Santiago",ABC News (720p)
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uU01KHz.png" group-title="Santiago",Adoram TV (720p)
 https://live20.bozztv.com/giatv/giatv-adoram/adoram/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dyJyuXc.png" group-title="Santiago",Ahora TV (720p)
@@ -117,16 +119,14 @@ https://streamunoapp.com:3960/live/claroteledomlive.m3u8
 https://streamunoapp.com:3057/live/clarovisiontvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M6FFkc3.png" group-title="Santiago",Classic Arts Showcase
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CnAc7jU.png" group-title="Santiago",COCO TV (720p)
+https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/DbjywI3.png" group-title="Santiago",Codigo TV [Not 24/7]
 https://vdo2.streamgato.us:3313/live/codigotvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZeUgLCa.png" group-title="Santiago",ColimdoT TV (720p)
 https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8
-#EXTINF:-1 tvg-logo="https://colometv.com/assets/images/logo.png" group-title="Santiago",Colome TV [Not 24/7]
-https://ss2.tvrdomi.com:1936/colometv/colometv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rkgWToA.jpg" group-title="Santiago",Color Visión (576p) [Not 24/7]
 https://cors-proxy.cooks.fyi/http://190.123.76.22:8000/play/a024/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sMF7JDm.png" group-title="Santiago",Cotui TV (720p)
-https://cloudflare.streamgato.us:3490/live/cotuitvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jk1lkOV.png" group-title="Santiago",CromTV (480p)
 https://cnn.essastream.com:3333/live/cromtvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ifarQil.png" group-title="Santiago",CSI en Español
@@ -153,6 +153,8 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 https://2-fss-1.streamhoster.com/pl_122/206532-5753032-1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/a/pUlIJZX.png" group-title="Santiago",Ecovisión (720p)
 https://streaming.grupomediosdelnorte.com:19360/ecovision/ecovision.m3u8
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3610-294x165-FFFFFF.jpg" group-title="Santiago",Edu+ TV
+https://vdopanel.jlahozconsulting.com:3720/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://elpituco.com/wp-content/uploads/2021/04/ElPituco.png" group-title="Santiago",El Pituco TV (720p)
 https://imagenuniversaltv.net:3439/live/elpitucolive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FnshExB.jpg" group-title="Santiago",El PuertoTV (720p)
@@ -165,8 +167,6 @@ https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=ZZDemoIPTVGH
 https://backend.energeek.cl/webtv/egradioweb/index.m3u8?token=ZZDemoIPTVGH
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YwUVTmS.png" group-title="Santiago",Enlace (720p)
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nePOFZW.png" group-title="Santiago",Enntivisión (720p)
-https://rdn.essastream.com:3356/live/enntivisiontvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gVtLpMD.png" group-title="Santiago",Entelevisión (720p)
 https://tv.livestreaminggroup.info:3985/live/entelevisionlive.m3u8
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3508-294x165-FFFFFF.jpg" group-title="Santiago",Enterate RD [Not 24/7]
@@ -201,6 +201,8 @@ https://stmv4.voxtvhd.com.br/globaltv/globaltv/playlist.m3u8
 https://rpn.bozztv.com/gusa/gusa-goldentv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PBgQi9a.png" group-title="Santiago",Guaymate TV (720p) [Not 24/7]
 https://live20.bozztv.com/akamaissh101/ssh101/guaymatetv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/swUX3hQ.png" group-title="Santiago",Gusto TV (1080p)
+https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eoodUNJ.png" group-title="Santiago",Haina Vision (720p)
 https://cdn.streamingcpanel.com:3447/live/hainavisionlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cbKgcGh.png" group-title="Santiago",Hermanas Mirabal TV (720p) [Not 24/7]
@@ -217,8 +219,6 @@ https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
 https://vdo1.streamgato.us:3986/live/informetvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Sb5adD7.png" group-title="Santiago",Investiga
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96b8f4f1ca3f0629f4bf1/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c293f99-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=28f850bd-0f1c-4ede-b97c-ebd1d9a28126
-#EXTINF:-1 tvg-logo="https://i0.wp.com/juanpabloduartetv.com/wp-content/uploads/2024/08/logo-JPDTV-100-x-100.png" group-title="Santiago",JPD TV [Not 24/7]
-https://imagenuniversaltv.net:3026/live/juanpabloduartetvlive.m3u8
 #EXTINF:-1 tvg-logo="https://static.kanade.cl/assets/img/profilepic_512px.png" group-title="Santiago",Kanade (1080p)
 https://backend.energeek.cl/webtv/kanadeweb/index.m3u8?token=ZZDemoIPTVGH
 #EXTINF:-1 tvg-logo="https://imgur.com/kq1CrDE.png" group-title="Santiago",La Descarga TV [Geo-blocked]
@@ -271,8 +271,12 @@ https://cdn.streamingcpanel.com:3526/live/teleraiceslive.m3u8
 https://cdn3.streamgato.us:3938/live/nexxotvlive.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png" group-title="Santiago",NHK World-Japan (720p)
 https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/noticias-16-do.png" group-title="Santiago",Noticias 16
+https://cdn.essastream.com:3457/live/noticiasn16live.m3u8
 #EXTINF:-1 tvg-logo="https://rdomint.com/images/station/300.jpg" group-title="Santiago",Notisur TV [Not 24/7]
 https://ss2.tvrdomi.com:1936/notisur/notisur/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8dUS3Ih.png" group-title="Santiago",Novelisima
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
 #EXTINF:-1 tvg-logo="https://imgur.com/0fWQS53.png" group-title="Santiago",Nueva Vision 14 [Not 24/7]
 https://live20.bozztv.com/akamaissh101/ssh101/nuevavisionhd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/exdDHml.png" group-title="Santiago",Nuevo Tiempo (720p) [Not 24/7]
@@ -281,6 +285,8 @@ https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
 https://cnn.essastream.com:3318/live/oepmtelevisionlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RUIyD9a.png" group-title="Santiago",Onda TV (720p)
 https://cnn.hostlagarto.com/ondatv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lizQs3n.png" group-title="Santiago",ORBIT TV (480p) [Geo-blocked]
+https://vdo2.streamgato.us:3670/live/orbittvlive.m3u8
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3801-294x165-FFFFFF.jpg" group-title="Santiago",OxiTV (720p) [Not 24/7]
 https://streamunoapp.com:3520/live/oxitvcanal36live.m3u8
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3449-294x165-FFFFFF.jpg" group-title="Santiago",P3TV [Not 24/7]
@@ -311,6 +317,10 @@ https://backend.energeek.cl/webtv/pridetvweb/index.m3u8?token=ZZDemoIPTVGH
 https://vdo1.streamgato.us:3418/live/pronemstvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8gSLJ2f.png" group-title="Santiago",Pula TV (720p)
 https://vdo2.streamgato.us:3239/live/pulatvlive.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KF7fLTx.png" group-title="Santiago",Punta Cana TV (720p) [Not 24/7]
+https://rdn.essastream.com:3544/live/puntacanatvlive.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/vfvN6ox.png" group-title="Santiago",Punto TV (720p)
+https://vdo1.streamgato.us:3599/live/puntotvlive.m3u8
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3039-294x165-FFFFFF.jpg" group-title="Santiago",R Television [Not 24/7]
 https://vdopanel.jlahozconsulting.com/p/3142/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HpKQYp3.png" group-title="Santiago",R&E TV (720p)
@@ -327,6 +337,8 @@ https://3ea22335.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 https://video.misistemareseller.com/redsocial/redsocial/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/Reportero-100x75-1.png" group-title="Santiago",Reportero TV [Not 24/7]
 https://streamrd.cloud:5443/LiveApp/streams/J3E3REmLNBzirS9A10575071547538.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/12Z9qPw.png" group-title="Santiago",RNN (720p) [Not 24/7]
+https://2-fss-2.streamhoster.com/pl_120/206532-5753030-1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FkHqqsi.jpg" group-title="Santiago",Rocavision TV [Not 24/7]
 https://streamunoapp.com:3331/live/rocavisiontvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EXnsmhx.png" group-title="Santiago",Romana TV Canal 42 (480p)
@@ -363,8 +375,6 @@ https://tastemadees16us-xumo.amagi.tv/playlist.m3u8
 https://cors-proxy.cooks.fyi/http://190.123.76.22:8000/play/a043/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3822-294x165-FFFFFF.jpg" group-title="Santiago",Tele Dajabon TV [Geo-blocked]
 https://cloud5.streaminglivehd.com:3880/hybrid/play.m3u8
-#EXTINF:-1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/teledominicana.png" group-title="Santiago",Tele Dominicana TV (720p)
-https://vdopanel.jlahozconsulting.com/p/3417/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/LmBxN5x.png" group-title="Santiago",Tele Proyecto TV [Not 24/7]
 https://5790d294af2dc.streamlock.net/Teleproyecto/Teleproyecto/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/90cTK8S.png" group-title="Santiago",Telecanal 12 (720p) [Not 24/7]
@@ -375,6 +385,8 @@ https://vdo2.streamgato.us:3841/live/telecanal28tvlive.m3u8
 https://cors-proxy.cooks.fyi/http://200.125.170.122:8000/play/a03n/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IpInp05.png" group-title="Santiago",TeleCibao (720p) [Not 24/7]
 https://vdo2.streamgato.us:3713/live/telecibaotvlive.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/FtV5TCs.jpg" group-title="Santiago",Telecomercio TV [Geo-blocked]
+https://vdo2.streamgato.us:3566/live/telecomerciotvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TMvV9dF.png" group-title="Santiago",Telecontacto
 https://streaming.grupomediosdelnorte.com:19360/telecontacto/telecontacto.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QpnctoU.png" group-title="Santiago",Telefuturo (1080p)
@@ -387,8 +399,6 @@ https://vdo2.streamgato.us:3673/live/telemaxlive.m3u8
 https://streamunoapp.com:3366/live/telemetrolive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WhgySAk.png" group-title="Santiago",Telemicro (480p)
 https://cors-proxy.cooks.fyi/http://190.123.76.22:8000/play/a023/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1Ei0kB8.png" group-title="Santiago",Telenord 10 (720p) [Not 24/7]
-https://rdn.essastream.com:3676/live/telenord10live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/o7EzEsV.png" group-title="Santiago",Telenord 12 (720p) [Not 24/7]
 https://vdo1.streamgato.us:3345/live/telenord12live.m3u8
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3649-294x165-FFFFFF.jpg" group-title="Santiago",Telerumba TV (720p) [Not 24/7]
@@ -407,8 +417,6 @@ https://soportedvb.click:3413/live/televerlive.m3u8
 https://vdo1.streamgato.us:3035/live/televidalive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cPIgs0v.png" group-title="Santiago",Tenarenses TV (720p) [Not 24/7]
 https://vdo2.streamgato.us:3305/live/tenarensestvrdlive.m3u8
-#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3835-294x165-FFFFFF.jpg" group-title="Santiago",Terrenas Vision [Not 24/7]
-https://live20.bozztv.com/akamaissh101/ssh101/terrenasvision/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FnInQRd.png" group-title="Santiago",Tevex (720p) [Not 24/7]
 https://v4.tustreaming.cl/tevexinter/index.m3u8
 #EXTINF:-1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/tigueritos-tv.jpg" group-title="Santiago",Tiguerito TV (720p) [Not 24/7]
