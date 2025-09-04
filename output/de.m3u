@@ -37,6 +37,8 @@ https://bibint01.iptv-playoutcenter.de/bibint01/bibint01.stream_all/playlist.m3u
 https://bibeltv02.iptv-playoutcenter.de/bibeltv02/bibeltv02.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yIqOcP5.png" group-title="Germany",Bibel TV Musik (720p)
 https://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Logo_Bayerischer_Rundfunk_2024.svg/512px-Logo_Bayerischer_Rundfunk_2024.svg.png" group-title="Germany",BR Fernsehen Nord (720p)
+https://mcdn.br.de/br/fs/bfs_nord/hls/de/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MjC40At.png" group-title="Germany",CC Pluto TV
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d4947590ba40f75dc29c26b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84aca4b4-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c4adaaf6-09fa-43e6-a254-c92d6891db35
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1UZNdRH.png" group-title="Germany",Chaos City
@@ -75,8 +77,6 @@ https://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_all/playlist.
 https://h058.video-stream-hosting.de/ev1tv-live/_definst_/mp4:stream1.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6FHl9B1.png" group-title="Germany",Erz-TV Stollberg (576p)
 https://5acade5fc0c29.streamlock.net/kabeljournal/live2020.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NXeygNk.png" group-title="Germany",EWTN Germany (720p)
-https://cdn3.wowza.com/1/ZUkxSDBrZHlMbjVn/ZkhNRFNZ/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/19iKLvf.png" group-title="Germany",Filstalwelle (1080p)
 https://h055.video-stream-hosting.de/filstalwelle-live/_definst_/mp4:livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ze04puX.png" group-title="Germany",FOLX Music (1080p)
@@ -117,6 +117,8 @@ https://viamotionhsi.netplus.ch/live/eds/kikahd/browser-HLS8/kikahd.m3u8
 http://58bd5b7a98e04.streamlock.net/medienasa-live/kulturmd_high/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HuGaMJj.png" group-title="Germany",L-TV (720p)
 https://live2.telvi.de/hls/l-tv_s1.m3u8
+#EXTINF:-1 tvg-logo="https://www.tlm.de/assets/uploads/general/Sonstiges/LogoExt/_500xAUTO_crop_center-center_none/21labor14.jpg" group-title="Germany",labor14 (720p)
+https://5acade5fc0c29.streamlock.net/OKGera/tmbz_live_high.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4kYF4bK.png" group-title="Germany",Lausitzwelle (1080p)
 https://h056.video-stream-hosting.de/easycast11-live/_definst_/mp4:livestreamhd2/playlist.m3u8?ref=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/easmJUw.png" group-title="Germany",Leipzig Fernsehen (1080p)
@@ -149,6 +151,14 @@ https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/playlist
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60080e8a4bf36000076a81b1/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ae2b55-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=39199e43-689e-4f83-9f74-b89605373bf0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/N-tv_logo-september2017.svg/512px-N-tv_logo-september2017.svg.png" group-title="Germany",n-tv (1080p)
 https://viamotionhsi.netplus.ch/live/eds/ntv/browser-HLS8/ntv.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/512px-Logo_NDR_Fernsehen_2017.svg.png" group-title="Germany",NDR Hamburg (720p)
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_hh/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/512px-Logo_NDR_Fernsehen_2017.svg.png" group-title="Germany",NDR Mecklenburg-Vorpommern (720p)
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_mv/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/512px-Logo_NDR_Fernsehen_2017.svg.png" group-title="Germany",NDR Niedersachsen (720p)
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/512px-Logo_NDR_Fernsehen_2017.svg.png" group-title="Germany",NDR Schleswig-Holstein (720p)
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_sh/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N7rQyzN.png" group-title="Germany",Nick Pluto TV
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ede448d3d50590007a4419e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ae2b58-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d3f62f1d-7d8d-4d3f-a141-db9f502deb6b
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lf34V3Y.png" group-title="Germany",Nick/Comedy Central +1 HD (1080p)
@@ -275,8 +285,6 @@ http://58bd5b7a98e04.streamlock.net/medienasa-live/RFH_high/playlist.m3u8
 https://rictv.iptv-playoutcenter.de/rictv/rictv-web/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CRk9usN.png" group-title="Germany",RNF (1080p)
 https://rnf.iptv-playoutcenter.de/rnf/rnf.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/v1PIbB2.png" group-title="Germany",RT DE (1080p) [Not 24/7]
-https://rt-ger.rttv.com/dvr/rtdeutsch/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/94K94k2.png" group-title="Germany",RTL
 https://viamotionhsi.netplus.ch/live/eds/rtl/browser-HLS8/rtl.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/94K94k2.png" group-title="Germany",RTL HD
@@ -353,6 +361,28 @@ https://vmtv.iptv-playoutcenter.de/vmtv/vmtv1/playlist.m3u8
 https://viamotionhsi.netplus.ch/live/eds/vox/browser-HLS8/vox.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RbqDMYx.png" group-title="Germany",WDR 1 Live (720p)
 https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/WDR_Fernsehen_Logo_2018.svg/512px-WDR_Fernsehen_Logo_2018.svg.png" group-title="Germany",WDR Fernsehen (720p)
+https://wdr-live.ard-mcdn.de/wdr/live/hls/de/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/WDR_Fernsehen_Logo_2018.svg/512px-WDR_Fernsehen_Logo_2018.svg.png" group-title="Germany",WDR Fernsehen Aachen (720p) [Geo-blocked]
+https://wdrlokalzeit.akamaized.net/hls/live/2018019-b/wdrlz_aachen/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/WDR_Fernsehen_Logo_2018.svg/512px-WDR_Fernsehen_Logo_2018.svg.png" group-title="Germany",WDR Fernsehen Bielefeld (720p) [Geo-blocked]
+https://wdrlokalzeit.akamaized.net/hls/live/2018026-b/wdrlz_bielefeld/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/WDR_Fernsehen_Logo_2018.svg/512px-WDR_Fernsehen_Logo_2018.svg.png" group-title="Germany",WDR Fernsehen Bonn (720p) [Geo-blocked]
+https://wdrlokalzeit.akamaized.net/hls/live/2018021-b/wdrlz_bonn/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/WDR_Fernsehen_Logo_2018.svg/512px-WDR_Fernsehen_Logo_2018.svg.png" group-title="Germany",WDR Fernsehen Dortmund (720p) [Geo-blocked]
+https://wdrlokalzeit.akamaized.net/hls/live/2018022-b/wdrlz_dortmund/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/WDR_Fernsehen_Logo_2018.svg/512px-WDR_Fernsehen_Logo_2018.svg.png" group-title="Germany",WDR Fernsehen Duisburg (720p) [Geo-blocked]
+https://wdrlokalzeit.akamaized.net/hls/live/2018024-b/wdrlz_duisburg/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/WDR_Fernsehen_Logo_2018.svg/512px-WDR_Fernsehen_Logo_2018.svg.png" group-title="Germany",WDR Fernsehen Düsseldorf (720p) [Geo-blocked]
+https://wdrlokalzeit.akamaized.net/hls/live/2018023-b/wdrlz_duesseldorf/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/WDR_Fernsehen_Logo_2018.svg/512px-WDR_Fernsehen_Logo_2018.svg.png" group-title="Germany",WDR Fernsehen Essen (720p) [Geo-blocked]
+https://wdrlokalzeit.akamaized.net/hls/live/2018027-b/wdrlz_essen/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/WDR_Fernsehen_Logo_2018.svg/512px-WDR_Fernsehen_Logo_2018.svg.png" group-title="Germany",WDR Fernsehen Münster (720p) [Geo-blocked]
+https://wdrlokalzeit.akamaized.net/hls/live/2018025-b/wdrlz_muensterland/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/WDR_Fernsehen_Logo_2018.svg/512px-WDR_Fernsehen_Logo_2018.svg.png" group-title="Germany",WDR Fernsehen Siegen (720p) [Geo-blocked]
+https://wdrlokalzeit.akamaized.net/hls/live/2018020-b/wdrlz_siegen/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/WDR_Fernsehen_Logo_2018.svg/512px-WDR_Fernsehen_Logo_2018.svg.png" group-title="Germany",WDR Fernsehen Wuppertal (720p) [Geo-blocked]
+https://wdrlokalzeit.akamaized.net/hls/live/2018028-b/wdrlz_wuppertal/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s4TZoxx.png" group-title="Germany",WELT
 https://s6.hopslan.com/n24X/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DLXssJe.png" group-title="Germany",Welt der Wunder TV (576p)

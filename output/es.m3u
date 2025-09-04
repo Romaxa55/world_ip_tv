@@ -1,12 +1,18 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/324_%28CCMA%29_logo.svg/revision/latest/scale-to-width-down/512" group-title="Spain",3/24 (1080p)
 https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ILfXDRs.png" group-title="Spain",7 TeleValencia (576p)
+https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BTJvvBK.png" group-title="Spain",8 La Marina TV (576p)
+https://streaming005.gestec-video.com/hls/canal24.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="Spain",24 Horas (1080p)
 https://d32rw80ytx9uxs.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vlldndmow4yre/24HES.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="Spain",24 Horas Internacional
-https://viamotionhsi.netplus.ch/live/eds/canal24horas/browser-HLS8/canal24horas.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DyvK28q.png" group-title="Spain",28 kanala
 https://streaming.28kanala.eus/hls/z.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GzI3RC4.png" group-title="Spain",101tv Axarquia (480p)
+https://www.streaming101tv.es:19360/axarquia/axarquia.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logotip_d%27%C3%80_Punt_%282017-%29.svg/512px-Logotip_d%27%C3%80_Punt_%282017-%29.svg.png" group-title="Spain",A Punt
+https://bcovlive-a.akamaihd.net/8499d938ef904e39b58a4adec2ddeada/eu-west-1/6057955885001/playlist_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VCUZKiw.png" group-title="Spain",Activa TV (720p)
 https://streamtv.mediasector.es/hls/activatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pcWU6e1.png" group-title="Spain",Alacantí TV (576p) [Not 24/7]
@@ -17,10 +23,10 @@ http://217.182.77.27/live/alcarriatv-livestream.m3u8
 https://d1ujfw1zyymzyd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6fukwkbxmex8/live/fast-channel-animevision-64527ec0/fast-channel-animevision-64527ec0.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aYptdKX.png" group-title="Spain",Anime Vision Classics (1080p)
 https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swfivzrzwamaq/live/fast-channel-animevisionclassics-efc8dc6d/fast-channel-animevisionclassics-efc8dc6d.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AHaXlCh.png" group-title="Spain",Anime Zone TV (480p)
-http://animezonetv.net/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QMadWXp.png" group-title="Spain",Antena 3 Internacional (480p)
 http://38.180.133.31:8000/play/a0ki/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9Vp9Ghg/LOGO-WEB-ARABI-TV-3.png" group-title="Spain",Arabí TV (1080p)
+https://streamtv2.elitecomunicacion.cloud:3628/live/arabitv2025live.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/512px-Atreseries_2020_logo.svg.png" group-title="Spain",Atreseries Internacional (480p)
 http://38.180.133.31:8000/play/a0ko/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HctHhLL.png" group-title="Spain",BBC Drama (720p)
@@ -31,20 +37,44 @@ https://live1.ovalcast.com:3641/live/bcngospeltvlive.m3u8
 https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_n6442jz0/format/applehttp/.m3u8?referrer=aHR0cHM6Ly9iZXRldmUuY2F0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/90WOoro.png" group-title="Spain",Bon Dia TV (1080p)
 https://directes-tv-int.3catdirectes.cat/live-origin/bondia-hls/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G3nIGHh.png" group-title="Spain",Burriana TV (720p)
+https://www.burrianateve.com/hls/btv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3yeGDTP.png" group-title="Spain",Cadena Elite (720p) [Not 24/7]
 https://cloudvideo.servers10.com:8081/8004/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cnKCZkK.png" group-title="Spain",Canal 3 Biar (480p) [Not 24/7]
+https://avantstreaming.es/hls/canal3.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tQh8C3s.png" group-title="Spain",Canal 4 Catalunya (1080p)
+https://limited35.todostreaming.es/live/mitjans-livestream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tQh8C3s.png" group-title="Spain",Canal 4 Mallorca (1080p)
 https://limited35.todostreaming.es/live/mitjans-livestream1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t3O3O9M.png" group-title="Spain",Canal 4 Mancha Centro (720p) [Not 24/7]
+https://5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1zJpDIX.png" group-title="Spain",Canal 33 Madrid
+https://media2.streambrothers.com:1936/8140/8140/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yEfSnGt.png" group-title="Spain",Canal 45 (576p)
+https://nlb1-live.emitstream.com/hls/625csn5et2iszm9oze65/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pwRVbCz.png" group-title="Spain",Canal 56 (576p) [Not 24/7]
 https://videos.canal56.com/directe/stream/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9RoBASf.png" group-title="Spain",Canal 2000 La Solana (720p) [Not 24/7]
-http://canal2000.berkano-systems.net/streaming/streams/canal2000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uWhVKL3.png" group-title="Spain",Canal Diocesano (576p)
 https://nlb2-live.emitstream.com/hls/5i3pxfuz4az356yu22ij/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QSUOxtM.png" group-title="Spain",Canal Málaga RTV (720p) [Not 24/7]
 https://canalmalaga-tv-live.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BUO0wH6.png" group-title="Spain",Canal Parlamento (360p) [Not 24/7]
 https://congresodirecto.akamaized.net/hls/live/2037973/canalparlamento/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QBzvCJc.png" group-title="Spain",Canal San Roque (1080p) [Not 24/7]
+https://cdnlivevlc.codev8.net/aytosanroquelive/smil:channel1.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/94rn7pb.png" group-title="Spain",Canal Sierra de Cádiz (1080p) [Not 24/7]
+https://s.emisoras.tv:8081/sierradecadiz/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/CanalSur_Andaluc%C3%ADa.png" group-title="Spain",Canal Sur Andalucia (1080p)
+https://dfk2a268yviz9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ddiii1m6jt6of/CanalSurAndaluciaES.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Canal_Sur_2_-_2017_logo.png/500px-Canal_Sur_2_-_2017_logo.png" group-title="Spain",Canal Sur Andalucía 2 (720p)
+https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A3JscwS.png" group-title="Spain",Canal Sur Noticias
+https://cdnlive.codev8.net/rtvalive/smil:channel42.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GGn7itj.png" group-title="Spain",Cetelmón TV (404p)
+http://player.cetelmon.tv/protecteddfd43c2f3a8b41f3f28582bf8993aca6/992_high.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CTQgqsM.png" group-title="Spain",Ciudades Del Ocio TV (720p)
+https://cloudvideo.servers10.com:8081/8024/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/03jFV68.png" group-title="Spain",Clan (1280p)
 https://dum8zv1rbdjj2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x6uutpgph4tpt/ClanES.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8ddFdSQ.png" group-title="Spain",Comedia Made in Spain (720p) [Not 24/7]
@@ -55,30 +85,42 @@ https://congresodirecto.akamaized.net/hls/live/2038274/canal1/master.m3u8
 https://congresodirecto.akamaized.net/hls/live/2038276/canal3/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2LAzcH8.jpg" group-title="Spain",Congreso de los Diputados 5 (360p) [Not 24/7]
 https://congresodirecto.akamaized.net/hls/live/2038278/canal5/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iM9AN6Z.png" group-title="Spain",Costa Noroeste TV (1080p) [Not 24/7]
+https://limited31.todostreaming.es/live/noroestetv-livestream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QTA40lP.png" group-title="Spain",Diez TV Las Villas (1080p)
+https://streaming.cloud.innovasur.es/mmj2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/o2a7s4W.png" group-title="Spain",Diez TV Úbeda (1080p)
 https://streaming.cloud.innovasur.es/mmj/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AqGIoIt.png" group-title="Spain",Distrito TV (1080p)
 https://nlb2-live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qdlW6cg.png" group-title="Spain",Durangaldeko Telebista (576p)
+https://nlb2-live.emitstream.com/hls/5f9asjsehd7gmyxsdpzu/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W2Qqz2F.png" group-title="Spain",El Confidencial TV (1080p)
 https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JzAzsft.png" group-title="Spain",EL PAÍS TV (1080p)
 https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Eltorotv.png" group-title="Spain",El Toro TV (720p)
-https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tjI0dLx.png" group-title="Spain",Elche 7 TV (576p)
 https://elche7tv.gestec-video.com/hls/canal2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jc0lUbX.png" group-title="Spain",Empordà TV (1080p)
+https://video3.lhdserver.es/empordatv2/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jDT5XFs.jpg" group-title="Spain",Este Canal TV (576p)
 http://synclosdragos1.syncsolutions.es:8008/live3/emision/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rMAB720.png" group-title="Spain",Estepona Televisión (720p)
+https://cloudvideo.servers10.com:8081/8022/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/ETB1_2022_logo.svg/512px-ETB1_2022_logo.svg.png" group-title="Spain",ETB 1 (720p)
+https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/ETB2_2022_logo.svg/512px-ETB2_2022_logo.svg.png" group-title="Spain",ETB 2 (720p)
+https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ETB_Basque_2022_logo.svg/512px-ETB_Basque_2022_logo.svg.png" group-title="Spain",ETB Basque (480p)
 https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sua70RO.png" group-title="Spain",EWTN el Canal Católico (720p) [Not 24/7]
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4vcGzcC.png" group-title="Spain",Fibwi (1080p) [Not 24/7]
-https://hostcdn3.fibwi.com/fibwi_diario/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3lAoTq3.png" group-title="Spain",Fitel TV (1080p)
 https://tv.mywifisocial.es/live.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c1/France_24_logo_%282013%29.svg" group-title="Spain",France 24 Español (1080p)
 https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MpvjCzC/Fuerteventura-tv-service-webtv-488969d1-1.png" group-title="Spain",Fuerteventura TV (1080p)
+https://5c0956165db0b.streamlock.net/ftv/directo/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eaLIJzK.png" group-title="Spain",Goiena Eus (720p)
 https://zuzenean.goienamedia.eus/goiena-telebista.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YaDNsYN.png" group-title="Spain",Guada TV (720p) [Not 24/7]
@@ -89,18 +131,14 @@ https://cdn3.wowza.com/1/RERMR282dnU5eE5Z/OHY0dVFs/hls/live/playlist.m3u8
 http://185.189.225.149/HitTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/5194tl8duqL.png" group-title="Spain",HOLA! Play (1080p)
 https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/a9hgTmM.png" group-title="Spain",Imás TV (1080p) [Not 24/7]
-https://secure3.todostreaming.es/live/imastv-livestream.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KLPSnAT.png" group-title="Spain",Intercomarcal TV (576p) [Not 24/7]
-https://streamingtvi.gestec-video.com/hls/tvixa.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EY6TsdV.png" group-title="Spain",KTO (404p) [Not 24/7]
 https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1jDS9UC.png" group-title="Spain",La 1 (720p)
-https://ztnr.rtve.es/ztnr/1688877.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iwDi3ND.png" group-title="Spain",La 2 Canarias (720p)
+https://ztnr.rtve.es/ztnr/5468585.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/TVE2_logo.png/330px-TVE2_logo.png" group-title="Spain",La 2 Catalunya (720p)
+https://ztnr.rtve.es/ztnr/3987218.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RlzVIJP.png" group-title="Spain",Lancelot TV (404p)
 https://5c0956165db0b.streamlock.net:8090/directo/_definst_/lancelot.television/master.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/La_Otra_logo_%282017%29.svg/512px-La_Otra_logo_%282017%29.svg.png" group-title="Spain",LaOtra (720p)
-https://laotra-1-23-secure2.akamaized.net/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hBswXYZ.png" group-title="Spain",LiraTV (720p)
 https://cloud2.streaminglivehd.com:1936/liratv/liratv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Kr3U3Ub.png" group-title="Spain",Logos TV (1080p) [Not 24/7]
@@ -109,20 +147,28 @@ https://streamer1.streamhost.org/salive/logosH/master.m3u8
 https://streamer1.streamhost.org/salive/logoskidsH/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qkHrttj.png" group-title="Spain",Logos TV Salud (720p) [Not 24/7]
 https://streamer1.streamhost.org/salive/logossaludH/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RzAkP1V.png" group-title="Spain",M95 Televisión Marbella (1080p) [Not 24/7]
+https://limited2.todostreaming.es/live/m95-livestream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RH1zLLs.png" group-title="Spain",Mijas 3.40TV (720p)
+https://streaming004.gestec-video.com/hls/MIJAS.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LK4pLgT.png" group-title="Spain",Mírame TV (360p) [Not 24/7]
 https://bit.controlstreams.com:5443/LiveApp/streams/mirametv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pw4NZK1.png" group-title="Spain",MyTime movie network Spain (1080p)
-https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/21HEgSJn2gL.png" group-title="Spain",Negocios TV (1080p)
 https://streaming013.gestec-video.com/hls/negociostv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s6V8rQd.png" group-title="Spain",Noroeste TV (1080p) [Not 24/7]
 https://cloudvideo.servers10.com:8081/8032/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C5SYw7B.png" group-title="Spain",NORTEvisión (1080p)
+http://amaru.dyndns.org:8870/0.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mUrZz9O.png" group-title="Spain",Onda 15 TV (224p)
+https://cloudvideo.servers10.com:8081/8034/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sOBMnby.png" group-title="Spain",Onda Cádiz 24h (720p)
+https://ondacadiztv.es:30443/octv/24h/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q1YwYsR.png" group-title="Spain",Onda Madrid (720p)
 https://tvradio-1-23-secure2.akamaized.net/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6HxLUQd.png" group-title="Spain",Onda Valencia (720p)
+https://cloudvideo.servers10.com:8081/8116/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BNqZwxS.png" group-title="Spain",Pequeradio (720p) [Not 24/7]
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vEzeqHP.png" group-title="Spain",Platzi TV (1080p)
-https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Pxrl9Ug.png" group-title="Spain",Pluto TV Archivos Forenses (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f984f4a09e92d0007d74647/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JIbupT1.png" group-title="Spain",Pluto TV Asesinatos de Midsomer (720p)
@@ -161,6 +207,12 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f28009b1
 https://janus.xpbroadcasting.com:8443/hls/popworld.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i9tsnhD.png" group-title="Spain",Punt 3 Vall Uixó (1080p)
 https://bit.controlstreams.com:5443/LiveApp/streams/punt3.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MzUQtrl.png" group-title="Spain",Ràdio Bocairent TV (1080p) [Not 24/7]
+http://185.81.77.4/BocairentTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cdpbkSo.png" group-title="Spain",Radio Carnaval TV (720p) [Not 24/7]
+https://eu1.servers10.com:8081/8116/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oefjONS.png" group-title="Spain",Radio Televisión Mogán (1080p)
+https://cloudvideo.servers10.com:8081/8028/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="Spain",Rakuten TV Action Movies Spain (1080p)
 https://a9c57ec7ec5e4b7daeacc6316a0bb404.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="Spain",Rakuten TV Comedy Movies Spain (1080p)
@@ -175,8 +227,12 @@ https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/
 https://newidco-rakutenviki-2-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5pMo7dL.png" group-title="Spain",Real Madrid TV (404p)
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mPvSubP.png" group-title="Spain",Ribera TV (576p)
+https://common01.todostreaming.es/live/ribera-livestream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0TDnVQ4.png" group-title="Spain",ROTV Valencia (720p)
 https://rotv.romediavalencia.com:3839/live/rotvlive.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/o9Ro8TR.png" group-title="Spain",RTV Marbella (720p)
+https://streaming.rtvmarbella.tv/hls/streamingweb.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EqUfEAh.png" group-title="Spain",RTV Vida (1080p)
 https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rbJrmPw.png" group-title="Spain",Sol Música (720p)
@@ -185,22 +241,36 @@ https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0zCt8e4.png" group-title="Spain",SpektraTV (720p)
 https://cloudvideo.servers10.com:8081/8026/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rFQuAEv.png" group-title="Spain",STZ Telebista (1080p)
+https://cloudvideo.servers10.com:8081/stztelebista/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OgEeQzl.jpg" group-title="Spain",Tarotéame (576p)
 https://5d2733224ac48.streamlock.net/taroteame/tarot_web/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yOQ9e3a.png" group-title="Spain",TarotVisión (576p)
-https://stream.andalhost.com/hls/tarotvision.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oGvsUH9.png" group-title="Spain",TBN España (576p)
+https://edge.xn--tbnespaa-j3a.es/LiveApp/streams/tbnlive.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w5NTWpl.png" group-title="Spain",Tele Elx (1080p)
+https://tvdirecto.teleelx.es/stream/teleelx.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EowJfr0.png" group-title="Spain",Tele Safor (720p) [Not 24/7]
 https://video.telesafor.com/hls/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/b0H5f62.png" group-title="Spain",Teledeporte (1080p)
 https://d1cctoeg0n48w5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mnixw9wn5ugmv/TeledeporteES.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BXyplMX.png" group-title="Spain",Teleganés (720p)
+https://nlb2-live.emitstream.com/hls/5z6oj7ziwxzfnj78vg2m/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/TeleMadrid.svg/512px-TeleMadrid.svg.png" group-title="Spain",Telemadrid (720p)
 https://telemadrid-23-secure2.akamaized.net/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/TeleMadrid_INT_Logo.jpg/400px-TeleMadrid_INT_Logo.jpg" group-title="Spain",Telemadrid Internacional (720p)
 https://new-international-23-secure2.akamaized.net/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FwIIdKG.png" group-title="Spain",Televisión Aranda (720p)
+https://cloud.streamingconnect.tv/hls/telearanda/telearanda.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QVHKPw.png" group-title="Spain",Televisión Consciente (1080p)
 https://cdn318.fractalmedia.es/318/live/hls/tvc/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yH7n2dF.png" group-title="Spain",The Pet Collective
 https://the-pet-collective-international-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KjWuini.png" group-title="Spain",Tuya La Janda Televisión (1080p)
+http://185.210.20.13:8080/0.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/TV3CAT.svg/512px-TV3CAT.svg.png" group-title="Spain",TV3CAT (1080p)
+https://directes-tv-int.3catdirectes.cat/live-origin/tvi-hls/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/syeJXGh.png" group-title="Spain",TV Almassora (720p)
+https://live.fullsport.es/hls/tvalmassora.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aobkgrS.png" group-title="Spain",TV Artequatre (576p)
 https://streaming007.gestec-video.com/hls/artequatreTVA.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vLpm8tN.png" group-title="Spain",TV BRICS Spanish (1080p)
@@ -209,6 +279,10 @@ https://espbrics.mediacdn.ru/cdn/brics/spanish/playlist.m3u8
 https://eu1.servers10.com:8081/8166/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WpGR7RQ.png" group-title="Spain",Une Vinalopó (576p) [Not 24/7]
 https://streamingtvi.gestec-video.com/hls/unesd.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EW2bfix.png" group-title="Spain",Univers TV (720p)
+https://cloud2.streaminglivehd.com:1936/universfaller/universfaller/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V23bltn.png" group-title="Spain",Urola Telebista (416p)
+https://5940924978228.streamlock.net/j_Directo2/mp4:j_Directo2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ty7GkoN.png" group-title="Spain",XPTV1 (720p)
 https://janus.xpbroadcasting.com:8443/hls/xptv1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/74Z8ATB.png" group-title="Spain",XPTV2 (720p)

@@ -5,8 +5,6 @@ https://hls.mskycdn.online/tv/abcaustralia/index.m3u8
 https://ott1.nethubtv.vn/live/antv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/1/1a/ANTV_2023.png/revision/latest/scale-to-width-down/512?path-prefix=vi" group-title="Vietnam",ANTV HD (1080p)
 https://tv.ddns.vn/tv/antvhd/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="Vietnam",AXN Asia (576p)
-http://125hvt.ddns.net:21585/axn/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xT9jJXZ0/TBK-logo-2021.png" group-title="Vietnam",Bac Kan TV (406p)
 http://123.31.36.68/live.m3u8?c=vstv360&deviceId=&deviceType=&gcId=1532&location=NA&pkg=pkg11.hni&q=high&requestTime=1586309420781&time=1586395820&token=LX-ibJYRUq9pflRtYAxfYQ&type=tv&userId=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nGSsUd4.png" group-title="Vietnam",BBC Earth Vietnam (1080p)
@@ -33,16 +31,12 @@ https://tv.ddns.vn/tv/dreamworks/index.m3u8
 http://123.31.36.68/live.m3u8?c=vstv365&deviceId=&deviceType=&gcId=1532&location=NA&pkg=pkg11.hni&q=high&requestTime=1586309420781&time=1586395820&token=LX-ibJYRUq9pflRtYAxfYQ&type=tv&userId=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4yIgKKx.png" group-title="Vietnam",Ha Tinh TV (720p)
 https://wse.hatinhtv.net/live/httv1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nyfysP7.png" group-title="Vietnam",HBTV (406p) [Not 24/7]
+http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/aj3kdBQTgfxP-bDnleou4m1ykjPRFexvfTZZuvWlNc75Hn9-NTqXYEdEJ_KOcTSsbKj24K1B9BM=s512-c-k-c0x00ffffff-no-rj" group-title="Vietnam",Hmong TV Network (720p)
 https://livefta.malimarcdn.com/ftaedge00/cvabroadcasting.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Zq4xXNZs/HTV3-logo-2018.png" group-title="Vietnam",HTV3 (576p) [Geo-blocked]
-https://live.fptplay53.net/epzhd1/htv3_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y2ZTQRBw/HTV-Th-thao-logo-2022.png" group-title="Vietnam",HTV Sports (1080p) [Geo-blocked]
-https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lSMoGlv.png" group-title="Vietnam",Lam Dong TV (720p)
 http://118.107.85.5:1935/live/smil:LTV.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TLvrDHa.png" group-title="Vietnam",Lao Cai TV (1080p) [Not 24/7]
-https://cdn.3ssoft.vn/livetv/laocaitv/laocaitv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZIXtazI.png" group-title="Vietnam",Lao SV TV (480p)
 https://livefta.malimarcdn.com/ftaedge00/laosvtv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/q6cQzbv.png" group-title="Vietnam",Lao-Thai TV (720p)
@@ -61,8 +55,6 @@ https://ott1.nethubtv.vn/live/qpvn/playlist.m3u8
 https://tv.ddns.vn/tv/qpvnhd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/skAiUxg.png" group-title="Vietnam",RTM ASEAN
 https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2oOVS42.png" group-title="Vietnam",SCTV6 (1080p) [Geo-blocked]
-https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WorbnyD.jpg" group-title="Vietnam",Tea TV (720p)
 https://livefta.malimarcdn.com/ftaedge00/teatv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://thainguyentv.vn/modules/frontend/themes/ptthtn/images/logo.png" group-title="Vietnam",Thai Nguyen TV (1080p)
