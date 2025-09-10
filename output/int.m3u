@@ -21,6 +21,8 @@ https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/africanews/africanews-en.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5UxU4zc.png" group-title="International",Africanews French
 https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fWlLvRA.png" group-title="International",Afroturk TV (1080p)
+https://edge.socialsmart.tv/naturaltv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NXFkYFj.png" group-title="International",Al Arabiya (1080p)
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/De4SEWE.png" group-title="International",Al Arabiya Al Hadath (1080p) [Not 24/7]
@@ -97,6 +99,8 @@ https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 https://viamotionhsi.netplus.ch/live/eds/bvn/browser-HLS8/bvn.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/viB0FS2.png" group-title="International",Canaf54 TV
 https://5caf24a595d94.streamlock.net:1937/pvyugfkzkc/pvyugfkzkc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BzA2z7m.png" group-title="International",Canal 2 International
+http://69.64.57.208/canal2international/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/bd356b80-79d9-46ff-9674-e69aaf10022f-width200-quality90.jpeg" group-title="International",Car City Adventures
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883095
 #EXTINF:-1 tvg-logo="https://caribbeanadvantage.com/images/CAtv-logo-512.png" group-title="International",Caribbean Advantage TV (1080p) [Not 24/7]
@@ -137,8 +141,6 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 https://cnbc-live.akamaized.net/cnbc/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/B6sfpDa.png" group-title="International",CNBC Europe HD (1080p)
 https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8
-#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/26849/s26849_ll_h15_ab.png?w=512" group-title="International",CNBC World
-https://fl3.moveonjoy.com/CNBC_World/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ifarQil.png" group-title="International",CSI en Español
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/604928d54a4f730007ff76bc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c285532-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ec065848-4bdc-45cb-ad2c-0ef96c23d424
 #EXTINF:-1 tvg-logo="https://www.dmi.gov.ae/content/dam/corporate/dev/2023/elogos-ar/dubaione-logo.png" group-title="International",Dubai One (1080p)
@@ -179,8 +181,6 @@ https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8
 https://viamotionhsi.netplus.ch/live/eds/fashiontv/browser-HLS8/fashiontv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l5iax42.png" group-title="International",FIFA+ (720p)
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mRsnztA.png" group-title="International",FightBox
-https://fdvr02.vnet.am/Fightbox/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wvbm21St/france24.png" group-title="International",France 24 Arabic (1080p)
 https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wvbm21St/france24.png" group-title="International",France 24 English (1080p)
@@ -247,8 +247,6 @@ http://45.88.92.3/tr3_MTVHits_SD/index.m3u8?token=test
 https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png" group-title="International",NHK World-Japan HD
 https://viamotionhsi.netplus.ch/live/eds/nhk/browser-HLS8/nhk.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Nicktoons_UK_Logo_2014.png" group-title="International",Nicktoons
-https://fdvr02.vnet.am/Boomerang/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8dUS3Ih.png" group-title="International",Novelisima
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VLDj49hN/peacetvenglish.png" group-title="International",Peace TV English (1080p)
@@ -353,20 +351,12 @@ https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 https://89ec2d15e090480bb419d940b8793b9c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_ZeeWorld-1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ciTJrnl.png" group-title="International",Zoo Moo (Australia) (1080p)
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Logo_Detskiy_Mir_15_January_2013.jpg" group-title="International",Детский мир
-https://fdvr02.vnet.am/CartoonNetwork/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DnlngRZ.png" group-title="International",Карусель Int
-https://fdvr02.vnet.am/Karusel/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/512px-MTV-2021.svg.png" group-title="International",МТВ (Волгоград) (720p) [Not 24/7]
 http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ccwijY0.png" group-title="International",Мультиландия
 http://178.217.72.66:8080/multilandiya/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pUcV46F.png" group-title="International",НТВ Мир
-https://fdvr02.vnet.am/HTB/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RUSX0rX.png" group-title="International",Первый канал Европа
 https://streaming.thestream.cyou/live/210.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/On6ggLe.png" group-title="International",Перец
-https://fdvr02.vnet.am/Perec/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gBjk9oF.png" group-title="International",РЕН ТВ International
 https://cdn4.skygo.mn/live/disk1/RenTV/HLSv3-FTA/RenTV.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mwiC0RG.png" group-title="International",СТС International
