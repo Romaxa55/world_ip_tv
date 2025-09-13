@@ -91,8 +91,6 @@ https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8
 https://webprod.sipse.com.mx:8080/show/merida.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uiTgClU.png" group-title="Mexico",SIPSE TVCUN 8.1 (1080p) [Not 24/7]
 https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dLHIvKz.png" group-title="Mexico",Super Channel 12 (1080p) [Geo-blocked]
-https://servilive.com:3263/live/channel12live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XkpDSmO.png" group-title="Mexico",Tele Yucatan [Geo-blocked]
 https://5ca3e84a76d30.streamlock.net/teleyucatan/videoteleyucatan/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5vaEhfy.png" group-title="Mexico",Tlaxcala Televisión (360p) [Not 24/7]
@@ -105,12 +103,16 @@ https://5f2c1b0d880e5.streamlock.net/tv42/tv42.smil/.m3u8
 https://5ca9af4645e15.streamlock.net/lobodurango/videolobodurango/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/z9iVlMn.png" group-title="Mexico",TV Mar La Paz (1080p)
 https://5fc584f3f19c9.streamlock.net/tvmarlapaz/smil:tvmarlapaz.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z9iVlMn.png" group-title="Mexico",TV Mar Los Cabos (1080p)
+https://5fc584f3f19c9.streamlock.net/tvmarloscabos/smil:tvmarloscabos.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9qL4LJF.png" group-title="Mexico",TV Nuevo León Canal 28 (XHMNL-TDT) (720p)
 https://s5.mexside.net:1936/canal28/canal28/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lhI8Rs0.png" group-title="Mexico",TVMás (720p)
 https://60417ddeaf0d9.streamlock.net/telemetrika3/telemetrika3.smil/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/15kcNRb.png" group-title="Mexico",TVMÁS (XHGV-TDT) (360p) [Not 24/7]
 https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uX1S3kt.png" group-title="Mexico",TVP Culiacán (720p) [Not 24/7]
+https://5ca3e84a76d30.streamlock.net/gpacifico1/smil:gpculiacan.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uX1S3kt.png" group-title="Mexico",TVP Los Mochis (720p) [Not 24/7]
 https://5ca3e84a76d30.streamlock.net/gpacifico2/mochis.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uX1S3kt.png" group-title="Mexico",TVP Mazatlán (720p) [Not 24/7]
