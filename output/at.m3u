@@ -15,8 +15,8 @@ https://channel.streams.ovh:1936/balkanradiosalzburgtv/balkanradiosalzburgtv/pla
 https://viamotionhsi.netplus.ch/live/eds/disneychannelde/browser-HLS8/disneychannelde.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/74gMaPK.png" group-title="Austria",FS1 Salzburg (720p) [Not 24/7]
 http://stream.fs1.tv:8080/hls/webstream.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Hitradio_%C3%963.svg/512px-Hitradio_%C3%963.svg.png" group-title="Austria",Hitradio Ö3 (720p) [Not 24/7]
-https://studiocam-oe3.mdn.ors.at/out/u/studiocam_oe3/q6a/manifest_1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Hitradio_%C3%963.svg/512px-Hitradio_%C3%963.svg.png" group-title="Austria",Hitradio O3
+https://studiocam-oe3.mdn.ors.at/orf/studiocam_oe3/q6a/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RYbR4Sf.png" group-title="Austria",K-TV (720p)
 https://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5rDo1Za.png" group-title="Austria",KIT-TV (720p)
@@ -50,7 +50,7 @@ https://web12.mdn.ors.at/orf/web12/qxa/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SVJiXxh.png" group-title="Austria",R9 (720p) [Not 24/7]
 https://ms01.w24.at/R9/smil:liveeventR9.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KbdK8t9.png" group-title="Austria",RTL Super
-https://viamotionhsi.netplus.ch/live/eds/superrtl/browser-HLS8/superrtl.m3u8
+https://viamotionhsi.netplus.ch/live/eds/superrtl/browser-dash/superrtl.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/RTV_OOE_Logo.png" group-title="Austria",RTV (1080p) [Not 24/7]
 http://iptv.rtv-ooe.at/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VjnzhMM/Logo-Schl-Dachstein-TV-HP-JPG.jpg" group-title="Austria",Schladming-Dachstein TV (720p)

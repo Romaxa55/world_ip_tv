@@ -4,17 +4,13 @@ https://viamotionhsi.netplus.ch/live/eds/6ter/browser-HLS8/6ter.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/20_Minutes_TV_IDF_logo_%282023%29.png/320px-20_Minutes_TV_IDF_logo_%282023%29.png" group-title="France",20 Minutes TV (1080p)
 https://live-20minutestv.digiteka.com/1961167769/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9C7UsOe.png" group-title="France",AB1
-https://viamotionhsi.netplus.ch/live/eds/ab1/browser-HLS8/ab1.m3u8
+https://viamotionhsi.netplus.ch/live/eds/ab1/browser-dash/ab1.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HQZQyWt.png" group-title="France",ADN TV+
 https://d3b73b34o7cvkq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gz2sgqzp076kf/adn.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZY9Y3vnk/africa24.png" group-title="France",Africa 24 (1080p)
-https://africa24.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YWIJdai.png" group-title="France",Africa 24 Sport (1080p)
-https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/090tCQ5.png" group-title="France",Alpe d’Huez TV (720p) [Not 24/7]
 https://edge13.vedge.infomaniak.com/livecast/ik:adhtv/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FM9FVAG.png" group-title="France",Animaux
-https://viamotionhsi.netplus.ch/live/eds/animaux/browser-HLS8/animaux.m3u8
+https://viamotionhsi.netplus.ch/live/eds/animaux/browser-dash/animaux.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EPIMMaB.png" group-title="France",Antenne Réunion (720p) [Not 24/7]
 https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8?location=ZEOP01
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2ijwlnR.png" group-title="France",Avatar
@@ -85,16 +81,16 @@ https://viamotionhsi.netplus.ch/live/eds/france4hd/browser-dash/france4hd.mpd
 http://69.64.57.208/france5/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/512px-France_5_2018.svg.png" group-title="France",France 5 HD (720p)
 https://viamotionhsi.netplus.ch/live/eds/france5hd/browser-dash/france5hd.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/u8N6uoj.png" group-title="France",France 24 French (1080p)
-https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u8N6uoj.png" group-title="France",France 24
+https://viamotionhsi.netplus.ch/live/eds/france24/browser-HLS8/france24.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uM1v1sd.png" group-title="France",Francophonie (360p)
 http://mv2.tvfrancophonie.org/live/Stream1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kqYssbW.png" group-title="France",Gulli (720p)
+https://viamotionhsi.netplus.ch/live/eds/gulli/browser-HLS8/gulli.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vXbAeD0.png" group-title="France",HANDICAP TV France
 https://srv.webtvmanager.fr:3697/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EjjzjF9.png" group-title="France",Hélène et les garçons
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/604f8de01b479400078fb1e7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e05c6a0-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=081319e1-aad5-46bc-a821-8d7f431286e4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fVhrJHK.png" group-title="France",ILTV (720p)
-https://live.creacast.com/iltv/smil:iltv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pLv0T3D.png" group-title="France",Inazuma Eleven
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/611e75226b7f420007c3f319/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e063bd2-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=80879397-91d6-4d71-9c36-ad9f3ac25c0e
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PMpwaQN.png" group-title="France",Instant Saga
@@ -108,7 +104,7 @@ https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t35zhM9.png" group-title="France",L'Equipe (1080p)
 https://dshn8inoshngm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gac2i63dmu8b7/LEquipe_FR.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DED8EXs.png" group-title="France",LCI HD
-https://viamotionhsi.netplus.ch/live/eds/lci/browser-HLS8/lci.m3u8
+https://viamotionhsi.netplus.ch/live/eds/lci/browser-dash/lci.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k7UImOJ.png" group-title="France",LCP
 https://viamotionhsi.netplus.ch/live/eds/lcp/browser-HLS8/lcp.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a8RuRUQ.png" group-title="France",Le Figaro IDF (1080p)
@@ -187,10 +183,12 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65
 https://event.vedge.infomaniak.com/livecast/ik:puissancetelevision/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/89yWH5L.png" group-title="France",Qwest TV Jazz & Beyond (720p) [Geo-blocked]
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/qwestAAAA-qwestjazz-uk-samsungtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b3/RMC_D%C3%A9couverte_logo_2017.svg/langfr-350px-RMC_D%C3%A9couverte_logo_2017.svg.png" group-title="France",RMC Decouverte (1080p)
+https://viamotionhsi.netplus.ch/live/eds/rmcdecouverte/browser-HLS8/rmcdecouverte.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/RT-France-logo.svg/512px-RT-France-logo.svg.png" group-title="France",RT France (1080p) [Geo-blocked]
 https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nFqjVNW.png" group-title="France",RTL9
-https://viamotionhsi.netplus.ch/live/eds/rtl9/browser-HLS8/rtl9.m3u8
+https://viamotionhsi.netplus.ch/live/eds/rtl9/browser-dash/rtl9.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logo_de_la_chaine_T18.svg/langfr-512px-Logo_de_la_chaine_T18.svg.png" group-title="France",T18 (1080p)
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t18/t18-dm.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QxHt9NC.png" group-title="France",TF1 HD (720p)
@@ -225,16 +223,14 @@ https://tv7.live-kd.com/live/tv7/livestream/playlist.m3u8
 https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XVCV9rj.png" group-title="France",ViàMatélé (1080p)
 https://5dd226f8f01e8.streamlock.net/via-matele-live/matelelive_1080/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8km61C52/moselletv.png" group-title="France",viàMoselleTV (720p) [Not 24/7]
-https://live.creacast.com/mirabelletv/smil:mirabelletv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TLZsAKK.png" group-title="France",viàTéléPaese (720p)
 https://srv.webtvmanager.fr:3970/live/viatelepaeselive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7fzlbi2.png" group-title="France",Victorious
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64bab8830e086a0009d44273/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e06ff27-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d562924d-7b50-4dfa-bcf9-0cb983d72a29
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7y7ancc.png" group-title="France",Vosges Télévision (576p) [Not 24/7]
 https://vosgestv.live-kd.com/live/vosgestv/vosgestv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/reYeMuE.png" group-title="France",W9 [Geo-blocked]
-https://viamotionhsi.netplus.ch/live/eds/w9/browser-HLS8/w9.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/reYeMuE.png" group-title="France",W9
+https://viamotionhsi.netplus.ch/live/eds/w9/browser-dash/w9.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0N7EhuD.png" group-title="France",Walker Texas Ranger
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60afa749ac7f3200078adb40/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e05edb4-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=53334da2-2bf6-4492-9d72-20248eaff31c
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cQkfRhH.png" group-title="France",Wild Side TV
