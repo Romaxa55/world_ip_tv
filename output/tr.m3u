@@ -11,6 +11,8 @@ https://starmenajo.com/hls/almahriah/index.m3u8
 https://edge1.socialsmart.tv/altastv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.anadolunettv.com/d/r/logo.png" group-title="Turkey",Anadolu Net TV (1080p)
 https://live.artidijitalmedya.com/artidijital_anadolunet/anadolunet/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JsDCyWG.png" group-title="Turkey",ARAS TV (576p) [Not 24/7]
+http://1.rtmp.org/tv217/yayin.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HyVUwFC.png" group-title="Turkey",ATV (720p)
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bmkXfIE.png" group-title="Turkey",Bloomberg HT (720p)
@@ -23,8 +25,6 @@ https://live.artidijitalmedya.com/artidijital_astv/astv/playlist.m3u8
 http://canbroadcast.com:7000/canlican/tv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ndupxwu.png" group-title="Turkey",Cay TV (720p)
 https://edge1.socialsmart.tv/caytv/bant1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sjAGFWu.png" group-title="Turkey",Cekmeköy TV (1080p)
-https://cdn-cekmekoybeltv.yayin.com.tr/cekmekoybeltv/cekmekoybeltv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/CGTN_Documentary_logo.png/400px-CGTN_Documentary_logo.png" group-title="Turkey",CGTN Documentary
 https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZRTqNJnW/cine1.png" group-title="Turkey",Cine 1 (720p)
@@ -193,6 +193,8 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/tmb-tv.m
 https://live.artidijitalmedya.com/artidijital_tontv/tontv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/512px-TRT_1_logo_%282021-%29.svg.png" group-title="Turkey",TRT 1 (1080p)
 https://trt.daioncdn.net/trt-1/master.m3u8?app=web
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iOCQdyD.png" group-title="Turkey",TRT 2 (720p)
+https://tv-trt2.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TRT_Avaz_logo.svg/512px-TRT_Avaz_logo.svg.png" group-title="Turkey",TRT Avaz (720p)
 https://tv-trtavaz.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8PmXz9t.png" group-title="Turkey",TRT Diyanet Çocuk (720p)
