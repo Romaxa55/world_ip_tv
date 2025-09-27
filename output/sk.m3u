@@ -19,6 +19,10 @@ http://88.212.7.11/live/test_doma_hd_hevc/playlist.m3u8
 http://88.212.15.19/live/test_minimax/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.mtr.sk/img/logo-mtr-0.png" group-title="Slovakia",MTR (1080p)
 https://cdnsk003.panaccess.com/local/Ruzomberok/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" group-title="Slovakia",National Geographic (1080i)
+http://78.130.250.2:8023/play/a02e/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png" group-title="Slovakia",National Geographic Wild (1080i)
+http://78.130.250.2:8023/play/a02c/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/%C3%93%C4%8Dko_logo_2012.png/512px-%C3%93%C4%8Dko_logo_2012.png" group-title="Slovakia",Óčko (540p)
 https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WlF6tlZ.png" group-title="Slovakia",Régió TV (406p)
@@ -49,7 +53,5 @@ https://n11.stv.livebox.sk/stv-tv/stv4.stream/playlist.m3u8
 http://88.212.7.11/live/test_tv_romana_web_player/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bUGuntH.png" group-title="Slovakia",TV Ružinov (1080p) [Not 24/7]
 http://lb.streaming.sk/tvruzinov/stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QG0iZlG.png" group-title="Slovakia",TVT (486p)
-https://5ca49f2417d90.streamlock.net/live/turzovka/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7EL3VZ5.png" group-title="Slovakia",VIO TV (480p)
 http://slovanet-livestream.ceelabs.com:1935/live/VioTV.stream_transcoded/playlist.m3u8
