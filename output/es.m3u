@@ -33,6 +33,8 @@ http://38.180.133.31:8000/play/a0ki/index.m3u8
 https://streamtv2.elitecomunicacion.cloud:3628/live/arabitv2025live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6YSi1zW.png" group-title="Spain",Aragon TV (720p)
 https://viamotionhsi.netplus.ch/live/eds/aragontv/browser-HLS8/aragontv.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/512px-Atreseries_2020_logo.svg.png" group-title="Spain",Atreseries Internacional (480p)
+http://38.180.133.31:8000/play/a0ko/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dtGKJ8HB/bbcdrama.png" group-title="Spain",BBC Drama (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60dafb9a0df1ba000758d37b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZKAnehs.png" group-title="Spain",BCN Gospel TV (1080p)
@@ -195,8 +197,6 @@ https://ondacadiztv.es:30443/octv/24h/playlist.m3u8
 https://tvradio-1-23-secure2.akamaized.net/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6HxLUQd.png" group-title="Spain",Onda Valencia (720p)
 https://cloudvideo.servers10.com:8081/8116/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BNqZwxS.png" group-title="Spain",Pequeradio (720p) [Not 24/7]
-https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vEzeqHP.png" group-title="Spain",Platzi TV (1080p)
 https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Pxrl9Ug.png" group-title="Spain",Pluto TV Archivos Forenses (720p)
@@ -239,6 +239,8 @@ https://janus.xpbroadcasting.com:8443/hls/popworld.m3u8
 https://bit.controlstreams.com:5443/LiveApp/streams/punt3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MzUQtrl.png" group-title="Spain",Ràdio Bocairent TV (1080p) [Not 24/7]
 http://185.81.77.4/BocairentTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cdpbkSo.png" group-title="Spain",Radio Carnaval TV (720p) [Not 24/7]
+https://eu1.servers10.com:8081/8116/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oefjONS.png" group-title="Spain",Radio Televisión Mogán (1080p)
 https://cloudvideo.servers10.com:8081/8028/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="Spain",Rakuten TV Action Movies Spain (1080p)
@@ -271,10 +273,14 @@ https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
 https://cloudvideo.servers10.com:8081/8026/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rFQuAEv.png" group-title="Spain",STZ Telebista (1080p)
 https://cloudvideo.servers10.com:8081/stztelebista/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yOQ9e3a.png" group-title="Spain",TarotVisión (576p)
+https://stream.andalhost.com/hls/tarotvision.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oGvsUH9.png" group-title="Spain",TBN España (576p)
 https://edge.xn--tbnespaa-j3a.es/LiveApp/streams/tbnlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w5NTWpl.png" group-title="Spain",Tele Elx (1080p)
 https://tvdirecto.teleelx.es/stream/teleelx.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EowJfr0.png" group-title="Spain",Tele Safor (720p) [Not 24/7]
+https://video.telesafor.com/hls/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/b0H5f62.png" group-title="Spain",Teledeporte (1080p)
 https://d1cctoeg0n48w5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mnixw9wn5ugmv/TeledeporteES.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BXyplMX.png" group-title="Spain",Teleganés (720p)
