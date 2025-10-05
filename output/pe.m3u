@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/512px-Am%C3%A9rica_Televisi%C3%B3n.svg.png" group-title="Peru",America Television
 http://181.188.216.5:18000/play/a014/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GCCriH4.png" group-title="Peru",Angienet TV
-https://servilive.com:3624/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/05gwtk2.png" group-title="Peru",Antares Televisión (720p) [Not 24/7]
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7bGVFBa.png" group-title="Peru",AsiriTV (720p) [Not 24/7]
@@ -13,18 +11,20 @@ https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
 https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fY9256H.png" group-title="Peru",ATV+
 https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bEJK3RN.png" group-title="Peru",Auténtica Televisión (720p) [Not 24/7]
-https://live.obslivestream.com/autenticatvmux/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g2PmhMXQ/betheltv.png" group-title="Peru",Bethel TV
 https://alfa.betheltv.tv/srt/3_abr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O5MrFjY.png" group-title="Peru",Canal 8 Catacaos (720p) [Not 24/7]
 https://live.obslivestream.com/canal8/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Xytvw3J.png" group-title="Peru",Canal N
+http://181.188.216.5:18000/play/a01p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r0foZ5t.png" group-title="Peru",Congreso TV
 https://ccstreaming.packet.mx/WebRTCAppEE/streams/45.1_kd5oiNTTWO0gEOFc431277834.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X7cPyP2.png" group-title="Peru",Controversia TV (720p) [Not 24/7]
 https://live.obslivestream.com/controversiatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oxycMeA.png" group-title="Peru",CR Televisión Moyobamba (720p) [Not 24/7]
 https://live.obslivestream.com/crtvmux/index.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1740338476736815104/vJGKgOJe_400x400.jpg" group-title="Peru",Disney Channel Latin America (1080p)
+http://201.230.121.186:8000/play/a0fb/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KSePPeW.png" group-title="Peru",DMJ Cuzco (720p) [Not 24/7]
 https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pu0BSB7.png" group-title="Peru",Exitosa (720p)
@@ -57,6 +57,8 @@ https://www.opencaster.com/resources/hls_stream/hipodromojcp2.m3u8
 https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ScCAgGB.png" group-title="Peru",Nativa TV Satipo (720p) [Not 24/7]
 https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z01XOuI.png" group-title="Peru",Nazarenas TV (720p) [Not 24/7]
+https://5c3fb01839654.streamlock.net:1963/iptvnazarenas/livenazarenastv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CN2j8S3.png" group-title="Peru",Nova TV Star (360p) [Not 24/7]
 https://7.innovatestream.pe:19360/radionovastar/radionovastar.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3R2emx7.jpg" group-title="Peru",ONDA DIGITAL (720p)
@@ -89,8 +91,6 @@ https://live.obslivestream.com/selvatv/index.m3u8
 https://livestream.perucast.com/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GtNkuAc.png" group-title="Peru",Sol Televisión (720p)
 https://video03.logicahost.com.br/soltv/soltv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eotfCMd.png" group-title="Peru",Super Canal Yurimaguas (720p) [Not 24/7]
-https://live.obslivestream.com/supercanal/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ug6XNIU.png" group-title="Peru",Telecolor Yurimaguas (720p) [Not 24/7]
 https://live.obslivestream.com/telecolormux/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cu7hTn8.png" group-title="Peru",Teleselva
@@ -103,6 +103,8 @@ https://www.chasquirouter.com/salida/sd/trivu.m3u8
 https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nr4ctt4.png" group-title="Peru",TV Cosmos (720p) [Not 24/7]
 https://5790d294af2dc.streamlock.net/8134/8134/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6io0IrX.png" group-title="Peru",TV Peru (720p)
+http://181.188.216.5:18000/play/a0qn/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dht94P4.png" group-title="Peru",TVUNO (720p)
 https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lVpDLVU.png" group-title="Peru",Unife TV
