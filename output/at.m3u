@@ -13,8 +13,6 @@ https://viamotionhsi.netplus.ch/live/eds/atv/browser-dash/atv.mpd
 https://channel.streams.ovh:1936/balkanradiosalzburgtv/balkanradiosalzburgtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/854KwmH1/disneychannel.png" group-title="Austria",Disney Channel (576p)
 https://viamotionhsi.netplus.ch/live/eds/disneychannelde/browser-HLS8/disneychannelde.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/74gMaPK.png" group-title="Austria",FS1 Salzburg (720p) [Not 24/7]
-http://stream.fs1.tv:8080/hls/webstream.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Hitradio_%C3%963.svg/512px-Hitradio_%C3%963.svg.png" group-title="Austria",Hitradio O3
 https://studiocam-oe3.mdn.ors.at/orf/studiocam_oe3/q6a/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RYbR4Sf.png" group-title="Austria",K-TV (720p)
@@ -43,6 +41,8 @@ https://viamotionhsi.netplus.ch/live/eds/orf1/browser-HLS8/orf1.m3u8
 https://strm.hdtvizlecanli.com/live/orf2.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/ORF2_logo_n.svg/512px-ORF2_logo_n.svg.png" group-title="Austria",ORF 2 Tirol HD (720p)
 https://viamotionhsi.netplus.ch/live/eds/orf2/browser-dash/orf2.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/ORF_III_Logo_Monochrom.svg/512px-ORF_III_Logo_Monochrom.svg.png" group-title="Austria",ORF III HD (720p)
+https://orf3.mdn.ors.at/orf/orf3/qxa/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zxuah2b.png" group-title="Austria",ORF Kids (720p)
 https://web12.mdn.ors.at/orf/web12/qxa/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SVJiXxh.png" group-title="Austria",R9 (720p) [Not 24/7]
