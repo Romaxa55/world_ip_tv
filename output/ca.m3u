@@ -11,8 +11,6 @@ http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ffc8c345822750007e167de/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e059f93-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=eb72cd85-f8e2-414a-99d0-c0cd8a98518d
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rpg0bQA.png" group-title="Canada",C Malayalam TV (1080p)
 https://2-fss-2.streamhoster.com/pl_120/206508-3261972-1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bJ7ygTq.png" group-title="Canada",Cable 14 Hamilton
-https://flowcaster1-ch.cdn.clearcable.net/C14/smil:C14.smil/playlist.m3u8?iimae0UC2aendtime=1665196120&iimae0UC2ahash=NzcDbuotaJAVf1DsNxuGHBlfCXSvHDIt5sqMUMgrRMU=&iimae0UC2astarttime=1665181720
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OqSl2Qf.png" group-title="Canada",Channel Y (720p) [Not 24/7]
 http://cdn19.live247stream.com/channely/tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EpMawIy.png" group-title="Canada",CHCO-TV (720p) [Geo-blocked]
@@ -51,6 +49,10 @@ https://stream.bozztv.com/tvstat-tamar/tvstat-tamar/playlist.m3u8
 https://streamer12.vdn.dstreamone.net/carishowtime/showtime/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2EKCtQm.png" group-title="Canada",GurSikh Sabha TV (720p) [Not 24/7]
 http://cdn12.henico.net:8080/live/gsctv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JcD2xck/logo-hamda.png" group-title="Canada",Hamdard TV (1080p)
+https://tv.hamdardtv.com/hamdard/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LvkdhRw.png" group-title="Canada",Hulchul TV (720p) [Not 24/7]
+http://cdn12.henico.net:8080/live/jbani/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/reHjjRZ.png" group-title="Canada",Hyder TV
 https://cdn.live247stream.com/hyder/tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/x0vLIWr.png" group-title="Canada",ICI Montreal (720p)
@@ -63,8 +65,6 @@ https://icnet1hls.wns.live/hls/stream.m3u8
 https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pvLQmQK7/itv.png" group-title="Canada",iTV Afrobeats Music
 https://ca1.buximedia.com/itv/afrobeats/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pvLQmQK7/itv.png" group-title="Canada",iTV Arabic Music
-https://ca1.buximedia.com/itv/arabic/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pvLQmQK7/itv.png" group-title="Canada",iTV Indian Music
 https://ca1.buximedia.com/itv/indian/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pvLQmQK7/itv.png" group-title="Canada",iTV Latin Music
@@ -85,10 +85,6 @@ http://temp2.isilive.ca/live/nunavut/live-eng/index.m3u8
 https://bamus-klowdtv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a5fw83n.jpg" group-title="Canada",MHZ
 https://mhz-samsung-linear-ca.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FzM95rH.png" group-title="Canada",NACTV
-https://stream2.pivotalelements.com/memfs/2d2e1038-9eb2-44df-a9b9-109de5752f3b_output_0.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WXRBuOW.png" group-title="Canada",NETV Toronto (720p)
-https://eu1.vectromdigital.com:1936/netvtoronto/netvtoronto/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bd/CJON-TV.PNG" group-title="Canada",Newfoundland Television (480p)
 https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sF2g7KE.png" group-title="Canada",Now TV 102.3FM Edmonton (CKNO-FM)
@@ -97,10 +93,6 @@ https://videostream.jpbgdigital.com/NOWTV.m3u8
 https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xKXs6ER.png" group-title="Canada",Ontario Parliamentary Network (720p)
 https://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Kh4MWaY.png" group-title="Canada",Outdoor Channel
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sCBbBOj.png" group-title="Canada",Pamir TV (1080p) [Not 24/7]
-http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CwAdPpZ.jpg" group-title="Canada",Pardesi TV (720p)
 http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J8ejADF.png" group-title="Canada",Parnian TV (720p)
@@ -163,8 +155,6 @@ https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u
 https://player.mslivestream.net/svbc/2e628d7e1b65d31254fd7705ff7ee64d.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vCFdZny.png" group-title="Canada",SVBC 4 (1080p)
 https://player.mslivestream.net/mslive/13a2927187b9700ae7ea82d7841d5b68.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LSMvXAl.png" group-title="Canada",SVBC Sri Venkateswara Bhakti Channel (1080p)
-https://player.mslivestream.net/telugu/5d076e5c3d34cb8bb08e54a4bb7e223e.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4PA2adF.png" group-title="Canada",TAG TV (1080p) [Not 24/7]
 http://cdn11.live247stream.com/tag/tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V6ZUwUY.png" group-title="Canada",The Weather Network
