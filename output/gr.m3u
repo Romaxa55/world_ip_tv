@@ -3,8 +3,6 @@
 http://eu2.tv4e.gr:554/live/smil:myStream.sdp.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5SVMxcu.png" group-title="Greece",Acheloos TV (576p)
 https://acheloostv.streamings.gr/live/stream/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Action24-logo-small.png" group-title="Greece",Action 24 (1080p)
-http://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xqa87lG.png" group-title="Greece",Alert (576p) [Not 24/7]
 https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8uS0sib.png" group-title="Greece",ART TV
@@ -27,10 +25,12 @@ http://live.streams.ovh:1935/tvcreta/tvcreta/playlist.m3u8
 http://81.171.10.42:554/liveD/DStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aD0AMrP.png" group-title="Greece",Dipso TV (720p) [Not 24/7]
 https://live.cast-control.eu/ekpdipso/ekpdipso/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QQSSMZx.png" group-title="Greece",Ecclesia TV (1080p)
-https://liveopen.siliconweb.com/openTvLive/openEcclessia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zuyYIca.png" group-title="Greece",Egnatia TV (576p)
 https://video.streams.ovh:1936/egnatiatv/egnatiatv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X19638q.png" group-title="Greece",Faros TV (540p) [Geo-blocked]
+https://s1.cystream.net/live/faros1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7xtz1Jo.png" group-title="Greece",Faros TV2 (480p) [Geo-blocked]
+https://s1.cystream.net/live/faros2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8FcJ2I9.png" group-title="Greece",FORMedia TV (1080p)
 https://svs.itworkscdn.net/formediatvlive/formediatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZNCXr79/gnomi-logo.png" group-title="Greece",Gnomi TV (1080p)
@@ -49,8 +49,6 @@ https://kontralive.siliconweb.com/live/kontratv/playlist.m3u8
 https://thor.mental-media.gr:19360/imp/imp.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nvNW8G7.png" group-title="Greece",Nea TV (720p)
 https://live.neatv.gr:8888/hls/neatv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Nq00n8h.png" group-title="Greece",Notioi TV (1080p)
-https://srv.streamserver.gr:3451/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1Zl1OJ5.png" group-title="Greece",NRG 91 (720p) [Not 24/7]
 http://tv.nrg91.gr:1935/onweb/live/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1Zl1OJ5.png" group-title="Greece",NRG TV (720p)
@@ -71,6 +69,8 @@ http://web.onair-radio.eu:1935/video/video/playlist.m3u8
 http://live.cast-control.eu:1935/samiaki/samiaki/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mrKRFnf.png" group-title="Greece",Skai TV (720p)
 http://skai-live-back.siliconweb.com/media/cambria4/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IAb4Gbf.png" group-title="Greece",Smile TV (360p) [Geo-blocked]
+https://s1.cystream.net/live/smile/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4PrPG5j/Start-TV-Corfu-Radio-100-1-www-startmedia-gr-1.jpg" group-title="Greece",Start TV (480p)
 https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/arQe5qS.png" group-title="Greece",Syros TV1 (720p)
