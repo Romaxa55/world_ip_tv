@@ -21,6 +21,8 @@ https://01.tv.streaming.bredanu.nl/hls/stream.m3u8
 https://viamotionhsi.netplus.ch/live/eds/bvn/browser-dash/bvn.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IV2Qvc0.png" group-title="Netherlands",DeepHouse District (1080p)
 https://eu-nl-012.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qM4BNJty/denhaagtv.png" group-title="Netherlands",Den Haag TV (1080p) [Not 24/7]
+http://wowza5.video-streams.nl:1935/denhaag/denhaag/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fGAaBAs.png" group-title="Netherlands",Dit is Helmond (480p)
 http://ms2.mx-cd.net/tv/Omroep_Helmond.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aFBNbsy.png" group-title="Netherlands",DTV Den Bosch (1080p)
@@ -99,6 +101,8 @@ https://ms2.mx-cd.net/tv/184-782326/Omroep_Tilburg_TV.smil/playlist.m3u8
 https://d2pqcu7r58rgg1.cloudfront.net/nlpo/clr-nlpo/omroepvenlo/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uVqTbi2.png" group-title="Netherlands",Omroep Venray (720p)
 https://d3j015sg8r68y.cloudfront.net/nlpo/clr-nlpo/omroepvenray/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5IDb9fk.png" group-title="Netherlands",Omroep West (1080p) [Not 24/7]
+https://d1axml5ozykh3g.cloudfront.net/live/omroepwest/tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3c3QUSn.png" group-title="Netherlands",Omroep Zeeland (1080p)
 https://d3isaxd2t6q8zm.cloudfront.net/live/omroepzeeland/tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WzxY0PL.png" group-title="Netherlands",OOG TV (720p)
@@ -139,8 +143,6 @@ https://d1893oi5c6e5u0.cloudfront.net/nlpo/clr-nlpo/rpltvwoerden/index.m3u8
 https://dy7fxpkq4ggk8.cloudfront.net/nlpo/clr-nlpo/rtv1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UBQCjnG.png" group-title="Netherlands",RTV Drenthe (1080p)
 https://cdn.rtvdrenthe.nl/live/rtvdrenthe/tv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/W3B9NmVV/rtvhorizon.png" group-title="Netherlands",RTV Horizon (720p)
-https://tv.rtvhorizon.nl/hls/horizon/1_2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hucwX6v.png" group-title="Netherlands",RTV LOVE (720p)
 https://d2o8iss0ldenh4.cloudfront.net/nlpo/clr-nlpo/rtvlove/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nYl8H2e.png" group-title="Netherlands",RTV Maastricht (720p) [Not 24/7]
