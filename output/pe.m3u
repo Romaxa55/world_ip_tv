@@ -35,8 +35,6 @@ https://live.obslivestream.com/controversiatv/index.m3u8
 https://live.obslivestream.com/crtvmux/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="Peru",DirecTV Sports (1080p)
 http://38.183.182.166:8000/play/a125/index.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1740338476736815104/vJGKgOJe_400x400.jpg" group-title="Peru",Disney Channel Latin America (1080p)
-http://201.230.121.186:8000/play/a0fb/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1740338476736815104/vJGKgOJe_400x400.jpg" group-title="Peru",Disney Channel Latin America Panregional HD (1080p)
 http://201.217.246.177:8000/play/a02r/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" group-title="Peru",Disney Jr. Latin America South (480p)
@@ -91,6 +89,8 @@ https://live.obslivestream.com/planetatv/index.m3u8
 https://servilive.com:3538/live/v6qe84b6flive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AUoxyzP.png" group-title="Peru",Radio Master (720p)
 https://videoserver.tmcreativos.com:19360/radiomaster/radiomaster.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lid5RTv.png" group-title="Peru",Radio Onda Digital
+https://v4.tustreaming.cl/radioondadigitaltv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TBPVOBI.png" group-title="Peru",Radio Tropical Tarapoto (480p) [Not 24/7]
 https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tsdrrV9.png" group-title="Peru",Radio TV Tendencias (1080p) [Not 24/7]
@@ -131,18 +131,20 @@ https://5790d294af2dc.streamlock.net/8134/8134/playlist.m3u8
 http://38.183.182.166:8000/play/a12u/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/TV_Per%C3%BA_Internacional_2019_-_copia.png/512px-TV_Per%C3%BA_Internacional_2019_-_copia.png" group-title="Peru",TV Peru Internacional (720p)
 https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c27.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/TV_Per%C3%BA_Noticias_-_2019_logo.png/512px-TV_Per%C3%BA_Noticias_-_2019_logo.png" group-title="Peru",TV Peru Noticias (360p)
+https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e47.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yo1oTIh.png" group-title="Peru",TV Sistemas Cuzco (360p) [Not 24/7]
 https://stmv1.voxhdnet.com/sistemascusco/sistemascusco/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dht94P4.png" group-title="Peru",TVUNO (720p)
 https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lVpDLVU.png" group-title="Peru",Unife TV
-https://cdn.mycloudstream.io/hls/live/broadcast/ic1frrzz/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/F0PWpyc.png" group-title="Peru",Unitel
 https://play.agenciastreaming.com:8081/uniteltv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EeNpfIr.png" group-title="Peru",Uranio TV (Yurimaguas) (720p) [Not 24/7]
 https://live.obslivestream.com/uraniotv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9cmIv3q.png" group-title="Peru",USMPTV (720p)
 https://streamusmptv.ddns.net/live/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aJ4XExn.png" group-title="Peru",Vía Altomayo (720p) [Not 24/7]
+https://live.obslivestream.com/viaaltomayomux/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FiptbGQ.png" group-title="Peru",Vía Televisión (720P) [Not 24/7]
 https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GkSoxhx.png" group-title="Peru",Viva TV Yurimaguas (720p)
