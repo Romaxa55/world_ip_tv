@@ -25,8 +25,6 @@ https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/Video-2M
 https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51Icdznow+L.png" group-title="Canada",CityNews Vancouver (720p)
 https://citynewsregional.akamaized.net/hls/live/1024054/Regional_Live_9/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PzqzgMm.png" group-title="Canada",Deshi TV (720p)
-https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zh60l1x.png" group-title="Canada",Dukh Nivaran (720p) [Not 24/7]
 http://cdn12.henico.net:8080/live/dncal/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vB4yzen.png" group-title="Canada",Eawaz TV (720p) [Not 24/7]
@@ -63,6 +61,8 @@ https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aeS4Sjv.png" group-title="Canada",icnet 1
 https://icnet1hls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mIih39Y.png" group-title="Canada",IIPC TV (480p) [Geo-blocked]
+https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pvLQmQK7/itv.png" group-title="Canada",iTV Afrobeats Music
 https://ca1.buximedia.com/itv/afrobeats/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pvLQmQK7/itv.png" group-title="Canada",iTV Arabic Music
@@ -77,8 +77,6 @@ https://ca1.buximedia.com/itv/turkish/tracks-v1a1/mono.m3u8
 https://ca1.buximedia.com/itv/love2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n24MrsX.png" group-title="Canada",Legislative Assembly of Ontario
 https://temp3.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wY9WhYS.png" group-title="Canada",Legislative Assembly TV Nunavut
-http://temp2.isilive.ca/live/nunavut/live-eng/index.m3u8
 #EXTINF:-1 tvg-logo="https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png" group-title="Canada",Love Nature (720p) [Geo-blocked]
 https://bamus-klowdtv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a5fw83n.jpg" group-title="Canada",MHZ
@@ -87,18 +85,6 @@ https://mhz-samsung-linear-ca.samsung.wurl.tv/playlist.m3u8
 https://stream2.pivotalelements.com/memfs/2d2e1038-9eb2-44df-a9b9-109de5752f3b_output_0.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bd/CJON-TV.PNG" group-title="Canada",Newfoundland Television (480p)
 https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pBKZZ8z.png" group-title="Canada",NHL Centre Ice 4
-http://fl1.moveonjoy.com/NHL_4/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pBKZZ8z.png" group-title="Canada",NHL Centre Ice 6
-http://fl1.moveonjoy.com/NHL_6/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pBKZZ8z.png" group-title="Canada",NHL Centre Ice 7
-http://fl1.moveonjoy.com/NHL_7/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pBKZZ8z.png" group-title="Canada",NHL Centre Ice 8
-http://fl1.moveonjoy.com/NHL_8/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pBKZZ8z.png" group-title="Canada",NHL Centre Ice 9
-http://fl1.moveonjoy.com/NHL_9/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pBKZZ8z.png" group-title="Canada",NHL Centre Ice 11
-http://fl1.moveonjoy.com/NHL_11/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZpmVmC3G/IMG-0291.jpg" group-title="Canada",Nicktoons (720p)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/654ca7f92c1d3300086b608c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b6610-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=359ee837-a829-4fe0-9d99-8dc36018ced2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sF2g7KE.png" group-title="Canada",Now TV 102.3FM Edmonton (CKNO-FM)
