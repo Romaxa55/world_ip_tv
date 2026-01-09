@@ -13,8 +13,12 @@ https://rtmp.win:3696/live/arttvgrlive.m3u8
 https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TZ1unwF.png" group-title="Greece",Baraza TV Relaxing (720p)
 https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AeeeDUc.png" group-title="Greece",Best TV (720p) [Not 24/7]
+http://push-int.siliconweb.com/bestTV/stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/C9CormG.png" group-title="Greece",Blue Sky TV (720p)
 https://cdn5.smart-tv-data.com/bluesky/bluesky-live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EFL1Tjg.png" group-title="Greece",Corfu Channel (720p)
+https://itv.streams.ovh:1936/corfuchannel/corfuchannel/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CpIeJyt.png" group-title="Greece",Creta (540p) [Not 24/7]
 http://live.streams.ovh:1935/tvcreta/tvcreta/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Nt79gnx/319386123-3050873715211949-6691293256713061450-n-1024x752.png" group-title="Greece",DELTA TV (720p)
@@ -23,6 +27,8 @@ http://81.171.10.42:554/liveD/DStream.sdp/playlist.m3u8
 https://liveopen.siliconweb.com/openTvLive/openEcclessia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zuyYIca.png" group-title="Greece",Egnatia TV (576p)
 https://video.streams.ovh:1936/egnatiatv/egnatiatv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7xtz1Jo.png" group-title="Greece",Faros TV2 (480p) [Geo-blocked]
+https://s1.cystream.net/live/faros2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8FcJ2I9.png" group-title="Greece",FORMedia TV (1080p)
 https://svs.itworkscdn.net/formediatvlive/formediatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZNCXr79/gnomi-logo.png" group-title="Greece",Gnomi TV (1080p)
