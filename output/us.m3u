@@ -55,6 +55,8 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65a67dd13af63d0008257f17/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1c5240-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6e62cae5-9404-4e52-8b20-c5fc2b453e9d
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Spu4s89.png" group-title="United States",AABC TV (480p)
 https://streamer1.connectto.com/AABC_WEB_1201/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png" group-title="United States",ABC
+http://41.205.93.154/ABC/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/db/2_ABC_WMAR_Baltimore.png" group-title="United States",ABC 2 Baltimore MD (WMAR) (720p)
 https://aegis-cloudfront-1.tubi.video/c28d1ca8-9467-4798-81dc-09c1d6e90be1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png" group-title="United States",ABC 5
@@ -145,8 +147,6 @@ https://dlttx48mxf9m3.cloudfront.net/vod_clients/amp/live/ch5/video.m3u8
 https://livestream.telvue.com/nashuanh1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j0UC4ke.png" group-title="United States",Access Sacramento Channel 17
 https://reflect-access-sacramento.cablecast.tv/live-7/live/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sYtDaQ1.png" group-title="United States",Access Tuolumne (Tuolumne County CA) (720p)
-https://reflect-tuolumne.cablecast.tv/live-3/live/stream-1/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vi4TCdb.png" group-title="United States",AccessVision Channel 16
 https://livestream.telvue.com/accvision1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vi4TCdb.png" group-title="United States",AccessVision Channel 17
@@ -179,8 +179,6 @@ https://install.akctvcontrol.com/speed/broadcast/140/desktop-playlist.m3u8
 http://media.smc-host.com:1935/alhorreya.tv/mp4:alhorreya3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/S1YM83i.png" group-title="United States",Al-MahdiTV (1080p)
 https://iptv.almahditv.com/almahditv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3VWF3sj.png" group-title="United States",AlbDreams TV (720p)
-http://live.albavision.net:1123/live/albdreams.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xT10iqB.png" group-title="United States",Aliento Vision (720p) [Not 24/7]
 https://627bb251f23c7.streamlock.net:444/Alientoenvivo/Alientoenvivo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/90ykspa.png" group-title="United States",Alkarma TV Australia (1080p) [Not 24/7]
@@ -197,6 +195,8 @@ https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmapa.smil/playlist.m3u8
 https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmame2.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kpuO8m7.png" group-title="United States",Alkarma TV Youth & English (1080p) [Not 24/7]
 https://5aafcc5de91f1.streamlock.net/alkarmatv.com/alkarmaus.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HZTz5HJ.png" group-title="United States",All Reality by WE tv
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e82530945600e0007ca076c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c268071-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=aa6a05a1-3247-4bc5-bd09-5c548c69aecb
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3pUik3b.png" group-title="United States",Almagd TV Middle East (1080p) [Not 24/7]
 https://597f64b67707a.streamlock.net/almagd.tv/almagd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3pUik3b.png" group-title="United States",Almagd TV North America (1080p)
@@ -351,8 +351,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63
 https://fl1.moveonjoy.com/BOUNCE_TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GzxgSkc.png" group-title="United States",Bounce XL (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-bouncexl-tablo/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/86VXni8.jpeg" group-title="United States",BPX TV Radio
-https://video1.getstreamhosting.com:1936/8212/8212/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Kkcp9Bk.png" group-title="United States",Brat TV (720p) [Geo-blocked]
 https://amg00350-amg00350c1-klowdtv-us-2536.playouts.now.amagi.tv/playlist/amg00350-bratstudiofast-brat-klowdtvus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eUTDIQ2.png" group-title="United States",Brevard County Government Access TV (Brevard FL) (720p)
@@ -379,8 +377,6 @@ https://reflect-stream-bronxnet.cablecast.tv/live-16/live/stream-1/live.m3u8
 https://amg02604-byutv-amg02604c2-firetv-us-4981.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GW4cMfc/cafe-trade-tv.png" group-title="United States",Cafe Trade TV
 https://cafetradehls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/N5uiIJo.png" group-title="United States",Calabasas Channel (480p)
-https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/calabasas/G0009_003/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L38mC6H.png" group-title="United States",California Music Channel (720p) [Not 24/7]
 https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V5h4R83.png" group-title="United States",Camera Smile (480p)
@@ -645,8 +641,6 @@ https://reflect-fcpublicmedia.cablecast.tv/live-5/live/stream-1/live.m3u8
 https://amg00627-banijaygroup-fearfactor-samsungau-9vdod.amagi.tv/playlist/amg00627-banijaygroup-fearfactor-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9UfyekJ.png" group-title="United States",Fernandina Beach City Meeting (Fernandina Beach FL) (720p) [Not 24/7]
 https://edge-f.swagit.com/live/fernandinabeachfl/live-1-a/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YtBZ0Lc/FIDELE-TV.png" group-title="United States",Fidele TV (480p)
-https://59d39900ebfb8.streamlock.net/FIDELETV/FIDELETV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/700px-FIFA%2B_(2025).svg.png" group-title="United States",FIFA+ United States (720p)
 https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8j2npVc.png" group-title="United States",FilmRise Classic TV (720p)
@@ -707,6 +701,10 @@ http://104.143.4.5:2080/funroads.m3u8
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/580e87ff497c73ba2f321dd3/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f174-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=bbaba395-2ecd-414c-971c-2d705e4b67d5
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Oel3q43.png" group-title="United States",Gainesville Community 12TV (Gainesville FL) (720p)
 https://lin10.isilive.ca/live/gainesville/live/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/512px-Galavision_Logo_2013.svg.png" group-title="United States",Galavision (1080p)
+https://d162h6qqsk8wvl.cloudfront.net/8964b6d7-b638-454e-9959-b5fe98c53cc6/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/512px-Galavision_Logo_2013.svg.png" group-title="United States",Galavision West (1080p)
+https://d162h6qqsk8wvl.cloudfront.net/be5f4ade-b334-449f-8d31-1df202cdaa4d/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uzjuxdI.png" group-title="United States",Galveston County TV (720p) [Not 24/7]
 https://edge-f.swagit.com/live/galvestontx/smil:hd-16x9-1-a/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Uuc5h1s.png" group-title="United States",Game Show Central
@@ -1031,6 +1029,8 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/51
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-livenowbyfox-lgus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KFzEoed.png" group-title="United States",LiveXLive
 https://livestream.liveone.com/lc1/p1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FuNpesJ.png" group-title="United States",Living Faith TV (540p)
+https://cdn-unified-hls.streamspot.com/ingest1/0b5c0f18e9/playlist.m3u8?origin=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ACEbGD5.png" group-title="United States",Localish (720p)
 https://aegis-cloudfront-1.tubi.video/0ecc85a2-5e1b-482a-9c69-3eaaee160f2e/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GtNgJ28.png" group-title="United States",Logo Pluto TV
@@ -1127,6 +1127,8 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63
 https://6096a9cf11ae5.streamlock.net:1943/live/missiontv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ym3su2J.png" group-title="United States",MLB
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e66968a70f34c0007d050be/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c29dbd3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0f1d3baf-2f1b-47d7-9966-3e92a98f1c8a
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qo5sk1g.png" group-title="United States",Mobile County Public Schools TV Network (MCPSS)
+https://5b200f5268ceb.streamlock.net/MCPSS/MCPSS247.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tucTC1O.jpg" group-title="United States",Mohabat TV (540p)
 http://media.mohabat.tv:1935/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YJfzdSu.png" group-title="United States",Monroe County Television MCTV (Monroe County FL) (1080p)
@@ -1297,8 +1299,6 @@ https://5790d294af2dc.streamlock.net/8042/8042/playlist.m3u8
 https://livestream.telvue.com/pacificaca1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xJSya25.png" group-title="United States",Pacific Coast TV MWSD Channel 26 (720p)
 https://livestream.telvue.com/pacificaca2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2bGBbOZ.png" group-title="United States",Palm Beach County TV Channel 20 (Palm Beach County FL) (720p)
-https://pbcvideostreams1.pbc.gov/memfs/1af49f9a-6b90-4ec2-a640-7f65ceebed4a.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kBol4Pf.png" group-title="United States",Palm Beaches TV (720p)
 https://live.feed.thepalmbeaches.tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sj5h9bl.png" group-title="United States",Paramount Movie Channel
@@ -1365,8 +1365,6 @@ https://cdn3.wowza.com/5/bGZUOHp2TnhudnM2/phoenix/G1498_006/playlist.m3u8
 https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/pinole/G0032_004/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WahZg3L.png" group-title="United States",Pinole Community Television (PCTV) Channel 28 (Pinole CA) (480p)
 https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/pinole/G0032_002/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CKwmLLN.png" group-title="United States",Placentia TV (Placentia CA) (720p)
-https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/placentia/G0928_002/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tDapGal.png" group-title="United States",Pluto TV Action
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ac632-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9bd2e9c0-393b-484b-b5bc-b1869a276513
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ae5cMo9.png" group-title="United States",Pluto TV Aventura (720p)
@@ -1519,8 +1517,6 @@ https://59d39900ebfb8.streamlock.net/radiotelesentinel/radiotelesentinel/playlis
 https://ocb-ingest.akamaized.net/hls/live/2037032/tvmc01/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TJNXjS2.png" group-title="United States",RadioMensaje TV (720p)
 https://eu1.servers10.com:8081/8230/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TvFKG35.png" group-title="United States",Rancho Cucamonga RCTV3 (Rancho Cucamonga CA) (480p)
-https://vod.cityofrc.us/live-6/live/stream-1/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l7tmTjX.png" group-title="United States",Real America's Voice (720p)
 https://d2jiqiw4g5lj5k.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/AmericasVoiceChannel-prod/AVSamsung/AVSamsung.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T9HHmAO.png" group-title="United States",Real Wild (1080p)
@@ -1733,6 +1729,8 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/67352ed93a61d4000881f9fa/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26a782-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=02a62904-a852-11f0-88b2-b2f52acde718
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p3RAxjp.png" group-title="United States",The Walk TV (720p)
 https://cdn-unified-hls.streamspot.com/ingest1/8b0796adaf/playlist.m3u8?origin=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IwJ5Pnc.png" group-title="United States",The Walking Dead Universe
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62fa8176b9884200074ef5ae/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c4cd4-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ff963292-6aa2-4806-857d-39ad6f5f0e4a
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ltFBrrj.png" group-title="United States",The Word Network (1080p)
 https://clouditize.piksel.tech/hls/live/2043070/ClouditizeStream1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XDNXJCl.png" group-title="United States",The Young Turks (1080p) [Geo-blocked]
@@ -1801,8 +1799,6 @@ https://livetv.305streamhd.com:3504/live/tvhispaniclive.m3u8
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d40bebc5e3d2750a2239d7e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c9af3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5e762bb7-572b-4470-87fd-b3b4bb48462e
 #EXTINF:-1 tvg-logo="https://i.imgur.com/phHHs7l.png" group-title="United States",TV Land Sitcoms
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c2d64ffbdf11b71587184b8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c9af5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b42011ce-d42f-4692-bb1d-2fe02741437a
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zee6sWn.png" group-title="United States",TV Panou (720p) [Not 24/7]
-http://tvpanoucom.srfms.com:1935/tvpanoucom/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G7X4LQI.png" group-title="United States",TV QUISQUEYA (720p)
 https://cloud5.livescast.com:19360/canaltvquisqueya/canaltvquisqueya.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iODADvi.png" group-title="United States",TVE Internacional America (1080p) [Geo-blocked]
@@ -1866,13 +1862,13 @@ https://59e8e1c60a2b2.streamlock.net/509/509.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LmkNt3v.png" group-title="United States",Unbeaten (1080p)
 https://unbeaten-tcl.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Logo_UniM%C3%A1s_2021.svg/512px-Logo_UniM%C3%A1s_2021.svg.png" group-title="United States",UniMas West (1080p)
-https://d162h6qqsk8wvl.cloudfront.net/78cf0d65-af0f-4d9f-a53b-1ba80dd13d10/manifest.m3u8
+https://d162h6qqsk8wvl.cloudfront.net/9958ba17-71e7-4677-aa44-48d468c73d47/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OwSlGMu.png" group-title="United States",Universal Crime
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6549341853fc9700083901ac/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2cc200-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f8ea05b6-c631-4463-8491-a4394e906d3c
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/512px-Logo_Univision_2019.svg.png" group-title="United States",Univision (1080p)
-https://d162h6qqsk8wvl.cloudfront.net/5e0e1258-ebdb-4049-bc2c-56dd474b1ed5/manifest.m3u8
+https://d162h6qqsk8wvl.cloudfront.net/26f19622-d240-4b2a-935a-658ac9cb071b/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/512px-Logo_Univision_2019.svg.png" group-title="United States",Univision West (1080p)
-https://d162h6qqsk8wvl.cloudfront.net/4c23aa6f-4101-4ba6-9a3b-6f5ea9bbce4a/manifest.m3u8
+https://d162h6qqsk8wvl.cloudfront.net/332f0863-839a-4ecb-a160-c941de700aa4/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/De3khrX.png" group-title="United States",Unsolved Mysteries
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5b4e96a0423e067bd6df6901/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2cc202-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1d38cc26-1fa3-46f8-bb13-79fb665ae910
 #EXTINF:-1 tvg-logo="https://i.imgur.com/37K0AZX.png" group-title="United States",USA Today News [Geo-blocked]
@@ -1915,6 +1911,8 @@ https://vicetv-vicefast1-firetv.amagi.tv/playlist.m3u8
 https://tgn.bozztv.com/betterlife/bettervida/bettervida/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jTD9nLE.png" group-title="United States",Village of Hastings-On-Hudson NY (WHOH-TV) (360p)
 https://stream.swagit.com/live-edge/hastingsonhudsonny/smil:std-4x3-1-a/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3FaNbYD.png" group-title="United States",Vision Global TV (720p) [Geo-blocked]
+https://vdopanel.jlahozconsulting.com:3407/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TmqComb.png" group-title="United States",VOA Persian
 https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rtRnlqN.png" group-title="United States",VOA TV Africa (1080p)
@@ -2041,8 +2039,6 @@ https://2-fss-1.streamhoster.com/pl_122/amlst:201814-2122456/playlist.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wnyw-lgus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EoL0pgf.png" group-title="United States",WOIO-DT1 (720p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00312-graytelevisioni-cleveland19newsplus-vizious/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ooby0ka.png" group-title="United States",Wolcott Governmental TV (Wolcott CT) (720p)
-https://5a5c57d042315.streamlock.net/live11704001/ngrp:government_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rhIwUcQ.png" group-title="United States",Women's Sports Network (720p)
 https://aegis-cloudfront-1.tubi.video/e974981b-bbcd-42a3-a6c1-6c25e14f10bd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/World_Channel_2023.svg" group-title="United States",World Channel (1080p)
