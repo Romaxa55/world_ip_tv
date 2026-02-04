@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bSXKdK5.png" group-title="Ukraine",100% News (576p)
 http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k4C0uvp.png" group-title="Ukraine",Crimea 24 (576i)
+https://cdn.1tvcrimea.ru/24tvcrimea.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hKo8ApU.png" group-title="Ukraine",Current Time TV
 https://dash3.antik.sk/live/test_current_time_atktv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mbPTVh1.png" group-title="Ukraine",DniproTV (1080p)
@@ -17,8 +19,6 @@ https://cdn10.live-tv.cloud/itvrv/abr-lq/playlist.m3u8
 https://cdn10.live-tv.cloud/izod/izod-abr-lq/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AfcBWCg.png" group-title="Ukraine",M2 (540p)
 https://live.m2.tv/hls3/stream.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Ukraine",Nickelodeon (1080p)
-https://liveovh010.cda.pl/enc010/nickelodeonraw/nickelodeonraw.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i6hg7QG.png" group-title="Ukraine",Perviy Krymskiy (720p)
 https://live1.1tvcrimea.ru/1tvcrimea.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qL1uNlW.png" group-title="Ukraine",Renome (576p)
@@ -39,8 +39,6 @@ http://194.50.51.34/playlist.m3u8
 http://85.238.112.69:8811/hls_sec/239.0.4.18-.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pVPTl8J.png" group-title="Ukraine",За!ТВ
 https://streaming.televizor-24-tochka.ru/live/25.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/k4C0uvp.png" group-title="Ukraine",Крым 24
-https://streaming.televizor-24-tochka.ru/live/28.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jdy4SoG.png" group-title="Ukraine",Ланет.TV (486p)
 https://kiev1-cdn.lanet.tv/live/1008.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/z9t6x8B.png" group-title="Ukraine",Легендарный 24

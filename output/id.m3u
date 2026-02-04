@@ -13,6 +13,8 @@ https://ams.juraganstreaming.com:5443/LiveApp/streams/ashiiltv2.m3u8
 https://hgmtv.com:19360/asthatv/asthatv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Atambua_TV.png" group-title="Indonesia",Atambua TV (720p)
 http://122.248.43.242:1935/ATAMBUATV/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uH1Szme.png" group-title="Indonesia",Bali TV (576i)
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000042/1024.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/P3whqna.png" group-title="Indonesia",Balikpapan TV (720p)
 https://5bf7b725107e5.streamlock.net/btv/btv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/D0WYpKD6/bandungtv.png" group-title="Indonesia",Bandung TV (360p)
@@ -47,8 +49,6 @@ https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
 https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4Khyyfh.png" group-title="Indonesia",Dhoho TV (720p)
 https://dhohotv.siar.us/dhohotv/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3iC41QX.png" group-title="Indonesia",DM TV Malang
-https://e.siar.us/live/dmtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/B4JW54M.png" group-title="Indonesia",Duta TV (360p) [Not 24/7]
 https://dutatv.siar.us/dutatv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/x5uoy2H.png" group-title="Indonesia",Elshinta TV
@@ -77,8 +77,6 @@ http://122.248.43.242:1935/JAWAPOSTVMAGELANG/_definst_/myStream/playlist.m3u8
 http://122.248.43.242:1935/JAWAPOSTVSEMARANG/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VEqQfTu.png" group-title="Indonesia",Jogja Istimewa TV (720p)
 http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mIDWIQk.png" group-title="Indonesia",JTV (480p)
-http://122.248.43.242:1935/JTVSURABAYA/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mIDWIQk.png" group-title="Indonesia",JTV Kediri
 http://122.248.43.242:1935/JTVKEDIRI/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Logo_kawanua_tv.png" group-title="Indonesia",Kawanua TV (720p)
@@ -99,8 +97,6 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 https://wahyu1ptv.pages.dev/MDTV-HD.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QnU70NI.png" group-title="Indonesia",Metro TV
 https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MYU7dsZ.png" group-title="Indonesia",MGS TV (720p) [Not 24/7]
-https://cdn.gunadarma.ac.id/streams/mgstv/ingestmgstv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/d8dQo6E.png" group-title="Indonesia",MQTV (720p) [Not 24/7]
 https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/viun5hj.png" group-title="Indonesia",Nusantara TV (1080p)
@@ -167,6 +163,8 @@ https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
 https://e.siar.us/live/tvmu.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2YhDH98.png" group-title="Indonesia",TV Tabalong (720p) [Not 24/7]
 https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BAklJGy.png" group-title="Indonesia",TVKU (720p)
+https://tvku.tv/hlsstream/hls/live.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvOne_2023.svg/2560px-TvOne_2023.svg.png" group-title="Indonesia",tvOne (576i)
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000018/1024.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2XYpmHL.png" group-title="Indonesia",TVR Parlemen (720p) [Not 24/7]
@@ -187,6 +185,8 @@ https://ott-balancer.tvri.go.id/live/eds/Gorontalo/hls/Gorontalo.m3u8
 https://ott-balancer.tvri.go.id/live/eds/DKI/hls/DKI.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="Indonesia",TVRI Jambi (720p) [Not 24/7]
 https://ott-balancer.tvri.go.id/live/eds/Jambi/hls/Jambi.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="Indonesia",TVRI Jawa Barat (480p)
+https://ott-balancer.tvri.go.id/live/eds/Jabar/hls/Jabar.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="Indonesia",TVRI Jawa Tengah (720p)
 https://ott-balancer.tvri.go.id/live/eds/Jateng/hls/Jateng.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="Indonesia",TVRI Jawa Timur (720p)
@@ -197,8 +197,6 @@ https://ott-balancer.tvri.go.id/live/eds/Kalbar/hls/Kalbar.m3u8
 https://ott-balancer.tvri.go.id/live/eds/Kalsel/hls/Kalsel.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="Indonesia",TVRI Kalimantan Tengah (480p)
 https://ott-balancer.tvri.go.id/live/eds/Kalteng/hls/Kalteng.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="Indonesia",TVRI Kalimantan Timur (720p)
-https://ott-balancer.tvri.go.id/live/eds/Kaltim/hls/Kaltim.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="Indonesia",TVRI Lampung (720p)
 https://ott-balancer.tvri.go.id/live/eds/Lampung/hls/Lampung.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="Indonesia",TVRI Maluku (480p)
