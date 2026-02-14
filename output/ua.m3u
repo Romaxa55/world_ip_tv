@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bSXKdK5.png" group-title="Ukraine",100% News (576p)
-http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mbPTVh1.png" group-title="Ukraine",DniproTV (1080p)
 http://vcdn1.produck.company:1935/out/dtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xNatV8K.png" group-title="Ukraine",Espreso TV (1080p)
@@ -23,6 +21,8 @@ https://stream.rai.ua/rai/stream.m3u8
 https://cdn10.live-tv.cloud/riood/tisod-abr/riood/tisod720/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ytz7jYV.png" group-title="Ukraine",TV Rivne 1 (720p)
 https://cdn1.live-tv.cloud/rivne1/rivne1-abr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.teleon.tv/logo/balta-tv-ua.png" group-title="Ukraine",Балта ТВ (768p)
+http://194.50.51.34/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l5FEP9w.png" group-title="Ukraine",Глас (576p)
 http://85.238.112.69:8811/hls_sec/239.0.4.18-.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pVPTl8J.png" group-title="Ukraine",За!ТВ
@@ -41,8 +41,6 @@ https://dash3.antik.sk/live/test_current_time_atktv/playlist.m3u8
 https://stream.ntktv.ua/s/ntk/ntk.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/skkDR7q.png" group-title="Ukraine",НТС (Севастополь) (1080p) [Not 24/7]
 https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jFP50g2.png" group-title="Ukraine",Общественное Независимое Телевидение (576p)
-http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Bj4T9wB/logo-Orbita-fin14.png" group-title="Ukraine",Орбіта ТВ (360p) [Not 24/7]
 http://ftp.orbita.dn.ua/hls/orbita.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8qdc6aO.png" group-title="Ukraine",Первый городской (Одесса) (1080p) [Not 24/7]

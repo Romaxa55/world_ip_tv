@@ -3,12 +3,14 @@
 https://live20.bozztv.com/giatv/giatv-adoram/adoram/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dyJyuXc.png" group-title="Dominican Republic",Ahora TV (720p)
 https://tv.livestreaminggroup.info:3513/live/canal35live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DBvm7YS.png" group-title="Dominican Republic",AION TV (1080p) [Not 24/7]
-https://mlb.essastream.com:8081/aiontelevision/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O6USO8r.png" group-title="Dominican Republic",Alegre TV RD (720p) [Not 24/7]
 https://streamunoapp.com:3149/live/alegretvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MUEbjeP.png" group-title="Dominican Republic",Ame 47 (576p)
 https://ss2.tvrdomi.com:1936/ame47/ame47/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zKWFgeQ.png" group-title="Dominican Republic",Antena 7 (720p)
+https://d3mhrz6vhsrmmq.cloudfront.net/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QE0XWLh.png" group-title="Dominican Republic",Antena 21 (480p) [Not 24/7] [Geo-blocked]
+https://alba-do-antena7-c21.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I2wRq88.png" group-title="Dominican Republic",Bajo Techo TV (1080p) [Not 24/7]
 https://fox.hostlagarto.com:8081/bajotechotv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bebeto-tv-do.png" group-title="Dominican Republic",Bebeto TV (1080p)
@@ -37,8 +39,6 @@ https://tv.livestreaminggroup.info:3052/live/catorcetvlive.m3u8
 https://s.emisoras.tv:8081/dtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/puOrL7B.jpg" group-title="Dominican Republic",Canal Multivision (720p) [Not 24/7]
 https://live20.bozztv.com/akamaissh101/ssh101/canalmulti24/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gK0M1jB.png" group-title="Dominican Republic",Canal Sol (720p)
-https://5790d294af2dc.streamlock.net/sol65/sol65/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://canaldahd.com/wp-content/uploads/2023/03/cropped-canaldahdlogo-1.png" group-title="Dominican Republic",Canalda 26 HD [Not 24/7]
 https://canalda.rgradio.net:3084/live/canaldalive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/isXlMAh.png" group-title="Dominican Republic",Cananga TV (720p)
@@ -89,8 +89,6 @@ https://eu1.servers10.com:8081/8128/index.m3u8
 https://cnn.hostlagarto.com/telesiglo/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6ML2z17.png" group-title="Dominican Republic",De Ultimo Minuto TV
 https://soportedvb.click:3620/live/deultimominutomedialive.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/Pw7ZUT1.jpg" group-title="Dominican Republic",Del Pueblo TV [Not 24/7]
-https://vdopanel.jlahozconsulting.com:3869/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Z1K1tyl.jpg" group-title="Dominican Republic",Delta TV Canal 50 (720p) [Not 24/7]
 https://fox.hostlagarto.com:8081/deltatv50/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v3mkmZa.png" group-title="Dominican Republic",Digital 15 (1080p)
@@ -113,8 +111,6 @@ https://5bf8041cb3fed.streamlock.net/PuertoTV/PuertoTV/playlist.m3u8
 https://5790d294af2dc.streamlock.net/canal6/canal6/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VqxSsZD.png" group-title="Dominican Republic",Elias Pina TV (720p) [Not 24/7]
 https://cloud2.streaminglivehd.com:1936/8078/8078/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nePOFZW.png" group-title="Dominican Republic",Enntivision (1080p) [Not 24/7]
-https://mlb.essastream.com:8081/enntivision/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gVtLpMD.png" group-title="Dominican Republic",Entelevisión (720p)
 https://tv.livestreaminggroup.info:3985/live/entelevisionlive.m3u8
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3508-294x165-FFFFFF.jpg" group-title="Dominican Republic",Enterate RD [Not 24/7]
@@ -127,14 +123,14 @@ https://streamtv.intervenhosting.net:3754/hybrid/play.m3u8
 https://vdopanel.jlahozconsulting.com:3706/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T9vWjeB.png" group-title="Dominican Republic",Fuego TV [Not 24/7]
 https://streamunoapp.com:3553/live/cromtvlive.m3u8
-#EXTINF:-1 tvg-logo="https://grupomediosdelnorte.com/iptv/galaxia.png" group-title="Dominican Republic",Galaxia TV (360p)
-https://streaming.grupomediosdelnorte.com:19360/galaxiateve/galaxiateve.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xhkiiO3.png" group-title="Dominican Republic",GH Television (1080p) [Not 24/7]
 https://fox.hostlagarto.com:8081/ghtelevision/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/br9TNG8.png" group-title="Dominican Republic",Gi Television (720p) [Not 24/7]
-https://canal.gitelevisionserver.com/live/DIEEFIh506fL8huspvl0f0c2PZF3/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1rQaROm.png" group-title="Dominican Republic",Global TV (720p)
 https://stmv4.voxtvhd.com.br/globaltv/globaltv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PBgQi9a.png" group-title="Dominican Republic",Guaymate TV (720p) [Not 24/7]
+https://live20.bozztv.com/akamaissh101/ssh101/guaymatetv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eoodUNJ.png" group-title="Dominican Republic",Haina Vision (720p)
+https://cdn.streamingcpanel.com:3447/live/hainavisionlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cbKgcGh.png" group-title="Dominican Republic",Hermanas Mirabal TV (720p) [Not 24/7]
 https://cnn.essastream.com:3091/live/hmtvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E7ta6g8.png" group-title="Dominican Republic",Hilando Fino TV (1080p)
@@ -163,6 +159,8 @@ https://streamunoapp.com:3983/live/larutatvlive.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-208429/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zv8CxZX.png" group-title="Dominican Republic",La Voz de Maria (720p)
 https://live.lavozdemaria.com:3436/live/lavozdemarialive.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DKDFpHt.png" group-title="Dominican Republic",La Voz del Tropico (480p) [Geo-blocked]
+https://ss2.tvrdomi.com:1936/lavozdeltropico/lavozdeltropico/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.larivision.com/web/wp-content/uploads/2025/07/logow.png" group-title="Dominican Republic",Larivision TV [Not 24/7]
 https://live.larimartv.net/livelan/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/duEDsne.png" group-title="Dominican Republic",Latin Zone TV (720p)
@@ -199,8 +197,6 @@ https://cdn.streamingcpanel.com:3526/live/teleraiceslive.m3u8
 https://cdn3.streamgato.us:3938/live/nexxotvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/z9JkxcM.png" group-title="Dominican Republic",Nitida TV (720p) [Not 24/7]
 https://vs20.live.opencaster.com/bznudxxdtppv/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/noticias-16-do.png" group-title="Dominican Republic",Noticias 16 (720p) [Not 24/7]
-https://mlb.essastream.com:8081/noticias16/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://rdomint.com/images/station/300.jpg" group-title="Dominican Republic",Notisur TV [Not 24/7]
 https://ss2.tvrdomi.com:1936/notisur/notisur/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/0fWQS53.png" group-title="Dominican Republic",Nueva Vision 14 [Not 24/7]
@@ -211,8 +207,6 @@ https://cnn.hostlagarto.com/oepmtelevision/tracks-v1a1/mono.m3u8
 https://cnn.hostlagarto.com/ondatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lizQs3n.png" group-title="Dominican Republic",ORBIT TV (1080p) [Not 24/7]
 https://cnn.hostlagarto.com/orbittv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3801-294x165-FFFFFF.jpg" group-title="Dominican Republic",OxiTV (720p) [Not 24/7]
-https://streamunoapp.com:3520/live/oxitvcanal36live.m3u8
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3449-294x165-FFFFFF.jpg" group-title="Dominican Republic",P3TV [Not 24/7]
 https://5790d294af2dc.streamlock.net/8042/8042/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3328-294x165-FFFFFF.jpg" group-title="Dominican Republic",Palmar TV [Not 24/7]
@@ -223,12 +217,12 @@ https://ss2.tvrdomi.com:1936/peraviavision/peraviavision/playlist.m3u8
 https://fox.hostlagarto.com:8081/pulatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KF7fLTx.png" group-title="Dominican Republic",Punta Cana TV (720p) [Not 24/7]
 https://fox.hostlagarto.com:8081/puntacanatv/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/vfvN6ox.png" group-title="Dominican Republic",Punto TV (1080p) [Not 24/7]
+https://fox.hostlagarto.com:8081/puntotv/index.m3u8
 #EXTINF:-1 tvg-logo="https://puntotvdigital.net/wp-content/uploads/2024/02/logo.png" group-title="Dominican Republic",Punto TV Digital 40 [Geo-blocked]
 https://ss2.tvrdomi.com:1936/puntotvdigital/puntotvdigital/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3039-294x165-FFFFFF.jpg" group-title="Dominican Republic",R Television [Not 24/7]
 https://vdopanel.jlahozconsulting.com/p/3142/hybrid/play.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HpKQYp3.png" group-title="Dominican Republic",R&E TV (720p)
-https://live.ryetv.net/livelan/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/x02CGSW.png" group-title="Dominican Republic",RDN (1080p) [Not 24/7]
 https://mlb.essastream.com:8081/rdntv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZONPQhR.png" group-title="Dominican Republic",Ready TV Canal 6 (720p) [Not 24/7]
@@ -255,12 +249,12 @@ https://soportedvb.click:3494/live/senaldigitaltvlive.m3u8
 https://streamunoapp.com:3809/live/siembratvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/io9o30K.jpg" group-title="Dominican Republic",Sima Vision TV (720p)
 https://soportedvb.click:3668/live/simavisiontvlive.m3u8
+#EXTINF:-1 tvg-logo="https://rdomint.com/images/station/domint1705img07-27-20221658956991.jpeg" group-title="Dominican Republic",Solucion TV (720p) [Not 24/7]
+https://ss2.tvrdomi.com:1936/soluciontv/soluciontv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/twGGfJr.png" group-title="Dominican Republic",Su Mundo TV (1080p)
 https://175036.global.ssl.fastly.net/6217e980d5bee0e090792fdf/live_75f5635097ba11ecb9f1255c8fe65a34/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TJEqwZo.png" group-title="Dominican Republic",Super7FM (720p)
 https://tv.livestreaminggroup.info:3295/live/super7tvlive.m3u8
-#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3431-294x165-FFFFFF.jpg" group-title="Dominican Republic",Super Digital TV (720p) [Not 24/7]
-https://inliveserver.com:1936/11516/11516/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-WO2ZKryfWoU/Wr1pO5clk_I/AAAAAAAAdJk/QYRg8_bp4OgmIWI55Y4m6i5o8RiWfCHWwCLcBGAs/s200/SuperTV55.jpg" group-title="Dominican Republic",Super TV 55 (720p) [Geo-blocked]
 https://ss2.tvrdomi.com:1936/supertv55/supertv55/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/small/supremateve.jpeg" group-title="Dominican Republic",Supremateve (720p) [Not 24/7]
@@ -315,14 +309,12 @@ http://200.125.170.122:8000/play/a0ci/index.m3u8
 https://fox.hostlagarto.com:8081/teleturtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gQev8ST.png" group-title="Dominican Republic",Teleuniverso (720p)
 https://videoserver.tmcreativos.com:19360/kptjeckkaa/kptjeckkaa.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/ejKctXc.png" group-title="Dominican Republic",Telever (1080p) [Not 24/7]
+https://soportedvb.click:3413/live/televerlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/S8Zdn41.png" group-title="Dominican Republic",Televida (1080p) [Not 24/7]
 https://fox.hostlagarto.com:8081/televida/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mmjbcGr.png" group-title="Dominican Republic",Television del Este (1080p) [Not 24/7]
 https://mlb.essastream.com:8081/televisiondeleste/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cPIgs0v.png" group-title="Dominican Republic",Tenarenses TV (1080p) [Not 24/7]
-https://mlb.essastream.com:8081/tenarensestvrd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/tigueritos-tv.jpg" group-title="Dominican Republic",Tiguerito TV (720p) [Not 24/7]
-https://ss2.tvrdomi.com:1936/tigueritostv/tigueritostv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gia.tv/streams/pptv/208314.jpg?1750373428" group-title="Dominican Republic",Tom And Jerry
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3900-294x165-FFFFFF.jpg" group-title="Dominican Republic",Topical Moon RD (720p) [Not 24/7]
@@ -347,6 +339,8 @@ https://streaming.grupomediosdelnorte.com:19360/tvexitos/tvexitos.m3u8
 https://livetv.305streamhd.com:3504/live/tvhispaniclive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FZUQ2WP.png" group-title="Dominican Republic",TV Luz (480p)
 https://host.streamingnation.live/p/3780/live/tvluzlive.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DHyRWc0.png" group-title="Dominican Republic",TV Montana Canal 10 (1080p) [Not 24/7]
+https://live20.bozztv.com/akamaissh101/ssh101/tvmontanahd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r3urUnn.png" group-title="Dominican Republic",TV Plata (720p) [Geo-blocked]
 https://ss2.tvrdomi.com:1936/tvplata/tvplata/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G7X4LQI.png" group-title="Dominican Republic",TV QUISQUEYA (720p)
@@ -377,7 +371,5 @@ https://cloudflare.streamgato.us:3820/live/visionndvlive.m3u8
 https://cnn.livestreaminggroup.info:3507/live/vtv32live.m3u8
 #EXTINF:-1 tvg-logo="https://xtratvrd.com/logo512.png" group-title="Dominican Republic",Xtra Tv (720p) [Not 24/7]
 https://mlb.essastream.com:8081/xtratv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bvPh0Uq.png" group-title="Dominican Republic",Xtremo Channel (720p) [Geo-blocked]
-https://ss2.tvrdomi.com:1936/xtremochannel/xtremochannel/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/B3PrrMH.png" group-title="Dominican Republic",Zonavision TV [Not 24/7]
 https://ds.tvabierta.net/memfs/b295f254-7af9-45e4-bfc6-7e0bba41929d.m3u8
