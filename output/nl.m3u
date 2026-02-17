@@ -13,8 +13,6 @@ https://takeoff.jetstre.am/?account=atvijf&file=live&output=playlist.m3u8&protoc
 https://tv.beatfm.nl/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/d0KLwkj.png" group-title="Netherlands",BNR Nieuwsradio (720p) [Geo-blocked]
 https://bnr-cache-cdp.triple-it.nl/studio/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/BVN_logo.svg/512px-BVN_logo.svg.png" group-title="Netherlands",BVN
-https://viamotionhsi.netplus.ch/live/eds/bvn/browser-dash/bvn.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fGAaBAs.png" group-title="Netherlands",Dit is Helmond (480p)
 http://ms2.mx-cd.net/tv/Omroep_Helmond.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aFBNbsy.png" group-title="Netherlands",DTV Den Bosch (1080p)
@@ -75,6 +73,8 @@ https://ms2.mx-cd.net/tv/272-2641704/Hoeksche_Waard_TV.smil/playlist.m3u8
 https://ms7.mx-cd.net/tv/280-2963002/Omroep_Hulst_TV.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Pt2gXJ1.png" group-title="Netherlands",Omroep Land van Cuijk (720p)
 https://d3go236bg358u.cloudfront.net/nlpo/clr-nlpo/omroeplandvancuijk/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FqyTFVN.png" group-title="Netherlands",Omroep Lingewaard (720p)
+https://highvolume02.streampartner.nl/omroeplingewaard_1/omroeplingewaard_1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XtKLmQS.png" group-title="Netherlands",Omroep Súdwest (720p)
 https://d2ecwd3cgy6wo0.cloudfront.net/nlpo/clr-nlpo/omroepsudwest/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PfvzX8N3/omroeptilburg.png" group-title="Netherlands",Omroep Tilburg (480p) [Not 24/7]
@@ -217,6 +217,8 @@ https://livestreaming.b67buv2.tweedekamer.nl/live/wttewaallvanstoetwegenzaal/ind
 http://media.rtvutrecht.nl/live/rtvutrecht/ustad/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4xswf3pq/vechtdaltv.png" group-title="Netherlands",Vechtdal TV (480p)
 https://ms2.mx-cd.net/tv/81-334271/VechtdalTV.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4XCwuob.png" group-title="Netherlands",WEEFF TV (1080p)
+https://takeoff.jetstre.am/?account=weeff&file=weeffradio&output=playlist.m3u8&protocol=https&service=wowza&type=live
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cLL97H6Y/weertfmtv.png" group-title="Netherlands",WeertFM TV (720p)
 https://ms2.mx-cd.net/tv/151-573495/WeertFM_TV.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L7MUBIo.png" group-title="Netherlands",WOS TV (1080p)
