@@ -3,6 +3,8 @@
 https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Spu4s89.png" group-title="California",AABC TV (480p)
 https://streamer1.connectto.com/AABC_WEB_1201/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png" group-title="California",ABC 10 San Diego CA (KGTV) (720p)
+https://aegis-cloudfront-1.tubi.video/1a352414-3a30-4f42-b14b-c091d02a5e45/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3ZhrthD.png" group-title="California",Access Media Productions Channel (720p)
 https://dlttx48mxf9m3.cloudfront.net/vod_clients/amp/live/ch1/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nfur3FR.png" group-title="California",Access Media Productions Community Channel (720p)
@@ -17,6 +19,8 @@ https://dlttx48mxf9m3.cloudfront.net/vod_clients/amp/live/ch5/video.m3u8
 https://reflect-access-sacramento.cablecast.tv/live-7/live/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sYtDaQ1.png" group-title="California",Access Tuolumne (Tuolumne County CA) (720p)
 https://reflect-tuolumne.cablecast.tv/live-3/live/stream-1/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6lklsyN.png" group-title="California",AssyriaSat (720p) [Not 24/7]
+http://66.242.170.53/hls/live/temp/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NRrJ6xb.png" group-title="California",Beverly Hills Television 10 (720p)
 https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/beverlyhills/G0072_006/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3Gqc5f2.png" group-title="California",Beverly Hills Television 35 (720p)
@@ -97,16 +101,12 @@ https://streaming-live-fcdn.api.prd.univisionnow.com/kftr/kftr.isml/hls/kftr.m3u
 https://streaming-live-fcdn.api.prd.univisionnow.com/kmex/kmex.isml/hls/kmex.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="California",KNBC-DT1 (1080p)
 https://nbculocallive.akamaized.net/hls/live/2037084/losangeles/stream1/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/v1ojdQb.jpg" group-title="California",KPIX CBS (San Francisco CA)
-http://fl41.moveonjoy.com/CA_SAN_FRANCISCO_CBS/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/PBS_logo_2019.svg" group-title="California",KQED-DT2
 https://kqeddt2.lls.pbs.org/kqeddt2-hls.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TLN_2015.png/512px-TLN_2015.png" group-title="California",KQSL Channel 8 (720p)
 https://uni01rtmp.tulix.tv/kqsltv/kqsltv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Estrella_TV_Logo_2020.png/512px-Estrella_TV_Logo_2020.png" group-title="California",KRCA-TV Estrella Los Angeles (720p)
 https://content.uplynk.com/channel/829a8c85f9e840c6bed963856c231428.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="California",KSBW NBC (Monterey CA)
-http://fl41.moveonjoy.com/CA_MONTEREY_CBS/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="California",KSBY News San Louis Obispo CA (720p)
 https://content.uplynk.com/channel/5545aa8a7e5a480d85fd1cff8d0cf610.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HFmkjiR.png" group-title="California",KSCN-DT1
@@ -133,12 +133,24 @@ https://edge-f.swagit.com/live/longbeachca/live-3-a/playlist.m3u8
 https://reflect-channel36-la.cablecast.tv/live-3/live/stream-1/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BJhrvtL.png" group-title="California",Majestad Televisión (480p) [Not 24/7]
 https://livetv.305streamhd.com:3667/live/majestadtvlive.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RPJiolQ.png" group-title="California",Midpen Media Center Arts Issues and Lifestyles Channel 30 (720p)
+https://5c2974786200d.streamlock.net/live-chan30/ngrp:ch30_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RPJiolQ.png" group-title="California",Midpen Media Center Diversity and Culture Channel 75 (720p)
+https://5c2974786200d.streamlock.net/live-chan75/ngrp:ch75_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aX1GkCD.png" group-title="California",Midpen Media Center Government etc Channel 26 (720p)
+https://5c2974786200d.streamlock.net/live-chan26/ngrp:ch26_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RPJiolQ.png" group-title="California",Midpen Media Center Government etc Channel 29 (720p)
+https://5c2974786200d.streamlock.net/live-chan29/ngrp:ch29_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RPJiolQ.png" group-title="California",Midpen Media Center Youth Education and Sports Channel 28 (720p)
+https://5c2974786200d.streamlock.net/live-chan28/ngrp:ch28_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VXbHin6.png" group-title="California",Millbrae Community Television (720p)
 https://685c08ed6d81a.streamlock.net/live/mp4:MCTV_aac/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OOQqMQz.png" group-title="California",Moorpark Government Channel (360p)
 https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/moorpark/G0086_003/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="California",NBC 3 Sacramento CA (KCRA) (720p)
 https://aegis-cloudfront-1.tubi.video/5e3aff30-070f-4951-aa59-5ca415acb3c1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="California",NBC 8 Salinas CA (KSBW) (720p)
+https://aegis-cloudfront-1.tubi.video/8e6af50d-76df-4208-ab8d-3ff8f512cd38/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="California",NBC West (San Diego) (1080p) [Not 24/7]
 https://nbculocallive.akamaized.net/hls/live/2037098/sandiego/stream1/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3YPvfPn.png" group-title="California",NCM Educational & Kids Channel
