@@ -43,8 +43,6 @@ https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Stream/Live/CNews.m3
 https://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/2019_Disney_Junior_logo.svg" group-title="France",Disney Jr.
 http://151.80.18.177:86/Disney_Junior_HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Pw1ifln.png" group-title="France",DNTV
-https://tv.num221tech.com:5443/LiveApp/streams/dntv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QPpbRcZ.png" group-title="France",Equidia (1080p)
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/live2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="France",Euronews French (720p)
@@ -75,6 +73,8 @@ https://amg01596-gongnetworks-gong-ono-vh5f2.amagi.tv/1080p-vtt/index.m3u8
 https://srv.webtvmanager.fr:3697/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/69/Ici_Elsass.svg" group-title="France",ici Elsass
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/icielsass.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fVhrJHK.png" group-title="France",ILTV (720p)
+https://live.creacast.com/iltv/smil:iltv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M1Ee79b.png" group-title="France",KOZOOM TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kozoom-tv/manifest.m3u8?ads.vf=gPEEXzG-WvO
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t35zhM9.png" group-title="France",L'Equipe (1080p)
@@ -89,12 +89,6 @@ https://live.creacast.com/littoralfm-ch1/stream/playlist.m3u8
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/lyoncapitale.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uYpc6nE.png" group-title="France",Maison & Travaux TV
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/maisonettravaux.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/REN30bx.png" group-title="France",MDL (720p)
-http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9GVyQ6x.png" group-title="France",Melody
-https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/radiokaraoke.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5BZwRFs.png" group-title="France",Men's UP TV
-https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/mensuptv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/99h8F1y.jpeg" group-title="France",Monte Carlo Digital Television (1080p)
 https://fl718492-exthls-p1.flovp.com/fl718492/live/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/64nzKEu.jpg" group-title="France",Mouv' TV
@@ -145,8 +139,6 @@ https://483a1e90c18641c9a6d27becd41ad892.mediatailor.us-west-2.amazonaws.com/v1/
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64edf6eaa7ec0d000812f58c/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=07998d5d-dd4a-4bcc-84be-58dcbcec76b7&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=061ae646-64e1-42ef-a88e-f6b1a0e57291
 #EXTINF:-1 tvg-logo="https://www.sudradio.fr/wp-content/themes/sud-2023/assets/img/logo-fondblanc-parlons.png" group-title="France",Sud Radio
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/sudradio.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logo_de_la_chaine_T18.svg/langfr-512px-Logo_de_la_chaine_T18.svg.png" group-title="France",T18 (1080p)
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t18/t18-dm.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G1SCqNI.png" group-title="France",Telenantes
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/telenantes.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bC3qiGK.png" group-title="France",Telesud
