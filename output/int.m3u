@@ -207,6 +207,8 @@ https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 https://bild-und-ton.stream/die-neue-zeit-tv-live/smil:dnz-de.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" group-title="International",Disney Channel Latin America (1080p)
 http://201.230.121.186:8000/play/a0fb/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Pw1ifln.png" group-title="International",DNTV
+https://tv.num221tech.com:5443/LiveApp/streams/dntv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="International",DW Arabic (1080p)
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="International",DW English (1080p)
@@ -369,8 +371,6 @@ https://d4g9wh8d4wiaw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://live20.bozztv.com/giatvplayout7/giatv-208429/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/q6cQzbv.png" group-title="International",Lao-Thai TV (720p)
 https://livefta.malimarcdn.com/ftaedge00/laothaius.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/duEDsne.png" group-title="International",Latin Zone TV (720p)
-https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hBswXYZ.png" group-title="International",LiraTV (720p)
 https://cloud2.streaminglivehd.com:1936/liratv/liratv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Kr3U3Ub.png" group-title="International",Logos TV (1080p) [Not 24/7]
@@ -441,8 +441,6 @@ https://nhk.lls.pbs.org/index.m3u8
 http://161.248.38.40:8000/play/a074/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KT4tdQs.png" group-title="International",Nick Jr. Latin America (480p)
 http://38.199.6.1:17001/play/a0pb/index.m3u8
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NICK/images/LOGO_HD/image.png" group-title="International",Nickelodeon (576p)
-http://103.229.254.25:7001/play/a0cq/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Nickelodeon_Junior.png/512px-Nickelodeon_Junior.png" group-title="International",Nickelodeon Junior
 http://151.80.18.177:86/Nickelodeon_Junior/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iyFXcDy.png" group-title="International",NTD TV Asia-Pacific
@@ -497,8 +495,6 @@ https://pmcrohls.wns.live/hls/stream.m3u8
 https://backend.energeek.cl/webtv/pridetvweb/index.m3u8?token=ZZDemoIPTVGH
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YfQEflM.png" group-title="International",Pro100TV
 https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7oTsfQ4.png" group-title="International",Probashi TV News
-http://158.69.24.53:8080/probashi_tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IRyFTWq.png" group-title="International",Qello Concerts by Stingray (1080p)
 https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DjgNNHK.png" group-title="International",Qwest TV (1080p)
@@ -571,6 +567,8 @@ http://103.229.254.25:7001/play/a0dl/index.m3u8
 https://live20.bozztv.com/giatv/giatv-Infinittyott/Infinittyott/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.frequency.com/studio/itv/channels/1224-400x200.png" group-title="International",Space Live powered by sen (1080p)
 https://880ca9c9341c405f83d8664a18cc7134.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1224-SPACELIVE-LG-UK/mt/lg-uk/1224/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NDbWxqF.png" group-title="International",Sportdigital FUSSBALL HD (1080p)
+https://live20.bozztv.com/akamaissh101/ssh101/sportdigtal1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6NUpxhr.png" group-title="International",STAR International (720p)
 https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/stimmungsgarten-tv-de.png" group-title="International",Stimmungsgarten TV
@@ -669,12 +667,12 @@ https://engbrics.mediacdn.ru/cdn/brics/english/playlist.m3u8
 https://mlb.essastream.com:8081/dajatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eThe0io.png" group-title="International",TV Hispanic [Not 24/7]
 https://livetv.305streamhd.com:3504/live/tvhispaniclive.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AFb712e.png" group-title="International",TV Maná Brasil (1080p)
-https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/TVMonaco_2023.svg/512px-TVMonaco_2023.svg.png" group-title="International",TV Monaco (1080p)
 https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zee6sWn.png" group-title="International",TV Panou (720p) [Not 24/7]
 http://tvpanoucom.srfms.com:1935/tvpanoucom/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://en.tvpunjab.com/storage/2022/03/logo-2022.png" group-title="International",TV Punjab (720p) [Geo-blocked]
+https://932y483pdjv8-hls-live.5centscdn.com/stream/deb10bae362f810630ec3abedcae5894.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G7X4LQI.png" group-title="International",TV QUISQUEYA (720p)
 https://cloud5.livescast.com:19360/canaltvquisqueya/canaltvquisqueya.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E3YmlxF.png" group-title="International",TV SLO 1 HD (1080p) [Not 24/7]
