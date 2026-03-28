@@ -31,6 +31,8 @@ https://edge-ar.rcs-rds.ro/digi24ar/index.m3u8
 https://live.dottotv.ro/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TdKO0er.png" group-title="Romania",Hello Taste (720p)
 https://stream1.antenaplay.ro/live/HelloTaste/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9bz15ad.png" group-title="Romania",Hunedoara 1 (480p) [Not 24/7]
+https://netstreaming.eu/hd1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G5mNdpE.png" group-title="Romania",Impact TV Dance (1080p)
 https://online.tvimpact.live/hls/dancetv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G5mNdpE.png" group-title="Romania",Impact TV Manele (1080p)
@@ -41,6 +43,8 @@ https://informatia.streamnet.ro/mobile_tv/informatiatv.m3u8
 https://jobtvserver.eu/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/15ILp0P.png" group-title="Romania",Kanal D (480p)
 https://stream1.kanald.ro/iphone/knd-live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0SMSIm9.png" group-title="Romania",Kanal D2 (360p)
+https://stream2.kanald.ro/iphone/knd2-live_low/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NKfVymH.png" group-title="Romania",Kiss TV (1080p)
 https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/S3Fbf8T.png" group-title="Romania",Light Channel (480p) [Not 24/7]
@@ -85,8 +89,6 @@ https://live.tele7abc.ro/hls/stream/index.m3u8
 https://live.tele7music.ro/hls/stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3EZ8CmJ.png" group-title="Romania",TeleM Botosani (540p) [Not 24/7]
 http://89.137.197.15:8080/testing/pl5/playlist/ram/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8z0zLjw.jpeg" group-title="Romania",TeleMoldova + [Geo-blocked]
-https://vdo.ssl-stream.com:3247/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BTKh5ef.png" group-title="Romania",Telestar1
 https://dvb.tennet.ro/mobile_tv/telestar.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/f4fzoLe.png" group-title="Romania",TVPlus Suceava (576p)
@@ -107,8 +109,8 @@ https://tvr-cultural.lg.mncdn.com/tvrcultural/smil:tvrcultural.smil/chunklist_b5
 http://82.208.141.70:8778/1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7oE7ThR.png" group-title="Romania",TVR Info
 https://tvr-info.lg.mncdn.com/tvrinfo/smil:tvrinfo.smil/chunklist_b5160000.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/w28wcHs.png" group-title="Romania",TVR International
-https://tvr-international.lg.mncdn.com/tvrinternational/smil:tvrinternational.smil/chunklist_b5160000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w28wcHs.png" group-title="Romania",TVR International (576p) [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/tvrinternational/browser-dash/tvrinternational.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/TVR_Sport_Logo_2023.svg/960px-TVR_Sport_Logo_2023.svg.png" group-title="Romania",TVR Sport
 https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/chunklist_b5160000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9Hptdqj.png" group-title="Romania",TVR Targu-Mures

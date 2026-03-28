@@ -45,6 +45,8 @@ http://31.148.48.15/Bridge_TV_Dance/index.m3u8
 http://31.148.48.15/Karusel_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/b5e9qUA.png" group-title="Russia",Cinema
 http://catchup.videoline.ru/cinema/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hKo8ApU.png" group-title="Russia",Current Time TV (1080p)
+https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc015/currenttimehdraw/currenttimehdraw.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uMw3kks.png" group-title="Russia",DanceHits80
 http://dancehits80.denvs.ru:8080/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3picWDA.png" group-title="Russia",DTR Music 1 (720p)
@@ -93,8 +95,6 @@ http://31.148.48.15/RU_TV/index.m3u8
 http://serv30.vintera.tv:8081/shoppinglive/shoppinglive_stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/sochi_live.png" group-title="Russia",Sochi Live HD (720p) [Not 24/7]
 http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nM7LbmV.png" group-title="Russia",SONGTV Russia
-https://songtv.hls.iptvdc.com/web-russia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4bACa7x.png" group-title="Russia",START Air
 https://livetv.mylifeisgood.net.ru/channels/strwc.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TXtY5eM.png" group-title="Russia",START World
@@ -281,8 +281,6 @@ https://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
 https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dYj3XDa.png" group-title="Russia",Нано ТВ HD (576p)
 http://s1.tv-nano.com/Nano_rec/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hKo8ApU.png" group-title="Russia",Настоящее Время (1080p)
-https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZZxzueO.png" group-title="Russia",НАУКА (1080p)
 http://31.148.48.15/Nauka_2.0/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LwXNUhf.png" group-title="Russia",НВК Саха (1080p) [Not 24/7]
@@ -425,8 +423,6 @@ https://cityeden.catcast.tv/content/40783/index.m3u8
 https://cityeden.catcast.tv/content/45268/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uuzuvD0.png" group-title="Russia",Сити Эдем КиноЭкшен [Not 24/7]
 https://cityeden.catcast.tv/content/41333/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/l7BE8l6.png" group-title="Russia",Сити Эдем Классическая Музыка [Not 24/7]
-https://cityeden.catcast.tv/content/47400/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BM4E0Kr.png" group-title="Russia",Сити Эдем МедЗдрав [Not 24/7]
 https://cityeden.catcast.tv/content/47519/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wR0pvRc.png" group-title="Russia",Сити Эдем Рецепты Гурмана [Not 24/7]
