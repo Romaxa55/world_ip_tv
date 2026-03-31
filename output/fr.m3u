@@ -25,8 +25,6 @@ https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/arabel.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ecXMjNl.png" group-title="France",arte HD (1080p) [Geo-Blocked]
 https://viamotionhsi.netplus.ch/live/eds/artehd/browser-HLS8/artehd.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RyVEFcG.png" group-title="France",B Smart TV (320p)
-https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/bsmart.m3u8
 #EXTINF:-1 tvg-logo="https://alloforfait.fr/wp-content/uploads/2024/03/logo-bfm2-300x200.jpg" group-title="France",BFM2 (1080p)
 https://d1ib1gsg71oarf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-scp7wda722jph/BFM2_FR.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y94bhqX.jpg" group-title="France",Brionnais TV (720p)
@@ -75,12 +73,16 @@ http://69.64.57.208/france5/mono.m3u8
 https://viamotionhsi.netplus.ch/live/eds/france5hd/browser-dash/france5hd.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u8N6uoj.png" group-title="France",France 24 French (1080p)
 https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MgBeU52.png" group-title="France",France Inter (288p)
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/franceinter.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eITXz6A.png" group-title="France",Franceinfo (720p) [Geo-Blocked]
 https://viamotionhsi.netplus.ch/live/eds/franceinfo/browser-HLS8/franceinfo.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uM1v1sd.png" group-title="France",Francophonie24 (1080p)
 https://5421175365ea3.streamlock.net/live/smil:switch.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wgxuYsQ.png" group-title="France",Fun Radio
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/funradiofr.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NgBrDMe.png" group-title="France",Generations TV (576p)
+https://event.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lA9UFMG.png" group-title="France",Gong (1080p)
 https://amg01596-gongnetworks-gong-ono-vh5f2.amagi.tv/1080p-vtt/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kqYssbW.png" group-title="France",Gulli (720p) [Geo-Blocked]
@@ -117,6 +119,8 @@ https://viamotionhsi.netplus.ch/live/eds/mezzo/browser-HLS8/mezzo.m3u8
 https://fl718492-exthls-p1.flovp.com/fl718492/live/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5cs5GkJ.png" group-title="France",Motorvision.tv (French)
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883047
+#EXTINF:-1 tvg-logo="https://i.imgur.com/64nzKEu.jpg" group-title="France",Mouv' TV (288p)
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/mouv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png" group-title="France",MTV (1080p) [Geo-Blocked]
 https://viamotionhsi.netplus.ch/live/eds/mtvfrance/browser-HLS8/mtvfrance.m3u8
 #EXTINF:-1 tvg-logo="https://mygospeltv.fr/wp-content/uploads/2022/05/MY-GODPEL-TV-e1652783900988.png" group-title="France",My Gospel TV
@@ -171,8 +175,6 @@ https://483a1e90c18641c9a6d27becd41ad892.mediatailor.us-west-2.amazonaws.com/v1/
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/sudradio.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logo_de_la_chaine_T18.svg/500px-Logo_de_la_chaine_T18.svg.png" group-title="France",T18 (1080p)
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t18/t18-dm.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/G1SCqNI.png" group-title="France",Telenantes (180p)
-https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/telenantes.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QxHt9NC.png" group-title="France",TF1 HD (720p) [Geo-Blocked]
 https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-dash/tf1hd.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4CJIDKQ.png" group-title="France",TF1 Series Films (1080p) [Geo-Blocked]
