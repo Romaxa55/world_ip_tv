@@ -19,12 +19,12 @@ https://edge13.vedge.infomaniak.com/livecast/ik:adhtv/manifest.m3u8
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/angerstele.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FM9FVAG.png" group-title="France",Animaux (720p) [Geo-Blocked]
 https://viamotionhsi.netplus.ch/live/eds/animaux/browser-dash/animaux.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EPIMMaB.png" group-title="France",Antenne Réunion (720p) [Not 24/7]
-https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8?location=ZEOP01
 #EXTINF:-1 tvg-logo="https://www.arabel.fm/wp-content/uploads/2021/10/Logo-AraBel.png" group-title="France",AraBel (180p)
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/arabel.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ecXMjNl.png" group-title="France",arte HD (1080p) [Geo-Blocked]
 https://viamotionhsi.netplus.ch/live/eds/artehd/browser-HLS8/artehd.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RyVEFcG.png" group-title="France",B Smart TV (320p)
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/bsmart.m3u8
 #EXTINF:-1 tvg-logo="https://alloforfait.fr/wp-content/uploads/2024/03/logo-bfm2-300x200.jpg" group-title="France",BFM2 (1080p)
 https://d1ib1gsg71oarf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-scp7wda722jph/BFM2_FR.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y94bhqX.jpg" group-title="France",Brionnais TV (720p)
@@ -33,6 +33,8 @@ https://stream2.mandarine.media/brionnaistv/brionnaistv/playlist.m3u8
 https://viamotionhsi.netplus.ch/live/eds/d17/browser-dash/d17.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RgKaoe4.png" group-title="France",Caillou
 https://do7nccdsswstc.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1aso0bc668saa/a5233c83-f772-4a81-959a-45ec7877ef61/5.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lAsE6kN.png" group-title="France",Canal 32 (1080p)
+https://event.vedge.infomaniak.com/livecast/ik:canal32_4/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Canal_J_2019_Logo.png/960px-Canal_J_2019_Logo.png" group-title="France",Canal J HD (720p) [Geo-Blocked]
 https://viamotionhsi.netplus.ch/live/eds/canalj/browser-HLS8/canalj.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5HcyMnW.png" group-title="France",Canal+ en clair (720p) [Geo-blocked] [Geo-Blocked]
@@ -81,6 +83,8 @@ https://viamotionhsi.netplus.ch/live/eds/franceinfo/browser-HLS8/franceinfo.m3u8
 https://5421175365ea3.streamlock.net/live/smil:switch.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wgxuYsQ.png" group-title="France",Fun Radio
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/funradiofr.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NgBrDMe.png" group-title="France",Generations TV (576p)
+https://event.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lA9UFMG.png" group-title="France",Gong (1080p)
 https://amg01596-gongnetworks-gong-ono-vh5f2.amagi.tv/1080p-vtt/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kqYssbW.png" group-title="France",Gulli (720p) [Geo-Blocked]
@@ -209,8 +213,6 @@ https://tv7.live-kd.com/live/tv7/livestream/playlist.m3u8
 https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XVCV9rj.png" group-title="France",ViàMatélé (1080p)
 https://5dd226f8f01e8.streamlock.net/via-matele-live/matelelive_1080/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TLZsAKK.png" group-title="France",viàTéléPaese (720p)
-https://srv.webtvmanager.fr:3970/live/viatelepaeselive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7y7ancc.png" group-title="France",Vosges Télévision (576p) [Not 24/7]
 https://vosgestv.live-kd.com/live/vosgestv/vosgestv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/reYeMuE.png" group-title="France",W9 (720p) [Geo-blocked] [Geo-Blocked]
