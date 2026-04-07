@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wpWBsgf/IMG-20230705-154622.jpg" group-title="Venezuela",Aguacate TV (1080p)
 https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SLqrEOz.png" group-title="Venezuela",Anzoátegui TV (360p) [Not 24/7]
+https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bRmGbsyV/A3-SPORTTV.jpg" group-title="Venezuela",AS3 Sport TV (1080p)
 https://streamtv.as3sport.online:3394/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vygOosC.png" group-title="Venezuela",BTA TV (720p)
@@ -9,8 +11,10 @@ https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8
 https://stmv2.voxtvhd.com.br/canal21/canal21/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LBI2la0.png" group-title="Venezuela",Catatumbo TV (406p)
 https://cloud.fastchannel.es/manifiest/hls/prog9/catatumbotv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RPiTPnK.png" group-title="Venezuela",Fortuna TV (1080p)
-https://streamtv.intervenhosting.net:3355/live/fortunatvlive.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png" group-title="Venezuela",Comedy Central Latin America (1080p)
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-60.playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" group-title="Venezuela",Disney Channel Latin America (1080p)
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-32.playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jxCirrP.png" group-title="Venezuela",Grande TV (720p) [Not 24/7]
 https://live20.bozztv.com/akamaissh101/ssh101/grandetv2240/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LN92K6h/IMG-20230705-154347.jpg" group-title="Venezuela",Guaro TV (720p)
@@ -53,10 +57,14 @@ https://cloud.fastchannel.es/manifiest/hls/prog9/tvo.m3u8
 https://stmv1.srvstm.com/tnovideo1/tnovideo1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9N7Scn8/1400-Torococo-TV.png" group-title="Venezuela",Torococo TV (720p) [Not 24/7]
 https://us.streaminghd.cl/torococotelevision/video.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Canal_trt_logo.PNG" group-title="Venezuela",TRT (410p) [Not 24/7]
+https://vcp12.myplaytv.com/trt/trt/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hwd7osJ.jpeg" group-title="Venezuela",TV Oasis Monay (486p)
 https://live20.bozztv.com/akamaissh101/ssh101/oasistv123/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://intervenhosting.net/imagenes/tvmparati.jpg" group-title="Venezuela",TVM para ti (1080p)
 https://streamtv.intervenhosting.net:3529/live/tvmparatilive.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J8ztiAN.png" group-title="Venezuela",TVS (720p)
+https://vcp10.myplaytv.com/tvs/tvs/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KLGeznX.png" group-title="Venezuela",UniTV (720p)
 https://vcp6.myplaytv.com/unitv/unitv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NMI2Wed.png" group-title="Venezuela",Vale TV (480p) [Not 24/7]
