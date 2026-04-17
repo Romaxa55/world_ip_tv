@@ -1,66 +1,202 @@
-# 🌍 World IPTV Checker 🚀
+# 🌍 World IPTV Checker — Free Live TV Channels, Updated Daily
 
-![GitHub](https://img.shields.io/github/license/Romaxa55/world_ip_tv) ![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/Romaxa55/world_ip_tv/check_iptv.yml) ![GitHub last commit](https://img.shields.io/github/last-commit/Romaxa55/world_ip_tv)
+<p align="center">
+  <strong>Automatically verified IPTV playlist with working channels only</strong>
+</p>
 
-## 📜 Description
+<p align="center">
+  <img src="https://img.shields.io/github/actions/workflow/status/romaxa55/world_ip_tv/check.yml?branch=main&style=for-the-badge&label=Last%20Check&logo=github-actions&logoColor=white" alt="Last check status" />
+  <img src="https://img.shields.io/badge/Channels-Daily_Verified-00C853?style=for-the-badge&logo=tv&logoColor=white" alt="Daily verified channels" />
+  <img src="https://img.shields.io/github/commit-activity/m/romaxa55/world_ip_tv?style=for-the-badge&color=blueviolet&label=Commits" alt="Commit activity" />
+  <img src="https://img.shields.io/github/stars/romaxa55/world_ip_tv?style=for-the-badge&color=FFD700&logo=github" alt="Stars" />
+  <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" alt="License" />
+</p>
 
-Welcome to the **World IPTV Checker** project! This repository automates the daily checking of IPTV channel availability and generates a new playlist with the available channels. The results of the check are available at the following URL:
+<p align="center">
+  <a href="https://romaxa55.github.io/world_ip_tv/output/index.m3u">📥 Download Playlist</a> •
+  <a href="https://megav.app/iptv-playlists">IPTV on MegaV</a> •
+  <a href="https://t.me/MegaV_VPN">Telegram @MegaV_VPN</a>
+</p>
 
-📥 [Download Playlist](https://romaxa55.github.io/world_ip_tv/output/index.m3u)
+---
 
-## ⚙️ How It Works
+## Quick Start — 30 Seconds to Live TV
 
-Every day at midnight (UTC), GitHub Actions runs a script to check all channels from the specified playlists. Channels that pass the check are added to a new playlist, which is then published on GitHub Pages.
+Copy this URL and paste it into any IPTV player:
 
-## 🚀 How to Use
+```
+https://romaxa55.github.io/world_ip_tv/output/index.m3u
+```
 
-1. **Download the Playlist**: The playlist is available at the following URL: [https://romaxa55.github.io/world_ip_tv/output/index.m3u](https://romaxa55.github.io/world_ip_tv/output/index.m3u).
-2. **Add to IPTV Player**: Open your IPTV player (e.g., VLC, IPTV Smarters, GSE Smart IPTV) and add the playlist using the provided URL.
-3. **Enjoy Watching**: The playlist is automatically updated daily, ensuring you always have access to the latest working channels.
+That's it. No sign-up. No account. No payment. Just free live TV.
 
-## 🛠️ Installation and Setup
+### How to add in VLC
+1. Open VLC → **Media** → **Open Network Stream**
+2. Paste the URL above → Click **Play**
 
-### 🖥️ Running Locally
+### How to add in IPTV Smarters / TiviMate / Televizo
+1. Add playlist → **M3U URL**
+2. Paste the URL above → Save
 
-If you want to run this project locally, follow these steps:
+---
 
-1. **Clone the Repository**:
-    ```bash
-    git clone https://github.com/Romaxa55/world_ip_tv.git
-    cd world_ip_tv
-    ```
+## How It Works
 
-2. **Install Dependencies**:
-    ```bash
-    python -m pip install --upgrade pip
-    pip install -r requirements.txt
-    ```
+```
+  GitHub Actions (every 6 hours)
+         │
+         ▼
+  Fetch source M3U lists
+  from 50+ public sources
+         │
+         ▼
+  Python checker tests
+  every channel URL
+  (HTTP 200 + stream response)
+         │
+         ▼
+  Dead channels removed
+  Working channels kept
+         │
+         ▼
+  Clean M3U published to
+  GitHub Pages (free CDN)
+         │
+         ▼
+  You stream via
+  romaxa55.github.io/world_ip_tv/
+```
 
-3. **Run the Script**:
-    ```bash
-    python -m iptv_checker
-    ```
+> With 648+ commits the automation has been running reliably since the project launched — channels that stop working are purged within hours.
 
-### 🤖 GitHub Actions
+---
 
-This project is set up to use GitHub Actions for automatically checking channels and updating the playlist. The workflow file `.github/workflows/check_iptv.yml` is configured to run daily and can also be triggered manually through the GitHub interface.
+## Supported Players
 
-### 🔑 Setting Up Access
+| Player | Platform | How to Add |
+|---|---|---|
+| **VLC** | Windows, macOS, Linux, Android, iOS | Media → Open Network Stream → paste URL |
+| **IPTV Smarters Pro** | Android, iOS, Windows | Xtream / M3U URL → paste URL |
+| **TiviMate** | Android TV, Fire TV | Add Playlist → M3U URL → paste URL |
+| **Kodi** (PVR IPTV) | All platforms | PVR IPTV Simple Client → M3U URL |
+| **Televizo** | Android, Android TV | Add playlist → URL → paste URL |
+| **GSE Smart IPTV** | iOS, macOS | Remote Playlists → Add → paste URL |
+| **Streamlink** | CLI / Linux | `streamlink "m3u-url" best` |
 
-To automatically commit changes, a Personal Access Token (PAT) is used. Make sure you create a token and add it to your repository's secrets on GitHub under the name `GH_PAT`.
+---
 
-## 💡 Contributions
+## Geo-Restricted Channels? Use MegaV VPN
 
-If you have suggestions or find bugs, please create an issue or submit a pull request. We welcome community contributions to improve this project!
+Some channels in the playlist are **geo-restricted** — they only stream to viewers in specific countries. If a channel shows as live but won't play for you, a VPN will fix it.
 
-## 📄 License
+**[MegaV VPN](https://megav.app)** is the recommended companion app:
 
-This project is licensed under the MIT License. See the LICENSE file for more information.
+- 🆓 **Free** — no subscription needed for basic use
+- ⚡ **VLESS Reality** — bypasses deep packet inspection; works in Iran, Russia, China, Turkey
+- 📺 **IPTV page built-in** — browse and launch playlists from inside the app
+- 🔒 **No-logs** — your viewing history stays private
+- 🌍 **15 languages** — EN, RU, ZH, ES, DE, FR, JA, KO, VI, AR, FA, IT, TR
 
-## 🔍 Resources
- 
-- **IPTV Checker Script**: Automates the process of checking and generating the IPTV playlist.
-- **GitHub Actions**: Ensures daily checks and updates.
-- **GitHub Pages**: Hosts the generated playlist for easy access.
+> ➡️ Get MegaV VPN: **[megav.app/iptv-playlists](https://megav.app/iptv-playlists)**
+> ➡️ Telegram: **[@MegaV_VPN](https://t.me/MegaV_VPN)**
 
-![Coding GIF](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
+---
+
+## Channel Coverage
+
+The playlist aggregates channels from public sources covering:
+
+- 🌍 **Europe** — UK, Germany, France, Spain, Italy, Russia, Poland, Turkey and more
+- 🌏 **Asia** — China, Japan, Korea, India, Vietnam, Iran, Saudi Arabia and more
+- 🌎 **Americas** — USA, Canada, Brazil, Mexico and more
+- 🌍 **Africa & Middle East** — Egypt, UAE, Morocco and more
+- 📰 **News** — BBC, CNN, Al Jazeera, RT, Euronews and more
+- ⚽ **Sports** — regional sports channels
+- 🎬 **Movies & Entertainment** — general entertainment channels
+
+> **Note:** All sources are publicly available. This repository does not host or redistribute any video streams — it only maintains a verified list of public stream URLs.
+
+---
+
+## Contributing
+
+Found a channel that's broken, or want to add a new source list?
+
+1. **Fork** this repository
+2. Edit `sources/` to add your M3U source URL
+3. Run `python checker.py` locally to verify
+4. Open a **Pull Request** with a description of what you added
+
+### Reporting broken channels
+Open an [Issue](https://github.com/romaxa55/world_ip_tv/issues) with:
+- Channel name
+- Country
+- The broken URL (if known)
+
+The automated checker will remove it on the next run, but your report helps improve source selection.
+
+---
+
+## Technical Details
+
+- **Language:** Python 3
+- **CI/CD:** GitHub Actions (runs every 6 hours)
+- **Output:** M3U playlist published via GitHub Pages
+- **Checking method:** HTTP HEAD + GET request with stream validation
+- **Timeout:** 10 seconds per channel
+- **Commits:** 648+
+
+---
+
+## Legal
+
+This project collects and verifies **publicly available** stream URLs. It does not:
+- Host, redistribute, or store any video content
+- Circumvent any access controls or DRM
+- Provide access to paid or subscription content
+
+If you are a rights holder and believe a URL in this list is infringing, please open an issue and it will be removed promptly.
+
+---
+
+## Give Us a Star
+
+If this playlist saved you from paying for a TV subscription — please leave a star! It motivates continued maintenance and improvements.
+
+<p align="center">
+  <a href="https://github.com/romaxa55/world_ip_tv/stargazers">
+    <img src="https://img.shields.io/github/stars/romaxa55/world_ip_tv?style=for-the-badge&color=FFD700&logo=github&label=Star+this+repo" alt="Star on GitHub" />
+  </a>
+</p>
+
+---
+
+## Keywords
+
+`free iptv` · `iptv m3u` · `iptv playlist 2025` · `free live tv` · `m3u playlist` · `iptv checker` · `working iptv` · `iptv smarters playlist` · `tivimate playlist` · `vlc iptv` · `kodi iptv` · `free iptv channels` · `iptv github` · `world iptv` · `live tv channels` · `free streaming`
+
+---
+
+## Powered by MegaV VPN
+
+<p align="center">
+  <a href="https://megav.app">
+    <img src="https://img.shields.io/badge/MegaV_VPN-Free_VPN_for_IPTV-blueviolet?style=for-the-badge&logo=shield&logoColor=white" alt="MegaV VPN" />
+  </a>
+  &nbsp;
+  <a href="https://t.me/MegaV_VPN">
+    <img src="https://img.shields.io/badge/Telegram-@MegaV__VPN-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/romaxa55/MegaV_Public">
+    <img src="https://img.shields.io/badge/GitHub-MegaV_Public-181717?style=for-the-badge&logo=github&logoColor=white" alt="MegaV on GitHub" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://megav.app">megav.app</a> — The VPN that works where others fail. VLESS Reality, No-logs, Free.
+</p>
+
+---
+
+MIT License © [romaxa55](https://github.com/romaxa55)
