@@ -35,6 +35,8 @@ http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/index.m3u
 https://5bf7b725107e5.streamlock.net/brtv/brtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/BTV_%28Indonesia%29_logo_%282025%29.svg/960px-BTV_%28Indonesia%29_logo_%282025%29.svg.png" group-title="Indonesia",BTV (1080p)
 https://btv.secureswiftcontent.com/han/btv/btv10005r/srtoutput/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OrCrtDA.png" group-title="Indonesia",Bungo TV (480p) [Not 24/7]
+https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/CNBC_Indonesia_2025.svg/960px-CNBC_Indonesia_2025.svg.png" group-title="Indonesia",CNBC Indonesia (720p)
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YC7JCHo.png" group-title="Indonesia",DAAI TV
@@ -49,8 +51,6 @@ https://e.siar.us/live/dmtv.m3u8
 https://tvstreamcast.com/tawaftv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/B4JW54M.png" group-title="Indonesia",Duta TV (360p) [Not 24/7]
 https://dutatv.siar.us/dutatv/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mkuXxRK.png" group-title="Indonesia",Fajar TV (720p) [Not 24/7]
-http://122.248.43.242:1935/FAJARTV/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sXsAcZ3.png" group-title="Indonesia",Garuda TV (1080p)
 https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jjuKnYs.png" group-title="Indonesia",GTV (720p)
@@ -81,8 +81,6 @@ http://122.248.43.242:1935/JAWAPOSTVSEMARANG/_definst_/myStream/playlist.m3u8
 http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mIDWIQk.png" group-title="Indonesia",JTV (540p)
 https://cdn10jtedge.indihometv.com/atm/DASH/jtv/manifest.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mIDWIQk.png" group-title="Indonesia",JTV Kediri
-http://122.248.43.242:1935/JTVKEDIRI/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mIDWIQk.png" group-title="Indonesia",JTV Madiun
 http://122.248.43.242:1935/JTVMADIUN/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mIDWIQk.png" group-title="Indonesia",JTV Malang
@@ -97,14 +95,8 @@ https://lingkartv.my.id/hls/lingkartv.m3u8
 https://stream.asianastream.com/madani/madanitv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cKpgbgW.png" group-title="Indonesia",Madu TV (576p)
 https://re1.siar.us/madutv/hd720/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tfJo0SO.png" group-title="Indonesia",Magna Channel (1080p) [Not 24/7]
-https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/t7GsFJN.jpeg" group-title="Indonesia",MBG TV (1080p)
-https://stream.convergen.co/mbg_stream/smil:mbStream.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/MDTV_logo.svg/960px-MDTV_logo.svg.png" group-title="Indonesia",MDTV (1080p)
 https://wahyu1ptv.pages.dev/MDTV-HD.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QnU70NI.png" group-title="Indonesia",Metro TV
-https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SK8pjQy.png" group-title="Indonesia",MNCTV (720p)
 https://cdn10jtedge.indihometv.com/atm/DASH/mnctv/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/d8dQo6E.png" group-title="Indonesia",MQTV (720p) [Not 24/7]
@@ -159,8 +151,8 @@ https://sriwijayatv.siar.us/live/sriwijayatv.m3u8
 http://122.248.43.242:1935/SAMARINDATV/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cmpbNJz.png" group-title="Indonesia",Sultra TV (720p) [Not 24/7]
 http://122.248.43.242:1935/SULTRATV/_definst_/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jlss2ll.png" group-title="Indonesia",Surabaya TV (1080p)
-https://e.siar.us/live/surabayatv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1f0EC7t.png" group-title="Indonesia",TATV (720p) [Not 24/7]
+https://v2.siar.us/tatv/live.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Logo_Timor_TV.png" group-title="Indonesia",Timor TV (1080p)
 http://122.248.43.242:1935/TIMORTV/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fAbGImS.png" group-title="Indonesia",Trans7 (720p)
