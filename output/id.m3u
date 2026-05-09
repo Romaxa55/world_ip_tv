@@ -7,8 +7,6 @@ https://ammedia.siar.us/ammedia/live/playlist.m3u8
 https://janya-digimix.akamaized.net/vglive-sk-234616/indonesia/ngrp:angelindonesia_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://asthatv.com/wp-content/uploads/2026/02/Logo-Astha.png" group-title="Indonesia",Astha TV (1080p) [Not 24/7]
 https://hgmtv.com:19360/asthatv/asthatv.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="Indonesia",AXN Asia Indonesia (1080p) [Geo-blocked]
-http://103.58.160.157:8278/720-AXN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uH1Szme.png" group-title="Indonesia",Bali TV (540p)
 https://cdn10jtedge.indihometv.com/atm/DASH/balitv/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/JzqSzcj9/200px-Logo-bdg-tv-2016.png" group-title="Indonesia",Bandung TV (360p)
@@ -71,8 +69,6 @@ http://122.248.43.242:1935/JAWAPOSTVMADIUN/_definst_/myStream/playlist.m3u8
 http://122.248.43.242:1935/JAWAPOSTVSEMARANG/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VEqQfTu.png" group-title="Indonesia",Jogja Istimewa TV (720p)
 http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/Jogjatvnew.png" group-title="Indonesia",Jogja TV (720p) [Not 24/7]
-https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mIDWIQk.png" group-title="Indonesia",JTV (540p)
 https://cdn10jtedge.indihometv.com/atm/DASH/jtv/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mIDWIQk.png" group-title="Indonesia",JTV Kediri
@@ -137,14 +133,16 @@ https://salamtv.siar.us/live/salamtv.m3u8
 https://live.salira.tv/p/3870/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8cFJa8G.png" group-title="Indonesia",Sampit TV (720p) [Not 24/7]
 https://sampit-tv.siar.us/live/sampit-tv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KFC2WSB.png" group-title="Indonesia",Semarang TV (720p)
+http://116.254.112.74/hls/cakralive.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Sin_Po_TV.svg/960px-Sin_Po_TV.svg.png" group-title="Indonesia",Sin Po TV (540p)
 https://cdn10jtedge.indihometv.com/atm/DASH/sinpotv/manifest.mpd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/SindoNewsTV_2023.png/960px-SindoNewsTV_2023.png" group-title="Indonesia",Sindo News TV
-https://cdn10jtedge.indihometv.com/atm/DASH/mncnews/manifest.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/75/SriwijayaTV_2014.png" group-title="Indonesia",Sriwijaya TV (576p) [Not 24/7]
 https://sriwijayatv.siar.us/live/sriwijayatv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EIrXgT8.png" group-title="Indonesia",STV (720p) [Not 24/7]
 http://122.248.43.242:1935/SAMARINDATV/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cmpbNJz.png" group-title="Indonesia",Sultra TV (720p) [Not 24/7]
+http://122.248.43.242:1935/SULTRATV/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jlss2ll.png" group-title="Indonesia",Surabaya TV (1080p)
 https://e.siar.us/live/surabayatv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1f0EC7t.png" group-title="Indonesia",TATV (720p) [Not 24/7]
