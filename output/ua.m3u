@@ -4,13 +4,11 @@ http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6378/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CD3vZU6.png" group-title="Ukraine",4ever Drama (1080p)
 https://iptv.prosto.tv/ch49/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kfngtev.png" group-title="Ukraine",4ever Theater
-https://iptv.prosto.tv/ch37/tracks-v2a1/mono.m3u8?live=1&ip=178.136.40.86&id=922996&secret=yamxdzwl&21yo=0&e=1783680395&st=OWDBi-vxSZADl0oF8lHHxw
+https://iptv.prosto.tv/ch37/tracks-v2a1/mono.m3u8?21yo=0&e=1783680395&id=922996&ip=178.136.40.86&live=1&secret=yamxdzwl&st=OWDBi-vxSZADl0oF8lHHxw
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bSXKdK5.png" group-title="Ukraine",100% News (576p)
 http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pGByjbh.png" group-title="Ukraine",Army TV (1080p)
 https://api-tv.ipnet.ua/api/v1/manifest/2118742632.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rHHz94D.png" group-title="Ukraine",Avers (480p)
-https://avers.pp.ua/hls/efir.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a9JJXPk.png" group-title="Ukraine",Channel 5 (1080p)
 https://api-tv.ipnet.ua/api/v1/manifest/2118742539.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mbPTVh1.png" group-title="Ukraine",DniproTV (1080p)
@@ -20,9 +18,9 @@ http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/1048/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xNatV8K.png" group-title="Ukraine",Espreso TV (1080p)
 https://api-tv.ipnet.ua/api/v1/manifest/2118742594.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fJdvyrG.png" group-title="Ukraine",EU Music (1080p)
-https://iptv.prosto.tv/ch134/tracks-v2a1/1.m3u8?21yo=1&live=1&ip=104.28.156.59&id=742347&secret=vu2y5m72&ses=ca0cfbf5db9d8003&uid=vu2y5m72&cs_track=false&e=1782900912&st=j-Ja2visdxrjH_8haQZjNg
+https://iptv.prosto.tv/ch134/tracks-v2a1/1.m3u8?21yo=1&cs_track=false&e=1782900912&id=742347&ip=104.28.156.59&live=1&secret=vu2y5m72&ses=ca0cfbf5db9d8003&st=j-Ja2visdxrjH_8haQZjNg&uid=vu2y5m72
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Bk7W39G.png" group-title="Ukraine",Fashion TV
-https://iptv.prosto.tv/ch582/tracks-v2a1/mono.m3u8?21yo=1&live=1&ip=178.136.40.86&id=742347&secret=vu2y5m72&e=1783350200&st=RRhh01CY6iYIRs_Kyoc3lw
+https://iptv.prosto.tv/ch582/tracks-v2a1/mono.m3u8?21yo=1&e=1783350200&id=742347&ip=178.136.40.86&live=1&secret=vu2y5m72&st=RRhh01CY6iYIRs_Kyoc3lw
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0wotE9n.png" group-title="Ukraine",First Business (720p)
 https://lowa8026-cmyk.github.io/Ukraine/FirstBussines.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J4zlRGv.png" group-title="Ukraine",ICTV2 (1080p) [Not 24/7]
@@ -41,6 +39,8 @@ https://api-tv.ipnet.ua/api/v1/manifest/1293296300.m3u8
 https://iptv.prosto.tv/ch122/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AfcBWCg.png" group-title="Ukraine",M2 (1080p)
 https://iptv.prosto.tv/ch123/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5JmT4mW.png" group-title="Ukraine",MEGOGO Sport [Geo-blocked]
+http://471ccec7.tvclub.xyz/iptv/BUYS9YTNABMC25/31612/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Klu5k9U.png" group-title="Ukraine",Muzvar (1080p)
 https://cdn15.live-tv.cloud/ua_infinitas_tv/muzvar-abr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ienkbOc.png" group-title="Ukraine",NASHE Music (720p)
@@ -52,7 +52,7 @@ https://api-tv.ipnet.ua/api/v1/manifest/2118742505.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9bPhStm.png" group-title="Ukraine",PLUSPLUS (720p) [Not 24/7]
 http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6379/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IloW37o.png" group-title="Ukraine",PravdaTUT Lviv (1080p)
-https://iptv.prosto.tv/ch192/tracks-v1a1/mono.m3u8?21yo=1&live=1&ip=104.28.156.59&id=742347&secret=vu2y5m72&e=1782901327&st=bflIqYjnSIr75ACfgV-mug
+https://iptv.prosto.tv/ch192/tracks-v1a1/mono.m3u8?21yo=1&e=1782901327&id=742347&ip=104.28.156.59&live=1&secret=vu2y5m72&st=bflIqYjnSIr75ACfgV-mug
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WDHoSVz.png" group-title="Ukraine",PTV (720p)
 https://cdn15.live-tv.cloud/ua_infinitas_tv/hrpl-abr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Rada_TV_%282021%29.svg/960px-Rada_TV_%282021%29.svg.png" group-title="Ukraine",Rada TV (720p)
@@ -64,25 +64,25 @@ https://hls.simon.ua/live-HD/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XiXwr5h.png" group-title="Ukraine",SK 1 (720p)
 http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Super%2B_UA_%282024%29.svg/960px-Super%2B_UA_%282024%29.svg.png" group-title="Ukraine",Super+
-https://iptv.prosto.tv/ch382/tracks-v1a1/1.m3u8?live=1&ip=178.136.40.86&id=921233&secret=9szoe89y&ses=365ec247746bd22d&uid=9szoe89y&cs_track=false&e=1783162263&st=9GLxg7DNUXR_MCB9X30Qew
+https://iptv.prosto.tv/ch382/tracks-v1a1/1.m3u8?cs_track=false&e=1783162263&id=921233&ip=178.136.40.86&live=1&secret=9szoe89y&ses=365ec247746bd22d&st=9GLxg7DNUXR_MCB9X30Qew&uid=9szoe89y
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GPXrpJC.png" group-title="Ukraine",Suspilne. Donbas
-https://iptv.prosto.tv/ch191/tracks-v1a1/mono.m3u8?21yo=1&live=1&ip=178.136.40.86&id=742347&secret=vu2y5m72&e=1783350581&st=FOBLjQZsAj97omf627Quzg
+https://iptv.prosto.tv/ch191/tracks-v1a1/mono.m3u8?21yo=1&e=1783350581&id=742347&ip=178.136.40.86&live=1&secret=vu2y5m72&st=FOBLjQZsAj97omf627Quzg
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ApKFK5p.png" group-title="Ukraine",Suspilne. Ivano-Frankivsk (1080p)
-https://iptv.prosto.tv/ch96/tracks-v1a1/mono.m3u8?live=1&ip=5.63.189.224&id=921239&secret=z6vxuhnm&21yo=0&e=1783094347&st=kGRjEFP8_5qe3vEINbXwBQ
+https://iptv.prosto.tv/ch96/tracks-v1a1/mono.m3u8?21yo=0&e=1783094347&id=921239&ip=5.63.189.224&live=1&secret=z6vxuhnm&st=kGRjEFP8_5qe3vEINbXwBQ
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QIin5nZ.png" group-title="Ukraine",Suspilne. Lutsk
-https://iptv.prosto.tv/ch222/tracks-v1a1/mono.m3u8?live=1&ip=178.136.40.86&id=921233&secret=9szoe89y&21yo=0&e=1783108254&st=xvdqQHExhHEv8FDqvbjDbg
+https://iptv.prosto.tv/ch222/tracks-v1a1/mono.m3u8?21yo=0&e=1783108254&id=921233&ip=178.136.40.86&live=1&secret=9szoe89y&st=xvdqQHExhHEv8FDqvbjDbg
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bdOmdT4.png" group-title="Ukraine",Suspilne. Mykolaiv (1080p)
-https://iptv.prosto.tv/ch211/tracks-v1a1/mono.m3u8?live=1&ip=5.63.189.224&id=921239&secret=f8z1l7gk&21yo=0&e=1783194414&st=Lz1QtjfblUmkawUbk1Mx6w
+https://iptv.prosto.tv/ch211/tracks-v1a1/mono.m3u8?21yo=0&e=1783194414&id=921239&ip=5.63.189.224&live=1&secret=f8z1l7gk&st=Lz1QtjfblUmkawUbk1Mx6w
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GlwZw2S.png" group-title="Ukraine",Suspilne. Rivne (1080p)
-https://iptv.prosto.tv/ch229/tracks-v1a1/mono.m3u8?21yo=1&live=1&ip=5.63.189.224&id=921239&secret=f8z1l7gk&e=1783195240&st=4RqJ6hzZ9REJQe0f8U3fTw
+https://iptv.prosto.tv/ch229/tracks-v1a1/mono.m3u8?21yo=1&e=1783195240&id=921239&ip=5.63.189.224&live=1&secret=f8z1l7gk&st=4RqJ6hzZ9REJQe0f8U3fTw
 #EXTINF:-1 tvg-logo="https://i.imgur.com/16IhU0M.png" group-title="Ukraine",Suspilne. Sport
-https://iptv.prosto.tv/ch112/tracks-v2a1/mono.m3u8?live=1&ip=178.136.40.86&id=921233&secret=9szoe89y&21yo=0&e=1783247457&st=jPS6nYqNZLDECF8uSDa74g
+https://iptv.prosto.tv/ch112/tracks-v2a1/mono.m3u8?21yo=0&e=1783247457&id=921233&ip=178.136.40.86&live=1&secret=9szoe89y&st=jPS6nYqNZLDECF8uSDa74g
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g84PWbj.png" group-title="Ukraine",Suspilne. Vinnytsia
-https://iptv.prosto.tv/ch188/tracks-v1a1/mono.m3u8?live=1&ip=178.136.40.86&id=921233&secret=9szoe89y&21yo=0&e=1783247585&st=u4uN-dkUOQb4cDe7lNCaeg
+https://iptv.prosto.tv/ch188/tracks-v1a1/mono.m3u8?21yo=0&e=1783247585&id=921233&ip=178.136.40.86&live=1&secret=9szoe89y&st=u4uN-dkUOQb4cDe7lNCaeg
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SZWteS9.png" group-title="Ukraine",Suspilne. Zaporizhzhya (1080p)
-https://iptv.prosto.tv/ch187/tracks-v1a1/mono.m3u8?21yo=1&live=1&ip=5.63.189.224&id=921239&secret=z6vxuhnm&e=1783094937&st=EzFtzQG2T03aIIo4Sdn-OQ
+https://iptv.prosto.tv/ch187/tracks-v1a1/mono.m3u8?21yo=1&e=1783094937&id=921239&ip=5.63.189.224&live=1&secret=z6vxuhnm&st=EzFtzQG2T03aIIo4Sdn-OQ
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lCv1Xaq.png" group-title="Ukraine",Suspilne. Zhytomyr (1080p)
-https://iptv.prosto.tv/ch183/tracks-v1a1/mono.m3u8?21yo=1&live=1&ip=5.63.189.224&id=921239&secret=z6vxuhnm&e=1783094567&st=eSKzulrNBzvGLO-irrW1Fg
+https://iptv.prosto.tv/ch183/tracks-v1a1/mono.m3u8?21yo=1&e=1783094567&id=921239&ip=5.63.189.224&live=1&secret=z6vxuhnm&st=eSKzulrNBzvGLO-irrW1Fg
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ouv51WB.png" group-title="Ukraine",Telekanal RAI (480p)
 https://stream.rai.ua/rai/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Wu6wtbe.png" group-title="Ukraine",TET (1080p) [Not 24/7]
@@ -94,15 +94,9 @@ https://cdn1.live-tv.cloud/rivne1/rivne1-abr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PtTQ5lv.png" group-title="Ukraine",TVA (576p)
 http://hls.cdn.ua/tva.ua_live/livestream/chunklist_w396178779.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Alu78zn.png" group-title="Ukraine",UNIAN TV (720p)
-https://iptv.prosto.tv/id22/index.m3u8?secret=f8z1l7gk&21yo=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/io0WAkA.png" group-title="Ukraine",Viasat Kino [Not 24/7]
-http://c3921155.edmonst.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/31765/index.m3u8
+https://iptv.prosto.tv/id22/index.m3u8?21yo=&secret=f8z1l7gk
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HwsNIDK.png" group-title="Ukraine",Viasat Kino Action [Not 24/7]
 http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/12024/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qVYt8kP.png" group-title="Ukraine",Viasat Kino Comedy [Not 24/7]
-http://c3921155.edmonst.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/31764/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GPiE2Rb.png" group-title="Ukraine",Viasat Kino World [Not 24/7]
-http://c3921155.edmonst.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/31448/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Viasat_Serial.svg" group-title="Ukraine",Viasat Serial (1080p) [Not 24/7]
 http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/17056/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.teleon.tv/logo/balta-tv-ua.png" group-title="Ukraine",Балта ТВ (768p)
