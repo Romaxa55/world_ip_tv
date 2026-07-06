@@ -3,8 +3,6 @@
 https://3abn.bozztv.com/3abncanada/3ABN/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jrGrfof.png" group-title="Canada",5AAB TV (720p) [Not 24/7]
 http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png" group-title="Canada",A&E (720p)
-http://23.239.31.26:8989/aande/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I0oPFTj.png" group-title="Canada",Amazing Discoveries TV (720p)
 https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OIFK6JB.png" group-title="Canada",Animation+ (1080p) [Geo-blocked]
@@ -17,6 +15,8 @@ https://cb0c87cc605942ff9766a4e6744bbadc.mediatailor.us-east-1.amazonaws.com/v1/
 https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/di3XX5L.png" group-title="Canada",Azstar TV HD (1080p)
 https://live.livestreamtv.ca/azstar/amlst:azstar/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rpg0bQA.png" group-title="Canada",C Malayalam TV (1080p)
+https://2-fss-2.streamhoster.com/pl_120/206508-3261972-1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Savoir_m%C3%A9dia_logo_3.png" group-title="Canada",Canal Savoir (360p)
 https://hls.savoir.media/live/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SjTdhvJ.png" group-title="Canada",CBC News (1080p)
@@ -83,12 +83,16 @@ https://amg07653-apmc-amg07653c9-samsung-us-8740.playouts.now.amagi.tv/playlist.
 https://d1wal6k3d7ssin.cloudfront.net/out/v1/ea91db0906c847a4931b46a9ec36e77b/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n24MrsX.png" group-title="Canada",Legislative Assembly of Ontario
 https://temp3.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wY9WhYS.png" group-title="Canada",Legislative Assembly TV Nunavut
+http://temp2.isilive.ca/live/nunavut/live-eng/index.m3u8
 #EXTINF:-1 tvg-logo="https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png" group-title="Canada",Love Nature (1080p)
 https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png" group-title="Canada",Love Nature 4K (2160p) [Geo-blocked]
 https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a5fw83n.jpg" group-title="Canada",MHZ
 https://mhz-samsung-linear-ca.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y5YnUit.png" group-title="Canada",Montreal Greek TV (480p)
+http://live.greektv.ca/hls1/greektv.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/Mr._Bean_Animated_Series_stacked_logo.png" group-title="Canada",Mr. Bean Animated (1080p)
 https://amg00627-amg00627c23-samsung-au-4110.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/666021cccb3ea10008406866/colorLogoPNG.png" group-title="Canada",Nash Bridges Channel (1080p) [Geo-blocked]
@@ -97,6 +101,10 @@ https://amg00353-amg00353c35-xumo-us-3804.playouts.now.amagi.tv/playlist.m3u8
 https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sF2g7KE.png" group-title="Canada",Now TV 102.3FM Edmonton (CKNO-FM) (616p)
 https://videostream.jpbgdigital.com/NOWTV.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iyFXcDy.png" group-title="Canada",NTD TV Canada
+https://live.ntdtv.com/mllive860/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iyFXcDy.png" group-title="Canada",NTD TV Canada West
+https://live.ntdtv.com/cwlive220/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YEUhPBv.png" group-title="Canada",NTV+
 https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xKXs6ER.png" group-title="Canada",Ontario Parliamentary Network (720p)
