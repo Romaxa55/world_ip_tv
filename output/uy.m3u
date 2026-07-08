@@ -1,20 +1,38 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="Uruguay",AXN Latin America South
-http://45.228.235.116:8000/play/a0iy/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png" group-title="Uruguay",A&E Latin America South (1080p)
+http://45.6.4.35/AE/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="Uruguay",AXN Latin America South (1080p)
+http://45.6.4.35/AXN/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5ZNZYjO.png" group-title="Uruguay",C5N (720p)
+http://45.6.4.35/C5N/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png" group-title="Uruguay",Cinecanal South (1080p)
+http://45.6.4.35/CINECANAL/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png" group-title="Uruguay",Comedy Central Latin America (1080p)
 http://181.119.93.83:8000/play/a1di/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" group-title="Uruguay",Disney Channel Latin America (1080p)
 http://45.185.163.75:8000/play/a02j/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" group-title="Uruguay",Disney Channel Latin America Panregional HD (1080p)
 http://190.11.225.124:5000/live/disney_hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" group-title="Uruguay",Disney Channel Latin America South (1080p)
+http://45.6.4.35/DISNEY/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" group-title="Uruguay",Disney Jr. Latin America South (1080p)
 http://45.185.163.75:8000/play/a016/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" group-title="Uruguay",Disney Jr. Latin America South HD (1080p)
 http://179.60.51.134:8888/DISNEY-JR/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="Uruguay",DSports (1080p)
+https://streamvidex.qzz.io/videx/dsportsar/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ByMyRI9.png" group-title="Uruguay",El Gourmet South (1080p)
+http://45.6.4.35/GOURMET/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png" group-title="Uruguay",FX Latin America South (1080p)
+http://45.6.4.35/FX/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" group-title="Uruguay",History Latin America South (1080p)
+http://45.6.4.35/HISTORY/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png" group-title="Uruguay",MTV Latin America (1080p)
 http://179.60.51.134:8888/MTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7Xndgxk.png" group-title="Uruguay",Ovacion TV (720p) [Not 24/7]
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png" group-title="Uruguay",Star Channel Latin America South (1080p)
+http://45.6.4.35/FOX/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p7tt72X.png" group-title="Uruguay",TELE 6 (720p)
 https://lbgo.bozztv.com/ssh101/ssh101/tele6/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j2O4ndp.png" group-title="Uruguay",Telemundo Internacional (1080p)
