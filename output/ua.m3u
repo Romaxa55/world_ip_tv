@@ -3,6 +3,8 @@
 https://dash2.antik.sk/live/1plus1_marathon/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v6KBgqk.png" group-title="Ukraine",2+2 Marathon (1080p)
 https://lowa8026-cmyk.github.io/Ukraine/Edyni_Novyny/2Plus2Marafon.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1498285886714298374/EMSJzC-0_400x400.jpg" group-title="Ukraine",24 Kanal (1080p)
+http://176.122.125.10:8080/news24/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sC0K5BZ.png" group-title="Ukraine",36.6 TV
 https://dash2.antik.sk/live/test_tridsatsest_hd_atktv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bSXKdK5.png" group-title="Ukraine",100% News (576p)
@@ -16,7 +18,7 @@ http://176.122.125.10:8080/bigudi/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YdIHXOR.png" group-title="Ukraine",Bolt (1080p)
 http://176.122.125.10:8080/bolt/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a9JJXPk.png" group-title="Ukraine",Channel 5 (1080p)
-https://api-tv.ipnet.ua/api/v1/manifest/2118742539.m3u8
+http://176.122.125.10:8080/5ch/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SAtdShq.png" group-title="Ukraine",Cine+ (1080p)
 http://176.122.125.10:8080/CinePlusHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/b3FcLU1.png" group-title="Ukraine",Cine+ Hit (1080p)
@@ -71,8 +73,8 @@ https://cdn15.live-tv.cloud/ua_infinitas_tv/muzvar-abr/playlist.m3u8
 https://lowa8026-cmyk.github.io/Ukraine/Edyni_Novyny/WEUKRAINETV.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ienkbOc.png" group-title="Ukraine",NASHE Music (720p)
 https://cdn15.live-tv.cloud/ua_infinitas_tv/nashemus-abr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AmyCNJv.png" group-title="Ukraine",NTN (1080i)
-https://cdn15.live-tv.cloud/ua_infinitas_tv/ntn-abr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AmyCNJv.png" group-title="Ukraine",NTN (1080p)
+http://176.122.125.10:8080/ntn/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SeRNJIS.png" group-title="Ukraine",OTSE (1080p)
 http://176.122.125.10:8080/oce/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/osTQLED.png" group-title="Ukraine",Pershyi (1080p)
