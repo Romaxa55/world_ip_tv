@@ -7,10 +7,6 @@ https://5dcabf026b188.streamlock.net/afarinTV/livestream/playlist.m3u8
 https://65f16f0fdfc51.streamlock.net/afarinTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8qQouTW.jpg" group-title="Iraq",Al Iraqia (1080p)
 https://imn-live.esite-lab.com/hls/iraqia-general.m3u8
-#EXTINF:-1 tvg-logo="https://gateway.esite-lab.com/file-storage/api/v1/public/uploads/2025/3/8/7a8a2548d8e5850e87066d2e573796189.png" group-title="Iraq",Al Iraqia Kurdish (720p)
-https://imn-live.esite-lab.com/hls/iraqia-kurdish.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DrrlxTO.png" group-title="Iraq",Al Iraqia Sport (720p)
-https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ltyRjPK.png" group-title="Iraq",Al Rasheed TV (1080p) [Not 24/7]
 https://media1.livaat.com/static/AL-RASHEED-HD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mJIG5IV.png" group-title="Iraq",Al Sharqiya (1080p)
@@ -45,14 +41,18 @@ https://ghaasiflu.online/Dijlah/index.m3u8
 https://avr.host247.net/live/emantv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/x4KCQlH.png" group-title="Iraq",FarmodaTV (1080p)
 https://avr.host247.net/live/FarmodaTV/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pDdUvz7.png" group-title="Iraq",Imam Hussein TV 1 (1080p) [Not 24/7]
-https://live.imamhossaintv.com/live/ih1.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IXVSPdJ.png" group-title="Iraq",Imam Hussein TV 2 (1080p) [Not 24/7]
-https://live.imamhossaintv.com/live/ih2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/emQRHQZ.png" group-title="Iraq",Imam Hussein TV 3 (1080p) [Not 24/7]
-https://live.imamhossaintv.com/live/ih3.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0UYcylY.png" group-title="Iraq",Imam Hussein TV 4 (1080p) [Not 24/7]
-https://live.imamhossaintv.com/live/ih4.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pDdUvz7.png" group-title="Iraq",Imam Hussein TV 1 (1080p)
+http://fa.imamhossaintv.com/live/ih1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IXVSPdJ.png" group-title="Iraq",Imam Hussein TV 2 (1080p)
+http://ar.imamhossaintv.com/live/ih2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/emQRHQZ.png" group-title="Iraq",Imam Hussein TV 3 (1080p)
+http://en.imamhossaintv.com/live/ih3.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0UYcylY.png" group-title="Iraq",Imam Hussein TV 4 (1080p)
+http://ur.imamhossaintv.com/live/ih4.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Oq2Ve7C.png" group-title="Iraq",Imam Hussein TV 5 (720p)
+http://live.al-zahratv.com/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lqhU0PY.png" group-title="Iraq",Imam Hussein TV 6 (1080p)
+http://live.imamhossaintv.com/live/ih6.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9lOuzHQ.png" group-title="Iraq",iNEWS TV (1080p)
 https://live.i-news.tv/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z7woTe5.png" group-title="Iraq",Iraq Future (480p)
@@ -85,6 +85,8 @@ https://avr.host247.net/live/Mix-kurdy/playlist.m3u8
 https://hlspackager.akamaized.net/live/DB/PAYAM_TV/HLS/PAYAM_TV.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zo3IWOn.png" group-title="Iraq",Rudaw TV (1080p)
 https://hlspackager.akamaized.net/live/DB/RUDAW/HLS/RUDAW.m3u8
+#EXTINF:-1 tvg-logo="https://www.semakurd.net/sites/default/files/imagecache/400xY/shemis-tv.jpg" group-title="Iraq",Shams TV (1080p)
+https://stream.shams.tv/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rK0y02d.png" group-title="Iraq",Waar TV (1080p)
 https://hlspackager.akamaized.net/live/DB/WAAR_HD/HLS/WAAR_HD.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9Mspf32.png" group-title="Iraq",Zagros TV (1080p)
