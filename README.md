@@ -83,6 +83,10 @@ That's it. No sign-up. No account. No payment. Just free live TV.
 | **GSE Smart IPTV** | iOS, macOS | Remote Playlists → Add → paste URL |
 | **Streamlink** | CLI / Linux | `streamlink "m3u-url" best` |
 
+### 📱 Prebuilt Android Player (World TV)
+
+Prefer a ready-made app? Download the **[World TV player APK](https://github.com/Romaxa55/world_ip_tv/releases/latest)**, install it, then paste the playlist URL. Universal build (arm64/arm/x86), Android 4.1+, works on phones, tablets and Android TV boxes.
+
 ---
 
 ## Geo-Restricted Channels? Use MegaV VPN
