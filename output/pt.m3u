@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HGfTJwt/ADBTV.jpg" group-title="Portugal",ADB TV (1080p)
+https://live-tv.waytv.pt/adbtv/adbtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="Portugal",Angel TV Portuguese (720p)
 https://janya-digimix.akamaized.net/vglive-sk-382409/portuese/ngrp:angelportuguese_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y00t9hr.png" group-title="Portugal",ARTV Canal Parlamento (720p) [Not 24/7]
@@ -51,9 +53,15 @@ https://w1.manasat.com/tvmana-1/smil:tvmana-1.smil/playlist.m3u8
 https://w1.manasat.com/tvmana-2/smil:tvmana-2.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AFb712e.png" group-title="Portugal",TV Maná Brasil (1080p)
 https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I66IkCw.png" group-title="Portugal",TV Maná English (1080p)
+https://w1.manasat.com/tvmana-english/smil:tvmana-english.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sUlrSwP.png" group-title="Portugal",TV Maná Español (1080p)
 https://w1.manasat.com/tvmana-espanol/smil:tvmana-espanol.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fACHqmY.png" group-title="Portugal",TV Maná Russkiy (1080p)
 https://w1.manasat.com/tvmana-leste/smil:tvmana-leste.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.iol.pt/img/logostvi/branco/tvificcao.png" group-title="Portugal",TVI Ficção (720p)
+https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvificcao.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C9rxqA5.png" group-title="Portugal",TVI Reality (720p) [Not 24/7]
+https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvireality.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gdpvKpS/cropped-Asset-1.png" group-title="Portugal",Way TV
 https://stream-hls.castr-cdn.com/5d714f6a0bd97874e36f14e4/live_057ee4605c1711efbd4135c4457c726c/index.fmp4.m3u8
