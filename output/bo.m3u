@@ -73,6 +73,8 @@ http://45.162.193.35/FX/index.m3u8
 https://tv2.bitstreaming.net:3576/multi_live/play.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" group-title="Bolivia",History Latin America (1080p)
 http://138.121.15.230:9002/HISTORY-CHANNEL/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Quw5O3p.jpeg" group-title="Bolivia",Imagen TV (720p)
+https://lbgo.bozztv.com/ssh101/ssh101/imagentvpotosib/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8XHSVWY/IMG-20210613-153444.png" group-title="Bolivia",Imperial TV (720p)
 https://tv.centaurychile.com/imperial/streams/EnCyCiwNLsqEQ2kv2852222720686498.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sGOSDo2.jpeg" group-title="Bolivia",Interactivo Television (720p)
@@ -107,12 +109,6 @@ https://azura2.bitstreaming.net/hls/kollasuyo3/live.m3u8
 https://ares.disfrutaenlared.com:1936/megatv/megatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/bec3csmj7emx.jpg" group-title="Bolivia",Radio San Gabriel (720p)
 https://twitch-m3u8.bastypro112.workers.dev/radiosangabrielbolivia/index.m3u8
-#EXTINF:-1 tvg-logo="https://tvu.umsa.bo/documents/780216/0/LogoRUSA+%283%29.jpg" group-title="Bolivia",Radio Universitaria San Andres (720p)
-https://edge.enhdtv.com/8054/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WGkMt2j.png" group-title="Bolivia",Red ADvenir TV (360p) [Not 24/7]
-http://streamer1.streamhost.org:1935/salive/GMIredadvenirm/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qYNmeDe.png" group-title="Bolivia",Red America TV (1080p)
-https://edge.enhdtv.com/redamerica/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fK0g2CK.png" group-title="Bolivia",Red DTV (1080p)
 http://15.204.246.24:8080/DTVHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Y4KOypc.jpeg" group-title="Bolivia",Red Rubi (720p)
@@ -131,8 +127,12 @@ http://190.211.140.91:8081/SVTranscoder/SOLTVabr.stream/playlist.m3u8
 http://45.162.193.35/STAR_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/960px-StudioUniversal2016.png" group-title="Bolivia",Studio Universal Latin America (1080p)
 http://45.162.193.35/STUDIO-UNIVERSAL/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/noN0Yhe.png" group-title="Bolivia",Sucremanta TV (720p)
+https://lbgo.bozztv.com/ssh101/ssh101/ok2026/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JkCywl5.png" group-title="Bolivia",TDT Multimedia (720p)
 https://video01.brascast.com/juan6318/juan6318/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p7tt72X.png" group-title="Bolivia",TELE 6 (720p)
+https://lbgo.bozztv.com/ssh101/ssh101/tele6/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tAdxar9.jpeg" group-title="Bolivia",TransMedia (720p)
 https://edge.enhdtv.com/8064/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V6wxEdh.png" group-title="Bolivia",TV Latina (1080p)
@@ -147,12 +147,16 @@ https://edge.enhdtv.com/8214/index.m3u8
 https://edge.enhdtv.com/8026/index.m3u8
 #EXTINF:-1 tvg-logo="https://tvu.umsa.bo/documents/780216/12171558/logo+tvu+icon.png/4367e79e-4541-d340-0e82-3943b73e7b18?t=1747686917412" group-title="Bolivia",UMSA TVU LP (720p)
 https://edge.enhdtv.com/8190/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LiLyxQR.png" group-title="Bolivia",Unica TV (720p)
+https://59d39900ebfb8.streamlock.net/unicatv/unicatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://unifranz.edu.bo/wp-content/themes/unifranz-web/public/images/logos/logo-light-min.442cee.svg" group-title="Bolivia",Unifranz (720p)
 https://edge.enhdtv.com/8192/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/B9wg1zj.png" group-title="Bolivia",Unitel Cochabamba (720p)
 https://lbgo.bozztv.com/ssh101/ssh101/tvjoaquiniana26/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qgrWDIs.png" group-title="Bolivia",Univalle Televisión (1080p)
-https://master.tucableip.com/univalletv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B9wg1zj.png" group-title="Bolivia",Unitel La Paz (720p)
+https://mdstrm.com/live-stream-playlist/6928b14aaa768aad947bf65d.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B9wg1zj.png" group-title="Bolivia",Unitel Santa Cruz (720p)
+https://mdstrm.com/live-stream-playlist/692b7e7ac84183fcf9e3462d.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/960px-Universal_TV_logo.svg.png" group-title="Bolivia",Universal TV Latin America (1080p)
 http://138.121.15.230:9002/UNIVERSAL-CHANNEL/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Cm1Xjeq.png" group-title="Bolivia",Vos TV (720p)
