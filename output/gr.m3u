@@ -19,8 +19,6 @@ https://eco.streams.ovh:8081/barazatv/tracks-v1a1/mono.m3u8
 https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TZ1unwF.png" group-title="Greece",Baraza TV Relaxing (720p)
 https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nGSsUd4.png" group-title="Greece",BBC Earth Greece (1080p)
-http://185.102.171.218/BBCEarth/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AeeeDUc.png" group-title="Greece",Best TV (720p) [Not 24/7]
 http://push-int.siliconweb.com/bestTV/stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/52JW71Q.png" group-title="Greece",Center TV (1080p)
@@ -35,6 +33,8 @@ http://live.streams.ovh:1935/tvcreta/tvcreta/playlist.m3u8
 http://81.171.10.42:554/liveD/DStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hsK68yd.png" group-title="Greece",Diavata TV (480p)
 https://183.bozztv.com/giatv/giatv-diavatatvonline/diavatatvonline/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" group-title="Greece",Disney Channel EMEA (576p)
+http://185.102.171.218/DisneyChannel/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" group-title="Greece",Disney Junior (576p)
 http://185.102.171.218/DisneyJunior/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TWFDkap.png" group-title="Greece",E! (720p)
@@ -81,6 +81,8 @@ https://kontralive.siliconweb.com/live/kontratv/playlist.m3u8
 https://eu1.streams.gr:8081/kostv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X7jKwYl.png" group-title="Greece",Kriti TV (1080p)
 https://cretetvlive.siliconweb.com/cretetv/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/52/5e/525e3ae49d881cb702f2d4156b3c14a3.jpg" group-title="Greece",Lepanto TV
+https://fr.crystalweb.net:1936/lepantotv/lepantotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UsyFADE.png" group-title="Greece",Mega Channel (720p)
 http://185.102.171.218/MegaHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WEYrIrC.png" group-title="Greece",Messatida TV (720p)

@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://files.catbox.moe/8v2y8m.png" group-title="Belgium",ACTV (504p)
 https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/4db788c7/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/ATV_Belgium_logo.svg/960px-ATV_Belgium_logo.svg.png" group-title="Belgium",ATV (1080p)
-https://live.zendzend.com/mpegts/29375_107244/media_mpegts_0.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9UmR6cs.png" group-title="Belgium",BAM-TV
 https://belafrikamediatv.vedge.infomaniak.com/livecast/ik:belafrikamediatv/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/STLavel.png" group-title="Belgium",Bouke (504p)
@@ -25,6 +23,8 @@ http://193.111.198.85:8589/stream/mstv/rtbflaunelive26/master.m3u8?p=967e33767f5
 http://151.80.18.177:86/LCI_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rw72POr.png" group-title="Belgium",MaTele (1080p) [Not 24/7]
 https://live.matele.be/hls/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EVtWQLd.png" group-title="Belgium",MCM Top (1080p)
+http://89.33.29.118/MCM/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fGS55nR.png" group-title="Belgium",Notele (576p) [Not 24/7]
 https://streaming01.divercom.be/notele_live/direct.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/RT-France-logo.svg/960px-RT-France-logo.svg.png" group-title="Belgium",RT France (1080p) [Geo-blocked]
