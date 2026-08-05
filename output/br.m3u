@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/6/60/%2BSBT_2024.svg/960px-%2BSBT_2024.svg.png" group-title="Brazil",+SBT Novelas (1080p) [Geo-blocked]
-https://novelas.maissbt.com/v1/master/215c0da80606fed29372070168106400a6ca7e1a/Novelas_cmaf/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png" group-title="Brazil",A&E Latin America Brazil (720p)
 http://45.190.28.50/AE_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KgetM8j.png" group-title="Brazil",Adesso TV (720p)
@@ -17,6 +15,8 @@ https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 http://170.83.49.66:8083/AMCHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="Brazil",Angel TV Portuguese (720p)
 https://janya-digimix.akamaized.net/vglive-sk-382409/portuese/ngrp:angelportuguese_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jl39ula.png" group-title="Brazil",Araruna TV
+https://video05.logicahost.com.br/ararunatv/ararunatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ht4jCab.png" group-title="Brazil",Aratu On
 https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ivnk7A6.png" group-title="Brazil",Arte 1 (720p)
@@ -91,6 +91,8 @@ http://181.78.197.59:8000/play/a07z/index.m3u8
 http://190.83.2.182:8090/ESPN3/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png" group-title="Brazil",ESPN 4 (1080p)
 http://181.78.197.59:8000/play/a07n/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8PxpamC.png" group-title="Brazil",EUTV (720p)
+https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NF6PL8O.png" group-title="Brazil",Fala Litoral (480p)
 https://5c483b9d1019c.streamlock.net/falalitoraltv/falalitoraltv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cZWKyuM.png" group-title="Brazil",FashionTV (720p)
@@ -135,6 +137,8 @@ https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 https://play.mbcbrasil.tv.br/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EVtWQLd.png" group-title="Brazil",MCM Top (1080p)
 http://89.33.29.118/MCM/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qTYv5jt.png" group-title="Brazil",Megapix (720p)
+http://177.52.24.163/MEGAPIX-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CDPCF2X.png" group-title="Brazil",Music Box Brazil (720p)
 http://45.190.28.50/MUSIC_BOX_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aiGQtzI.png" group-title="Brazil",MyTime Movie Network Brazil (720p)
@@ -167,6 +171,8 @@ http://45.190.28.50/RECORD/index.m3u8
 http://45.162.64.114/RECORD_NEWS/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e7cb84a172a0f0007da69e4/colorLogoPNG.png" group-title="Brazil",Red Bull TV BR (1080p)
 https://d03ae6b5c6724c24867e97a3dc04934a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1026-WORBBRPTFAST-WHALETVPLUS/1026/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TXJKwzZ.png" group-title="Brazil",Rede Brasil (1080p)
+https://redebrasil.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jcasAmw.png" group-title="Brazil",Rede CNT Rio de Janeiro (720p)
 http://45.162.64.114/CNT/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7KVFCrQ.png" group-title="Brazil",Rede Familia (720p)
@@ -197,8 +203,6 @@ https://acesso.ecast.site:3648/live/ritlive.m3u8
 https://video09.logicahost.com.br/sbtcuiaba/sbtcuiaba/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IkZfa4j.png" group-title="Brazil",SBT Interior (720p)
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/19/SBTKids2026.png" group-title="Brazil",SBT Kids (1080p) [Geo-blocked]
-https://8994803e454548319ffc0775bc04e0c1.mediatailor.us-east-1.amazonaws.com/v1/master/215c0da80606fed29372070168106400a6ca7e1a/SSAI-TVZyn/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tc1ALuu.png" group-title="Brazil",SBT Nacional (720p)
 http://45.190.28.50/SBT_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/SBT_News_2025.svg" group-title="Brazil",SBT News (720p)
@@ -209,8 +213,6 @@ https://video09.logicahost.com.br/sbtmutum/sbtmutum/playlist.m3u8
 https://video09.logicahost.com.br/sbtroo/sbtroo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/img/mobile/featured/bg_mobile.jpg" group-title="Brazil",Series Classic (720p)
 https://cdn-tiva-video10-logicahost-com-br.smartbit.co/serieclassic/serieclassic/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b2/Show_do_Milh%C3%A3o_Logo_2024.webp" group-title="Brazil",Show do Milhao (1080p) [Geo-blocked]
-https://d38s7rrdbnh4oy.cloudfront.net/v1/master/215c0da80606fed29372070168106400a6ca7e1a/SSAI-Saudades/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mHxQyB2.png" group-title="Brazil",SIC TV (720p)
 https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/960px-Sony_Channel_Logo.png" group-title="Brazil",Sony Channel (720p)
@@ -223,6 +225,8 @@ https://video10.logicahost.com.br/soutv/soutv/playlist.m3u8
 http://177.52.24.163/STUDIO-UNIVERSAL-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SeF2I7q.png" group-title="Brazil",STZ TV (1080p)
 https://cdn.live.br1.jmvstream.com/webtv/AVJ-12952/playlist/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aMuMVvB.png" group-title="Brazil",TCM 10 HD (1080p)
+https://live.tcm10.com.br/tcm10hd/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p7tt72X.png" group-title="Brazil",TELE 6 (720p)
 https://lbgo.bozztv.com/ssh101/ssh101/tele6/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wnYsE3O.png" group-title="Brazil",Terra Viva (720p)
@@ -259,6 +263,8 @@ https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
 https://stmv1.srvstm.com/piaui8071/piaui8071/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvBrasil2023.png/960px-TvBrasil2023.png" group-title="Brazil",TV Brasil (720p)
 http://45.162.64.114/TV_BRASIL/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/noqGfuy.png" group-title="Brazil",TV Brasil Oeste (720p)
+https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vLpm8tN.png" group-title="Brazil",TV BRICS Portuguese (1080p)
 https://porbrics.mediacdn.ru/cdn/brics/portuguese/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J2EAZPS.png" group-title="Brazil",TV Brusque (720p)
@@ -307,8 +313,6 @@ https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/playlist.m3u8
 https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/17/Logotipo_da_TV_Meio.png" group-title="Brazil",TV Meio (720p)
 https://cdn-tiva-maystreaming-cloudecast-com.smartbit.co/redemeio/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bJyjLpg.png" group-title="Brazil",TV Metropole (720p) [Not 24/7]
-https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Gjan8rl.png" group-title="Brazil",TV Mon (720p)
 https://cdn-tiva-video10-logicahost-com-br.smartbit.co/tvmon/tvmon/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wqQmQml.png" group-title="Brazil",TV Natal (1080p)
@@ -385,6 +389,8 @@ https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8
 https://umatv.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N0TvAFz.png" group-title="Brazil",UNISUL TV (720p)
 https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/960px-USA_Network_logo_%282016%29.svg.png" group-title="Brazil",USA Network Latin America Brazil (720p)
+http://177.52.24.163/USA-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n0pxHo4.png" group-title="Brazil",VEJA+ TV (1080p)
 https://gpa-vja.otteravision.com/gpa/vja/vja.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/me622pa.png" group-title="Brazil",WooHoo (720p)
