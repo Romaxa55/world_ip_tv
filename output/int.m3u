@@ -9,8 +9,6 @@ https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8
 https://hls.4utv.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://jrlist70.pages.dev/list/wise.png" group-title="International",6 Wise Tv (720p)
 https://live.enhdtv.com:8081/8150/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/21sXZ3GT/24h.png" group-title="International",24 Horas (1080p)
-http://185.47.212.25:8080/24h_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDTV/images/LOGO_HD/LOGO_HD_image.png" group-title="International",&TV International (1080p)
 https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YlDFir7.jpg" group-title="International",A2i TV (1080p)
@@ -187,6 +185,8 @@ https://tv.bitstreaming.net:3789/live/cdntvlive.m3u8
 https://cafetradehls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Kfdkm06.png" group-title="International",Canal 21 Huancayo (720p)
 https://play.agenciastreaming.com:8081/tvwanka/tracks-v1/index.fmp4.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/21sXZ3GT/24h.png" group-title="International",Canal 24 Horas (720p)
+https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:-1 tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/bd356b80-79d9-46ff-9674-e69aaf10022f-width200-quality90.jpeg" group-title="International",Car City Adventures
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883095
 #EXTINF:-1 tvg-logo="https://caribbeanadvantage.com/images/CAtv-logo-512.png" group-title="International",Caribbean Advantage TV (1080p) [Not 24/7]
@@ -208,7 +208,7 @@ https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8V
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BwhledK.png" group-title="International",CGTN French (1080p)
 http://145.239.5.177/214/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qBmomnF.png" group-title="International",CGTN Global Biz (1080p)
-https://amg01314-amg01314c6-distrotv-us-10220.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnglobalbiz-distrotvus/playlist.m3u8
+https://fastlive.cctvplus.com/out/v1/2b3d8a0c805d437f9dc85b764c2ac599/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nDWkCmL.png" group-title="International",CGTN Русский (1080p)
 https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KPXMa3U.png" group-title="International",Channel 5 International (576p)
@@ -216,7 +216,7 @@ http://178.134.1.158:8081/5channel/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hJxFLvF.png" group-title="International",Channel S (576p)
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vSgY3CD.png" group-title="International",China Travel (1080p)
-https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnchinatravel-distrotvus/playlist.m3u8
+https://fastlive.cctvplus.com/out/v1/ca6f9297b7314a63959435028af287fc/index.m3u8
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23208/cindie-tv/logo_20250225_222520_68.png" group-title="International",CINDIE TV (1080p)
 https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png" group-title="International",Cinecanal (1080p)
@@ -247,8 +247,6 @@ http://15.204.246.24:8080/ComedyCentralHD/index.m3u8
 https://cdn09jtedge.indihometv.com/joss/133/crimeinvestigation/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg" group-title="International",Crime + Investigation CEE
 http://88.212.15.19/live/test_cai_hevc/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aksM8pa.png" group-title="International",De Pelicula Latin America (1080p)
-http://38.19.41.46:8081/DEPELICULA/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PzqzgMm.png" group-title="International",Deshi TV (720p)
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nsttoEa.png" group-title="International",DHE (1080p)
@@ -258,7 +256,7 @@ https://s1.tvdatta.com:3978/live/diasporatvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K3lvrog.png" group-title="International",Die Neue Zeit (576p)
 https://bild-und-ton.stream/die-neue-zeit-tv-live/smil:dnz-de.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wr2bLaA.png" group-title="International",Discovering China (1080p)
-https://amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtndiscoveringchina-distrotvus/playlist.m3u8
+https://fastlive.cctvplus.com/out/v1/8442c3bfd4c64a3984389328f6087879/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" group-title="International",Disney Channel
 http://88.212.15.19/live/test_disney/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" group-title="International",Disney Channel Latin America (1080p)
@@ -383,8 +381,6 @@ https://amg02278-amg02278c2-flosports-worldwide-9916.playouts.now.amagi.tv/playl
 https://amg02278-amg02278c1-flosports-worldwide-7592.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Seq7Od7.png" group-title="International",Folk Klub (720p)
 http://tv1.intv.mk:1935/live2/folkklub/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1oMboXL.png" group-title="International",For You TV
-https://stream.az-multimedia.com:3325/live/foryoutvlive.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_FRANCE_24/images/LOGO_HD/image.png" group-title="International",France 24 Arabic (1080p)
 https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_FRANCE_24/images/LOGO_HD/image.png" group-title="International",France 24 English (1080p)
@@ -409,16 +405,16 @@ http://72.1.184.5:8089/play/a05i/index.m3u8
 http://hls127.freeott.top:8080/Gagsnetwork/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FqFxog1.png" group-title="International",Garage TV Latin America
 https://stream1.sersat.com/hls/garagetv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ArRZRM3.png" group-title="International",Gaunda Punjab TV (720p)
+http://cdn6.live247stream.com/gaundapunjab/tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tS7Ub7i.png" group-title="International",GLORY Kickboxing (720p)
 https://6f972d29.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0dsb3J5S2lja2JveGluZ19ITFM/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GJYb8c8.png" group-title="International",GMTV (1080p)
 https://livechannel.mdc.akamaized.net/stitch/livechannel/1341/master1400000.m3u8;session=live_stream_1341
 #EXTINF:-1 tvg-logo="https://i.imgur.com/11V0QSp.png" group-title="International",GO-TV Canale 163 (720p)
 https://6zklxkbbdw9b-hls-live.mariatvcdn.it/msmotor/2f759512164fc6fe4acbed6a5648993a.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NNd1lYl.png" group-title="International",Golden (1080p)
-http://38.19.41.46:8081/MTV/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SlSbcp3.png" group-title="International",Golden Edge (1080p)
-http://38.19.41.46:8081/GOLDENEDGE/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lgux6Ik.png" group-title="International",Golf Channel (1080p) [Geo-blocked]
+https://messi.damitv.st/papi/ts/golfchannel-usa/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Golf_Channel_Logo_2018.png/960px-Golf_Channel_Logo_2018.png" group-title="International",Golf Channel Latin America (1080p)
 http://15.204.246.24:8080/GolfChannelHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pypul3s.png" group-title="International",GolTV Latin America (720p)
@@ -453,8 +449,6 @@ https://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA.m3u8
 https://cdn.live247stream.com/hyder/tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/960px-LOGO_i24NEWS.png" group-title="International",i24NEWS English World (1080p)
 https://i24newsenglish-cdn.encoders.immergo.tv/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eKy2ocd.png" group-title="International",IBN TV Africa (720p)
-http://68.183.41.209:8080/live/5d9a537c64b9c/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VwAMqA7.png" group-title="International",INFAST (1080p)
 https://amg00861-terninternation-lifestyle-samsungau-kdlyy.amagi.tv/playlist/amg00861-terninternation-lifestyle-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/slLuRel.png" group-title="International",Insayt TV (2160p)
@@ -469,7 +463,7 @@ https://hlspackager.akamaized.net/live/DB/IRAN_INTERNATIONAL/HLS/IRAN_INTERNATIO
 http://212.5.144.156:8080/jimjam/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2XzghdT.png" group-title="International",Kajou TV (720p) [Not 24/7]
 https://video1.getstreamhosting.com:1936/8055/8055/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XPyOTZF.jpeg" group-title="International",Kaloopy TV (1080p)
+#EXTINF:-1 tvg-logo="https://vcz-kapang-tv.b-cdn.net/files/thumbs/2026/05/06/1778037346ayAfpsWIMj-300x300-square.png" group-title="International",Kaloopy TV (1080p)
 https://streamingserver000.viewtv.cloud/VIEWTVNETWORK-KALOOPY/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7oGGgfD.png" group-title="International",Kanal Jadid
 https://kjhls.wns.live/hls/stream.m3u8
@@ -479,10 +473,6 @@ https://ktvlive.online/stream/hls/ch3.m3u8
 https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BQ0qWzX.png" group-title="International",Kordia TV (1080p)
 https://ptvlive.kordia.net.nz/out/v1/3fc2254c865a457c8d7fbbce227a2aae/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/p02AEOF.png" group-title="International",Korean Central Television (1080p)
-https://kctv.koryofront.org/stream/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EY6TsdV.png" group-title="International",KTO (504p)
-http://145.239.5.177/354/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SRX6EPY.png" group-title="International",Kuriakos Kids (1080p)
 https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Kvartal_TV_International_%28HD_Logo%29.png" group-title="International",Kvartal TV International
@@ -769,6 +759,8 @@ https://stream-13.mazana.tv/slagroriginal.m3u8s
 http://15.204.246.24:8080/SonyHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/500px-Sony_Movies_Logo.svg.png" group-title="International",Sony Movies Latin America (720p)
 http://15.204.246.24:8080/SonyMoviesHD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LSyydKj/Sooriyan-TV-Tamil.jpg" group-title="International",Sooriyan TV (1080p)
+https://live20.bozztv.com/giatv/giatv-Infinittyott/Infinittyott/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.mtis.by/upload/medialibrary/717/v07nk6rmf6m1mno8ujhbkcg8nstkfjgv/Slide%2016_9%20-%2050.png" group-title="International",Soyuzny (480p)
 http://178.124.179.122:8080/TRO/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" group-title="International",Spacetoon Arabic (576p)
@@ -951,6 +943,8 @@ https://edge.enhdtv.com/8192/index.m3u8
 http://15.204.246.24:8080/UniversalHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/960px-Logo_Univision_2019.svg.png" group-title="International",Univision Latin America (1080p)
 http://138.121.15.230:9002/UNIVISION/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/960px-USA_Network_logo_%282016%29.svg.png" group-title="International",USA Network Latin America (1080p)
+http://138.121.15.230:9002/USA/index.m3u8
 #EXTINF:-1 tvg-logo="https://vantagetv.ee/vantage_classic.png" group-title="International",Vantage Classic (720p)
 https://cdn-backup.lulzy.eu/vclassic_stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://vantagetv.ee/vantage_dance.png" group-title="International",Vantage Dance (720p)

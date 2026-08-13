@@ -29,8 +29,6 @@ https://video2.lhdserver.es/canal9cosespu/live.m3u8
 https://eu1.servers10.com:8081/8056/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zAYtbYi.png" group-title="Colombia",Canal Capital (1080p)
 http://138.121.15.230:9002/CANAL-CAPITAL/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cNv1MPs.jpeg" group-title="Colombia",Canal CHD
-https://vs20.live.opencaster.com/canalchd2025_8d99626c/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/S4xqZgV.png" group-title="Colombia",Canal Cine Dios
 https://canal.mediaserver.com.co/live/cinedios.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3VnL8dp.png" group-title="Colombia",Canal Congreso (1080p)
@@ -41,6 +39,8 @@ http://131.221.41.94/hls/canal2.m3u8
 https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ODMa27W.jpg" group-title="Colombia",Canal Más Televisión (720p)
 https://movil.ejeserver.com/live/teledoradahd.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/edaAexc.png" group-title="Colombia",Canal Nets (720p) [Not 24/7]
+https://movil.ejeserver.com/live/nets.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rfnFqU3.png" group-title="Colombia",Canal Oración Con Son (1080p)
 https://canal.mediaserver.com.co/live/oracionconson.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3qxBDhV.png" group-title="Colombia",Canal PyC (720p)
@@ -51,8 +51,6 @@ http://138.121.15.230:9002/RCN/index.m3u8
 https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pyeBDpg.jpeg" group-title="Colombia",Canal TV3 (720p) [Not 24/7]
 https://streaming.telenetdigital.net.co:8086/canal3tv/stream.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Nr4muMP.jpeg" group-title="Colombia",Canal Womtv (720p)
-https://live.amelbatv.co:81/womtvlive/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RuQDwTt.jpeg" group-title="Colombia",Canica TV (240p)
 https://stmv4.voxtvhd.com.br/canicatv/canicatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Fww94l9.png" group-title="Colombia",Caracol HD2 (1080p)
@@ -67,6 +65,8 @@ http://138.121.15.230:9002/CITY-TV/index.m3u8
 https://cdn1.cmbcolombia.tv/bethesda/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zJAwnvd.png" group-title="Colombia",CNC Bugavisión (720p)
 https://movil.ejeserver.com/live/cncbuga.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5vJ0aXH.png" group-title="Colombia",CNC Pereira (720p)
+https://cloudvideo.servers10.com:8081/latinchaneltv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LNl2o9q.jpg" group-title="Colombia",CNC Santander de Quilichao (480p)
 https://movil.ejeserver.com/live/cncsantander.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NCzpcqm.png" group-title="Colombia",CNC Tulua (1080p)
@@ -93,6 +93,8 @@ http://181.78.14.26:4000/play/a073/index.m3u8
 https://stmv3.voxtvhd.com.br/conex2/conex2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xG2apUG.jpeg" group-title="Colombia",El Mundo del Campo (720p)
 https://movil.ejeserver.com/live/elmundodelcampo.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SQ79Wsb.png" group-title="Colombia",Emisora Comunitaria 104.1 FM
+https://104florencia.co/wp-admin/admin-ajax.php?action=frp_hls_proxy&url=https://streamyes.alsolnet.com/comunitariafm/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/42wImV2.png" group-title="Colombia",Fiesta TV
 https://panelvideo1.intermediahost.co:3286/live/ruzfpkqklive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Cw5k96N.png" group-title="Colombia",Frecuencia F TV (1080p)

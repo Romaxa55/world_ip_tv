@@ -5,8 +5,6 @@ https://mediaserver.abnvideos.com/streams/abnchina.m3u8
 https://janya-digimix.akamaized.net/vglive-sk-999451/chinese/ngrp:angelchinese_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gDn101f.png" group-title="China",Anhui TV
 https://restream.pdtvhd.com/memfs/c1cd2ed0-3b2b-4c25-af98-a7fb0b1eb130.m3u8
-#EXTINF:-1 tvg-logo="https://bread-tv.com/uploads/allimg/241202/9_1836542371.png" group-title="China",Bread TV面包台 (720p)
-https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U8d4Is6.png" group-title="China",CCTV+ 1 (600p) [Not 24/7]
 https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qSg862A.png" group-title="China",CCTV+ 2 (600p) [Not 24/7]
@@ -17,6 +15,8 @@ http://69.30.245.50/live/cctv1.m3u8
 http://74.91.26.218:82/live/cctv1hd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iFlkIuw.png" group-title="China",CCTV-3 (720p)
 http://74.91.26.218:82/live/cctv3hd.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fxusYlX.png" group-title="China",CCTV-4K (1080p)
+http://198.204.240.250:82/live/cctv4k.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OK8mdJV.png" group-title="China",CCTV-5+
 https://myip.pdtvhd.com/Sports/streams/CCTV5pul.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rFiaef7.png" group-title="China",CCTV-6 [Geo-blocked]
@@ -25,8 +25,6 @@ https://live.eac-news.com/CCTV/streams/cctv6.m3u8
 https://xykt-fix.github.io/Y77.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3yTuiOM.png" group-title="China",CCTV-12 (720p)
 http://74.91.26.218:82/live/cctv12hd.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CCV0eRG.png" group-title="China",CCTV-15 (1080p)
-https://xykt-fix.github.io/play/a02e/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZzV6JQp.png" group-title="China",CCTV-16 (1080p)
 http://74.91.26.218:82/live/cctv16hd.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/cfxwzhpd.jpg" group-title="China",Chifeng Comprehensive News Chanel
@@ -41,10 +39,6 @@ https://stream.hrbtv.net/yspd/playlist.m3u8
 https://event.pull.hebtv.com/live/live101.m3u8
 #EXTINF:-1 tvg-logo="https://parco-zh.github.io/demo/HNWS.png" group-title="China",Hunan TV (2160p)
 http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
-#EXTINF:-1 tvg-logo="https://p3-pc.douyinpic.com/img/aweme-avatar/tos-cn-avt-0015_c2a13a952c0111b21f081d672798c8ed~c5_300x300.jpeg?from=2956013662" group-title="China",Lanzhou Comprehensive News Channel
-https://liveplus.lzr.com.cn/xwzh/HD/live.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/lanzhou.jpg" group-title="China",Lanzhou Culture & Tourism Channel
-https://liveplus.lzr.com.cn/wlpd/HD/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WeugJBE.png" group-title="China",Nei Monggol TV (1080i) [Not 24/7]
 http://play1-qk.nmtv.cn/live/1769652018126032.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kpsjahG.png" group-title="China",Nei Monggol TV 2 Mongolian Culture Channel (1080i) [Not 24/7]
@@ -55,6 +49,8 @@ http://video10.qtv.com.cn/drm/qtv1at/manifest.m3u8
 http://video10.qtv.com.cn/drm/qtv2at/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/qdtv3.jpg" group-title="China",QTV-3
 http://video10.qtv.com.cn/drm/qtv3at/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/qdtv4.jpg" group-title="China",QTV-4
+http://video10.qtv.com.cn/drm/qtv4at/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/qdtv5.jpg" group-title="China",QTV-5
 http://video10.qtv.com.cn/drm/qtv5at/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/qdtv6.jpg" group-title="China",QTV-6
