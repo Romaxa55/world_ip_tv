@@ -37,6 +37,8 @@ https://wifispeed.trapemn.tv:1936/comunales/autonoma-tv/playlist.m3u8
 https://v1.tustreaming.cl/aysentv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lhglEUP.png" group-title="Chile",Bio Bio TV (720p)
 https://jireh-7-hls-video-us-isp.dps.live/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A3Jiffe.png" group-title="Chile",Caldera Vision
+https://tv.arkeo.cl:1936/kymczwbrge/kymczwbrge/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KL6pgaL.png" group-title="Chile",Campo Abierto TV (720p)
 https://v2.tustreaming.cl/catvlive/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LvzLg33.png" group-title="Chile",Campus TV (Talca) (720p) [Not 24/7]
@@ -87,6 +89,8 @@ https://tv.arkeo.cl:1936/clubtv/clubtv/playlist.m3u8
 http://15.204.246.24:8080/ComedyCentralHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9k0yAxj.jpeg" group-title="Chile",Concepcion TV (720p)
 https://stream.blserver.cl/hls/ctv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lz2OlKf.png" group-title="Chile",Contivision (720p)
+https://unlimited6-cl.dps.live/cm/cm.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/422_Cooperativa.png" group-title="Chile",Cooperativa (720p)
 https://unlimited1-cl-isp.dps.live/coopetv/coopetv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1768_Coyhaique_TV.png" group-title="Chile",Coyhaique TV (720p)
@@ -183,14 +187,10 @@ https://5eaccbab48461.streamlock.net:1936/8242/ngrp:8242_all/playlist.m3u8
 https://v1.tustreaming.cl/margamargatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RlZfR84.png" group-title="Chile",Mega (1080p)
 http://15.204.246.24:8080/MEGAHD/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/c1ME00r.png" group-title="Chile",Mega 2 (1080p)
-http://15.204.246.24:8080/Mega2HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XEpLWJw.png" group-title="Chile",Mi Radio TV
 https://scl.edge.grupoz.cl/miradio2/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v7SA92F.png" group-title="Chile",MTNA TV
 https://live.mtna.tv/hls/mtna/mtna.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png" group-title="Chile",MTV Latin America (1080p)
-http://15.204.246.24:8080/MTVHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5xKtvnD.jpeg" group-title="Chile",Mundos Lacustres TV (720p)
 https://video.ipstream.cl:3710/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cGNgvOD.png" group-title="Chile",Nada Es Imposible TV
@@ -201,8 +201,6 @@ https://origin-us.streaminghd.cl/nativatv/nativatv/playlist.m3u8
 https://pantera1-100gb-cl-movistar.dps.live/nctv/nctv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KT4tdQs.png" group-title="Chile",Nick Jr. Latin America (1080p)
 http://177.234.249.178:8888/NICK-JR/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Chile",Nickelodeon Latin America (1080p)
-http://15.204.246.24:8080/NickHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1552_Nina_TV.png" group-title="Chile",Nina TV (720p)
 https://tv1.ninatv.cl/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eCPzibM.png" group-title="Chile",Nuevo Tiempo TV
@@ -213,8 +211,6 @@ https://v2.tustreaming.cl/odiseatv/index.m3u8
 https://v4.tustreaming.cl/retroplaytv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4IjhXKm.png" group-title="Chile",Opinionsur (720p)
 https://183.bozztv.com/giatv/giatv-opinionsurc/opinionsurc/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0ELjva6.png" group-title="Chile",Osorno TV (720p)
-https://videostream.chileservidores.com:8081/osornotv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oFuWBZO.png" group-title="Chile",Patagonia Radio TV (720p)
 https://video01.logicahost.com.br/grupomedia/grupomedia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UAKLJAt.png" group-title="Chile",Pauta (1080p)
@@ -241,12 +237,8 @@ https://v2.tustreaming.cl/radioancoatv/index.m3u8
 https://v2.tustreaming.cl/armoniamovil/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/409_Radio_Chiloe.png" group-title="Chile",Radio Chiloe (720p)
 https://videostream.chileservidores.com:8081/chiloe1/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1493_Radio_Contemporanea_Coihueco.png" group-title="Chile",Radio Contemporanea Coihueco (720p)
-https://tv.arkeo.cl:19360/8046/8046.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/427_Radio_Duna.png" group-title="Chile",Radio Duna (720p)
 https://mdstrm.com/live-stream-playlist/67ed8a8d6db4af9a0188555c.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1313_Radio_Edelweiss.png" group-title="Chile",Radio Edelweiss (720p)
-https://vmix.dyndns.biz/Edelweiss/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gBpMAc3.png" group-title="Chile",Radio El Sembrador (720p)
 https://tv.arkeo.cl:1936/elsembrador/elsembrador/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/389_Radio_Fantasia_TV.png" group-title="Chile",Radio Fantasia TV (720p)
@@ -259,16 +251,10 @@ https://v1.tustreaming.cl/frecuencia1tv/index.m3u8
 https://5ff3d9babae13.streamlock.net/chrgkqgkyb/chrgkqgkyb/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/408_Radio_Las_Nieves.png" group-title="Chile",Radio Las Nieves (720p)
 https://v2.tustreaming.cl/rln/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/870_Radio_Nuble.png" group-title="Chile",Radio Nuble (720p)
-https://tv.telselec.cl:3376/live/nublefmlive.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1502_Radio_Panoramica.png" group-title="Chile",Radio Panoramica (720p)
 https://v2.tustreaming.cl/alingeproducciones/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/71U0wTN.png" group-title="Chile",Radio Popular TV
-https://tv.arkeo.cl:19360/8052/8052.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/429_Pudahuel_FM.png" group-title="Chile",Radio Pudahuel (720p)
 https://unlimited2-cl-isp.dps.live/pudahueltv/pudahueltv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZzUc6je.png" group-title="Chile",Radio Rancagua FM (720p)
-https://tv.arkeo.cl:1936/radiorancagua/radiorancagua/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qU3E0kX.png" group-title="Chile",Radio Ritmo (1080p) [Not 24/7]
 https://panel.tvstream.cl:1936/8046/8046/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1467_Radio_UC.png" group-title="Chile",Radio UC (720p)
@@ -321,6 +307,8 @@ https://unlimited1-us.dps.live/inet2/inet2.smil/playlist.m3u8
 https://pantera1-100gb-cl-movistar.dps.live/teleangol/teleangol.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nhPFGs8.png" group-title="Chile",Teleangol Radio (720p)
 https://pantera1-100gb-cl-movistar.dps.live/teleangolradio/teleangolradio.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cNYDqhp.png" group-title="Chile",TeleCauquenes (720p)
+https://lbgo.bozztv.com/ssh101/ssh101/telecauquenestv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j2O4ndp.png" group-title="Chile",Telemundo Internacional (1080p)
 http://138.121.15.230:9002/TELEMUNDO/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NoJvlig.png" group-title="Chile",Teletrak (720p)
@@ -387,5 +375,7 @@ https://unlimited1-us.dps.live/vtv/vtv.smil/playlist.m3u8
 https://stream.wapptv.cl/video/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lMyZZtk.png" group-title="Chile",Zona Latina (720p)
 http://45.162.193.35/ZONALATINA/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GewcpHv.png" group-title="Chile",Zona Play TV (720p)
+https://tv1.mediacp.eu:3131/live/dilxbgxylive.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1617_Zoom_Tecnologico_Plus.png" group-title="Chile",Zoom Tecnologico Plus (720p)
 https://5f700d5b2c46f.streamlock.net/zoomtec/zoomtec/playlist.m3u8
