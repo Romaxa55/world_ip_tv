@@ -13,6 +13,8 @@ https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8
 https://alphatvlive2.siliconweb.com/alphatvlive/live_abr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oYRPfZm.png" group-title="Greece",Astra TV (1080p)
 https://server.gointernet.gr/live/livestream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TZ1unwF.png" group-title="Greece",Baraza TV (1080p)
+https://eco.streams.ovh:8081/barazatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TZ1unwF.png" group-title="Greece",Baraza TV Deep House (720p)
 https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TZ1unwF.png" group-title="Greece",Baraza TV Relaxing (720p)
@@ -21,8 +23,6 @@ https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8
 http://push-int.siliconweb.com/bestTV/stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/52JW71Q.png" group-title="Greece",Center TV (1080p)
 https://eu1.streams.gr:8081/centertv/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.channel8.gr/img/channel8.png" group-title="Greece",Channel 8 (1080p)
-https://gra1.crystalweb.net:1936/channel8/channel8/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EFL1Tjg.png" group-title="Greece",Corfu Channel (720p)
 https://itv.streams.ovh:1936/corfuchannel/corfuchannel/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CpIeJyt.png" group-title="Greece",Creta (540p) [Not 24/7]
@@ -39,8 +39,6 @@ https://rtmp.win:3603/live/ellinikosfmlive.m3u8
 https://gra1.crystalweb.net:1936/epilogestv/epilogestv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/ERT_Cosmos_Logo_2026.svg/960px-ERT_Cosmos_Logo_2026.svg.png" group-title="Greece",ERT Cosmos (1080p)
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTCosmos/default/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HXbsPfB.png" group-title="Greece",ERT News HD (1080p)
-https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTNews/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.eurotv.gr/wp-content/uploads/2018/03/ima-euro-channel-190-x-400.png" group-title="Greece",Euro TV (432p)
 https://lbgo.bozztv.com/ssh101/ssh101/eurotvlive/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VKW9xw6.png" group-title="Greece",Extra ProNews (576p)
@@ -95,8 +93,6 @@ http://skai-live-back.siliconweb.com/media/cambria4/index.m3u8
 http://livestar.siliconweb.com/starvod/star4/star4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZBt6beo.png" group-title="Greece",Star Kentrikis Elladas (1080p)
 https://telmaco-cdn.akamaized.net/starcgr/default/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4PrPG5j/Start-TV-Corfu-Radio-100-1-www-startmedia-gr-1.jpg" group-title="Greece",Start TV (480p)
-https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/arQe5qS.png" group-title="Greece",Syros TV1 (720p)
 https://eco.streams.ovh:1936/syrostv1/syrostv1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SfV2gJg.png" group-title="Greece",Top Channel (720p)
