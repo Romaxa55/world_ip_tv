@@ -49,6 +49,8 @@ https://media2.streambrothers.com:1936/8140/8140/playlist.m3u8
 https://nlb1-live.emitstream.com/hls/625csn5et2iszm9oze65/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pwRVbCz.png" group-title="Spain",Canal 56 (576p) [Not 24/7]
 https://videos.canal56.com/directe/stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9RoBASf.png" group-title="Spain",Canal 2000 La Solana (720p) [Not 24/7]
+http://canal2000.berkano-systems.net/streaming/streams/canal2000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uWhVKL3.png" group-title="Spain",Canal Diocesano (576p)
 https://nlb2-live.emitstream.com/hls/5i3pxfuz4az356yu22ij/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QSUOxtM.png" group-title="Spain",Canal Málaga RTV (720p) [Not 24/7]
@@ -127,8 +129,6 @@ https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8
 https://d1k3vzh2ivy22k.cloudfront.net/Historia1080.m3u8
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/5194tl8duqL.png" group-title="Spain",HOLA! Play (1080p)
 https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/a9hgTmM.png" group-title="Spain",Imás TV (1080p) [Not 24/7]
-https://secure3.todostreaming.es/live/imastv-livestream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ulSkAjZ.png" group-title="Spain",Interalmeria TV (1080p)
 https://interalmeria.tv/directo/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KLPSnAT.png" group-title="Spain",Intercomarcal TV (576p) [Not 24/7]
@@ -213,6 +213,8 @@ https://common01.todostreaming.es/live/ribera-livestream.m3u8
 https://rtvelivestream.rtve.es/rtvesec/rne/rne_para_todos_main.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0TDnVQ4.png" group-title="Spain",ROTV Valencia (720p)
 https://rotv.romediavalencia.com:3839/live/rotvlive.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/960px-Russia-today-logo.svg.png" group-title="Spain",RT en Espanol (1080p)
+http://15.204.246.24:8080/RTHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/o9Ro8TR.png" group-title="Spain",RTV Marbella (720p)
 https://streaming.rtvmarbella.tv/hls/streamingweb.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EqUfEAh.png" group-title="Spain",RTV Vida (1080p)
@@ -247,14 +249,26 @@ https://the-pet-collective-international-es.samsung.wurl.tv/playlist.m3u8
 https://cloud.tvomix.com/TITOTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Trece.svg/960px-Trece.svg.png" group-title="Spain",Trece TV (576p)
 https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aobkgrS.png" group-title="Spain",TV Artequatre (576p)
+https://streaming007.gestec-video.com/hls/artequatreTVA.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vLpm8tN.png" group-title="Spain",TV BRICS Spanish (1080p)
+https://espbrics.mediacdn.ru/cdn/brics/spanish/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/j98NY8Mr/starcolor.png" group-title="Spain",TVE Star (576p)
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_576.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/j98NY8Mr/starcolor.png" group-title="Spain",TVE Star HD (1080p)
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_1080.m3u8
 #EXTINF:-1 tvg-logo="https://tvomix.com/Logos/Tvojesus.png" group-title="Spain",TVO Jesus (720p)
 https://cloud.tvomix.com/TVOJESUS/index.m3u8
 #EXTINF:-1 tvg-logo="https://ugc.production.linktr.ee/7ef61237-c46d-456b-afe3-a42ef49a979e_Mejorado2.png" group-title="Spain",TVOMIX (1080p)
 https://cloud.tvomix.com/TVOMIX/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ee0C8UH.jpg" group-title="Spain",TVReus (720p) [Not 24/7]
 https://eu1.servers10.com:8081/8166/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WpGR7RQ.png" group-title="Spain",Une Vinalopó (576p) [Not 24/7]
+https://streamingtvi.gestec-video.com/hls/unesd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EW2bfix.png" group-title="Spain",Univers TV (720p)
 https://cloud2.streaminglivehd.com:1936/universfaller/universfaller/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V23bltn.png" group-title="Spain",Urola Telebista (416p)
+https://5940924978228.streamlock.net/j_Directo2/mp4:j_Directo2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://framerusercontent.com/images/41VQQ7F0fYlp1MX1N4Ixog5QnPI.png" group-title="Spain",WaterBear (1080p)
 https://amg01415-waterbearnetwor-waterbear-samsunguk-1h0y8.amagi.tv/playlist/amg01415-waterbearnetwor-waterbear-samsunguk/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ty7GkoN.png" group-title="Spain",XPTV1 (720p)

@@ -167,8 +167,6 @@ http://stream.mcquack.net/276/index.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AqWaJT8.png" group-title="Russia",Mir Kazakhstan (576p)
 http://tvcdn01.esilnet.kz/tv/mir/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QhdxNsB.png" group-title="Russia",MMA TV.com (1080p)
-https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gXbUMVy.png" group-title="Russia",Moskva 24 (1080p)
 https://stream.smotrim.ru/hls/givc8/playlist.m3u8?entity=channel&id=798&sign=37881ef2e289f062ceff0dca6c24dc58
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QDqDQzt.png" group-title="Russia",Moskva. Doveriye (576p)
@@ -353,6 +351,8 @@ https://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
 http://stream.mcquack.net/111/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T4A6rEI.png" group-title="Russia",TNT SD (576p)
 http://stream.mcquack.net/135/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/58u9TQT.png" group-title="Russia",TNV-Tatarstan (720p)
+https://user91229.clients-cdnnow.ru/hls/user91229_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tKgmhxh.png" group-title="Russia",Tochka RF (1080p)
 http://stream.mcquack.net/161/index.m3u8
 #EXTINF:-1 tvg-logo="https://tooku.ru/wp-content/uploads/2024/11/tooku-kanal-logo.png" group-title="Russia",Tooku (1080p)
@@ -489,8 +489,6 @@ https://streaming.televizor-24-tochka.ru/live/29.m3u8
 https://s1.tv-nano.com/Magnat_HD_5119705/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dj9c8Yd.png" group-title="Russia",Мир 24 (1080p)
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://mirbelogorya.ru/images/logo/Logo_Mir_Belogorya_purple_gradient.png" group-title="Russia",Мир Белагорья (720p) [Geo-blocked]
-http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pdCAUrP.png" group-title="Russia",МТВ (Волгоград) (720p) [Not 24/7]
 http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Puk1Bhx.png" group-title="Russia",Муз союз (576p)
@@ -559,12 +557,6 @@ https://cityeden.catcast.tv/content/34364/index.m3u8
 https://cityeden.catcast.tv/content/34393/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/67CWCtz.png" group-title="Russia",Сити Эдем КиноАрт [Not 24/7]
 https://cityeden.catcast.tv/content/38398/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9rKHwBV.png" group-title="Russia",Сити Эдем КиноДетектив [Not 24/7]
-https://cityeden.catcast.tv/content/41327/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/itRbMX3.png" group-title="Russia",Сити Эдем КиноДок [Not 24/7]
-https://cityeden.catcast.tv/content/38354/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/29ddffh.png" group-title="Russia",Сити Эдем КиноДрама [Not 24/7]
-https://cityeden.catcast.tv/content/45269/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0qGCS1S.png" group-title="Russia",Сити Эдем КиноКлассика [Not 24/7]
 https://cityeden.catcast.tv/content/34185/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Aga2XVA.png" group-title="Russia",Сити Эдем КиноКомедия [Not 24/7]
@@ -583,8 +575,6 @@ https://cityeden.catcast.tv/content/47519/index.m3u8
 https://cityeden.catcast.tv/content/47516/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V3MTfyc.png" group-title="Russia",Сити Эдем Сиртаки ТВ [Not 24/7]
 https://cityeden.catcast.tv/content/46421/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/X9kACKi.png" group-title="Russia",Сити Эдем ТВ Христианский [Not 24/7]
-https://cityeden.catcast.tv/content/34246/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mT5liTh.png" group-title="Russia",Сити Эдем ТелеНовелла [Not 24/7]
 https://cityeden.catcast.tv/content/46209/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-st3.smotrim.ru/vh/pictures/svg/444/241/8.svg" group-title="Russia",Смотрим Честный Детектив (1080p)
