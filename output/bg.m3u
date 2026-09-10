@@ -1,6 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tPMNDtD.png" group-title="Bulgaria",Agro TV (480p)
 https://restr2.bgtv.bg/agro/hls/agro.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" group-title="Bulgaria",AMC Europe Bulgary (576p)
+http://hls127.freeott.top:8080/BG_AMC/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Peo1QiZ.png" group-title="Bulgaria",AXN Black (576p)
+http://hls127.freeott.top:8080/BG_AXN_Black/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/47IKxmt.png" group-title="Bulgaria",AXN White Bulgaria (576p)
+http://hls127.freeott.top:8080/BG_AXN_White/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7JU9b5j.png" group-title="Bulgaria",BNT 1 (1080p)
 https://shift03.isp.bg/BNT1_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FyTUr9Q.png" group-title="Bulgaria",BNT 2 (1080p)
@@ -17,10 +23,16 @@ https://cdn2.invivo.bg/Codefashion_5500/index.m3u8
 https://cdn2.invivo.bg/codehealth_test/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YMgzzkf.png" group-title="Bulgaria",DSTV (614p) [Not 24/7]
 http://46.249.95.140:8081/hls/data.m3u8
+#EXTINF:-1 tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Blove-and-crime.png" group-title="Bulgaria",FILMBOX+ Love & Crime Bulgaria (720p)
+http://hls127.freeott.top:8080/BG_FilmBox_Stars_HD/video.m3u8
+#EXTINF:-1 tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bone.png" group-title="Bulgaria",FILMBOX+ One Bulgaria (576p)
+http://hls127.freeott.top:8080/BG_Filmbox/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/S3Fbf8T.png" group-title="Bulgaria",Light Channel (480p) [Not 24/7]
 https://streamer1.streamhost.org/salive/GMIlcbgM/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n7bcrrp.png" group-title="Bulgaria",Magic TV (720p)
 https://bss1.neterra.tv/magictv/magictv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Bulgaria",Nickelodeon (576p)
+http://hls127.freeott.top:8080/BG_Nickelodeon/video.m3u8
 #EXTINF:-1 tvg-logo="https://rmtv.bg/img/logo.png" group-title="Bulgaria",RMTV (288p)
 https://transcoder1.bitcare.eu/streaming/rimextv/rmtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OoJSmoj.png" group-title="Bulgaria",The Voice TV (720p)
@@ -35,3 +47,5 @@ https://streamer103.neterra.tv/tiankov-orient/live.m3u8
 https://streamer103.neterra.tv/travel/live.m3u8
 #EXTINF:-1 tvg-logo="https://tvsb.bg/theme/images/logo.png" group-title="Bulgaria",TV Spravedliva Bulgariya
 https://tv.tvsb.bg/112.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/io0WAkA.png" group-title="Bulgaria",Viasat Kino Bulgaria (1080p)
+http://hls127.freeott.top:8080/BG_Viasat_Kino_HD/video.m3u8
