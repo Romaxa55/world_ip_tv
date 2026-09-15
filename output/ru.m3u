@@ -35,8 +35,6 @@ http://stream.mcquack.net/78/index.m3u8
 http://178.134.1.158:8081/babytime/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn2-static.ntv.ru/home/promo/24740/balabol_vse.jpg" group-title="Russia",Balabol (1080p)
 https://cdn-dvr.ntv.ru/Balabol/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wyuqWTR.png" group-title="Russia",Big Planet (576p)
-https://fs.uplink.kz/big_planet/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KcOi4Os.png" group-title="Russia",Blokbaster HD (1080p)
 http://stream.mcquack.net/364/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/clWWhB8.png" group-title="Russia",Bober (576p)
@@ -155,16 +153,12 @@ http://93.170.254.17/Kinomiks/index.m3u8
 http://stream.mcquack.net/64/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nNjMyAq.png" group-title="Russia",Kinopokaz HD (1080p)
 http://hls127.freeott.top:8080/Kinopokaz_HD/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/s0UYT8T.png" group-title="Russia",Kinopremyera (1080p)
-http://5.188.159.128:8070/KINOPREMIERA/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s0UYT8T.png" group-title="Russia",Kinopremyera HD (1080p)
 https://fs.uplink.kz/kinopremiera_hd/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4BF5VeK.png" group-title="Russia",Kinosemja (576p)
 http://stream.mcquack.net/170/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iao7zLZ.png" group-title="Russia",Kinoseriya (1080p)
 http://hls127.freeott.top:8080/Kinoseriya_HD/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZRaWqxj.png" group-title="Russia",Kinosvidanie (576p)
-http://5.188.159.128:8070/kinosvidanie/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mAcAAQF.png" group-title="Russia",Kinouzhas (576p)
 http://stream.mcquack.net/278/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WA9TOPi.png" group-title="Russia",Kluch (576p)
@@ -183,8 +177,6 @@ http://stream.mcquack.net/179/index.m3u8
 https://api.alpaca.t62a.com/hls/9110/stream0.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Vw3LFLX.png" group-title="Russia",KVN TV (576p)
 http://178.124.179.122:8080/KVN-TV/index.m3u8
-#EXTINF:-1 tvg-logo="https://lapki.live/lapki_og.png" group-title="Russia",Lapki Live (576p)
-http://45.145.32.13:20440/unikum/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qU9ohQu.png" group-title="Russia",Leomax 24 (1080p)
 https://tvshops.bonus-tv.ru/cdn/shop24/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/C8CCjZK.png" group-title="Russia",Maidan (720p)
@@ -205,8 +197,6 @@ http://stream.mcquack.net/276/index.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AqWaJT8.png" group-title="Russia",Mir Kazakhstan (576p)
 http://tvcdn01.esilnet.kz/tv/mir/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uzj7wVp.png" group-title="Russia",Mir Seriala (576p)
-http://45.145.32.13:20440/ctc_kids_hd/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QhdxNsB.png" group-title="Russia",MMA TV.com (1080p)
 https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gXbUMVy.png" group-title="Russia",Moskva 24 (1080p)
@@ -311,8 +301,6 @@ http://hls127.freeott.top:8080/ProLubovHD/video.m3u8
 https://streaming.astrakhan.ru/proastrakhanhd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uppFhhq.png" group-title="Russia",Prosveshchenie (576p)
 http://cdn-01.bonus-tv.ru/prosveschenie_edge/index.m3u8
-#EXTINF:-1 tvg-logo="https://radiopotok.ru/f/station/512/1812.png" group-title="Russia",Radio 1 (720p) [Geo-blocked]
-https://stream.radio1.ru/memfs/49dee7fe-77ba-4e6b-8cdc-fa840535b242.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1902997619724480512/jY6I1qIH_400x400.jpg" group-title="Russia",Radio Mir (720p)
 https://stream1.dc.beltelecom.by/radiomir/studio.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Radio_Rossii_logo.svg/1920px-Radio_Rossii_logo.svg.png" group-title="Russia",Radio Rossii (720p)
@@ -375,6 +363,8 @@ https://cdn-dvr.ntv.ru/Skoraja_pomosh/index.m3u8
 http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.iptv.rt.ru/images/d7efm08mifeaf9jacb30.png" group-title="Russia",Solovyov Live (1080p)
 https://stream.smotrim.ru/hls2/solovievlive/playlist_6.m3u8
+#EXTINF:-1 tvg-logo="https://www.mtis.by/upload/medialibrary/717/v07nk6rmf6m1mno8ujhbkcg8nstkfjgv/Slide%2016_9%20-%2050.png" group-title="Russia",Soyuzny (576p)
+https://souzny.mediacdn.ru/cdn/souzny/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yY39nMg.png" group-title="Russia",Spas (576p)
 http://hls127.freeott.top:8080/Spas/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ujS6mMo.png" group-title="Russia",Sportivnyy (1080p)
@@ -447,8 +437,6 @@ http://stream.mcquack.net/136/index.m3u8
 https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?e=2066519758&s=9cPc1rCGu6M932eqrifRhQ&scheme=https
 #EXTINF:-1 tvg-logo="https://mt.media/upload/iblock/2b3/2b3cf99141bf7f99cda377eec62ec084.png" group-title="Russia",UDAR (1080p)
 http://5.188.159.128:8070/udar/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kSJZjDL.png" group-title="Russia",Unikum (576p)
-http://45.145.32.13:20440/nauka/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r3u0mxr.png" group-title="Russia",Univer TV (1080p)
 https://cdn.universmotri.ru/live/smil:univer.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W7ste2f.png" group-title="Russia",Unknown Russia HD (1080p)
@@ -459,22 +447,6 @@ http://stream.mcquack.net/211/index.m3u8
 https://stream8.cinerama.uz/1270/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6uotdVQ.png" group-title="Russia",V mire zhivotnykh (1080p)
 http://stream.mcquack.net/241/index.m3u8
-#EXTINF:-1 tvg-logo="https://antiabuse-container.b-cdn.net/eurkino.png" group-title="Russia",Velvet. European Movies (1080p)
-https://cdn.rostelekom-tv.xyz/live/LQ3j0n7j0Kq4OQm8.m3u8
-#EXTINF:-1 tvg-logo="https://interra-cdn-europe1.b-cdn.net/zolo.png" group-title="Russia",Velvet. Golden Collection (1080p)
-https://cdn.rostelekom-tv.xyz/live/v804qFZr0QVQ1s9Z.m3u8
-#EXTINF:-1 tvg-logo="https://interra-cdn-europe1.b-cdn.net/ment.png" group-title="Russia",Velvet. Mentovskiye Serialy (1080p)
-https://cdn.rostelekom-tv.xyz/live/tWQ0ge9rspBQhRst.m3u8
-#EXTINF:-1 tvg-logo="https://antiabuse-container.b-cdn.net/uzh1.png" group-title="Russia",Velvet. Scary (1080p)
-https://cdn.rostelekom-tv.xyz/live/NImhIFLevxCbtcP-.m3u8
-#EXTINF:-1 tvg-logo="https://antiabuse-container.b-cdn.net/serialyhity.png" group-title="Russia",Velvet. Series Hits (1080p)
-https://cdn.rostelekom-tv.xyz/live/DeWr3Sgw1Aj2lJd0.m3u8
-#EXTINF:-1 tvg-logo="https://interra-cdn-europe1.b-cdn.net/soviet.png" group-title="Russia",Velvet. Sovetskoe Kino (1080p)
-https://cdn.rostelekom-tv.xyz/live/nF4sFCa49nFPHSF_.m3u8
-#EXTINF:-1 tvg-logo="https://interra-cdn-europe1.b-cdn.net/svatyv.png" group-title="Russia",Velvet. Svaty (1080p)
-https://cdn.rostelekom-tv.xyz/live/HSxyMqDlSVR54UTN.m3u8
-#EXTINF:-1 tvg-logo="https://antiabuse-container.b-cdn.net/mirseriallogo.png" group-title="Russia",Velvet. World Series (1080p)
-https://cdn.rostelekom-tv.xyz/live/2RR44py-yGlIWQIp.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZBHqSZj.png" group-title="Russia",Vesti FM (720p)
 https://stream.smotrim.ru/hls2/vesti_fm/playlist_4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EGIpLPu.png" group-title="Russia",viju Explore (576p)
@@ -519,8 +491,6 @@ https://stream8.cinerama.uz/1417/tracks-v1a1/mono.m3u8
 http://51.158.144.33:2021/zvezda/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4PAcpfM.png" group-title="Russia",Zvezda HD (1080p)
 https://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NNmjD9Z.png" group-title="Russia",Zvezda Plus (576p)
-http://45.145.32.13:20440/zvezdaplus/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NNmjD9Z.png" group-title="Russia",Zvezda Plus HD (1080p)
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bcw0s4V.png" group-title="Russia",Аист ТВ (1080p)
@@ -535,6 +505,8 @@ https://streaming.astrakhan.ru/astrakhan24/playlist.m3u8
 https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w4ys6zm.png" group-title="Russia",Астрахань.Ru TV (480p)
 https://streaming.astrakhan.ru/astrakhanrulivehd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EEirvyx.png" group-title="Russia",Белгород 24 (1080p)
+https://belnovosti.cdn.easyhoster.ru:8443/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vruuPKF.png" group-title="Russia",Большая Азия (720p)
 http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IDotHmQ.png" group-title="Russia",БСТ (Башкирское спутниковое телевидение) (576p)
@@ -609,8 +581,6 @@ https://cdn.ntv.ru/ntv4/playlist.m3u8
 https://cdn.ntv.ru/ntv7/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AH50pGT.png" group-title="Russia",НТМ (Народное телевидение Мордовии) (720p) [Not 24/7]
 https://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/skkDR7q.png" group-title="Russia",НТС (Севастополь) (1080p) [Not 24/7]
-https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N0Zn4zU.png" group-title="Russia",Осетия Ирыстон (1080p)
 https://osir.mediacdn.ru/cdn/osetia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.osnmedia.ru/wp-content/uploads/2024/11/osn-logo-header.png" group-title="Russia",ОСН
