@@ -15,14 +15,12 @@ https://3abn.bozztv.com/3abn2/Pro_live/smil:Pro_live.smil/playlist.m3u8
 https://d1j2u714xk898n.cloudfront.net/scheduler/scheduleMaster/145.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q4l2uao.png" group-title="United States",30A Darcizzle Offshore (720p)
 https://30a-tv.com/darcizzle.m3u8
-#EXTINF:-1 tvg-logo="https://images.axios.com/JiG3RuYBwpU_WZFeU6HHjt03FAU=/111x0:1191x1080/320x320/2023/11/09/1699558891265.jpg" group-title="United States",30A Georgia Hollywood Review (720p)
-https://30a-tv.com/gh.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Lv53nh4.png" group-title="United States",30A Golf Kingdom (720p)
-https://30a-tv.com/feeds/vidaa/golf.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CKCtZo7.png" group-title="United States",30A Investment Pitch (720p)
 https://30a-tv.com/feeds/xodglobal/30atv.m3u8
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51FJ5A0mEyL.jpg" group-title="United States",30A Luxe Life Discovered (720p)
 https://30a-tv.com/feeds/vidaa/luxelife.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gNWg9tl.png" group-title="United States",30A Music (720p)
+https://30a-tv.com/music.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HSdwqZN.png" group-title="United States",30A Sidewalks (720p)
 https://30a-tv.com/sidewalks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTHiYfIB01K44LIBG81aEGAmDuIWw8MA0f2w&s" group-title="United States",30A Television Channel (720p)
@@ -49,6 +47,8 @@ https://fuel-streaming-prod01.fuelmedia.io/v1/sem/c4067ddc-0e67-4928-b7ec-624481
 https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pvXZ8DX.png" group-title="United States",ABC KOAT-TV (720p)
 https://aegis-cloudfront-1.tubi.video/2dba5dd9-4097-45e3-b169-56735cc48476/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pvXZ8DX.png" group-title="United States",ABC KRCA (720p)
+https://content.uplynk.com/channel/829a8c85f9e840c6bed963856c231428.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pvXZ8DX.png" group-title="United States",ABC KRGV-TV
 https://d3svnrf3rmq619.cloudfront.net/krgv-live/smil:krgv-live.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pvXZ8DX.png" group-title="United States",ABC KSTP-TV (1080p)
@@ -477,12 +477,6 @@ http://23.237.104.106:8080/USA_CRIME_INVESTIGATION/index.m3u8
 https://reflect-communitytv.cablecast.tv/live-4/live/stream-2/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fp2EaLJ.png" group-title="United States",CSat TV (1080p) [Not 24/7]
 http://media.smc-host.com:1935/csat.tv/smil:csat.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pb0TFQt.jpeg" group-title="United States",CT-N Court Feed (360p) [Not 24/7]
-http://video.ct-n.com/live/ctnSupreme/playlist_DVR.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pb0TFQt.jpeg" group-title="United States",CT-N Live Stream 2 (360p) [Not 24/7]
-http://video.ct-n.com/live/web2stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pb0TFQt.jpg" group-title="United States",CT-N TV Conneticut (720p) [Not 24/7]
-http://video.ct-n.com/live/ctnstream/playlist_DVR.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/42UdwD0.png" group-title="United States",CTN (United States) (720p)
 https://d3k5y954fiztgy.cloudfront.net/FREECAST/CTN-2b0dd347-f7b0-e7ed-9096-68966d29db50/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N5uiIJo.png" group-title="United States",CTV (United States) (480p)
@@ -531,8 +525,6 @@ https://livestream.telvue.com/derrynh2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/play
 https://amg00353-amg00353c40-xumo-us-4839.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3SeAyBS.png" group-title="United States",Didgah TV (576p)
 https://media.streambrothers.com:1936/8276/8276/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/2024_Disney_Channel_text_logo.svg/960px-2024_Disney_Channel_text_logo.svg.png" group-title="United States",Disney Channel (United States) (720p) [Geo-blocked]
-http://212.5.144.156/disney/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/2024_Disney_Channel_text_logo.svg/960px-2024_Disney_Channel_text_logo.svg.png" group-title="United States",Disney Channel (United States) HD East (720p)
 http://4.30.180.36:8420/disneychannel/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/2015_Disney_XD_logo.svg/960px-2015_Disney_XD_logo.svg.png" group-title="United States",Disney XD (United States) (720p)
@@ -771,10 +763,10 @@ http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
 https://2-fss-2.streamhoster.com/pl_120/201950-2724904-1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zhCgoru.png" group-title="United States",High Vision TV (1080p) [Not 24/7]
 https://streamer1.connectto.com/HIGHVISION_WEB_1205/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fUne7FX.png" group-title="United States",Hillsborough TV (360p)
+https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/hillsboroughcounty/G2155_002/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VTcdAJj.jpeg" group-title="United States",His Glory TV (1080p)
 https://customer-6itfaqopbksp5p0q.cloudflarestream.com/3972e89fb79bf6d6dd2a16c75455087a/manifest/video.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" group-title="United States",History (United States) (720p)
-http://212.5.144.156:8080/history/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ulHoqlP.png" group-title="United States",History Hit (1080p)
 https://lds-timeline-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gwPaw3v.png" group-title="United States",HMI PROMZ NEWS (720p)
@@ -1065,8 +1057,6 @@ https://livestream.telvue.com/natickpegasus1/f7b44cfafd5c52223d5498196c8a2e7b.sd
 https://livestream.telvue.com/natickpegasus3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G4a3gW0.png" group-title="United States",Natick Public Access Channel (720p)
 https://livestream.telvue.com/natickpegasus2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" group-title="United States",National Geographic (United States) (720p)
-http://212.5.144.156:8080/natgeo/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" group-title="United States",National Geographic (United States) HD East (720p)
 http://198.58.104.90:8989/natgeo/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png" group-title="United States",National Geographic Wild (United States) HD East (720p)
@@ -1151,8 +1141,6 @@ https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e290958
 https://nhl-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jZgcm4k.png" group-title="United States",NHRA TV (1080p)
 https://d265y4sk8257lt.cloudfront.net/nh.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KT4tdQs.png" group-title="United States",Nick Jr. (United States) (720p)
-http://212.5.144.156:8080/nickjr/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="United States",Nickelodeon (United States) (720p)
 http://198.58.104.90:8989/nickelodeon/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7EngqUi.png" group-title="United States",Ninja Kidz TV (720p)
@@ -1217,8 +1205,6 @@ https://live.feed.thepalmbeaches.tv/index.m3u8
 http://4.30.180.36:8420/paramount/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RQ5DzEE.png" group-title="United States",Pars TV
 https://parshls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CM91sME.png" group-title="United States",Pasco TV (480p)
-https://cpcdn.azureedge.net/PASCOCOFLLIVE1/PASCOCOFLLIVE1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GYfsHh9.png" group-title="United States",Payam Javan TV (720p) [Not 24/7]
 https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t9wYYY9.png" group-title="United States",Payam-e-Afghan TV (480p) [Not 24/7]
@@ -1229,8 +1215,6 @@ https://hls.keshishhamid.live/hls/stream.m3u8
 https://tgn.bozztv.com/cus01/ucur1/Payvand/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/50JzsmH.png" group-title="United States",PBC Tapesh TV (720p)
 https://iptv.tapesh.tv/tapesh/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2bGBbOZ.png" group-title="United States",PBC TV Channel 20 (720p)
-https://pbcvideostreams1.pbc.gov/memfs/1af49f9a-6b90-4ec2-a640-7f65ceebed4a.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8c8isLj.png" group-title="United States",PBS (1080p) [Geo-blocked]
 https://pbs.lls.cdn.pbs.org/est/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8c8isLj.png" group-title="United States",PBS KMOS-TV (1080p) [Geo-blocked]
@@ -1309,8 +1293,6 @@ https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1us/master.m3u8
 https://rpn.bozztv.com/radiant/radiant/radiant/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZLPwJug.png" group-title="United States",Radio Tele Puissance
 https://video1.getstreamhosting.com:1936/8560/8560/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hy3BJxj.png" group-title="United States",Radio Tele Sentinel
-https://59d39900ebfb8.streamlock.net/radiotelesentinel/radiotelesentinel/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J2ZMa4g.png" group-title="United States",Radio y Television Marti (720p)
 https://ocb-ingest.akamaized.net/hls/live/2037032/tvmc01/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TJNXjS2.png" group-title="United States",RadioMensaje TV (720p)
@@ -1411,6 +1393,8 @@ https://cdn3.wowza.com/5/ZFdxUW9BQWt2UWRL/sanfrancisco/G0051_050/playlist.m3u8
 https://cdn3.wowza.com/5/ZFdxUW9BQWt2UWRL/sanfrancisco/G0051_048/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4fbJRWW.png" group-title="United States",SGTN-49 (720p)
 https://rpn.bozztv.com/gusa/gusa-stgn/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oHmh5Jb.png" group-title="United States",Shabakeh 7
+https://sh7hls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TFxLj80.png" group-title="United States",Shemaroo Bollywood (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/ShopHQ_2019_Logo.png" group-title="United States",Shop LC (1080p)
