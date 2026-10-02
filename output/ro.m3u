@@ -35,6 +35,8 @@ https://hls02ns.antenaplay.ro/hls/b1-tv-hd/index.m3u8
 https://tvextra-hls.b-cdn.net/bollywoodfilm/bollywoodfilm.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6klhXxp.png" group-title="Romania",Bucovina TV (576i)
 https://www.bucovinatv.ro/proxy/video/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1c/Chefi.ro_2026.png" group-title="Romania",Chefi.ro (1080p)
+https://live77cdn2.antenaplay.ro/live2_aws4_sdi13/live2_aws4_sdi13.m3u8
 #EXTINF:-1 tvg-logo="https://assets.antenaplay.ro/2026/03/10/RMNdkVBCTNfsogsYqHaB.png" group-title="Romania",Cinemaraton Plus (1080i)
 https://hls02ns.antenaplay.ro/hls/cinemaraton-plus-hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/C5dIgsc.png" group-title="Romania",Columna TV
@@ -45,16 +47,16 @@ https://stream1.antenaplay.ro/live/ComedyPlay/chunklist.m3u8
 https://651c69fa2ff4e.streamlock.net/ctv/_definst_/livecredo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qmRnD0M.png" group-title="Romania",Digi 24 (720p)
 https://edge-ar.rcs-rds.ro/digi24ar/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KWDUi3v.png" group-title="Romania",Digi Sport 2 HD (1080i)
-https://lbgo.bozztv.com/ssh101/ssh101/digisport222/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pfs882Z.png" group-title="Romania",Dotto TV (1080p)
 https://live.dottotv.ro/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/B5zssCz.png" group-title="Romania",EMI TV
 https://astra.emitv.ro/hls/emi/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jzhZ8kl.png" group-title="Romania",Etno TV
 https://hls02ns.antenaplay.ro/hls/etno-tv-sd/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sSoRvGz.png" group-title="Romania",Film Now HD (1080i)
-https://lbgo.bozztv.com/ssh101/ssh101/filmnoww/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jUOVUXt.png" group-title="Romania",Euronews Romania (576p)
+https://hls02ns.antenaplay.ro/hls/euronews-ro-sd/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sTy4FHs.png" group-title="Romania",Favorit TV (576p)
+https://hls02ns.antenaplay.ro/hls/favorit-sd/index.m3u8
 #EXTINF:-1 tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bcomedy.png" group-title="Romania",FILMBOX+ Comedy Romania
 https://nosignal1.antenaplay.ro/hls/fb-comedy-hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bhits.png" group-title="Romania",FILMBOX+ Hits Romania (576p)
@@ -65,8 +67,6 @@ https://nosignal1.antenaplay.ro/hls/fb-love-and-crime-sd/index.m3u8
 https://live4dai.antenaplay.ro/live2_aws4_sdi12/live2_aws4_sdi12_600k.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2cLx4ja.png" group-title="Romania",HD365 TV
 https://s2.netstreaming.eu/hd365.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9bz15ad.png" group-title="Romania",Hunedoara 1 (480p) [Not 24/7]
-https://netstreaming.eu/hd1.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwL2-8r1l1NDdmA6jkZYvHxPFrsIA7a8m-XdSpwC6Z&s=10" group-title="Romania",Impact TV 2 (1080p)
 https://online.tvimpact.live/hls/impact_tv2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G5mNdpE.png" group-title="Romania",Impact TV Dance (1080p)
@@ -119,12 +119,12 @@ https://hls01ns.antenaplay.ro/hls/national-tv-sd/index.m3u8
 http://novapress.ro:2022/live/nova/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/f6xEIAr.png" group-title="Romania",Observator News (360p)
 https://live77cdn2.antenaplay.ro/live_ObservatorNews/live_ObservatorNews.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/leF8AGo.png" group-title="Romania",Party Mix HD (1080p)
+https://hls02ns.antenaplay.ro/hls/party-mix-hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wlqGfU2.png" group-title="Romania",Prima News
 https://hls02ns.antenaplay.ro/hls/prima-news-hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p2umWAT.png" group-title="Romania",Prima TV (Romania) HD
 http://eb4b8dcf.kablakaka.ru/iptv/AE8BY6FHF5ZGAG/6995/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zVk3WlT.png" group-title="Romania",PRO TV HD
-http://eb4b8dcf.kablakaka.ru/iptv/3KZ2W9GEEY49ZV/6997/index.m3u8
 #EXTINF:-1 tvg-logo="https://profi24.ro/wp-content/uploads/2025/03/Logo_Profi24_Nou_Logo_Profi24_Landscape_Logo_Profi24_Landscape-e1742981714264.png" group-title="Romania",PROFI 24 TV
 https://live.ro24tv.ro/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://radiofxnet.ro/wp-content/uploads/2021/03/cropped-cropped-cropped-cropped-Radio_FX_Net_logo-1-1.png" group-title="Romania",Radio Fx Net (720p)
@@ -147,6 +147,8 @@ https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
 https://rotv.romediavalencia.com:3839/live/rotvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pzxUE0O.png" group-title="Romania",Super TV (Romania) (576p)
 http://iptv.supertv.ro:8000/play/a001/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0iuwjbK.png" group-title="Romania",Taraf TV (576p)
+https://hls02ns.antenaplay.ro/hls/taraf-tv-sd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CheqyWH.png" group-title="Romania",Tele7ABC HD (720p)
 https://live.tele7abc.ro/hls/stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3EZ8CmJ.png" group-title="Romania",TeleM Botosani (540p) [Not 24/7]
