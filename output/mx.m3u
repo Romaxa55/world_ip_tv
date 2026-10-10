@@ -1,6 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7ecgGIG.png" group-title="Mexico",8NTV (1080p)
 https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CZ8LKmA.png" group-title="Mexico",15TV
+https://servilive.com:3380/live/v3n6thy7glive.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dhiNIng.png" group-title="Mexico",Acustik TV
+https://s5.mexside.net:1936/clientetv/clientetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="Mexico",ADN 40 (720p)
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5nYjRlb.png" group-title="Mexico",Alcance TV (Mexico) (720p)
@@ -25,10 +29,10 @@ https://s5.mexside.net:1936/lsac/lsac/playlist.m3u8
 https://s5.mexside.net:1936/envio2/envio2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4DfnOTA.png" group-title="Mexico",Bandamax (1080p)
 http://181.78.106.127:5000/play/ca064/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IDvpRNI.png" group-title="Mexico",California Medios TV (720p)
+https://s5.mexside.net:1936/medios/medios/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cBC2Jre.png" group-title="Mexico",Canal 5 (Mexico) XET-TDT (1080p)
 http://45.5.118.152:8000/play/a03i/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0nzNMuP.jpeg" group-title="Mexico",Canal 5 TV Cozumel (1080p)
-https://video0.rogohosting.com:19360/tvcozumel/tvcozumel.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6qiYvhe.png" group-title="Mexico",Canal 22 Nacional (720p) [Geo-blocked]
 https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PAvnVN9.png" group-title="Mexico",Canal 26 (Mexico) (1080p)
@@ -73,14 +77,10 @@ https://estrella-news-oando.amagi.tv/playlist.m3u8
 https://estrellatv-oando.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JWOqr1a.png" group-title="Mexico",Exa TV
 http://190.61.90.17:40000/play/a0hk/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kFVVGrg.png" group-title="Mexico",Expresa TV (720p)
-https://5ca9af4645e15.streamlock.net/teleradio/smil:teleradio.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Hiz2OyC.png" group-title="Mexico",Filmex (1080p) [Geo-blocked]
 https://filmex-filmex-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D3dj4mv.png" group-title="Mexico",Filmex Clasico (1080p) [Geo-blocked]
 https://filmex-filmexclasico-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Gwz78jZ.png" group-title="Mexico",GikTVMX (720p)
-https://pistream.ddns.net/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OOEkyM2.png" group-title="Mexico",Golden Plus (1080p)
 http://45.5.118.152:8000/play/a03p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R3icGuG.png" group-title="Mexico",IERTBCS Canal 8.2 (1080p) [Not 24/7]
@@ -91,8 +91,6 @@ https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playl
 https://igd-it-runtime.otteravision.com/igd/it/it.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/J1kV1Bn.png" group-title="Mexico",ITV Deportes (720p)
 https://thm-it-roku.otteravision.com/thm/it/it.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/N4meE8I.png" group-title="Mexico",Jalisco TV (720p)
-https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zyAS1hk.png" group-title="Mexico",Justicia TV (Mexico) (720p)
 https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3fA50RJ.png" group-title="Mexico",Lobo TV (720p)
@@ -125,14 +123,10 @@ https://60417ddeaf0d9.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.
 https://srspsn.live/live/livestream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7i7GkSL.png" group-title="Mexico",PSN Canal 45.2 (288p)
 https://srspsn2.live/live/livestream.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/PX_Sports_-_Logo.png/960px-PX_Sports_-_Logo.png" group-title="Mexico",PX Sports (1080p)
-http://38.252.238.18:8000/play/a02f/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W8a1dIa.png" group-title="Mexico",Raly TV (720p)
 https://cloudvideo.servers10.com:8081/8072/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kYtAR26.png" group-title="Mexico",RCG TV (1080p)
 https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RRckCvf.png" group-title="Mexico",RTQ Queretaro (1080p)
-https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dbJKErB.png" group-title="Mexico",SICOM Television XHPBZC-TDT (720p) [Not 24/7]
 https://5d0d1d7a6be9e.streamlock.net/sicom/canal1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/123P7dV.png" group-title="Mexico",SIPSE TV 8.1 (1080p) [Not 24/7]
@@ -141,8 +135,6 @@ https://webprod.sipse.com.mx:8080/show/merida.m3u8
 https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7MXF4Fd.png" group-title="Mexico",Sistema Michoacano de TV (1080p) [Not 24/7]
 https://s5.mexside.net:1936/enlinea/enlinea/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dLHIvKz.png" group-title="Mexico",Super Channel 12 (1080p)
-https://servilive.com:3263/live/channel12live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p7tt72X.png" group-title="Mexico",TELE 6 (720p)
 https://lbgo.bozztv.com/ssh101/ssh101/tele6/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PgBtvgO.png" group-title="Mexico",Tele Saltillo
@@ -205,13 +197,13 @@ https://cloudvideo.servers10.com:8081/8016/index.m3u8
 https://jukin-weatherspy-2-mx.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R3icGuG.png" group-title="Mexico",XHBZC-TDT (1080p) [Not 24/7]
 https://s5.mexside.net:1936/xhbzc81/xhbzc81/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9ZXCQvy.png" group-title="Mexico",XHFGL-TDT (1080p)
+https://stream.ontvmx.com/ontv/Wn3jgo4UYNSmwRDIev/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/15kcNRb.png" group-title="Mexico",XHGV-TDT (360p) [Not 24/7]
 https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oRudPXX.png" group-title="Mexico",XHIJ-TDT (720p) [Not 24/7]
 https://5e50264bd6766.streamlock.net/canal44/videocanal44/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dw6puHC.png" group-title="Mexico",XHTTG-TDT (720p)
 https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LbZkdca.png" group-title="Mexico",XHUNES-TDT (720p)
-https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RxhABeK.png" group-title="Mexico",XHZHZ-TDT (720p)
 https://5f2c1b0d880e5.streamlock.net/zacatecas/videozacatecas/playlist.m3u8
