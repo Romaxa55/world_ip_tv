@@ -15,6 +15,8 @@ https://stream.iptvservice.eu/hls/balatontv.m3u8
 https://cloudfront44.lexanetwork.com:1344/freerelay/bpetv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u0AKhzj.png" group-title="Hungary",City TV (Hungary)
 https://citytv.hu/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png" group-title="Hungary",Discovery Channel (Hungary)
+http://88.212.15.17/live/discovery_hungary/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" group-title="Hungary",Disney Channel (Czech Republic)
 http://88.212.15.19/live/test_disney/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YSpqmSO.png" group-title="Hungary",DTV (Hungary) (720p) [Not 24/7]
@@ -35,6 +37,8 @@ https://cloudfront44.lexanetwork.com:1344/freerelay/fehervartv.sdp/playlist.m3u8
 https://budapest-cache-1.antik.sk/live/test_galaxy_4_atk_1200/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zuWQKDm.png" group-title="Hungary",Hevizi TV (1080p)
 https://cloudfront44.lexanetwork.com:1344/relay03/livestream003.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png" group-title="Hungary",Investigation Discovery (Hungary)
+http://88.212.15.17/live/id_hun/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bsDN0lH.png" group-title="Hungary",Jaszsagi Tersegi TV (440p)
 https://cloudfront44.lexanetwork.com:1344/relay01/broadcast007.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l02znlE.png" group-title="Hungary",Kanizsa TV (400p)
@@ -49,8 +53,6 @@ http://193.225.32.62:8890/live.m3u8
 http://88.212.15.19/live/m2_hun/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y21wFd0.png" group-title="Hungary",M5 (1080p)
 http://88.212.15.19/live/test_m_5_hun_atk_1200/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PF3BP4X.png" group-title="Hungary",Makoi Varosi Televizio (576p)
-http://makomedia.mikrohalo.hu/hls/makotv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hzexBLX.png" group-title="Hungary",Match4 (1080p)
 http://141.94.193.53:80/Match4_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Max4_logo.png/960px-Max4_logo.png" group-title="Hungary",MAX4 (1080p)
