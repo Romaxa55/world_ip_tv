@@ -13,6 +13,8 @@ https://mediaserver.abnvideos.com/streams/abnurdu.m3u8
 http://124.109.47.101/hls/stream1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eajSRFo.png" group-title="Pakistan",Bol Entertainment HD
 https://vodzong.mjunoon.tv:8087/streamtest/Channel5-159-4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3953-640x360-FFFFFF.jpg" group-title="Pakistan",BS Film (576p)
+https://lbgo.bozztv.com/ssh101/ssh101/bsfilm/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3952-640x360-FFFFFF.jpg" group-title="Pakistan",BSTV (Pakistan) (576p)
 https://lbgo.bozztv.com/ssh101/ssh101/bstv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UxAE5O4.png" group-title="Pakistan",Capital TV
@@ -33,8 +35,6 @@ https://online.godstands.tv:5443/WebRTCApp/streams/KidsArabic.m3u8
 https://online.godstands.tv:5443/WebRTCApp/streams/KidsChinese.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FxDBbpz.jpeg" group-title="Pakistan",God Stands Kids Club TV Urdu
 https://online.godstands.tv:5443/WebRTCApp/streams/KidsUrdu.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EO6cYUI.png" group-title="Pakistan",God Stands TV
-https://online.godstands.tv:5443/WebRTCApp/streams/mainlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EO6cYUI.png" group-title="Pakistan",God Stands TV Arabic
 https://online.godstands.tv:5443/WebRTCApp/streams/Arabic.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EO6cYUI.png" group-title="Pakistan",God Stands TV Chinese
@@ -47,8 +47,6 @@ https://online.godstands.tv:5443/WebRTCApp/streams/HindiStreaming.m3u8
 https://online.godstands.tv:5443/WebRTCApp/streams/PunjabiStreaming.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EO6cYUI.png" group-title="Pakistan",God Stands TV Tagalog
 https://online.godstands.tv:5443/WebRTCApp/streams/Tagalog.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EO6cYUI.png" group-title="Pakistan",God Stands TV Urdu
-https://online.godstands.tv:5443/WebRTCApp/streams/UrduStreaming.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QSaZPJ4.png" group-title="Pakistan",Grace Network (720p)
 https://livecdn.live247stream.com/grace/tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Tx4GfKT5/Hum-TV-HD.png" group-title="Pakistan",Hum TV (720p)
@@ -87,7 +85,5 @@ https://lbgo.bozztv.com/ssh101/ssh101/pksportshd/playlist.m3u8
 https://cdn.live247stream.com/pmi/tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T9fIdLs.png" group-title="Pakistan",Praise TV (720p)
 https://livecdn.live247stream.com/praise/tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yYMh3JJ.png" group-title="Pakistan",Such TV
-https://video.primexsports.com/suchnews/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XBHvR5J.png" group-title="Pakistan",Zindagi TV (576p) [Not 24/7]
 https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/chunklist.m3u8
