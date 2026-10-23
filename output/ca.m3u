@@ -35,8 +35,8 @@ https://citynewsregional.akamaized.net/hls/live/1024054/Regional_Live_9/master.m
 https://videostream.jpbgdigital.com/NOWTV.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CNN.png" group-title="Canada",CNN (720p)
 https://tvsen6.aynaott.com/cnn/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YzjZUEl.png" group-title="Canada",CP24 (720p)
-http://107.167.16.138/cp24/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YzjZUEl.png" group-title="Canada",CP24 (576p)
+https://tvsen6.aynaott.com/cp24/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ek1Ohj6.png" group-title="Canada",DesheBideshe TV
 https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PzqzgMm.png" group-title="Canada",Deshi TV (720p)
@@ -95,6 +95,8 @@ https://mhz-samsung-linear-ca.samsung.wurl.tv/playlist.m3u8
 https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/Mr._Bean_Animated_Series_stacked_logo.png" group-title="Canada",Mr Bean Animated (1080p)
 https://amg00627-amg00627c23-samsung-au-4110.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FzM95rH.png" group-title="Canada",NACTV
+https://stream2.pivotalelements.com/memfs/2d2e1038-9eb2-44df-a9b9-109de5752f3b_output_0.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iyFXcDy.png" group-title="Canada",NTD TV Canada
 https://live.ntdtv.com/mllive860/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iyFXcDy.png" group-title="Canada",NTD TV Canada West
@@ -119,8 +121,6 @@ https://iptv.tapesh.tv/tapesh/playlist.m3u8
 https://d3hqevbyoxtkoi.cloudfront.net/PBS_Travel.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Prime_Asia_HD.png" group-title="Canada",Prime Asia TV (1080p)
 http://primeasia.selfip.net/Samsung/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7oTsfQ4.png" group-title="Canada",Probashi TV News (1080p)
-http://158.69.24.53:8080/probashi_tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/PTC_Punjabi.png" group-title="Canada",PTC Punjabi Canada (1080p)
 https://stream.ottlive.co.in/ptccanada/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IRyFTWq.png" group-title="Canada",Qello Concerts by Stingray (1080p)
@@ -215,8 +215,6 @@ http://cdn3.toronto360.tv:8081/toronto360/hd/playlist.m3u8
 https://aegis-cloudfront-1.tubi.video/b062c287-a170-47df-99e4-f5dcd441ee59/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TSC_logo.svg/960px-TSC_logo.svg.png" group-title="Canada",TSC (720p)
 https://tscamd.akamaized.net/hls/live/503340/TSCLive/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qJyAWU8.png" group-title="Canada",TSN4 (720p)
-http://109.104.153.220:80/TSN-4/index.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1400003R3_20240709T002034SQUARE.png" group-title="Canada",TSN The Ocho (1080p)
 https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RpKLCMvp/tve.png" group-title="Canada",TVE Internacional America (576p) [Geo-blocked]
