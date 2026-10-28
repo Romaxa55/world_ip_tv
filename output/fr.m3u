@@ -63,14 +63,16 @@ http://149.62.177.107:9999/France_4/index.m3u8
 http://149.62.177.107:9999/France_5/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u8N6uoj.png" group-title="France",France 24 (1080p)
 https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eITXz6A.png" group-title="France",Franceinfo (1080p)
+http://149.62.177.107:9999/franceinfo:/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fEjNAps.png" group-title="France",Frequence Novelas (1080p)
 https://d20oth1416y9a1.cloudfront.net/playlist/amg00711-zylofast-frequencenovelas-rakutenus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NgBrDMe.png" group-title="France",Generations TV (576p)
 https://event.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lA9UFMG.png" group-title="France",Gong (1080p)
-https://amg01596-gongnetworks-gong-ono-vh5f2.amagi.tv/1080p-vtt/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vXbAeD0.png" group-title="France",HANDICAP TV
 https://srv.webtvmanager.fr:3697/stream/play.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fVhrJHK.png" group-title="France",ILTV (720p)
+https://live.creacast.com/iltv/smil:iltv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/43at4M2.png" group-title="France",Into Crime (1080p)
 https://amg00711-zylo-amg00711c10-rakuten-fr-6731.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M1Ee79b.png" group-title="France",Kozoom TV (1080p)
@@ -135,8 +137,6 @@ https://channels.trace.plus/Traceprod/AFRICA_FR_hd/index.m3u8
 https://channels.trace.plus/Traceprod/TERANGA_hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KkJ6fet.png" group-title="France",Trace Ayiti (1080p)
 https://channels.trace.plus/Traceprod/AYITI_hd/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DFBocPu.png" group-title="France",Trace Brazuca (1080p)
-https://amg01131-tracetv-amg01131c4-stirr-us-4390.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DFBocPu.png" group-title="France",Trace Brazuca HD (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungbr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZHD7Vxy.png" group-title="France",Trace Caribbean (1080p)
@@ -167,6 +167,8 @@ https://channels.trace.plus/Traceprod/URBAN_FR_hd/index.m3u8
 https://channels.trace.plus/Traceprod/VANILLA_hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/X2yd0zL/logo-tv3v.jpg" group-title="France",TV3V (720p)
 https://tv3v.live-kd.com/live/tv3v/livestream/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="France",TV5Monde Info (1080p) [Geo-blocked]
+https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kSdGi43.png" group-title="France",TV7 Colmar (576p)
 https://tv7.live-kd.com/live/tv7/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://academie.kasumay.international/ico/radioalsace.png" group-title="France",TV Alsace (1080p)
