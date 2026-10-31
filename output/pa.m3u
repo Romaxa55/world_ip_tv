@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ejRJqSI.png" group-title="Panama",A&R Canal (720p)
-http://51.222.9.192:3589/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="Panama",AXN Latin America (1080p)
 http://138.121.15.230:9002/AXN/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png" group-title="Panama",Cinecanal (1080p)
+http://15.204.246.24:8080/CinecanalHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png" group-title="Panama",Comedy Central Latin America (1080p)
 https://barinaslive1.boldmss.com/COMEDY/COMEDY.isml/COMEDY.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HVdbXku.png" group-title="Panama",Corazon TV
@@ -23,8 +23,6 @@ https://movil.ejeserver.com/live/nextv.m3u8
 https://sistemastr.tropicalmoonmedia.com/live/7C452409423F57ADC960F6405635267F/7.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8ZIBs8l.png" group-title="Panama",Planet 100.9 FM (1080p)
 https://streamlov.alsolnet.com/planet1009fm/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xum8PNe.jpg" group-title="Panama",Radio Ancon (720p)
-https://www.streaming507.net:19360/anconvideo/anconvideo.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/P4A1Zwl.jpg" group-title="Panama",Radio Hogar (720p)
 https://www.streaming507.net:19360/videoradiohogar/videoradiohogar.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ocTnqi7.png" group-title="Panama",Super Q Panama (1080p)
@@ -37,5 +35,7 @@ http://45.171.64.30:6060/play/a03i/index.m3u8
 http://168.196.127.137:6001/play/a095/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5rPdHhb.png" group-title="Panama",Tropi Q 99.7 FM (1080p)
 https://www.streaming507.net:19360/videotropiq/videotropiq.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/960px-Universal_TV_logo.svg.png" group-title="Panama",Universal TV Latin America (1080p)
+http://15.204.246.24:8080/UniversalHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TG30lWA.jpg" group-title="Panama",Vision Latina (1080p)
 https://cdn-cloudfront.us-east-1.prod.ingest.aws-infra.dacast.com/live/64917431-2f51-0a46-d4d0-04d111b2393f/master.m3u8

@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" group-title="Uruguay",AMC Latin America (1080p)
+http://15.204.246.24:8080/AMCHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://amc-series.s3.amazonaws.com/menu/hbfen1Gom0_k1cyqi7rw4-amc-series-train-w.png" group-title="Uruguay",AMC Series Latin America (1080p)
 http://45.171.64.30:6060/play/a005/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gs1L1mW.png" group-title="Uruguay",Canal Mas (720p)
@@ -9,6 +11,8 @@ http://158.172.217.18:8000/play/a03a/index.m3u8
 https://barinaslive1.boldmss.com/COMEDY/COMEDY.isml/COMEDY.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y3vNkEU.jpeg" group-title="Uruguay",Desde El Sur TV
 https://stmv.gmpro.top/surtv/surtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" group-title="Uruguay",Disney Channel Latin America (1080p)
+http://15.204.246.24:8080/DisneyHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" group-title="Uruguay",Disney Channel Latin America Panregional HD (1080p)
 http://45.134.141.161:2200/ARG/Disney_Channel/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" group-title="Uruguay",Disney Jr. Latin America South (1080p)
@@ -35,6 +39,8 @@ http://45.134.141.161:2200/ARG/HTV/index.m3u8
 https://stmv.gmpro.top/laelegidatv/laelegidatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8JgBuTm.png" group-title="Uruguay",Mision Vida TV
 https://5bf8041cb3fed.streamlock.net/zoefm/zoefm/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png" group-title="Uruguay",MTV Latin America (1080p)
+http://15.204.246.24:8080/MTVHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7Xndgxk.png" group-title="Uruguay",Ovacion TV (720p) [Not 24/7]
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GJbRWwH.png" group-title="Uruguay",Pakapaka (1080p)

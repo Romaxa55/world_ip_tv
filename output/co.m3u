@@ -61,6 +61,8 @@ https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8
 https://stream.canaltelesantiago.com:8000/play/TELESANTIAGO/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pyeBDpg.jpeg" group-title="Colombia",Canal TV3 (720p) [Not 24/7]
 https://streaming.telenetdigital.net.co:8086/canal3tv/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Nr4muMP.jpeg" group-title="Colombia",Canal Womtv (720p)
+https://live.amelbatv.co:81/womtvlive/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RuQDwTt.jpeg" group-title="Colombia",Canica TV (240p)
 https://stmv4.voxtvhd.com.br/canicatv/canicatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Fww94l9.png" group-title="Colombia",Caracol HD2 (1080p)
@@ -69,6 +71,8 @@ http://181.78.14.26:4000/play/a00d/index.m3u8
 http://167.249.23.102:8000/play/a0ax/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WbfdJbk.png" group-title="Colombia",Caracol TV (1080p)
 http://138.121.15.230:9002/CARACOL/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png" group-title="Colombia",Cinecanal (1080p)
+http://15.204.246.24:8080/CinecanalHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h7K9EW9.png" group-title="Colombia",Citytv Bogota (1080p)
 http://138.121.15.230:9002/CITY-TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/akGKPsk.png" group-title="Colombia",CMB Television (1080p)
@@ -83,8 +87,6 @@ https://cloudvideo.servers10.com:8081/latinchaneltv/index.m3u8
 https://movil.ejeserver.com/live/cncsantander.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NCzpcqm.png" group-title="Colombia",CNC Tulua (1080p)
 https://live.amelbatv.co:81/cnctulualive/index.fmp4.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/y5N6PCg.jpg" group-title="Colombia",CNC Valledupar (720p)
-https://live20.bozztv.com/akamaissh101/ssh101/cncvalledupar1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png" group-title="Colombia",Comedy Central Latin America (1080p)
 https://barinaslive1.boldmss.com/COMEDY/COMEDY.isml/COMEDY.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QlvYfEJ.png" group-title="Colombia",Cosmovision (720p)
@@ -97,6 +99,8 @@ http://45.171.64.30:6060/play/a032/index.m3u8
 http://38.134.250.110:8000/play/a003/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Discovery_science_new_logo_2017.png/960px-Discovery_science_new_logo_2017.png" group-title="Colombia",Discovery Science Latin America ColombiaPeru (720p)
 http://45.134.141.161:2200/ARG/Discovery_Science_HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" group-title="Colombia",Disney Channel Latin America (1080p)
+http://15.204.246.24:8080/DisneyHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" group-title="Colombia",Disney Channel Latin America Center (1080p)
 http://181.78.8.199:8000/play/a0dn/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" group-title="Colombia",Disney Channel Latin America Panregional HD (1080p)
@@ -109,6 +113,8 @@ http://181.78.14.26:4000/play/a073/index.m3u8
 https://stmv3.voxtvhd.com.br/conex2/conex2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xG2apUG.jpeg" group-title="Colombia",El Mundo del Campo (720p)
 https://movil.ejeserver.com/live/elmundodelcampo.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.colombia.com/canales/enlace-television-3301.jpg" group-title="Colombia",Enlace Television (1080p)
+http://181.78.12.119:16123/play/ch33/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/960px-ESPN2_logo.svg.png" group-title="Colombia",ESPN 2 Latin America Colombia (1080p)
 http://190.61.47.54:8000/play/a005/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/960px-ESPN3_Logo.png" group-title="Colombia",ESPN 3 Latin America (1080p)
@@ -123,14 +129,18 @@ https://barinaslive1.boldmss.com/ESPN_6/ESPN_6.isml/ESPN_6.m3u8
 https://barinaslive1.boldmss.com/ESPN_7/ESPN_7.isml/ESPN_7.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="Colombia",ESPN Latin America Colombia (1080p)
 http://190.61.47.54:8000/play/a004/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/42wImV2.png" group-title="Colombia",Fiesta TV
+https://panelvideo1.intermediahost.co:3286/live/ruzfpkqklive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Cw5k96N.png" group-title="Colombia",Frecuencia F TV (1080p)
 https://tv.frecuenciaf.com/live/envivo_1080p4000kbs/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png" group-title="Colombia",FX Latin America (1080p)
+http://15.204.246.24:8080/FXHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AJ182BG.png" group-title="Colombia",Heliconia Radio TV (720p)
 https://eu1.servers10.com:8081/8178/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" group-title="Colombia",History Latin America (1080p)
+http://15.204.246.24:8080/HistoryHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zqovMhf.png" group-title="Colombia",Hogar TV (1080p)
 http://190.61.47.54:8000/play/a01n/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MO4w3OT.jpeg" group-title="Colombia",Kalu TV (1080p)
-https://tv.kaludecolombia.com/memfs/d71c0104-4752-4690-bdbf-19aa849da6c4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E3wDEX5.png" group-title="Colombia",La Morada Radio TV (720p)
 https://movil.ejeserver.com/live/lamoradatv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wwYOa00.png" group-title="Colombia",Marsella TV
@@ -141,6 +151,8 @@ https://movil.ejeserver.com/live/masmusica.m3u8
 https://video.ejeserver.com/live/mcitelevision.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kLy6w9e.jpeg" group-title="Colombia",Momento24
 https://backupmaxmedia.hvmultiplay.com/hls/stream2/momento24.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png" group-title="Colombia",MTV Latin America (1080p)
+http://15.204.246.24:8080/MTVHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KT4tdQs.png" group-title="Colombia",Nick Jr. Latin America (1080p)
 https://streaming.onnethn.com/NICK_JR/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ThaRRCN.png" group-title="Colombia",Noticiero 90 Minutos (1080p)
@@ -159,6 +171,8 @@ https://vs20.live.opencaster.com/panche_3c70d368/index.m3u8
 https://backupmaxmedia.hvmultiplay.com/hls/stream3/parrandavallenata.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3AXjotA.jpg" group-title="Colombia",Radiola TV (1080p)
 http://158.172.217.18:8000/play/a01k/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TCv5NqN.png" group-title="Colombia",Ranchenato TV (1080p)
+http://181.78.12.119:16123/play/ch15/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SrMPTfc.png" group-title="Colombia",RCN HD2 (1080p)
 http://181.78.14.26:4000/play/a07m/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="Colombia",RCN Mas (1080p)
@@ -173,6 +187,8 @@ https://eu1.servers10.com:8081/8090/index.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/qMUAZEy/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jmJx0jo.png" group-title="Colombia",Santel TV
 https://tv3.bitstreaming.net:3540/live/santeltvlive.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Pk8zzTL.jpeg" group-title="Colombia",Soona TV
+https://vs20.live.opencaster.com/soonatv_a1a564a9/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/960px-SpaceLogo.svg.png" group-title="Colombia",Space (1080p)
 http://45.171.64.30:6060/play/a04n/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png" group-title="Colombia",Star Channel (Colombia) (1080p)
@@ -197,8 +213,6 @@ http://38.134.250.110:8000/play/a01q/index.m3u8
 http://138.121.15.230:9002/TELEPACIFICO/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bJWj5ja.png" group-title="Colombia",TeleQuindio (1080p)
 https://live20.bozztv.com/akamaissh101/ssh101/telequindio/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/27Pzdvw/cropped-TELESANGIL-LOGO-1.png" group-title="Colombia",Telesangil (720p)
-https://live20.bozztv.com/akamaissh101/ssh101/telesangil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vPwiJTw.png" group-title="Colombia",TeveColombia (720p) [Not 24/7]
 https://cloud6.livescast.com:3900/live/tevecolombialive.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/960px-TLC_Logo.svg.png" group-title="Colombia",TLC Latin America (1080p)
@@ -221,6 +235,8 @@ https://live.amelbatv.co:81/teleopita/index.fmp4.m3u8
 https://stmv7.voxtvhd.com.br/golfo/golfo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9nzY7Ch.png" group-title="Colombia",TVAgro (1080p)
 http://190.61.47.54:8000/play/a01k/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tMl4ISO.png" group-title="Colombia",TVGracia
+https://vs20.live.opencaster.com/diego_57244803/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1voWgLI.png" group-title="Colombia",Ultra Casanare TV (1080p) [Not 24/7]
 https://eu1.servers10.com:8081/8072/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YQUK4wO.png" group-title="Colombia",UMC TV (720p)
@@ -231,5 +247,7 @@ http://38.134.250.110:8000/play/a006/index.m3u8
 http://38.134.250.110:8000/play/a029/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DuSSrHV.png" group-title="Colombia",Win Sports (1080p)
 http://138.121.15.230:9002/WIN-SPORT/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0UN87vB.png" group-title="Colombia",Win+ Futbol (1080p)
+http://181.78.12.119:16123/play/ch19/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/euy5zp6.png" group-title="Colombia",Zoom (Colombia) (1080p)
 http://138.121.15.230:9002/ZOOM/index.m3u8
