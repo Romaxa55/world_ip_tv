@@ -14,7 +14,7 @@ https://streamcdnr6-dddfac816632463dac50b21109dc1bb3.msvdn.net/live/S58803518/OO
 #EXTINF:-1 tvg-logo="https://i.ibb.co/21sXZ3GT/24h.png" group-title="International",24 Horas (720p)
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDTV/images/LOGO_HD/LOGO_HD_image.png" group-title="International",&TV International (1080p)
-https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8
+https://3f56f997.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9BbmRUVl9ITFM/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YlDFir7.jpg" group-title="International",A2i TV (1080p)
 https://stream.sen-gt.com/A2itv/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png" group-title="International",A&E Latin America (1080p)
@@ -37,8 +37,12 @@ https://mediaserver.abnvideos.com/streams/abnurdu.m3u8
 https://adriaapp.b-cdn.net/1080p/index.m3u8
 #EXTINF:-1 tvg-logo="https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/adventureearth_white.png" group-title="International",Adventure Earth (1080p)
 https://a57e9c69976649b582a8d7604c00e69a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AdventureEarth/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://africa24tv.com/wp-content/uploads/2021/09/logo.png" group-title="International",Africa 24 (1080p)
+https://africa24.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://africa24tv.com/wp-content/uploads/2023/12/logo-Africa24TVEnglish.png" group-title="International",Africa 24 English (1080p)
 https://edge20.vedge.infomaniak.com/livecast/ik:africa24english/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/africa24tv.com/wp-content/uploads/2023/12/LOGO-AFRICASPORT-4-HD-sans-fond.png?fit=512%2C107&ssl=1" group-title="International",Africa 24 Sport (1080p)
+https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5UxU4zc.png" group-title="International",Africanews English (720p)
 https://cdn-euronews.akamaized.net/live/eds/africanews-en/25049/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5UxU4zc.png" group-title="International",Africanews French (720p)
@@ -131,6 +135,8 @@ https://cb0c87cc605942ff9766a4e6744bbadc.mediatailor.us-east-1.amazonaws.com/v1/
 https://hls.avang.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="International",AXN Latin America (1080p)
 http://138.121.15.230:9002/AXN/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="International",AXN Latin America Andes (1080p)
+http://181.78.8.199:8000/play/a0cu/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="International",AXN Latin America South
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/10.m3u8
 #EXTINF:-1 tvg-logo="https://www.ayaztv.com/storage/assets/site_logo.png" group-title="International",Ayaz TV (720p)
@@ -177,8 +183,6 @@ https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 http://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L2/c0620faf/27ea2088.isml/.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/stvzqzd.png" group-title="International",Cadena TV (720p) [Not 24/7]
 https://tv.bitstreaming.net:3789/live/cdntvlive.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/viB0FS2.png" group-title="International",Canaf54 TV (480p)
-https://5caf24a595d94.streamlock.net:1937/pvyugfkzkc/pvyugfkzkc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Kfdkm06.png" group-title="International",Canal 21 Huancayo (720p)
 https://play.agenciastreaming.com:8081/tvwanka/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/bd356b80-79d9-46ff-9674-e69aaf10022f-width200-quality90.jpeg" group-title="International",Car City Adventures (720p)
@@ -191,8 +195,6 @@ https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/live/87H/chunks.m3
 http://149.100.11.252:8000/play/a056/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" group-title="International",Cartoon Network Latin America South Atlantic (1080p)
 http://158.172.217.18:8000/play/a03a/index.m3u8
-#EXTINF:-1 tvg-logo="https://caribbeanadvantage.com/images/CAtv-logo-512.png" group-title="International",CAtv (1080p) [Not 24/7]
-https://video2.getstreamhosting.com:19360/8216/8216.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HGLFdfk.png" group-title="International",CCTV-4 Europe
 https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/960px-CGTN.svg.png" group-title="International",CGTN (1080p)
@@ -235,8 +237,6 @@ https://tinyurl.com/44efw2rx
 http://202.150.165.66:8088/play/104-Cinemax/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cZWoJWD.png" group-title="International",Cinemax Latin America (720p)
 https://streaming.onnethn.com/CINEMAX/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cZWoJWD.png" group-title="International",Cinemax Latin America HD (1080p)
-http://38.65.175.84:8000/play/a093/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n0kd17r.png" group-title="International",Claro Sports (1080p)
 http://45.171.64.30:6060/play/a00w/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M6FFkc3.png" group-title="International",Classic Arts Showcase (720p)
@@ -305,8 +305,6 @@ http://38.134.250.110:8000/play/a01y/index.m3u8
 http://168.196.127.137:6001/play/a097/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" group-title="International",Disney Channel (Czech Republic)
 http://88.212.15.50/live/test_disney/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" group-title="International",Disney Channel (Germany) (576p)
-https://s6.hopslan.com/disneyX/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" group-title="International",Disney Channel Latin America (1080p)
 http://15.204.246.24:8080/DisneyHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" group-title="International",Disney Channel Latin America Center (1080p)
@@ -413,6 +411,8 @@ https://iptv.bitred.cl/euronews/index.m3u8
 http://88.212.7.14/live/test_esp1_hevc_tizen/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/f56dHgR.png" group-title="International",Eurosport 2 Czechia
 http://88.212.7.14/live/test_esp2_hevc_tizen/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/2b1dkanupt14/1A1Z8Gcn2NkbJRzTjxuj6h/2c14436cdc5b78e746a256e9f0c11a70/eurovision-icon.png" group-title="International",Eurovision Sport (1080p)
+https://amg26268-amg26268c34-amgplt0018.playout.now3.amagi.tv/ts-us-e2-n1/playlist/amg26268-amg26268c34-amgplt0018/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/3716tvZCgzpIt-X1giV8jKwCdC8zwOI4eMUfO_ETWzNX6eGKIi2RiUK9a_fr6BCzjw" group-title="International",EWTN (United States) Africa-Asia (720p)
 https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/3716tvZCgzpIt-X1giV8jKwCdC8zwOI4eMUfO_ETWzNX6eGKIi2RiUK9a_fr6BCzjw" group-title="International",EWTN (United States) Asia-Pacific (720p)
@@ -459,6 +459,8 @@ https://amg02278-amg02278c2-flosports-worldwide-9916.playouts.now.amagi.tv/playl
 https://amg02278-amg02278c1-flosports-worldwide-7592.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vPxvbVv.png" group-title="International",FMTV [Not 24/7]
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Seq7Od7.png" group-title="International",Folk Klub TV (720p)
+http://tv1.intv.mk:1935/live2/folkklub/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/960px-Food_Network_New_Logo.png" group-title="International",Food Network Latin America (1080p)
 http://168.196.127.137:6001/play/a09v/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1oMboXL.png" group-title="International",For You TV
@@ -575,8 +577,8 @@ https://amg00861-terninternation-lifestyle-samsungau-kdlyy.amagi.tv/playlist/amg
 https://stream8.cinerama.uz/1416/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/43at4M2.png" group-title="International",Into Crime (1080p)
 https://amg00711-zylo-amg00711c10-rakuten-fr-6731.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png" group-title="International",Investigation Discovery Latin America South (1080p)
-http://38.65.175.84:8000/play/a0ch/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png" group-title="International",Investigation Discovery Latin America South
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/41.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.uc.assets.prezly.com/92770c71-9d6f-400f-8311-38e9cfec52c2/InWild_landscape-green.png" group-title="International",INWILD (1080p)
 https://amg00861-terninternation-inwild-samsunguk-w5wic.amagi.tv/playlist/amg00861-terninternation-inwild-samsunguk/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.uc.assets.prezly.com/f12e798d-6da4-46e1-8ec5-e391d6762659/InWonder_portrait-purple.png" group-title="International",InWonder (1080p)
@@ -623,6 +625,8 @@ http://138.121.15.230:9002/LIFETIME/index.m3u8
 https://streamer1.streamhost.org/salive/logosH/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Kr3U3Ub.png" group-title="International",Logos TV Kids (720p) [Not 24/7]
 https://streamer1.streamhost.org/salive/logoskidsH/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png" group-title="International",Love Nature 4K (2160p) [Geo-blocked]
+https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
 #EXTINF:-1 tvg-logo="https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png" group-title="International",Love Nature 4K Czechia
 http://88.212.15.50/live/test_love_nature_uhd_atktv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png" group-title="International",Love Nature Czechia
@@ -725,6 +729,8 @@ https://amg01076-lightning-amg01076c5-rakuten-us-1788.playouts.now.amagi.tv/play
 https://media-tyo.hls.nhkworld.jp/hls/wp/live/master.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NHK_World_Japan.png" group-title="International",NHK World-Japan (1080p)
 https://cdn.pishow.tv/ott/live/455/master.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NHK_World_Japan.png" group-title="International",NHK World-Japan HD (1080p)
+https://freem3u.xyz/api/live/play.m3u8?vid=106
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png" group-title="International",Nick Jr. (Russia) (576p)
 http://stream.mcquack.net/220/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KT4tdQs.png" group-title="International",Nick Jr. Latin America (1080p)
@@ -873,10 +879,6 @@ https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
 https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Russia-today-logo.svg" group-title="International",RT India (1080p)
 https://mumbai-edge.smartplaytv.in/RTIndia/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KbdK8t9.png" group-title="International",RTL Super HD (576p)
-https://s6.hopslan.com/superX/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/RTLup_Logo_2021.svg/960px-RTLup_Logo_2021.svg.png" group-title="International",RTLup (576p)
-https://s6.hopslan.com/rtltupz/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wwchqYk/889dc1-937ba3d8d4ed4331a668a1c544766318-mv2.png" group-title="International",RTN Chicago (480p)
 https://651c69fa2ff4e.streamlock.net/3707/live1/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0YEahxs.png" group-title="International",RTR-Planeta (720p) [Geo-blocked]
@@ -911,6 +913,8 @@ https://stream-23.mazana.tv/slagrmuzika.m3u8s
 https://stream-13.mazana.tv/slagroriginal.m3u8s
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/960px-Sony_Channel_Logo.png" group-title="International",Sony Channel Andes (1080p)
 http://15.204.246.24:8080/SonyHD/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/500px-Sony_Movies_Logo.svg.png" group-title="International",Sony Movies Latin America (720p)
+http://15.204.246.24:8080/SonyMoviesHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.mtis.by/upload/medialibrary/717/v07nk6rmf6m1mno8ujhbkcg8nstkfjgv/Slide%2016_9%20-%2050.png" group-title="International",Soyuzny (576p)
 https://souzny.mediacdn.ru/cdn/souzny/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/960px-SpaceLogo.svg.png" group-title="International",Space (1080p)
@@ -961,8 +965,6 @@ https://player.mslivestream.net/svbc/2e628d7e1b65d31254fd7705ff7ee64d.sdp/playli
 https://player.mslivestream.net/mslive/13a2927187b9700ae7ea82d7841d5b68.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143889_ld_h9_ab.png?lock=720x540" group-title="International",SVBC (1080p)
 https://player.mslivestream.net/telugu/5d076e5c3d34cb8bb08e54a4bb7e223e.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://web02.antik.sk/assets/img/channels/db23090472360f39401398f924a47461.svg" group-title="International",Svoboda
-http://88.212.15.50/live/svoboda/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nrLcuzs.png" group-title="International",Swamiji TV American (1080p) [Not 24/7]
 https://stream.swamiji.tv/YogaIPTV/smil:YogaStreamUS.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nrLcuzs.png" group-title="International",Swamiji TV Australian (1080p) [Not 24/7]
@@ -977,6 +979,8 @@ http://181.78.14.26:4000/play/a04d/index.m3u8
 http://45.171.64.30:6060/play/a014/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HNcCX3h.png" group-title="International",Telefe Internacional (1080p)
 http://200.115.120.1:8000/play/ca016/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/507tvMY.png" group-title="International",Telemicro Internacional (720p)
+http://45.228.234.60:8880/play/a05f/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8z0zLjw.jpeg" group-title="International",TeleMoldova + [Geo-blocked]
 https://vdo.ssl-stream.com:3247/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j2O4ndp.png" group-title="International",Telemundo Internacional (1080p)
@@ -1007,8 +1011,6 @@ http://88.212.7.14/live/test_fishing_hunting/playlist.m3u8
 https://amg00654-itv-amg00654c35-rakuten-gb-7598.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LKLjnrp.png" group-title="International",Tipik (1080p)
 http://41.205.93.154/TIPIK/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/960px-TLC_Logo.svg.png" group-title="International",TLC Latin America (1080p)
-http://38.134.250.110:8000/play/a00n/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Rvm38Mu.png" group-title="International",Tlnovelas Latin America (1080p)
 http://138.121.15.230:9002/TELENOVELAS/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/TMC_logo.svg/960px-TMC_logo.svg.png" group-title="International",TMC HD (1080p) [Geo-blocked]
@@ -1099,10 +1101,10 @@ https://barinaslive1.boldmss.com/TVE/TVE.isml/index.m3u8
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j98NY8Mr/starcolor.png" group-title="International",TVE Star (576p)
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_576.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/j98NY8Mr/starcolor.png" group-title="International",TVE Star HD (1080p)
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_1080.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lmoAFm3.png" group-title="International",TVSN (1080p)
 https://tvsnhlslivetest.akamaized.net/hls/live/2034711/TVSN-MSL4/master.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png" group-title="International",TyC Sports USA
-http://45.170.130.224:8000/play/a020/index.m3u8
 #EXTINF:-1 tvg-logo="https://tvu.umsa.bo/documents/780216/12171558/Logo+TVU-Int.png/b67c9c61-7516-e38a-a425-72e61f3824c6?t=1751574228493" group-title="International",UMSA TVU Internacional (720p)
 https://edge.enhdtv.com/8026/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UcAwBep.png" group-title="International",UN Web TV (540p)
@@ -1129,7 +1131,7 @@ https://da9c49fa.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 https://amagi-live.ondemandkorea.com/amgplt0456.m3u8
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s144078_ld_h15_aa.png?lock=720x540" group-title="International",Vijay Takkar APAC (1080p)
 https://tglmp01.akamaized.net/out/v1/c1071012b73f4f189b202e1529e8f802/manifest.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xx5RQdi.png" group-title="International",Vision Beats (720p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lxR5FKh.png" group-title="International",Vision Beats (720p)
 http://a-edge.bliscdn.com/Visionbeats/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yjETxk1.png" group-title="International",Voprosy i Otvety (576p)
 http://stream.mcquack.net/76/index.m3u8
@@ -1157,6 +1159,8 @@ https://live.yoltv.com/hls/stream.m3u8
 https://gist.githubusercontent.com/iptvonlinetv/8a6b2f12e5e968537378f1245cea02c9/raw/78bf84476f8e24cc8ea9d5ac24855078c61b18db/udp305.575.530:3030.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mxx05Z9.png" group-title="International",YRF Music Nepal
 https://vidaa.kableone.com/hls/live/2111218/YrfMusic/1.m3u8
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BANGLA/images/LOGO_HD/LOGO_HD_image.png" group-title="International",Zee Bangla HD (1080p)
+https://livetv.shamon-cable.net:8443/ZEE-Bangla/index.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CINEMA/images/LOGO_HD/LOGO_HD_image.png" group-title="International",Zee Cinema APAC (720p)
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeCinemaAPAC.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Zee_One_Logo_2025.png" group-title="International",Zee One (1080p)
