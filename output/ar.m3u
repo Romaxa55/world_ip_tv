@@ -45,10 +45,6 @@ https://edge.enhdtv.com/nexthd/index.m3u8
 https://stmvideo6.livecastv.com/agenfor/agenfor/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SsNFudZ.png" group-title="Argentina",Canal 3 La Pampa (1080p)
 https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bd2afET.png" group-title="Argentina",Canal 3 Las Heras (720p)
-https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IABFaH1.png" group-title="Argentina",Canal 3 Pinamar
-http://intelincloud01.com.ar/hls/cn3/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RKvSa52.jpeg" group-title="Argentina",Canal 3 Tacural
 http://vivo.canal3tacural.com.ar:8081/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6kbOr16.png" group-title="Argentina",Canal 4 Esquel (720p)
@@ -101,6 +97,8 @@ https://online.coopmorteros.coop/canal50/vivo.m3u8
 https://streamconex.com:19360/lacosta/lacosta.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I93ypGY.png" group-title="Argentina",Canal 79 Mar del Plata
 https://streamconex.com:19360/mardelplata/mardelplata.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HYuSqJy.png" group-title="Argentina",Canal 79 Puan (240p)
+https://streamconex.com:19360/puan/puan.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I93ypGY.png" group-title="Argentina",Canal 79 Santa Clara del Mar (240p)
 https://streamconex.com:19360/santaclara-1/santaclara-1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HYuSqJy.png" group-title="Argentina",Canal 79 Villa Maza
@@ -163,6 +161,8 @@ https://iptv.bitred.cl/ELGOURMET_HD/index.m3u8
 http://15.204.246.24:8080/elnueveHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uBBZR1X.png" group-title="Argentina",Encuentro (720p)
 http://138.59.227.20:8000/play/a05s/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/960px-ESPN_Premium_logo.svg.png" group-title="Argentina",ESPN Premium
+http://45.134.141.161:2200/ARG/ESPN_Premium_Argentina_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/960px-ESPN_Premium_logo.svg.png" group-title="Argentina",ESPN Premium HD (1080p)
 http://158.172.155.130:8000/play/a0ao/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="Argentina",FIFA+ Hispanic America (720p)
@@ -181,8 +181,6 @@ http://45.134.141.161:2200/ARG/HTV/index.m3u8
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/41.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OxmpRDx.png" group-title="Argentina",Itel TV Canal 2
 https://proxystream.iteltv.com.ar/output/iteltv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://tvomix.com/Logos/Kpopmix.png" group-title="Argentina",Kpop Mix (720p)
-https://cloud.tvomix.com/KPOPMIX/index.m3u8
 #EXTINF:-1 tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/radiomitre/CZJMM4BJVRFANO4VGMMYWSTEVE.png" group-title="Argentina",La 100 (1080p)
 https://mdstrm.com/live-stream-playlist/68b74fd1d6512526f1f7c75a.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QIGSf4L.png" group-title="Argentina",Litus TV (720p) [Not 24/7]
@@ -191,6 +189,8 @@ https://edge.enhdtv.com/litustv/index.m3u8
 https://vivo.solumedia.com:19360/masfm/masfm.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sfd87LX.png" group-title="Argentina",Mercurio Noticias
 https://videostream.shockmedia.com.ar/hls/mercuriotv/mercuriotv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7f7M7zl.png" group-title="Argentina",Metro TV (Argentina) (720p)
+https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HXRpRlK.png" group-title="Argentina",Misiones Cuatro
 https://iptv.ixfo.com.ar:30443/live-HD/MISIONES4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png" group-title="Argentina",MTV Latin America (1080p)
@@ -207,6 +207,8 @@ https://tv.streamcasthd.com:3031/live/neoxtvlive.m3u8
 http://45.226.205.96:48000/play/a09p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lJCIqYn.png" group-title="Argentina",NG Federal (720p)
 http://www.coninfo.net:1935/tvlink/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jTX2vp0.png" group-title="Argentina",Norte TV (720p) [Not 24/7]
+https://ntvcanal7.com.ar:81/dash/stream.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GJbRWwH.png" group-title="Argentina",Pakapaka (1080p)
 http://138.59.227.20:8000/play/a05t/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MYc8srh.png" group-title="Argentina",Plim Plim (1080p)
@@ -215,6 +217,8 @@ http://45.70.168.162:1503/play/a02a/index.m3u8
 https://videostream.shockmedia.com.ar:19360/radio1045/radio1045.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/15gMDG0.png" group-title="Argentina",PowerHD (720p)
 https://live2.tensila.com/1-1-1.power-tv/hls/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6f8EYC2.jpeg" group-title="Argentina",Quantica TV
+https://videostream.shockmedia.com.ar:19360/quanticatv/quanticatv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RO9Dz3X.png" group-title="Argentina",Quiero Musica en mi Idioma (1080p)
 http://158.172.155.130:8000/play/a00a/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pXS38zo.png" group-title="Argentina",Radio Conexion Web TV (720p)
@@ -265,8 +269,8 @@ https://canal11saltatv.unpocodeawita.workers.dev
 https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j2O4ndp.png" group-title="Argentina",Telemundo Internacional (1080p)
 http://45.173.231.22:8000/play/a01h/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gsgXGEj.png" group-title="Argentina",TIV Television (720p)
-https://videohd.live:19360/8008/8008.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vFwPhPS.png" group-title="Argentina",TN (1080p)
+http://158.172.155.130:8000/play/a0dp/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png" group-title="Argentina",TNT Latin America Argentina (1080p)
 http://45.134.141.161:2200/ARG/TNT/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TNT_Novelas_2025.svg/1920px-TNT_Novelas_2025.svg.png" group-title="Argentina",TNT Novelas (1080p)
