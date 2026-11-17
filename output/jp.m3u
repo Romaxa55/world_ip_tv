@@ -1,11 +1,21 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" group-title="Japan",Cartoon Network (Japan) HD
+http://103.255.250.188:5002/cs25.m3u8?token=guoziyun&gid=cs25&channel=zhongying
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" group-title="Japan",Disney Channel (Japan)
+http://103.255.250.188:5002/bs24.m3u8?token=guoziyun&gid=bs24&channel=zhongying
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ECnVG5I.png" group-title="Japan",GSTV (720p)
 https://japaneast.av.mk.io/mediakindcdn-mediakind/ca01a143-f823-4432-b670-c22ff9643ce4/index.qfm/manifest(format=m3u8-cmaf)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png" group-title="Japan",MTV (Japan)
+http://103.255.250.188:5002/cs18.m3u8?token=guoziyun&gid=cs18&channel=zhongying
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6TWUVrh.png" group-title="Japan",QVC (Japan) (1080p)
 https://d1flvb4iqlercm.cloudfront.net/live/live_1080p_2nd.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/SAY_logo_1997.svg" group-title="Japan",Sakuranbo TV (1080i)
+https://tv-stream-test.daydreamer-json.cc/stream/bd2dd29080c36c9b01338d329156febe/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.shopch.jp/com/images/common/logo_2021.png" group-title="Japan",Shop Channel (1080p) [Not 24/7]
 https://stream3.shopch.jp/HLS/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9yZe76d.png" group-title="Japan",TV-U Yamagata (1080i)
 https://tv-stream-test.daydreamer-json.cc/stream/1668b5a43560598b385ccf33fd2d5f43/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A8uRSTS.png" group-title="Japan",Weathernews (720p)
 https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/YTS2024.svg" group-title="Japan",YTS Yamagata TV (1080i)
+https://tv-stream-test.daydreamer-json.cc/stream/407fd00ebd2a059c9cd1ea3fa7156097/master.m3u8
