@@ -3,6 +3,8 @@
 http://92.114.85.87:8018/play/a00k/index.m3u8
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/5d4ac35c-dd3f-4f56-a272-41ebfe3477a9/american_crime_channel_dark_logo_-_Kam_JeyRDXV2.png" group-title="Poland",American Crime Channel (720p)
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883104
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B5BfmQNs/ATM.jpg" group-title="Poland",ATM Rozrywka REWORK (1080p)
+https://183.giatvcdn.com/giatvplayout7/giatv-211353/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Nqvx6nz.png" group-title="Poland",AXN Black (Poland) (576i)
 http://92.114.85.87:8014/play/a00h/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Peo1QiZ.png" group-title="Poland",AXN Black (United States) Poland (576p)
@@ -37,8 +39,6 @@ http://92.114.85.87:8017/play/a004/index.m3u8
 http://92.114.85.87:8015/play/a00d/index.m3u8
 #EXTINF:-1 tvg-logo="https://ukrtvr.org/images/%D0%A1%D1%83%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B5/CTV%20-%20Dla%20Ciebie%20TV.png" group-title="Poland",CTV Dla Ciebie TV
 http://90.183.52.46:4000/play/a065/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/V8AUJP6.png" group-title="Poland",Da Vinci (Poland) (576p)
-http://116.90.120.149:8000/play/a0ad/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZZbuTv7.png" group-title="Poland",Disco Polo Music (1080p)
 http://92.114.85.87:8014/play/a007/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" group-title="Poland",Disney Channel (Poland) HD (1080p)
@@ -173,12 +173,16 @@ http://92.114.85.87:8003/play/a004/index.m3u8
 https://prx-y5cf8.mediatool.tv/playout/sepl-abr67/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6KXJRHc.png" group-title="Poland",Super Polsat
 http://92.114.85.87:8004/play/a00c/index.m3u8
+#EXTINF:-1 tvg-logo="https://ocdn.eu/ptv2-images-transforms/1/4fPkrxsb2dvLW1pZ3JhdGVkL3Ribi1wb2xza2EucG5nkpUCZADCw5UCACjCww" group-title="Poland",TBN Polska (1080p)
+https://prx-y5cf8.mediatool.tv/playout/tbn-abr67/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/36ZNsIL.png" group-title="Poland",Tele5 (576i)
 http://92.114.85.87:8012/play/a005/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/T%C3%A9l%C3%A9toon%2B_Logo.png/960px-T%C3%A9l%C3%A9toon%2B_Logo.png" group-title="Poland",Teletoon+ HD (1080i)
 http://92.114.85.87:8009/play/a006/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XC7i7ZL.png" group-title="Poland",Telewizja Biznesowa (1080p)
 https://s-pl-01.mediatool.tv/playout/tbpl-abr/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k2jQkHq/Cropped-mperiumczarne-768x243-1-1.png" group-title="Poland",Telewizja Imperium (1080p)
+https://str10.imperiummedia.pl/TVIMPERIUM/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.ittv.pl/media/images/ittv-logo.png" group-title="Poland",Telewizja iTTV (1080p)
 https://5d84fe297ee2b.streamlock.net/sercanie/scj_florek.stream_aac/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nV2jQQP.png" group-title="Poland",Telewizja Jaslo (720p)
@@ -213,6 +217,8 @@ http://92.114.85.87:8018/play/a008/index.m3u8
 http://217.173.176.107:1935/live/tvk.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yq10wS5.png" group-title="Poland",TV Trwam (1080p) [Geo-blocked]
 https://live-ch1.trwam.cf.insyscd.net/out/v1/b99041a282774d4a8fe84a54243af5de/trwamtv-live-ch1.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XZ3m8kr1/logotvk.png" group-title="Poland",TVK SMNT (1080p)
+https://tvk.smnt.pl/memfs/cf3a66ef-133a-4579-86da-5995ab23ae2a.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvkstella.pl/img/poster.png" group-title="Poland",TVK Stella (576p)
 https://stream.tvkstella.pl/stella/stella.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ewpSjBs.png" group-title="Poland",TVP1
